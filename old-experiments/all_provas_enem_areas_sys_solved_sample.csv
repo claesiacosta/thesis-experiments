@@ -1,0 +1,189 @@
+id,year,context,question,options,correct_answer,CE,DS,EK,IC,MR,TC,image,IU,ledor,figures,description,area,cor,system_answer,steps_answer
+2,2013,"
+Trata-se de um gigantesco movimento de construção de cidades, necessário para o assentamento residencial 
+dessa população, bem como de suas necessidades de trabalho, abastecimento, transportes, saúde, energia, água 
+etc. Ainda  que  o  rumo  tomado  pelo  crescimento  urbano  não  tenha  respondido  satisfatoriamente  a  todas  essas 
+necessidades, o território foi ocupado e foram construídas as condições para viver nesse espaço.
+
+MARICATO, E. Brasil, cidades: alternativas para a crise urbana. Petrópolis: Vozes, 2001.
+","
+A  dinâmica  de  transformação  das  cidades  tende  a  apresentar  como  consequência  a  expansão  das  áreas 
+periféricas pelo(a) 
+","{'A': '  crescimento da população urbana e aumento da especulação imobiliária.\n', 'B': '  direcionamento maior do fl uxo de pessoas, devido à existência de um grande número de serviços.\n', 'C': '  delimitação de áreas para uma ocupação organizada do espaço físico, melhorando a qualidade de vida.\n', 'D': '  implantação de políticas públicas que promovem a moradia e o direito à cidade aos seus moradores.\n', 'E': '  reurbanização de moradias nas áreas centrais, mantendo o trabalhador próximo ao seu emprego, diminuindo os deslocamentos para a periferia.\n\n'}",{'A': '  crescimento da população urbana e aumento da especulação imobiliária.\n'},No,No,Yes,No,No,No,No,,,,,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,AZUL,{A: crescimento da população urbana e aumento da especulação imobiliária.},"A dinâmica de transformação das cidades tende a resultar na expansão das áreas periféricas devido ao crescimento da população urbana e ao aumento da especulação imobiliária, o que leva à ocupação de novos espaços para a construção de moradias e infraestrutura."
+3,2013,"
+No dia 1º de julho de 2012, a cidade do Rio de Janeiro 
+tornou-se  a  primeira  do  mundo  a  receber  o  título  da 
+Unesco de Patrimônio Mundial como Paisagem Cultural. 
+A candidatura, apresentada pelo Instituto do Patrimônio 
+Histórico  e  Artístico  Nacional  (Iphan),  foi  aprovada 
+durante a 36ª Sessão do Comitê do Patrimônio Mundial. 
+O presidente do Iphan explicou que “a paisagem carioca 
+é a imagem mais explícita do que podemos chamar de 
+civilização  brasileira,  com  sua  originalidade,  desafios, 
+contradições  e  possibilidades”.  A  partir  de  agora,  os 
+locais da cidade valorizados com o título da Unesco serão 
+alvo de ações integradas visando a preservação da sua 
+paisagem cultural.
+
+Disponível em: www.cultura.gov.br. Acesso em: 7 mar. 2013 (adaptado).
+","
+O  reconhecimento  da  paisagem  em  questão  como 
+patrimônio mundial deriva da
+","{'A': '  presença do corpo artístico local.\n', 'B': '  imagem internacional da metrópole.\n', 'C': '  herança de prédios da ex-capital do país.\n', 'D': '  diversidade de culturas presente na cidade.\n', 'E': '  relação sociedade-natureza de caráter singular.\n'}",{'E': '  relação sociedade-natureza de caráter singular.\n'},No,No,Yes,No,No,Yes,No,,,,,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,AZUL,{E: relação sociedade-natureza de caráter singular.},"A paisagem do Rio de Janeiro foi reconhecida como Patrimônio Mundial pela Unesco devido à relação única e singular entre a sociedade e a natureza presente na cidade, conforme destacado pelo presidente do Iphan."
+4,2013,"TEXTO I
+
+Há  já  algum  tempo  eu  me  apercebi  de  que,  desde 
+meus  primeiros  anos,  recebera  muitas  falsas  opiniões 
+como verdadeiras, e de que aquilo que depois eu fundei 
+em princípios tão mal assegurados não podia ser senão 
+mui duvidoso e incerto. Era necessário tentar seriamente, 
+uma vez em minha vida, desfazer-me de todas as opiniões 
+a que até então dera crédito, e começar tudo novamente 
+a fim de estabelecer um saber firme e inabalável.
+
+DESCARTES, R. Meditações concernentes à Primeira Filosofia. 
+São Paulo: Abril Cultural, 1973 (adaptado).
+
+TEXTO II
+
+É  o  caráter  radical  do  que  se  procura  que  exige  a 
+radicalização  do  próprio  processo  de  busca.  Se  todo  o 
+espaço  for  ocupado  pela  dúvida,  qualquer  certeza  que 
+aparecer a partir daí terá sido de alguma forma gerada 
+pela  própria  dúvida,  e  não  será  seguramente  nenhuma 
+daquelas  que  foram  anteriormente  varridas  por  essa 
+mesma dúvida.
+SILVA, F. L. Descartes: a metafísica da modernidade. São Paulo: Moderna, 2001 (adaptado).
+","
+A exposição e a análise do projeto cartesiano indicam que, 
+para  viabilizar  a  reconstrução  radical  do  conhecimento, 
+deve-se
+","{'A': '  retomar o método da tradição para edificar a ciência \n\ncom legitimidade.\n\n', 'B': '  questionar  de  forma  ampla  e  profunda  as  antigas \n\nideias e concepções.\n\n', 'C': '  investigar os conteúdos da consciência dos homens \n\nmenos esclarecidos.\n\n', 'D': '  buscar  uma  via  para  eliminar  da  memória  saberes \n\nantigos e ultrapassados.\n\n', 'E': '  encontrar \n\nideias  e  pensamentos  evidentes  que \n\ndispensam ser questionados.\n\n\n\n'}",{'B': '  questionar  de  forma  ampla  e  profunda  as  antigas \n\nideias e concepções.\n\n'},No,No,No,No,No,Yes,No,,,,,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,AZUL,{B: questionar de forma ampla e profunda as antigas ideias e concepções.},"Para chegar à resposta correta, é necessário compreender o contexto dos textos apresentados. Tanto no Texto I quanto no Texto II, há uma ênfase na necessidade de questionar e duvidar das opiniões e certezas estabelecidas anteriormente. Portanto, a reconstrução radical do conhecimento proposta por Descartes envolve a atitude de questionar de forma ampla e profunda as antigas ideias e concepções, como forma de estabelecer um saber firme e inabalável."
+5,2013,"
+De  ponta  a  ponta,  é  tudo  praia-palma,  muito  chã  e 
+muito  formosa.  Pelo  sertão  nos  pareceu,  vista  do  mar, 
+muito  grande,  porque,  a  estender  olhos,  não  podíamos 
+ver  senão  terra  com  arvoredos,  que  nos  parecia  muito 
+longa. Nela, até agora, não pudemos saber que haja ouro, 
+nem prata, nem coisa alguma de metal ou ferro; nem lho 
+vimos.  Porém  a  terra  em  si  é  de  muito  bons  ares  [...]. 
+Porém o melhor fruto que dela se pode tirar me parece 
+que será salvar esta gente.
+
+Carta de Pero Vaz de Caminha. In: MARQUES, A.; BERUTTI, F.; FARIA, R. 
+História moderna através de textos. São Paulo: Contexto, 2001.
+","
+A  carta  de  Pero  Vaz  de  Caminha  permite  entender  o 
+projeto  colonizador  para  a  nova  terra.  Nesse  trecho,  o 
+relato enfatiza o seguinte objetivo:
+","{'A': '  Valorizar  a  catequese  a  ser  realizada  sobre  os \n\npovos nativos.\n\n', 'B': '  Descrever  a  cultura \n\nprosperidade portuguesa.\n\nlocal  para  enaltecer  a \n\n', 'C': '  Transmitir  o  conhecimento  dos  indígenas  sobre  o \n\npotencial econômico existente.\n\n', 'D': '  Realçar  a  pobreza  dos  habitantes  nativos  para \n\ndemarcar a superioridade europeia.\n\n', 'E': '  Criticar  o  modo  de  vida  dos  povos  autóctones  para \n\nevidenciar a ausência de trabalho.\n\n'}",{'A': '  Valorizar  a  catequese  a  ser  realizada  sobre  os \n\npovos nativos.\n\n'},No,No,No,No,No,Yes,No,,,,,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,AZUL,{A: Valorizar a catequese a ser realizada sobre os povos nativos.},"O trecho da carta de Pero Vaz de Caminha enfatiza o objetivo de valorizar a catequese, ou seja, a conversão dos povos nativos ao cristianismo, como forma de 'salvar esta gente'. Isso demonstra a preocupação com a evangelização e a imposição da cultura europeia sobre os indígenas."
+6,2013,"
+O canto triste dos conquistados: 
+os últimos dias de Tenochtitlán 
+
+Nos caminhos jazem dardos quebrados;
+os cabelos estão espalhados.
+Destelhadas estão as casas,
+Vermelhas estão as águas, os rios, como se alguém 
+as tivesse tingido,
+Nos escudos esteve nosso resguardo,
+mas os escudos não detêm a desolação...
+
+PINSKY, J. et al. História da América através de textos. 
+São Paulo: Contexto, 2007 (fragmento).   
+","
+O  texto  é  um  registro  asteca,  cujo  sentido  está 
+relacionado ao(à)
+","{'A': '  tragédia  causada  pela  destruição  da  cultura \n\ndesse povo.\n\n', 'B': '  tentativa frustrada  de  resistência  a  um  poder \n\nconsiderado superior.\n\n', 'C': '  extermínio  das  populações Exército espanhol.\n\nindígenas  pelo \n\n', 'D': '  dissolução  da  memória  sobre  os  feitos  de  seus \n\nantepassados.\n\n', 'E': '  profetização  das  consequências  da  colonização \n\nda América.\n\n'}",{'B': '  tentativa frustrada  de  resistência  a  um  poder \n\nconsiderado superior.\n\n'},No,No,No,No,No,Yes,No,,,,,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,AZUL,{B: tentativa frustrada de resistência a um poder considerado superior.},"O poema descreve a situação de desolação e derrota dos astecas, evidenciando que apesar de terem escudos como proteção, estes não foram capazes de deter a destruição. Portanto, a interpretação mais adequada é que se trata de uma tentativa frustrada de resistência a um poder considerado superior, no caso, os conquistadores espanhóis."
+8,2013,"
+As  Brigadas 
+
+Internacionais 
+
+foram  unidades  de 
+combatentes formadas por voluntários de 53 nacionalidades 
+dispostos  a  lutar  em  defesa  da  República  espanhola. 
+Estima-se  que  cerca  de  60  mil  cidadãos  de  várias 
+partes do mundo – incluindo 40 brasileiros – tenham se 
+incorporado a essas unidades. Apesar de coordenadas 
+pelos  comunistas,  as  Brigadas  contaram  com 
+membros  socialistas,  liberais  e  de  outras  correntes 
+político-ideológicas.
+
+SOUZA, I. I. A Guerra Civil Europeia. História Viva, n. 70, 2009 (fragmento).
+","
+A Guerra Civil Espanhola expressou as disputas em curso 
+na  Europa  na  década  de  1930.  A  perspectiva  política 
+comum que promoveu a mobilização descrita foi o(a)
+","{'A': '  crítica ao stalinismo.\n', 'B': '  combate ao fascismo.\n', 'C': '  rejeição ao federalismo.\n', 'D': '  apoio ao corporativismo.\n', 'E': '  adesão ao anarquismo.\n\n'}",{'B': '  combate ao fascismo.\n'},No,No,Yes,No,No,No,No,,,,,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,AZUL,{B: combate ao fascismo.},"A Guerra Civil Espanhola expressou as disputas em curso na Europa na década de 1930, onde a perspectiva política comum que promoveu a mobilização das Brigadas Internacionais foi o combate ao fascismo, representado principalmente pelo regime franquista na Espanha."
+9,2013,"
+De  todas  as  transformações  impostas  pelo  meio 
+técnico-científico-informacional à logística de transportes, 
+interessa-nos  mais  de  perto  a  intermodalidade.  E  por 
+uma razão muito simples: o potencial que tal “ferramenta 
+logística” ostenta permite que haja, de fato, um sistema de 
+transportes condizente com a escala geográfica do Brasil.
+HUERTAS, D. M. O papel dos transportes na expansão recente da fronteira agrícola brasileira. 
+Revista Transporte y Territorio, Universidade de Buenos Aires, n. 3, 2010 (adaptado).
+","
+A necessidade de modais de transporte interligados, no 
+território brasileiro, justifica-se pela(s)
+","{'A': '  variações  climáticas  no território,  associadas  à \ninteriorização da produção.\n\n', 'B': '  grandes distâncias e a busca da redução dos custos \n\nde transporte.\n\n', 'C': '  formação geológica do país, que impede o uso de um \n\núnico modal.\n\n', 'D': '  proximidade  entre  a  área  de  produção  agrícola \n\nintensiva e os portos.\n\n', 'E': '  diminuição  dos  fluxos  materiais  em  detrimento  de \n\nfluxos imateriais.\n\n'}",{'B': '  grandes distâncias e a busca da redução dos custos \n\nde transporte.\n\n'},No,No,Yes,No,No,Yes,No,,,,,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,AZUL,{B: grandes distâncias e a busca da redução dos custos de transporte.},"A intermodalidade é importante para integrar diferentes modais de transporte e reduzir custos em longas distâncias, o que justifica a necessidade de modais interligados no território brasileiro."
+10,2013,"
+Nasce daqui uma questão: se vale mais ser amado 
+que  temido  ou  temido  que  amado.  Responde-se  que 
+ambas  as  coisas  seriam  de  desejar;  mas  porque  é 
+difícil  juntá-las,  é  muito  mais  seguro  ser  temido  que 
+amado,  quando  haja  de  faltar  uma  das  duas.  Porque 
+dos  homens  se  pode  dizer,  duma  maneira  geral,  que 
+são ingratos, volúveis, simuladores, covardes e ávidos 
+de  lucro,  e  enquanto  lhes  fazes  bem  são  inteiramente 
+teus, oferecem-te o sangue, os bens, a vida e os filhos, 
+quando,  como  acima  disse,  o  perigo  está  longe;  mas 
+quando ele chega, revoltam-se.
+
+MAQUIAVEL, N. O príncipe. Rio de Janeiro: Bertrand, 1991.
+","
+A partir da análise histórica do comportamento humano 
+em suas relações sociais e políticas, Maquiavel define o 
+homem como um ser
+","{'A': '  munido de virtude, com disposição nata a praticar \n\no bem a si e aos outros.\n\n', 'B': '  possuidor  de  fortuna,  valendo-se  de  riquezas \n\npara alcançar êxito na política.\n\n', 'C': '  guiado por interesses, de modo que suas ações \n\nsão imprevisíveis e inconstantes.\n\n', 'D': '  naturalmente  racional,  vivendo  em  um  estado \n\npré-social e portando seus direitos naturais.\n\n', 'E': '  sociável  por  natureza,  mantendo relações \n\npacíficas com seus pares.\n\n\n\n'}","{'C': '  guiado por interesses, de modo que suas ações \n\nsão imprevisíveis e inconstantes.\n\n'}",No,No,Yes,No,No,Yes,No,,,,,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,AZUL,"{C: guiado por interesses, de modo que suas ações são imprevisíveis e inconstantes.}","A partir da análise histórica do comportamento humano em suas relações sociais e políticas, Maquiavel define o homem como um ser guiado por interesses, de modo que suas ações são imprevisíveis e inconstantes."
+11,2013,"
+Nos estados, entretanto, se instalavam as oligarquias, 
+de  cujo  perigo  já  nos  advertia  Saint-Hilaire,  e  sob  o 
+disfarce do que se chamou “a política dos governadores”. 
+Em círculos concêntricos esse sistema vem cumular no 
+próprio poder central que é o sol do nosso sistema.
+
+PRADO, P. Retrato do Brasil. Rio de Janeiro: José Olympio, 1972.
+","
+A  crítica  presente  no  texto  remete  ao  acordo  que 
+fundamentou o regime republicano brasileiro durante as 
+três primeiras décadas do século XX e fortaleceu o(a)
+","{'A': '  poder militar, enquanto fiador da ordem econômica. \n', 'B': '  presidencialismo,  com  o  objetivo  de  limitar  o  poder \ndos coronéis.\n\n', 'C': '  domínio de grupos regionais sobre a ordem federativa.\n', 'D': '  intervenção  nos  estados,  autorizada  pelas  normas \n\nconstitucionais. \n\n', 'E': ' isonomia  do  governo  federal  no  tratamento  das \n\ndisputas locais.\n\n'}",{'C': '  domínio de grupos regionais sobre a ordem federativa.\n'},No,No,No,No,No,Yes,No,,,,,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,AZUL,{C: domínio de grupos regionais sobre a ordem federativa.},"O trecho menciona a instalação de oligarquias nos estados, que culminavam no poder central, indicando um domínio de grupos regionais sobre a ordem federativa."
+12,2013,"
+No  final  do  século  XIX,  as  Grandes  Sociedades 
+carnavalescas  alcançaram  ampla  popularidade  entre  os 
+foliões cariocas. Tais sociedades cultivavam um pretensioso 
+objetivo  em  relação  à  comemoração  carnavalesca  em 
+si  mesma:  com  seus  desfiles  de  carros  enfeitados  pelas 
+principais  ruas  da  cidade,  pretendiam  abolir  o  entrudo 
+(brincadeira  que  consistia  em  jogar  água  nos  foliões)  e 
+outras  práticas  difundidas  entre  a  população  desde  os 
+tempos  coloniais,  substituindo-os  por  formas  de  diversão 
+que  consideravam  mais  civilizadas, 
+inspiradas  nos 
+carnavais de Veneza. Contudo, ninguém parecia disposto 
+a  abrir  mão  de  suas  diversões  para  assistir  ao  carnaval 
+das sociedades. O entrudo, na visão dos seus animados 
+praticantes, poderia coexistir perfeitamente com os desfiles.
+ PEREIRA, C. S. Os senhores da alegria: a presença das mulheres nas Grandes Sociedades 
+carnavalescas cariocas em fins do século XIX. In: CUNHA, M. C. P. Carnavais e outras 
+frestas: ensaios de história social da cultura. Campinas: Unicamp; Cecult, 2002 (adaptado).
+","
+Manifestações  culturais  como  o  carnaval  também  têm 
+sua própria história, sendo constantemente reinventadas 
+ao longo do tempo. A atuação das Grandes Sociedades, 
+descrita no texto, mostra que o carnaval representava um 
+momento em que as
+","{'A': '  distinções sociais eram deixadas de lado em nome \n\nda celebração.\n\n', 'B': '  aspirações  cosmopolitas  da  elite impediam  a \n\nrealização da festa fora dos clubes.\n\n', 'C': '  liberdades individuais eram extintas pelas regras das \n\nautoridades públicas.\n\n', 'D': '  tradições populares se transformavam em matéria de \n\ndisputas sociais.\n\n', 'E': '  perseguições  policiais  tinham  caráter  xenófobo  por \n\nrepudiarem tradições estrangeiras.\n\n'}",{'D': '  tradições populares se transformavam em matéria de \n\ndisputas sociais.\n\n'},No,No,No,No,No,Yes,No,,,,,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,AZUL,{A: distinções sociais eram deixadas de lado em nome da celebração.},"A atuação das Grandes Sociedades carnavalescas buscava abolir práticas populares consideradas menos civilizadas, como o entrudo, e promover uma forma de diversão mais inspirada nos carnavais de Veneza, onde as distinções sociais eram deixadas de lado em prol da celebração."

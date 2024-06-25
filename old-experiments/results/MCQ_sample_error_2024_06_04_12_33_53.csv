@@ -1,0 +1,3244 @@
+id,area,year,context,response_gpt,response_llama
+152,MATEMÁTICA E SUAS TECNOLOGIAS,2017," 
+Em  um  teleférico  turístico,  bondinhos  saem  de 
+estações ao nível do mar e do topo de uma montanha. 
+A  travessia  dura  1,5  minuto  e  ambos  os  bondinhos  se 
+deslocam à mesma velocidade. Quarenta segundos após 
+o bondinho A partir da estação ao nível do mar, ele cruza 
+com o bondinho B, que havia saído do topo da montanha.
+","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""Qual é o tempo necessário para o bondinho A cruzar com o bondinho B após o início da travessia?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""20 segundos""},
+                {""B"": ""40 segundos""},
+                {""C"": ""60 segundos""},
+                {""D"": ""80 segundos""},
+                {""E"": ""100 segundos""}
+            ],
+            ""correct_answer"": [{""B"": ""40 segundos""}]
+        },
+        {
+            ""pergunta"": ""Se o bondinho A parte da estação ao nível do mar, em que ponto da travessia ele encontra o bondinho B?"",
+            ""bloom_level"": ""Aplicar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""1/4 do percurso""},
+                {""B"": ""1/3 do percurso""},
+                {""C"": ""1/2 do percurso""},
+                {""D"": ""2/3 do percurso""},
+                {""E"": ""3/4 do percurso""}
+            ],
+            ""correct_answer"": [{""C"": ""1/2 do percurso""}]
+        },
+        {
+            ""pergunta"": ""Qual é a velocidade dos bondinhos durante a travessia?"",
+            ""bloom_level"": ""Lembrar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""10 m/s""},
+                {""B"": ""15 m/s""},
+                {""C"": ""20 m/s""},
+                {""D"": ""25 m/s""},
+                {""E"": ""30 m/s""}
+            ],
+            ""correct_answer"": [{""B"": ""15 m/s""}]
+        },
+        {
+            ""pergunta"": ""Considerando que a distância entre as estações é de 1 km, qual é a velocidade média dos bondinhos?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""10 m/s""},
+                {""B"": ""12 m/s""},
+                {""C"": ""15 m/s""},
+                {""D"": ""18 m/s""},
+                {""E"": ""20 m/s""}
+            ],
+            ""correct_answer"": [{""C"": ""15 m/s""}]
+        },
+        {
+            ""pergunta"": ""Se o bondinho B parte do topo da montanha, em que ponto da travessia ele encontra o bondinho A?"",
+            ""bloom_level"": ""Aplicar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""1/4 do percurso""},
+                {""B"": ""1/3 do percurso""},
+                {""C"": ""1/2 do percurso""},
+                {""D"": ""2/3 do percurso""},
+                {""E"": ""3/4 do percurso""}
+            ],
+            ""correct_answer"": [{""D"": ""2/3 do percurso""}]
+        }
+    ]
+}","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""Quantos segundos após o início da viagem o bondinho A cruza com o bondinho B?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""20 segundos"", ""B"": ""40 segundos"", ""C"": ""60 segundos"", ""D"": ""80 segundos"", ""E"": ""100 segundos""},
+                ""correct_answer"": {""B"": ""40 segundos""}
+            ]
+        },
+        {
+            ""pergunta"": ""Qual é a velocidade dos bondinhos?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""5 m/s"", ""B"": ""10 m/s"", ""C"": ""15 m/s"", ""D"": ""20 m/s"", ""E"": "" indefinida""},
+                ""correct_answer"": {""B"": ""10 m/s""}
+            ]
+        },
+        {
+            ""pergunta"": ""Qual é o tempo total que os bondinhos demoram para fazer a viagem?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""30 segundos"", ""B"": ""1 minuto"", ""C"": ""2 minutos"", ""D"": ""3 minutos"", ""E"": ""4 minutos""},
+                ""correct_answer"": {""B"": ""1 minuto""}
+            ]
+        },
+        {
+            ""pergunta"": ""Se o bondinho A partir da estação ao nível do mar demora 40 segundos para cruzar com o bondinho B, qual é a velocidade que os bondinhos estão se movendo?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""5 m/s"", ""B"": ""10 m/s"", ""C"": ""15 m/s"", ""D"": ""20 m/s"", ""E"": "" indefinida""},
+                ""correct_answer"": {""B"": ""10 m/s""}
+            ]
+        },
+        {
+            ""pergunta"": ""Qual é a razão pela qual o tempo de viagem é o mesmo para ambos os bondinhos?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Porque eles têm a mesma velocidade"", ""B"": ""Porque estão em diferentes direções"", ""C"": ""Porque têm a mesma altura"", ""D"": ""Porque têm a mesma capacidade"", ""E"": ""Porque têm a mesma frequência""},
+                ""correct_answer"": {""A"": ""Porque eles têm a mesma velocidade""}
+            ]
+        },
+        {
+            ""pergunta"": ""Se o tempo de viagem for aumentado em 50%, qual será o tempo total da viagem?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""2,25 minutos"", ""B"": ""2,5 minutos"", ""C"": ""2,75 minutos"", ""D"": ""3 minutos"", ""E"": ""3,25 minutos""},
+                ""correct_answer"": {""A"": ""2,25 minutos""}
+            ]
+        }
+    ]
+}"
+83,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2023,"Os séculos 15 e 16, quando se vão desmoronando as estruturas socioeconômicas da Idade Média perante os novos imperativos da Época moderna, constituem um momento-chave na história florestal de toda a Europa Ocidental. Abre-se, genericamente, um longo período de “crise florestal”, que se manifesta com acuidade nos países onde mais se desenvolvem as atividades industriais e comerciais. As necessidades em produtos lenhosos aumentam drasticamente com o crescimento do consumo nos mercados urbanos e nas regiões onde progridem a metalurgia e a construção naval, além da sua utilização na vida quotidiana de toda a população. []","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""Qual foi o principal motivo que desencadeou a crise florestal nos séculos 15 e 16 na Europa Ocidental?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Crescimento do consumo nos mercados urbanos.""},
+                {""B"": ""Desenvolvimento da metalurgia e construção naval.""},
+                {""C"": ""Aumento das atividades agrícolas.""},
+                {""D"": ""Diminuição da população.""},
+                {""E"": ""Redução da demanda por produtos lenhosos.""}
+            ],
+            ""correct_answer"": [{""A"": ""Crescimento do consumo nos mercados urbanos.""}]
+        },
+        {
+            ""pergunta"": ""Como a crise florestal afetou as atividades industriais e comerciais nos países europeus?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Estimulou o crescimento dessas atividades.""},
+                {""B"": ""Reduziu a demanda por produtos lenhosos.""},
+                {""C"": ""Causou escassez de matéria-prima.""},
+                {""D"": ""Não teve impacto significativo.""},
+                {""E"": ""Aumentou a produção de produtos lenhosos.""}
+            ],
+            ""correct_answer"": [{""C"": ""Causou escassez de matéria-prima.""}]
+        },
+        {
+            ""pergunta"": ""Qual era a utilização principal dos produtos lenhosos durante a crise florestal?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Construção de estradas.""},
+                {""B"": ""Fabricação de tecidos.""},
+                {""C"": ""Produção de alimentos.""},
+                {""D"": ""Construção naval e metalurgia.""},
+                {""E"": ""Decoração de interiores.""}
+            ],
+            ""correct_answer"": [{""D"": ""Construção naval e metalurgia.""}]
+        },
+        {
+            ""pergunta"": ""Quais eram os mercados mais impactados pelo aumento do consumo de produtos lenhosos?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Mercados rurais.""},
+                {""B"": ""Mercados de produtos agrícolas.""},
+                {""C"": ""Mercados urbanos.""},
+                {""D"": ""Mercados de artesanato.""},
+                {""E"": ""Mercados de pescados.""}
+            ],
+            ""correct_answer"": [{""C"": ""Mercados urbanos.""}]
+        },
+        {
+            ""pergunta"": ""Por que a crise florestal foi mais aguda nos países com maior desenvolvimento industrial e comercial?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Devido à falta de interesse na exploração florestal.""},
+                {""B"": ""Por conta da diminuição da população urbana.""},
+                {""C"": ""Devido ao aumento da demanda por produtos lenhosos.""},
+                {""D"": ""Por causa da redução das atividades industriais.""},
+                {""E"": ""Devido à falta de tecnologia para exploração florestal.""}
+            ],
+            ""correct_answer"": [{""C"": ""Devido ao aumento da demanda por produtos lenhosos.""}]
+        }
+    ]
+}","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""O que caracteriza o período dos séculos 15 e 16 na história florestal da Europa Ocidental?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""A emergência de doenças florestais"", ""B"": ""A descentralização econômica"", ""C"": ""A crise florestal"", ""D"": ""A expansão da agricultura"", ""E"": ""A diminuição da população""]
+            ],
+            ""correct_answer"": [{""A"": ""C"": ""A crise florestal""}]
+        },
+        {
+            ""pergunta"": ""Qual é o principal fator que contribui para o aumento das necessidades em produtos lenhosos no século 15 e 16？」，
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""O crescimento populacional"", ""B"": ""A expansão da agricultura"", ""C"": ""O aumento do consumo nos mercados urbanos"", ""D"": ""O crescimento industrial"", ""E"": ""A diminuição da população""]
+            ],
+            ""correct_answer"": [{""C"": ""O aumento do consumo nos mercados urbanos""}]
+        },
+        {
+            ""pergunta"": ""Quais são as atividades econômicas que mais afetam a demanda por produtos lenhosos no século 15 e 16？"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""A agricultura e a pecuária"", ""B"": ""A metalurgia e a construção naval"", ""C"": ""O comércio e a indústria"", ""D"": ""A artesanal e a manufatureira"", ""E"": ""A serviços e a financeira""]
+            ],
+            ""correct_answer"": [{""B"": ""A metalurgia e a construção naval""}]
+        },
+        {
+            ""pergunta"": ""Quais são as consequências do crescimento industrial e comercial sobre a economia florestal durante o século 15 e 16？"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Aumento da produção de madeira e redução da desflorestação"", ""B"": ""Aumento do desemprego e redução do crescimento econômico"", ""C"": ""Crise econômica e colapso da indústria madeireira"", ""D"": ""Aumento do consumo e redução da produção florestal"", ""E"": ""Aumento da produtividade e redução do custo da madeira""]
+            ],
+            ""correct_answer"": [{""C"": ""Crise econômica e colapso da indústria madeireira""}]
+        },
+        {
+            ""pergunta"": ""Qual é o resultado da crise florestal no século 15 e 16？"",
+            ""bloom_level"": ""Create"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""A expansão da agricultura e a redução da população"", ""B"": ""A crise econômica e o colapso da indústria madeireira"", ""C"": ""A adaptação das práticas de manejo florestal e a redução da desflorestação"", ""D"": ""A diminuição da população e a redução do consumismo"", ""E"": ""A intensificação da rubberização e a substituição de madeira por outros materiais""]
+            ],
+            ""correct_answer"": [{""B"": ""A crise econômica e o colapso da indústria madeireira""}]
+        },
+        {
+            ""pergunta"": ""Quais são as principais regiões onde a crise florestal se manifesta com mais intensidade no século 15 e 16？"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""A Europa Ocidental, a Europa Central e a Europa Oriental"", ""B"": ""A Europa Ocidental, a Europa Oriental e o leste da Europa"", ""C"": ""A Europa Central, a Europa Oriental e a Europa Ásia"", ""D"": ""A Europa Ocidental, a Europa Ásia e a América Central"", ""E"": ""A Europa Oriental, a América Central e a América do Sul""]
+            ],
+            ""correct_answer"": [{""A"": ""A Europa Ocidental, a Europa Central e a Europa Oriental""}]
+        }
+    ]
+}"
+62,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2017,"TEXTO I
+
+Sólon  é  o  primeiro  nome  grego  que  nos  vem  à 
+mente  quando  terra  e  dívida  são  mencionadas  juntas. 
+Logo  depois  de  600  a.C.,  ele  foi  designado  “legislador” 
+em  Atenas,  com  poderes  sem  precedentes,  porque  a 
+exigência  de  redistribuição  de  terras  e  o  cancelamento 
+das  dívidas  não  podiam  continuar  bloqueados  pela 
+oligarquia dos proprietários de terra por meio da força ou 
+de pequenas concessões.
+
+FINLEY, M. Economia e sociedade na Grécia antiga.
+São Paulo: WMF Martins Fontes, 2013 (adaptado). 
+
+TEXTO II
+
+A “Lei das Doze Tábuas” se tornou um dos textos 
+fundamentais  do  direito  romano,  uma  das  principais 
+heranças romanas que chegaram até nós. A publicação 
+dessas  leis,  por  volta  de  450  a.C.,  foi  importante, 
+pois  o  conhecimento  das  “regras  do  jogo”  da  vida 
+em  sociedade  é  um  instrumento  favorável  ao  homem 
+comum  e  potencialmente  limitador  da  hegemonia  e 
+arbítrio dos poderosos.
+
+FUNARI, P. P. Grécia e Roma. São Paulo: Contexto, 2011 (adaptado).
+","{
+    ""perguntas"":[
+        {
+            ""pergunta"": ""Qual foi o papel de Sólon em Atenas logo depois de 600 a.C.?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Médico""},
+                {""B"": ""Legislador""},
+                {""C"": ""Filósofo""},
+                {""D"": ""Comerciante""},
+                {""E"": ""Guia turístico""}
+            ],
+            ""correct_answer"":[{""B"": ""Legislador""}]
+        },
+        {
+            ""pergunta"": ""Por que Sólon foi designado como 'legislador' em Atenas?"",
+            ""bloom_level"": ""Aplicar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Por ser um grande guerreiro""},
+                {""B"": ""Por sua habilidade em negociação""},
+                {""C"": ""Por sua exigência de redistribuição de terras e cancelamento de dívidas""},
+                {""D"": ""Por ser parente do rei""},
+                {""E"": ""Por sua riqueza acumulada""}
+            ],
+            ""correct_answer"":[{""C"": ""Por sua exigência de redistribuição de terras e cancelamento de dívidas""}]
+        },
+        {
+            ""pergunta"": ""Qual a importância da 'Lei das Doze Tábuas' para o direito romano?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Estabelecer a monarquia em Roma""},
+                {""B"": ""Limitar os poderes dos senadores""},
+                {""C"": ""Definir as regras do jogo da vida em sociedade""},
+                {""D"": ""Criar um exército permanente""},
+                {""E"": ""Instituir a escravidão como prática legal""}
+            ],
+            ""correct_answer"":[{""C"": ""Definir as regras do jogo da vida em sociedade""}]
+        }
+    ]
+}","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""Quem foi designado 'legislador' em Atenas, com poderes sem precedentes?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Solomão""},
+                {""B"": ""Sólon""},
+                {""C"": ""Aristóteles""},
+                {""D"": ""Pericles""},
+                {""E"": ""Homero""}
+            ],
+            ""correct_answer"": [""B""]
+        },
+        {
+            ""pergunta"": ""Qual foi o ano aproximado em que Sólon foi designado 'legislador' em Atenas?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""500 a.C.""},
+                {""B"": ""600 a.C.""},
+                {""C"": ""550 a.C.""},
+                {""D"": ""650 a.C.""},
+                {""E"": ""700 a.C.""}
+            ],
+            ""correct_answer"": [""B""]
+        },
+        {
+            ""pergunta"": ""Qual foi o título do texto escrito por M. Finley que se refere a Sólon?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Economia e sociedade na Grécia antiga""},
+                {""B"": ""Grécia e Roma""},
+                {""C"": ""A democracia ateniense""},
+                {""D"": ""A sociologia grega""},
+                {""E"": ""A evolução grega""}
+            ],
+            ""correct_answer"": [""A""]
+        },
+        {
+            ""pergunta"": ""Quais foram os dois principais objetivos de Sólon em Atenas?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Redistribuição de terras e cancelamento de dívidas""},
+                {""B"": ""Desenvolvimento da democracia e criação de leis""},
+                {""C"": ""Promoção do comércio e do crescimento econômico""},
+                {""D"": ""Proteção dos proprietários de terra e manutenção do status quo""},
+                {""E"": ""Destruição da oligarquia e criação de uma república""}
+            ],
+            ""correct_answer"": [""A""]
+        },
+        {
+            ""pergunta"": ""Qual é a características da 'Lei das Doze Tábuas'?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Foi um grupo de leis criadas pela oligarquia""},
+                {""B"": ""Foi um conjunto de leis criadas pelo povo romano""},
+                {""C"": ""Foi um instrumento favorável ao homem comum e potencialmente limitador da hegemonia""},
+                {""D"": ""Foi uma coleção de leis criadas pela religião romana""},
+                {""E"": ""Foi uma lei criada apenas para os proprietários de terra""}
+            ],
+            ""correct_answer"": [""C""]
+        }
+    ]
+}"
+167,MATEMÁTICA E SUAS TECNOLOGIAS,2023,"Em janeiro do ano passado, a direção de uma fábrica abriu uma creche para os filhos de seus funcionários, com 10 salas, cada uma com capacidade para atender 10 crianças a cada ano. As vagas são sorteadas entre os filhos dos funcionários inscritos, enquanto os não contemplados pelo sorteio formam uma lista de espera. No ano passado, a lista de espera teve 400 nomes e, neste ano, esse número cresceu 10 por cento.
+A direção da fábrica realizou uma pesquisa e constatou que a lista de espera para o próximo ano terá a mesma quantidade de nomes da lista de espera deste ano. Decidiu, então, construir, ao longo desse ano, novas salas para a creche, também com capacidade de atendimento para 10 crianças cada, de modo que o número de nomes na lista de espera no próximo ano seja 25 por cento menor que o deste ano. []","{
+    ""perguntas"":[
+        {
+            ""pergunta"": ""Quantas salas a creche da fábrica possui atualmente?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""5 salas""},
+                {""B"": ""10 salas""},
+                {""C"": ""15 salas""},
+                {""D"": ""20 salas""},
+                {""E"": ""25 salas""}
+            ],
+            ""correct_answer"": [{""B"": ""10 salas""}]
+        },
+        {
+            ""pergunta"": ""Qual é a capacidade de atendimento de cada sala da creche?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""5 crianças""},
+                {""B"": ""10 crianças""},
+                {""C"": ""15 crianças""},
+                {""D"": ""20 crianças""},
+                {""E"": ""25 crianças""}
+            ],
+            ""correct_answer"": [{""B"": ""10 crianças""}]
+        },
+        {
+            ""pergunta"": ""Quantos nomes havia na lista de espera da creche no ano passado?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""200 nomes""},
+                {""B"": ""300 nomes""},
+                {""C"": ""400 nomes""},
+                {""D"": ""500 nomes""},
+                {""E"": ""600 nomes""}
+            ],
+            ""correct_answer"": [{""C"": ""400 nomes""}]
+        },
+        {
+            ""pergunta"": ""Qual é a porcentagem de crescimento do número de nomes na lista de espera deste ano em relação ao ano passado?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""5%""},
+                {""B"": ""10%""},
+                {""C"": ""15%""},
+                {""D"": ""20%""},
+                {""E"": ""25%""}
+            ],
+            ""correct_answer"": [{""B"": ""10%""}]
+        },
+        {
+            ""pergunta"": ""Quantas novas salas a direção da fábrica decidiu construir para a creche?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""2 salas""},
+                {""B"": ""3 salas""},
+                {""C"": ""4 salas""},
+                {""D"": ""5 salas""},
+                {""E"": ""6 salas""}
+            ],
+            ""correct_answer"": [{""C"": ""4 salas""}]
+        }
+    ]
+}","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""Quantas vagas a creche tem?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""5"", ""B"": ""10"", ""C"": ""20"", ""D"": ""30"", ""E"": ""40""},
+                ""correct_answer"": {""B"": ""10""}
+            ]
+        },
+        {
+            ""pergunta"": ""Em quantos por cento o número de nomes na lista de espera deu um crescimento em relação ao ano passado?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""10%"", ""B"": ""20%"", ""C"": ""25%"", ""D"": ""30%"", ""E"": ""50%""},
+                ""correct_answer"": {""C"": ""25%""}
+            ]
+        },
+        {
+            ""pergunta"": ""Quantas salas novas devem ser construídas para diminuir em 25 por cento o número de nomes na lista de espera?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": 0, ""B"": 2, ""C"": 4, ""D"": 6, ""E"": 8},
+                ""correct_answer"": {""B"": 2}
+            ]
+        },
+        {
+            ""pergunta"": ""Qual é o número de nomes na lista de espera no ano passado?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": 300, ""B"": 400, ""C"": 500, ""D"": 600, ""E"": 700},
+                ""correct_answer"": {""B"": 400}
+            ]
+        },
+        {
+            ""pergunta"": ""Calcula o número de nomes na lista de espera no próximo ano se a direção não construísse novas salas."",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": 400, ""B"": 420, ""C"": 440, ""D"": 460, ""E"": 500},
+                ""correct_answer"": {""B"": 420}
+            ]
+        },
+        {
+            ""pergunta"": ""A lista de espera terá o mesmo número de nomes tanto no ano passado quanto no próximo ano?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": Verdade, ""B"": Falso, ""C"": Possivelmente, ""D"": Não há como saber, ""E"": Sim},
+                ""correct_answer"": {""B"": Falso}
+            ]
+        }
+    ]
+}"
+27,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2023,"## Ponciá Vicêncio
+Conceição Evaristo
+Alguém muito recentemente cortara o mato, que na época das chuvas crescia e rodeava a casa da mãe de Ponciá Vicêncio e de Luandi. Havia também vestígios de que a terra fora revolvida, como se ali fosse plantar uma pequena roça. Luandi sorriu. A mãe devia estar bastante forte, pois ainda labutava a terra. Cantou alto uma cantiga que aprendera com o pai, quando eles trabalhavam na terra dos brancos. Era uma canção que os negros mais velhos ensinavam aos mais novos. Eles diziam ser uma cantiga de voltar, que os homens, lá na África, entoavam sempre, quando estavam regressando da pesca, da caça ou de algum lugar. O pai de Luandi, no dia em que queria agradar à mulher, costumava entoar aquela cantiga ao se aproximar de casa. Luandi não entendia as palavras do canto; sabia, porém, que era uma língua que alguns negros falavam ainda, principalmente os velhos. Era uma cantiga alegre. Luandi, além de cantar, acompanhava o ritmo batendo com as palmas das mãos em um atabaque imaginário. Estava de regresso à terra. Voltava em casa. Chegava cantando, dançando a doce e vitoriosa cantiga de regressar. []","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""Qual é o principal tema abordado no trecho fornecido?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""A relação entre Luandi e sua mãe""},
+                {""B"": ""A importância da música na cultura africana""},
+                {""C"": ""A rotina de trabalho no campo""},
+                {""D"": ""A influência da colonização na vida dos personagens""},
+                {""E"": ""A saudade da terra natal""}
+            ],
+            ""correct_answer"": [{""B"": ""A importância da música na cultura africana""}]
+        },
+        {
+            ""pergunta"": ""Por que Luandi cantava a cantiga aprendida com seu pai?"",
+            ""bloom_level"": ""Aplicar"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Para mostrar sua habilidade musical""},
+                {""B"": ""Para agradar sua mãe""},
+                {""C"": ""Para lembrar da terra dos brancos""},
+                {""D"": ""Para celebrar sua chegada em casa""},
+                {""E"": ""Para ensinar a cantiga para os mais novos""}
+            ],
+            ""correct_answer"": [{""D"": ""Para celebrar sua chegada em casa""}]
+        },
+        {
+            ""pergunta"": ""Qual é a sensação transmitida pela cantiga entoada por Luandi?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Tristeza""},
+                {""B"": ""Saudade""},
+                {""C"": ""Alegria""},
+                {""D"": ""Melancolia""},
+                {""E"": ""Nostalgia""}
+            ],
+            ""correct_answer"": [{""C"": ""Alegria""}]
+        },
+        {
+            ""pergunta"": ""Qual é a origem da cantiga cantada por Luandi?"",
+            ""bloom_level"": ""Lembrar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""África""},
+                {""B"": ""Europa""},
+                {""C"": ""América""},
+                {""D"": ""Ásia""},
+                {""E"": ""Oceania""}
+            ],
+            ""correct_answer"": [{""A"": ""África""}]
+        },
+        {
+            ""pergunta"": ""Por que a cantiga é descrita como 'de voltar'?"",
+            ""bloom_level"": ""Entender"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Porque fala sobre retornar para casa""},
+                {""B"": ""Porque remete à nostalgia da infância""},
+                {""C"": ""Porque descreve uma jornada de ida e volta""},
+                {""D"": ""Porque representa a busca por novas experiências""},
+                {""E"": ""Porque simboliza a conexão com as raízes ancestrais""}
+            ],
+            ""correct_answer"": [{""A"": ""Porque fala sobre retornar para casa""}]
+        }
+    ]
+}","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""O que a mãe de Ponciá Vicêncio estava fazendo no texto?',
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Ela cortava o mato."",
+                ""B"": ""Ela lavava roupa."",
+                ""C"": ""Ela trabalhava a terra."",
+                ""D"": ""Ela fazia uma festa."",
+                ""E"": ""Ela estava doente.""
+            ],
+            ""correct_answer"": {""A"": ""Ela trabalhava a terra.""}
+        },
+        {
+            ""pergunta"": ""Qual é o propósito da cantiga que Luandi cantava?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Era uma canção de trabalho."",
+                ""B"": ""Era uma canção de férias."",
+                ""C"": ""Era uma canção de regresso."",
+                ""D"": ""Era uma canção de adeus."",
+                ""E"": ""Era uma canção de alegria.""
+            ],
+            ""correct_answer"": {""C"": ""Era uma canção de regresso.""}
+        },
+        {
+            ""pergunta"": ""Por quê Luandi não entendia as palavras da cantiga?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Porque era caipira."",
+                ""B"": ""Porque era africana."",
+                ""C"": ""Porque não sabia português."",
+                ""D"": ""Porque era nova."",
+                ""E"": ""Porque não sabia ler.""
+            ],
+            ""correct_answer"": {""C"": ""Porque não sabia português.""}
+        },
+        {
+            ""pergunta"": ""Qual é a língua que alguns negros ainda falavam, segundo o texto?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Português."",
+                ""B"": ""Francesa."",
+                ""C"": ""Africana."",
+                ""D"": ""Espanhola."",
+                ""E"": ""Inglesa.""
+            ],
+            ""correct_answer"": {""C"": ""Africana.""}
+        },
+        {
+            ""pergunta"": ""Que tipo de linguagem é a canção descrita no texto?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Cantiga popular."",
+                ""B"": ""Hino religioso."",
+                ""C"": ""Língua materna."",
+                ""D"": ""Canção folclórica."",
+                ""E"": ""Cantiga ritual.""
+            ],
+            ""correct_answer"": {""D"": ""Canção folclórica.""}
+        }
+    ]
+}"
+152,MATEMÁTICA E SUAS TECNOLOGIAS,2023,"Visando atrair mais clientes, o gerente de uma loja anunciou uma promoção em que cada cliente que realizar uma compra pode ganhar um voucher para ser usado em sua próxima compra. Para ganhar seu voucher, o cliente precisa retirar, ao acaso, uma bolinha de dentro de cada uma das duas urnas A e B disponibilizadas pelo gerente, nas quais há apenas bolinhas pretas e brancas. Atualmente, a probabilidade de se escolher, ao acaso, uma bolinha preta na urna A é igual a 20 por cento e a probabilidade de se escolher uma bolinha preta na urna B é 25 por cento. Ganha o voucher o cliente que retirar duas bolinhas pretas, uma de cada urna.
+Com o passar dos dias, o gerente percebeu que, para a promoção ser viável aos negócios, era preciso alterar a probabilidade de acerto do cliente sem alterar a regra da promoção. Para isso, resolveu alterar a quantidade de bolinhas brancas na urna B de forma que a probabilidade de um cliente ganhar o voucher passasse a ser menor ou igual a 1 por cento. Sabe-se que a urna B tem 4 bolinhas pretas e que, em ambas as urnas, todas as bolinhas têm a mesma probabilidade de serem retiradas. []","{
+    ""perguntas"":[
+        {
+            ""pergunta"": ""Qual é a probabilidade de um cliente ganhar o voucher ao retirar uma bolinha preta de cada urna A e B, respectivamente?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""20% e 25%""},
+                {""B"": ""40% e 50%""},
+                {""C"": ""5% e 10%""},
+                {""D"": ""30% e 20%""},
+                {""E"": ""15% e 30%""}
+            ],
+            ""correct_answer"":[{""A"": ""20% e 25%""}]
+        },
+        {
+            ""pergunta"": ""Se a urna B tem 4 bolinhas pretas, quantas bolinhas brancas devem ser retiradas para que a probabilidade de um cliente ganhar o voucher seja menor ou igual a 1%?"",
+            ""bloom_level"": ""Aplicar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""1 bolinha branca""},
+                {""B"": ""2 bolinhas brancas""},
+                {""C"": ""3 bolinhas brancas""},
+                {""D"": ""4 bolinhas brancas""},
+                {""E"": ""5 bolinhas brancas""}
+            ],
+            ""correct_answer"":[{""C"": ""3 bolinhas brancas""}]
+        },
+        {
+            ""pergunta"": ""Qual é a nova probabilidade de um cliente ganhar o voucher após a alteração na urna B?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""0,5%""},
+                {""B"": ""0,8%""},
+                {""C"": ""1%""},
+                {""D"": ""1,2%""},
+                {""E"": ""1,5%""}
+            ],
+            ""correct_answer"":[{""A"": ""0,5%""}]
+        },
+        {
+            ""pergunta"": ""Se a probabilidade de escolher uma bolinha preta na urna A é de 20%, qual é a probabilidade de escolher uma bolinha branca na urna A?"",
+            ""bloom_level"": ""Lembrar"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""80%""},
+                {""B"": ""20%""},
+                {""C"": ""50%""},
+                {""D"": ""30%""},
+                {""E"": ""40%""}
+            ],
+            ""correct_answer"":[{""A"": ""80%""}]
+        },
+        {
+            ""pergunta"": ""Qual é a probabilidade de um cliente não ganhar o voucher ao retirar uma bolinha preta de cada urna A e B, respectivamente?"",
+            ""bloom_level"": ""Avaliar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""0,3%""},
+                {""B"": ""0,5%""},
+                {""C"": ""0,8%""},
+                {""D"": ""1%""},
+                {""E"": ""1,5%""}
+            ],
+            ""correct_answer"":[{""C"": ""0,8%""}]
+        }
+    ]
+}","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""Qual é a probabilidade de se escolher, ao acaso, uma bolinha preta na urna A?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""10%"", ""B"": ""15%"", ""C"": ""20%"", ""D"": ""25%"", ""E"": ""30%""},
+                ""correct_answer"": {""C"": ""20%""}
+            ]
+        },
+        {
+            ""pergunta"": ""Se a probabilidade de se escolher, ao acaso, uma bolinha preta na urna A é igual a 20% e a probabilidade de se escolher uma bolinha preta na urna B é 25%, qual é a probabilidade de um cliente ganhar o voucher dizendo que retirou uma bolinha preta da urna A e uma bolinha branca da urna B?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""0,2 x 0,75 = 0,15"", ""B"": ""0,2 x 0,75 = 0,45"", ""C"": ""0,2 x 0,75 = 0,60"", ""D"": ""0,2 x 0,75 = 0,80"", ""E"": ""indeterminável""},
+                ""correct_answer"": {""A"": ""0,2 x 0,75 = 0,15""}
+            ]
+        },
+        {
+            ""pergunta"": ""Se o gerente altera a quantidade de bolinhas brancas na urna B de forma que a probabilidade de um cliente ganhar o voucher passe a ser menor ou igual a 1 por cento, qual é a quantidade mínima de bolinhas brancas necessárias na urna B?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""1"", ""B"": ""2"", ""C"": ""3"", ""D"": ""4"", ""E"": ""5""},
+                ""correct_answer"": {""D"": ""4""}
+            ]
+        },
+        {
+            ""pergunta"": "" Qual é a probabilidade de um cliente ganhar o voucher se retirou uma bolinha preta da urna A e uma bolinha preta da urna B?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""0,2 x 0,25 = 0,05"", ""B"": ""0,2 x 0,25 = 0,30"", ""C"": ""0,2 x 0,25 = 0,50"", ""D"": ""0,2 x 0,25 = 0,75"", ""E"": ""0,2 x 0,25 = 1,00""},
+                ""correct_answer"": {""A"": ""0,2 x 0,25 = 0,05""}
+            ]
+        },
+        {
+            ""pergunta"": ""O gerente telah alterado a quantidade de bolinhas brancas na urna B de forma que a probabilidade de um cliente ganhar o voucher seja menor ou igual a 1 por cento. Qual é a probabilidade de um cliente ganhar o voucher em proporção a 100 clients que jogam, com Base nas informações fornecidas?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""1%"", ""B"": ""5%"", ""C"": ""10%"", ""D"": ""20%"", ""E"": ""Indeterminável""},
+                ""correct_answer"": {""A"": ""1%""}
+            ]
+        }
+    ]
+}"
+7,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2017,"
+PROPAGANDA — O exame dos textos e mensagens 
+de  Propaganda  revela  que  ela  apresenta  posições 
+parciais,  que  refletem  apenas  o  pensamento  de  uma 
+minoria, como se exprimissem, em vez disso, a convicção 
+de  uma  população;  trata-se,  no  fundo,  de  convencer  o 
+ouvinte ou o leitor de que, em termos de opinião, está fora 
+do caminho certo, e de induzi-lo a aderir às teses que lhes 
+são apresentadas, por um mecanismo bem conhecido da 
+psicologia social, o do conformismo induzido por pressões 
+do grupo sobre o indivíduo isolado.
+
+BOBBIO, N.; MATTEUCCI, N.; PASQUINO, G. Dicionário de política.
+Brasília: UnB, 1998 (adaptado).
+","{
+    ""perguntas"":[
+        {
+            ""pergunta"": ""Qual é a principal característica das mensagens de propaganda, de acordo com o texto apresentado?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Refletem a convicção da maioria da população.""},
+                {""B"": ""São neutras e imparciais.""},
+                {""C"": ""Induzem o leitor a discordar das teses apresentadas.""},
+                {""D"": ""Buscam convencer o leitor de que está no caminho certo em suas opiniões.""},
+                {""E"": ""Apresentam posições parciais que refletem o pensamento de uma minoria.""}
+            ],
+            ""correct_answer"":[{""E"": ""Apresentam posições parciais que refletem o pensamento de uma minoria.""}]
+        },
+        {
+            ""pergunta"": ""Qual é o objetivo da propaganda em relação às opiniões do ouvinte ou leitor?"",
+            ""bloom_level"": ""Aplicar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Reforçar as opiniões existentes do público-alvo.""},
+                {""B"": ""Desafiar as crenças do público-alvo.""},
+                {""C"": ""Induzir o público-alvo a aderir às teses apresentadas.""},
+                {""D"": ""Ignorar as opiniões do público-alvo.""},
+                {""E"": ""Apresentar um debate equilibrado de diferentes pontos de vista.""}
+            ],
+            ""correct_answer"":[{""C"": ""Induzir o público-alvo a aderir às teses apresentadas.""}]
+        },
+        {
+            ""pergunta"": ""Qual é o mecanismo psicológico mencionado no texto que a propaganda utiliza para influenciar o indivíduo?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Persuasão racional.""},
+                {""B"": ""Confronto direto de ideias.""},
+                {""C"": ""Conformismo induzido por pressões do grupo.""},
+                {""D"": ""Autoavaliação crítica.""},
+                {""E"": ""Discussão aberta e imparcial.""}
+            ],
+            ""correct_answer"":[{""C"": ""Conformismo induzido por pressões do grupo.""}]
+        },
+        {
+            ""pergunta"": ""Por que as mensagens de propaganda são descritas como parciais no texto?"",
+            ""bloom_level"": ""Entender"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Por refletirem a convicção da maioria da população.""},
+                {""B"": ""Por apresentarem um debate equilibrado de diferentes pontos de vista.""},
+                {""C"": ""Por buscarem desafiar as crenças do público-alvo.""},
+                {""D"": ""Por induzirem o leitor a discordar das teses apresentadas.""},
+                {""E"": ""Por refletirem apenas o pensamento de uma minoria.""}
+            ],
+            ""correct_answer"":[{""E"": ""Por refletirem apenas o pensamento de uma minoria.""}]
+        },
+        {
+            ""pergunta"": ""Qual é o objetivo final da propaganda em relação às opiniões do público-alvo?"",
+            ""bloom_level"": ""Avaliar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Manter a diversidade de opiniões.""},
+                {""B"": ""Desafiar as crenças estabelecidas.""},
+                {""C"": ""Induzir o público-alvo a aderir às teses apresentadas.""},
+                {""D"": ""Estimular o debate aberto e imparcial.""},
+                {""E"": ""Reforçar as opiniões existentes do público-alvo.""}
+            ],
+            ""correct_answer"":[{""C"": ""Induzir o público-alvo a aderir às teses apresentadas.""}]
+        }
+    ]
+}","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""O que a propaganda busca fazer com o público?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Informar sobre os argumentos e fatos da discussão"", ""B"": ""Convencer o público de uma opinião particular"", ""C"": ""Fornecer opiniões neutras sobre um tema"", ""D"": ""Criar uma atmosfera de desconforto"", ""E"": ""Recusar a discussão sobre o assunto""}
+            ],
+            ""correct_answer"": {""B"": ""Convencer o público de uma opinião particular""}
+        },
+        {
+            ""pergunta"": ""De acordo com o texto, a propaganda apresenta posicionamentos?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Objetivos"", ""B"": ""Posicionamentos parciais"", ""C"": ""Informações precisas"", ""D"": ""Ideias originais"", ""E"": ""Critérios de avaliação""}
+            ],
+            ""correct_answer"": {""B"": ""Posicionamentos parciais""}
+        },
+        {
+            ""pergunta"": ""O que a propaganda tenta fazer com a percepção do público sobre um tema?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Mudar a opinião do público"", ""B"": ""Completar a informação do público"", ""C"": ""Impedir a discussão sobre o assunto"", ""D"": ""Criar uma percepção neutra"", ""E"": ""Manter a percepção atual""}
+            ],
+            ""correct_answer"": {""A"": ""Mudar a opinião do público""}
+        },
+        {
+            ""pergunta"": ""O que é o mecanismo psicológico descrito no texto?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Conformidade induzida"", ""B"": ""Compromisso ético"", ""C"": ""Comunicicação eficaz"", ""D"": ""Informação completa"", ""E"": ""Crítica racional""}
+            ],
+            ""correct_answer"": {""A"": ""Conformidade induzida""}
+        },
+        {
+            ""pergunta"": ""Que tipo de pressão é exercida pelo grupo sobre o indivíduo isolado?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Motor"", ""B"": ""Socionormativo"", ""C"": ""Psicológico"", ""D"": ""Física"", ""E"": ""Linguístico""}
+            ],
+            ""correct_answer"": {""C"": ""Psicológico""}
+        }
+    ]
+}"
+94,CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS,2017,"
+Pesquisadores criaram um tipo de plaqueta artificial, 
+feita com um polímero gelatinoso coberto de anticorpos, 
+que promete agilizar o processo de coagulação quando 
+injetada  no  corpo.  Se  houver  sangramento,  esses 
+anticorpos  fazem  com  que  a  plaqueta  mude  sua  forma 
+e se transforme em uma espécie de rede que gruda nas 
+lesões dos vasos sanguíneos e da pele.
+
+MOUTINHO, S. Coagulação acelerada. Disponível em: http://cienciahoje.uol.com.br. 
+Acesso em: 19 fev. 2013 (adaptado).
+","{
+    ""perguntas"":[
+        {
+            ""pergunta"": ""Qual é o principal objetivo da plaqueta artificial criada pelos pesquisadores?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Promover a coagulação sanguínea""},
+                {""B"": ""Eliminar os anticorpos do organismo""},
+                {""C"": ""Diminuir a produção de plaquetas naturais""},
+                {""D"": ""Causar sangramento nas lesões""},
+                {""E"": ""Substituir os vasos sanguíneos danificados""}
+            ],
+            ""correct_answer"":[{""A"": ""Promover a coagulação sanguínea""}]
+        },
+        {
+            ""pergunta"": ""Como os anticorpos presentes na plaqueta artificial contribuem para o processo de coagulação?"",
+            ""bloom_level"": ""Aplicar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Atacando as células saudáveis do corpo""},
+                {""B"": ""Inibindo a formação da rede de coagulação""},
+                {""C"": ""Estimulando a produção de mais sangue""},
+                {""D"": ""Auxiliando na formação de uma rede que gruda nas lesões""},
+                {""E"": ""Causando dilatação dos vasos sanguíneos""}
+            ],
+            ""correct_answer"":[{""D"": ""Auxiliando na formação de uma rede que gruda nas lesões""}]
+        },
+        {
+            ""pergunta"": ""Qual é a principal característica da plaqueta artificial em relação à coagulação sanguínea?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Ativar o sistema imunológico""},
+                {""B"": ""Inibir a formação de coágulos""},
+                {""C"": ""Promover a diluição do sangue""},
+                {""D"": ""Transformar-se em uma rede que adere às lesões""},
+                {""E"": ""Estimular a produção de plaquetas naturais""}
+            ],
+            ""correct_answer"":[{""D"": ""Transformar-se em uma rede que adere às lesões""}]
+        },
+        {
+            ""pergunta"": ""Por que a plaqueta artificial é feita com um polímero gelatinoso?"",
+            ""bloom_level"": ""Lembrar"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Para aumentar a temperatura do corpo""},
+                {""B"": ""Para facilitar a injeção no organismo""},
+                {""C"": ""Para neutralizar os anticorpos presentes""},
+                {""D"": ""Para acelerar a respiração dos pacientes""},
+                {""E"": ""Para estimular a produção de plaquetas naturais""}
+            ],
+            ""correct_answer"":[{""B"": ""Para facilitar a injeção no organismo""}]
+        },
+        {
+            ""pergunta"": ""Qual é a função dos anticorpos na plaqueta artificial durante um sangramento?"",
+            ""bloom_level"": ""Avaliar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Evitar a formação de coágulos""},
+                {""B"": ""Promover a dilatação dos vasos sanguíneos""},
+                {""C"": ""Estimular a produção de mais sangue""},
+                {""D"": ""Auxiliar na formação de uma rede que gruda nas lesões""},
+                {""E"": ""Causar a contração dos vasos sanguíneos""}
+            ],
+            ""correct_answer"":[{""D"": ""Auxiliar na formação de uma rede que gruda nas lesões""}]
+        }
+    ]
+}","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""O que a plaqueta artificial é feita de?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": {
+                ""A"": ""Um polímero rígido"",
+                ""B"": ""Um polímero gelatinoso"",
+                ""C"": ""Uma proteína"",
+                ""D"": ""Um metal"",
+                ""E"": ""Um problema""
+            },
+            ""correct_answer"": {""B"": ""Um polímero gelatinoso""}
+        },
+        {
+            ""pergunta"": ""Quais são os principais componentes da plaqueta artificial?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": {
+                ""A"": ""Polímero, anticorpos e hemoglobina"",
+                ""B"": ""Polímero, anticorpos e enzimas"",
+                ""C"": ""Polímero, anticorpos e vitaminas"",
+                ""D"": ""Polímero, anticorpos e células sanguíneas"",
+                ""E"": ""Polímero, anticorpos e líquido""
+            },
+            ""correct_answer"": {""B"": ""Polímero, anticorpos e enzimas""}
+        },
+        {
+            ""pergunta"": ""Qual é o objetivo principal da plaqueta artificial?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": {
+                ""A"": ""Prevenir o sangramento"",
+                ""B"": ""Acelerar a coagulação"",
+                ""C"": ""Curar lesões"",
+                ""D"": ""Tratar doenças"",
+                ""E"": ""Induzir infecção""
+            },
+            ""correct_answer"": {""B"": ""Acelerar a coagulação""}
+        },
+        {
+            ""pergunta"": ""Quais são os efeitos da plaqueta artificial no corpo quando há sangramento?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": {
+                ""A"": ""Causa hemorrágia e dor"",
+                ""B"": ""Acelera a coagulação e reduz a perda de sangue"",
+                ""C"": ""Causa inflamação e dor"",
+                ""D"": ""Impede a cura de lesões"",
+                ""E"": ""Não tem efeito no sangramento""
+            },
+            ""correct_answer"": {""B"": ""Acelera a coagulação e reduz a perda de sangue""}
+        },
+        {
+            ""pergunta"": ""Como a plaqueta artificial age no corpo?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": {
+                ""A"": ""Injetada diretamente na lesão"",
+                ""B"": ""Colocada no baço"",
+                ""C"": ""Usada como um medicamento oral"",
+                ""D"": ""Injetada no sistema circulatório"",
+                ""E"": ""Usada somente em casos de emergência""
+            },
+            ""correct_answer"": {""D"": ""Injetada no sistema circulatório""}
+        }
+    ]
+}"
+121,CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS,2023,"## Efficacy of Selective Serotonin-Reuptake Inhibitors in Premenstrual Syndrome
+Muitas mulheres sofrem com desconfortos nos dias que antecedem a menstruação, a chamada tensão pré-menstrual. Entre outros sintomas, podem ocorrer alterações de humor. Atualmente, acredita-se que os sintomas são resultado da queda na concentração do neurotransmissor serotonina, que, por sua vez, está relacionado com a diminuição na produção dos hormônios ovarianos estrógeno e progesterona, observada nessa fase do ciclo feminino. []","{
+    ""perguntas"":[
+        {
+            ""pergunta"": ""Qual é o neurotransmissor cuja queda na concentração está relacionada aos sintomas da tensão pré-menstrual?"",
+            ""bloom_level"": ""1"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Dopamina""},
+                {""B"": ""Serotonina""},
+                {""C"": ""Noradrenalina""},
+                {""D"": ""Acetilcolina""},
+                {""E"": ""GABA""}
+            ],
+            ""correct_answer"":[{""B"": ""Serotonina""}]
+        },
+        {
+            ""pergunta"": ""Qual é a relação entre a produção dos hormônios ovarianos estrógeno e progesterona e a tensão pré-menstrual?"",
+            ""bloom_level"": ""2"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Aumentam a produção de serotonina""},
+                {""B"": ""Diminuem a produção de serotonina""},
+                {""C"": ""Não afetam a produção de serotonina""},
+                {""D"": ""Causam a liberação de dopamina""},
+                {""E"": ""Estimulam a produção de noradrenalina""}
+            ],
+            ""correct_answer"":[{""B"": ""Diminuem a produção de serotonina""}]
+        },
+        {
+            ""pergunta"": ""Qual é o principal mecanismo de ação dos Inibidores Seletivos de Recaptação de Serotonina (ISRS) no tratamento da tensão pré-menstrual?"",
+            ""bloom_level"": ""3"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Aumento da produção de estrógeno""},
+                {""B"": ""Bloqueio dos receptores de progesterona""},
+                {""C"": ""Inibição da recaptação de serotonina no cérebro""},
+                {""D"": ""Estimulação da produção de dopamina""},
+                {""E"": ""Redução da produção de noradrenalina""}
+            ],
+            ""correct_answer"":[{""C"": ""Inibição da recaptação de serotonina no cérebro""}]
+        },
+        {
+            ""pergunta"": ""Quais são os sintomas comuns da tensão pré-menstrual além das alterações de humor?"",
+            ""bloom_level"": ""4"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Dores de cabeça e enxaquecas""},
+                {""B"": ""Aumento da pressão arterial""},
+                {""C"": ""Diminuição da sensibilidade mamária""},
+                {""D"": ""Aumento da libido""},
+                {""E"": ""Redução do apetite""
+                }
+            ],
+            ""correct_answer"":[{""A"": ""Dores de cabeça e enxaquecas""}]
+        },
+        {
+            ""pergunta"": ""Por que a serotonina é considerada um neurotransmissor importante no contexto da tensão pré-menstrual?"",
+            ""bloom_level"": ""5"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Regula a produção de cortisol""},
+                {""B"": ""Estimula a liberação de insulina""},
+                {""C"": ""Controla a temperatura corporal""},
+                {""D"": ""Modula o humor e o sono""},
+                {""E"": ""Atua na contração muscular""
+                }
+            ],
+            ""correct_answer"":[{""D"": ""Modula o humor e o sono""}]
+        }
+    ]
+}","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""O que acredita-se ser o principal fator responsável por os sintomas da tensão pré-menstrual?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": {
+                ""A"": ""Aumento da produção de estrógeno e progesterona"",
+                ""B"": ""Queda na concentração do neurotransmissor serotonina"",
+                ""C"": ""Aumento da freqüência cardíaca"",
+                ""D"": ""Diminuição da tensão arterial"",
+                ""E"": ""Aumento da pressão sangüínea""
+            },
+            ""correct_answer"": {
+                ""B"": ""Queda na concentração do neurotransmissor serotonina""
+            }
+        },
+        {
+            ""pergunta"": ""Como é relacionado o neurotransmissor serotonina com a tensão pré-menstrual?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": {
+                ""A"": ""A produção de serotonina aumenta durante a fase pré-menstrual"",
+                ""B"": ""A concentração de serotonina é afetada pela diminuição na produção de estrógeno e progesterona"",
+                ""C"": ""O neurotransmissor serotonina não tem relação com a tensão pré-menstrual"",
+                ""D"": ""A baixa concentração de serotonina é um sintoma da tensão pré-menstrual"",
+                ""E"": ""A quantidade de serotonina é constante ao longo do ciclo menstrual""
+            },
+            ""correct_answer"": {
+                ""B"": ""B: A concentração de serotonina é afetada pela diminuição na produção de estrógeno e progesterona""
+            }
+        },
+        {
+            ""pergunta"": ""Quais dos seguintes tratamentos pode ser eficaz para a tensão pré-menstrual?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": {
+                ""A"": ""A terapia cognitivo-comportamental"",
+                ""B"": ""O uso de medicamentos que aumentam a concentração de serotonina"",
+                ""C"": ""O uso de reguladores de hormônios"",
+                ""D"": ""A terapia psicológica"",
+                ""E"": ""O uso de estimulantes""
+            },
+            ""correct_answer"": {
+                ""B"": ""B: O uso de medicamentos que aumentam a concentração de serotonina""
+            }
+        },
+        {
+            ""pergunta"": ""Quais os sintomas que podem ocorrer durante a tensão pré-menstrual?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": {
+                ""A"": ""Alterações de humor, dor de cabeça e cansaço"",
+                ""B"": ""Perda de peso, dor abdominal e fadiga"",
+                ""C"": ""Dor de peito, flatulência e telahamento"",
+                ""D"": ""Calor, dor nas articulações e estresse"",
+                ""E"": ""All of the above""
+            },
+            ""correct_answer"": {
+                ""E"": ""E: Alterações de humor, dor de cabeça e cansaço""
+            }
+        },
+        {
+            ""pergunta"": ""Como a redução na concentração de serotonina é relacionada à diminuição na produção de estrógeno e progesterona?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": {
+                ""A"": ""A redução na concentração de serotonina é diretamente proporcional à diminuição nos hormônios ovarianos"",
+                ""B"": ""A diminuição na produção de estrógeno e progesterona inibe a síntese de serotonina"",
+                ""C"": ""A redução na concentração de serotonina é um efeito colateral da terapia com Selective Serotonin-Reuptake Inhibitors"",
+                ""D"": ""A diminuição na produção de estrógeno e progesterona é responsável pela redução na concentração de serotonina"",
+                ""E"": ""Nenhuma das alternativas acima está correta""
+            },
+            ""correct_answer"": {
+                ""B"": ""B: A diminuição na produção de estrógeno e progesterona inibe a síntese de serotonina""
+            }
+        }
+    ]
+}"
+71,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2023,"O Golpe Militar de 1964 foi implacável no combate ao que restava das Ligas Camponesas, generalizadas na década anterior. No entanto, em relação aos sindicatos, sua atitude foi ambígua. Por meio de acordos com os Estados Unidos, foram concebidos centros sindicais e cursos de liderança com base em princípios conservadores e ministrados por membros da Igreja Católica. []","{
+    ""perguntas"":[
+        {
+            ""pergunta"": ""Qual foi a atitude do Golpe Militar de 1964 em relação aos sindicatos?"",
+            ""bloom_level"": ""Compreensão"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Favoreceu a criação de centros sindicais e cursos de liderança conservadores.""},
+                {""B"": ""Perseguiu e eliminou todos os sindicatos existentes.""},
+                {""C"": ""Promoveu a autonomia sindical e a liberdade de expressão.""},
+                {""D"": ""Ignorou completamente a existência dos sindicatos.""},
+                {""E"": ""Estimulou a formação de sindicatos de orientação comunista.""}
+            ],
+            ""correct_answer"":[{""A"": ""Favoreceu a criação de centros sindicais e cursos de liderança conservadores.""}]
+        },
+        {
+            ""pergunta"": ""Quais eram os princípios base dos cursos de liderança ministrados aos sindicatos após o Golpe de 1964?"",
+            ""bloom_level"": ""Aplicação"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Princípios socialistas e marxistas.""},
+                {""B"": ""Princípios conservadores e ministrados por membros da Igreja Católica.""},
+                {""C"": ""Princípios anarquistas e libertários.""},
+                {""D"": ""Princípios nacionalistas e militaristas.""},
+                {""E"": ""Princípios democráticos e laicos.""}
+            ],
+            ""correct_answer"":[{""B"": ""Princípios conservadores e ministrados por membros da Igreja Católica.""}]
+        },
+        {
+            ""pergunta"": ""Qual foi a estratégia adotada pelo Golpe Militar de 1964 em relação às Ligas Camponesas?"",
+            ""bloom_level"": ""Análise"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Promoveu a expansão e fortalecimento das Ligas Camponesas.""},
+                {""B"": ""Negociou acordos de paz e cooperação com as Ligas Camponesas.""},
+                {""C"": ""Implantou políticas de reforma agrária em parceria com as Ligas Camponesas.""},
+                {""D"": ""Combateu e reprimiu violentamente as Ligas Camponesas.""},
+                {""E"": ""Financiou e apoiou as atividades das Ligas Camponesas.""}
+            ],
+            ""correct_answer"":[{""D"": ""Combateu e reprimiu violentamente as Ligas Camponesas.""}]
+        },
+        {
+            ""pergunta"": ""Quais eram os objetivos dos centros sindicais concebidos após o Golpe de 1964?"",
+            ""bloom_level"": ""Avaliação"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Promover a liberdade de expressão e a autonomia sindical.""},
+                {""B"": ""Controlar e restringir as atividades sindicais.""},
+                {""C"": ""Capacitar os trabalhadores para liderança sindical progressista.""},
+                {""D"": ""Estimular a formação de sindicatos de orientação socialista.""},
+                {""E"": ""Eliminar completamente a atuação sindical no país.""}
+            ],
+            ""correct_answer"":[{""B"": ""Controlar e restringir as atividades sindicais.""}]
+        },
+        {
+            ""pergunta"": ""Qual era a origem dos princípios conservadores ministrados nos cursos de liderança sindical após 1964?"",
+            ""bloom_level"": ""Lembrar"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Estados Unidos""},
+                {""B"": ""União Soviética""},
+                {""C"": ""China""},
+                {""D"": ""França""},
+                {""E"": ""Brasil""}
+            ],
+            ""correct_answer"":[{""A"": ""Estados Unidos""}]
+        }
+    ]
+}","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""O golpe militar de 1964 foi caracterizado por uma política econômica liberal?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Sim"", ""B"": ""Não"", ""C"": ""Não sei"", ""D"": ""Indifóstico"", ""E"": ""Ambos sim e não""}
+            ],
+            ""correct_answer"": [{""A"": ""Não""}]
+        },
+        {
+            ""pergunta"": ""Qual foi a atitude do Golpe Militar em relação aos sindicatos?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Foi firme e decidida"", ""B"": ""Foi ambígua"", ""C"": ""Foi opositora"", ""D"": ""Foi neutra"", ""E"": ""Nenhuma das acima""}
+            ],
+            ""correct_answer"": [{""B"": ""Foi ambígua""}]
+        },
+        {
+            ""pergunta"": ""Os centros sindicais e cursos de liderança criados após o Golpe Militar de 1964 tinham um caráter conservador?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Sim"", ""B"": ""Não"", ""C"": ""Não sei"", ""D"": ""Indifóstico"", ""E"": ""Ambos sim e não""}
+            ],
+            ""correct_answer"": [{""A"": ""Sim""}]
+        },
+        {
+            ""pergunta"": ""A Igreja Católica teve um papel importante na criação dos centros sindicais e cursos de liderança após o Golpe Militar de 1964?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Sim"", ""B"": ""Não"", ""C"": ""Talvez"", ""D"": ""Provavelmente não"", ""E"": ""Nenhuma das acima""}
+            ],
+            ""correct_answer"": [{""A"": ""Sim""}]
+        },
+        {
+            ""pergunta"": ""O Golpe Militar de 1964 foi um fator crucial para a marginalização das Ligas Camponesas no Brasil?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Sim"", ""B"": ""Não"", ""C"": ""Provável"", ""D"": ""Talvez"", ""E"": ""Nenhuma das acima""}
+            ],
+            ""correct_answer"": [{""A"": ""Sim""}]
+        },
+        {
+            ""pergunta"": ""O acordo entre o Brasil e os Estados Unidos para a criação dos centros sindicais e cursos de liderança após o Golpe Militar de 1964 foi um fator chave para a política trabalhista do Brasil?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Sim"", ""B"": ""Não"", ""C"": ""Talvez"", ""D"": ""Provável"", ""E"": ""Nenhuma das acima""}
+            ],
+            ""correct_answer"": [{""A"": ""Sim""}]
+        }
+    ]
+}"
+81,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2023,"Alternativas logísticas estão servindo de instrumentos que ativam os mercados especuladores de terras nas diferentes regiões da Amazônia e constituem em indicadores utilizados por diferentes atores para defender ou denunciar o avanço da cultura da soja na região e, com ela, a retomada do desmatamento. É evidente que o crescimento do desmatamento tem a ver também com a expansão da soja, porém atribuir a ela o fator principal parece não totalmente correto. Parto da compreensão central de que a lógica que gera o desmatamento está articulada pelo tripé grileiros, madeireiros e pecuaristas. []","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""Qual é a principal lógica que gera o desmatamento na região da Amazônia, de acordo com o contexto apresentado?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Expansão da soja""},
+                {""B"": ""Atuação dos grileiros""},
+                {""C"": ""Ação dos madeireiros""},
+                {""D"": ""Preservação ambiental""},
+                {""E"": ""Cultura dos pecuaristas""}
+            ],
+            ""correct_answer"": [{""B"": ""Atuação dos grileiros""}]
+        },
+        {
+            ""pergunta"": ""Por que atribuir à expansão da soja o fator principal do desmatamento na Amazônia pode não ser totalmente correto?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""A soja não é cultivada na região da Amazônia""},
+                {""B"": ""Existem outros fatores como grileiros, madeireiros e pecuaristas envolvidos""},
+                {""C"": ""A soja é uma cultura sustentável""},
+                {""D"": ""Os mercados especuladores não se interessam pela soja""},
+                {""E"": ""A soja não é rentável na região""}
+            ],
+            ""correct_answer"": [{""B"": ""Existem outros fatores como grileiros, madeireiros e pecuaristas envolvidos""}]
+        },
+        {
+            ""pergunta"": ""Quais são os indicadores utilizados por diferentes atores para defender ou denunciar o avanço da cultura da soja na região da Amazônia?"",
+            ""bloom_level"": ""Lembrar"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Tripé grileiros, madeireiros e pecuaristas""},
+                {""B"": ""Mercados especuladores de terras""},
+                {""C"": ""Retomada do desmatamento""},
+                {""D"": ""Expansão da soja""},
+                {""E"": ""Preservação ambiental""}
+            ],
+            ""correct_answer"": [{""B"": ""Mercados especuladores de terras""}]
+        },
+        {
+            ""pergunta"": ""Qual é a relação entre a expansão da soja e o crescimento do desmatamento na Amazônia?"",
+            ""bloom_level"": ""Aplicar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""A soja é a única cultura responsável pelo desmatamento""},
+                {""B"": ""A soja contribui indiretamente para o desmatamento""},
+                {""C"": ""A soja impede o desmatamento na região""},
+                {""D"": ""O desmatamento não está relacionado à expansão da soja""},
+                {""E"": ""A soja é a principal causa do desmatamento""}
+            ],
+            ""correct_answer"": [{""B"": ""A soja contribui indiretamente para o desmatamento""}]
+        },
+        {
+            ""pergunta"": ""Quais são os atores principais mencionados como parte da lógica que gera o desmatamento na Amazônia?"",
+            ""bloom_level"": ""Criar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Agricultores familiares""},
+                {""B"": ""Indústria do turismo""},
+                {""C"": ""ONGs ambientais""},
+                {""D"": ""Grileiros, madeireiros e pecuaristas""},
+                {""E"": ""Empresas de tecnologia""}
+            ],
+            ""correct_answer"": [{""D"": ""Grileiros, madeireiros e pecuaristas""}]
+        }
+    ]
+}","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""O que está causando o desmatamento na Amazônia?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": {
+                ""A"": ""Unicamente a expansão da cultura da soja."",
+                ""B"": ""A lógica que gera o desmatamento está articulada pelo tripé grileiros, madeireiros e pecuaristas."",
+                ""C"": ""A exploração de óleo de palma."",
+                ""D"": ""A climate change."",
+                ""E"": ""A despejo social.""
+            },
+            ""correct_answer"": {""B"": ""A lógica que gera o desmatamento está articulada pelo tripé grileiros, madeireiros e pecuaristas.""}
+        },
+        {
+            ""pergunta"": ""Quais atores estão envolvidos na lógica que gera o desmatamento na Amazônia?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": {
+                ""A"": ""Grileiros, madeireiros e pecuaristas apenas."",
+                ""B"": ""Grileiros, madeireiros, pecuaristas e empresas agropecuárias."",
+                ""C"": ""Grileiros, madeireiros, pecuaristas, empresas agropecuárias e indústrias de bebidas."",
+                ""D"": ""Grileiros, madeireiros, pecuaristas, cauchos e indígenas."",
+                ""E"": ""Grileiros, empresas financeiras e empresas de commodities.""
+            },
+            ""correct_answer"": {""B"": ""Grileiros, madeireiros, pecuaristas e empresas agropecuárias.""}
+        },
+        {
+            ""pergunta"": ""Qual a razão pela qual a expansão da soja não é o principal fator responsável pelo desmatamento na Amazônia?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": {
+                ""A"": ""A expansão da soja está diretamente ligada às emissões de gases do efeito estufa."",
+                ""B"": ""A expansão da soja é a principal causa do desmatamento na Amazônia."",
+                ""C"": ""O crescimento da soja é incentivado pela demanda interna e externa e pode ser uma razão secundária para o desmatamento."",
+                ""D"": ""A expansão da soja é motivada pela necessidade de consumos humanos."",
+                ""E"": ""O grupo de interesse denunciado pela expansão da soja é o setor agropecuário.""
+            },
+            ""correct_answer"": {""C"": ""O crescimento da soja é incentivado pela demanda interna e externa e pode ser uma razão secundária para o desmatamento.""}
+        },
+        {
+            ""pergunta"": ""Quais lograrfunções está uma alternativa logística pode exercer sobre os mercados especuladores de terras?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": {
+                ""A"": ""Fomentar a especulação sobre terras."",
+                ""B"": ""Inibir a especulação sobre terras."",
+                ""C"": ""Nenhuma das alternativas."",
+                ""D"": ""Simulativar a especulação sobre terras."",
+                ""E"": ""Regulamentar a especulação sobre terras.""
+            },
+            ""correct_answer"": {""A"": ""Fomentar a especulação sobre terras.""}
+        },
+        {
+            ""pergunta"": ""Quais indicadores podem ser utilizados para defender ou denunciar o avanço da cultura da soja na região?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": {
+                ""A"": ""Índices de temperatura, índices de precipitação e índices de deflação."",
+                ""B"": ""Alternativas logísticas, índices de temperatura e índices de deflação."",
+                ""C"": ""Índices de especulação, índices de desmatamento e índices de produção agropecuária."",
+                ""D"": ""Índices de deflação, índices de inflação e índices de expectativa do mercado."",
+                ""E"": ""Índices de especulação, índices de produção agropecuária e índices de desmatamento.""
+            },
+            ""correct_answer"": {""C"": ""Índices de especulação, índices de desmatamento e índices de produção agropecuária.""}
+        }
+    ]
+}"
+72,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2017,"
+Ao  destruir  uma  paisagem  de  árvores  de  troncos 
+retorcidos,  folhas  e  arbustos  ásperos  sobre  os  solos 
+ácidos,  não  raro  laterizados  ou  tomados  pelas  formas 
+bizarras dos cupinzeiros, essa modernização lineariza e 
+aparentemente não permite que se questione a pretensão 
+modernista de que a forma deve seguir a função.
+
+HAESBAERT, R. “Gaúchos” e baianos no “novo” Nordeste: entre a globalização econômica e a reinvenção das identidades territoriais. In: CASTRO, I. E.; GOMES, P. C. C.; CORRÊA, R. L. (Org.). Brasil: questões atuais da reorganização do território. Rio de Janeiro: Bertrand Brasil, 2008.
+","{
+    ""perguntas"":[
+        {
+            ""pergunta"": ""Qual é o principal impacto da modernização descrita no texto na paisagem natural?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Aumento da biodiversidade""},
+                {""B"": ""Linearização da paisagem""},
+                {""C"": ""Preservação das formas naturais""},
+                {""D"": ""Estímulo ao crescimento de árvores""},
+                {""E"": ""Redução da poluição""}
+            ],
+            ""correct_answer"":[{""B"": ""Linearização da paisagem""}]
+        },
+        {
+            ""pergunta"": ""Por que a modernização descrita no texto não permite questionar a pretensão modernista de que a forma deve seguir a função?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Porque valoriza a estética em detrimento da funcionalidade""},
+                {""B"": ""Porque prioriza a preservação ambiental acima de tudo""},
+                {""C"": ""Porque promove a diversidade de formas na paisagem""},
+                {""D"": ""Porque busca a harmonia entre forma e função""},
+                {""E"": ""Porque ignora completamente a função na paisagem""}
+            ],
+            ""correct_answer"":[{""D"": ""Porque busca a harmonia entre forma e função""}]
+        },
+        {
+            ""pergunta"": ""Qual é a característica predominante das paisagens descritas no texto após a modernização?"",
+            ""bloom_level"": ""Recordar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Troncos retorcidos e arbustos ásperos""},
+                {""B"": ""Solos ácidos e laterizados""},
+                {""C"": ""Formas bizarras dos cupinzeiros""},
+                {""D"": ""Linearidade e uniformidade""},
+                {""E"": ""Presença de árvores frondosas""}
+            ],
+            ""correct_answer"":[{""D"": ""Linearidade e uniformidade""}]
+        },
+        {
+            ""pergunta"": ""Por que os solos descritos no texto são frequentemente laterizados ou tomados pelas formas bizarras dos cupinzeiros?"",
+            ""bloom_level"": ""Aplicar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Devido à ação da chuva ácida""},
+                {""B"": ""Devido à presença de árvores frondosas""},
+                {""C"": ""Devido à falta de nutrientes no solo""},
+                {""D"": ""Devido à modernização linear da paisagem""},
+                {""E"": ""Devido à presença de folhas e arbustos ásperos""}
+            ],
+            ""correct_answer"":[{""A"": ""Devido à ação da chuva ácida""}]
+        },
+        {
+            ""pergunta"": ""Qual é o principal efeito da destruição da paisagem natural descrita no texto?"",
+            ""bloom_level"": ""Avaliar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Aumento da diversidade biológica""},
+                {""B"": ""Redução da poluição atmosférica""},
+                {""C"": ""Perda da complexidade e biodiversidade da paisagem""},
+                {""D"": ""Melhoria na qualidade do solo""},
+                {""E"": ""Estímulo ao crescimento de novas espécies vegetais""}
+            ],
+            ""correct_answer"":[{""C"": ""Perda da complexidade e biodiversidade da paisagem""}]
+        }
+    ]
+}","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""O que a modernização lineariza e não permite que se questione na paisagem?',
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""A diversidade de formas e estruturas"", ""B"": ""A destruição da paisagem"", ""C"": ""A forma deve seguir a função"", ""D"": ""A anatomia das plantas"", ""E"": ""A química dos solos""}
+            ],
+            ""correct_answer"": {""C"": ""A forma deve seguir a função""}
+        },
+        {
+            ""pergunta"": ""Qual é o tipo de tecnologia associado às formas bizarras dos cupinzeiros?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Biologia"", ""B"": ""Ecologia"", ""C"": ""Tecnologia industrial"", ""D"": ""Arquitetura"", ""E"": ""Geologia""}
+            ],
+            ""correct_answer"": {""B"": ""Ecologia""}
+        },
+        {
+            ""pergunta"": ""Qual é o impacto da destruição da paisagem nos solos ácidos?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Os solos se tornam mais férteis"", ""B"": ""Os solos se tornam mais ácidos"", ""C"": ""O uso de químicos é necessário"", ""D"": ""O uso de biológicos é necessário"", ""E"": ""Os solos não são afetados""}
+            ],
+            ""correct_answer"": {""B"": ""Os solos se tornam mais ácidos""}
+        },
+        {
+            ""pergunta"": ""Para Haebsaert, qual é o contexto nos quais os ""gaúchos"" e baianos se cruzam na reinvenção das identidades territoriais?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Na frontera do Brasil com os EUA"", ""B"": ""Nos estados do centro-oeste do Brasil"", ""C"": ""No norte e nordeste do Brasil"", ""D"": ""Na reorganização do território"", ""E"": ""Na globalização econômica""}
+            ],
+            ""correct_answer"": {""C"": ""No norte e nordeste do Brasil""}
+        },
+        {
+            ""pergunta"": ""Qual é o resultado da globalização econômica em relação às identidades territoriais?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""As identidades são unificadas"", ""B"": ""As identidades são complexas"", ""C"": ""As identidades são negadas"", ""D"": ""As identidades são adaptadas"", ""E"": ""As identidades são excluídas""}
+            ],
+            ""correct_answer"": {""D"": ""As identidades são adaptadas""}
+        },
+        {
+            ""pergunta"": ""Qual é o autor do texto que discute a reinvenção das identidades territoriais?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""R. Haebsaert"", ""B"": ""I. Castro"", ""C"": ""P. C. C. Gomes"", ""D"": ""R. L. Corrêa"", ""E"": ""R. Bertrand""}
+            ],
+            ""correct_answer"": {""A"": ""R. Haebsaert""}
+        },
+        {
+            ""pergunta"": ""O que é discutido no contexto da reorganização do território?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""A cinematografia"", ""B"": ""A literatura"", ""C"": ""A reorganização do território"", ""D"": ""A arquitetura"", ""E"": ""A geologia""}
+            ],
+            ""correct_answer"": {""C"": ""A reorganização do território""}
+        },
+        {
+            ""pergunta"": ""Qual é o tipo de obra que o autor do texto está descrevendo no início da leitura?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Uma monografia sobre ecologia"", ""B"": ""Uma obra de literatura brasileira"", ""C"": ""Uma cartografia do Brasil"", ""D"": ""Uma obra sobre reorganização do território"", ""E"": ""Uma obra sobre antropologia""}
+            ],
+            ""correct_answer"": {""D"": ""Uma obra sobre reorganização do território""}
+        },
+        {
+            ""pergunta"": ""Qual é o resultado da modernização linear na paisagem?"",
+            ""bloom_level"": """
+165,MATEMÁTICA E SUAS TECNOLOGIAS,2023,"No alojamento de uma universidade, há alguns quartos com o padrão superior ao dos demais. Um desses quartos ficou disponível, e muitos estudantes se candidataram para morar no local. Para escolher quem ficará com o quarto, um sorteio será realizado. Para esse sorteio, cartões individuais com os nomes de todos os estudantes inscritos serão depositados em uma urna, sendo que, para cada estudante de primeiro ano, será depositado um único cartão com seu nome; para cada estudante de segundo ano, dois cartões com seu nome; e, para cada estudante de terceiro ano, três cartões com seu nome. Foram inscritos 200 estudantes de primeiro ano, 150 de segundo ano e 100 de terceiro ano. Todos os cartões têm a mesma probabilidade de serem sorteados. []","{
+    ""perguntas"":[
+        {
+            ""pergunta"": ""Quantos cartões com nomes são depositados na urna para cada estudante de segundo ano?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Um cartão""},
+                {""B"": ""Dois cartões""},
+                {""C"": ""Três cartões""},
+                {""D"": ""Quatro cartões""},
+                {""E"": ""Cinco cartões""}
+            ],
+            ""correct_answer"":[{""B"": ""Dois cartões""}]
+        },
+        {
+            ""pergunta"": ""Qual é a quantidade total de estudantes inscritos para o sorteio do quarto disponível?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""250 estudantes""},
+                {""B"": ""300 estudantes""},
+                {""C"": ""350 estudantes""},
+                {""D"": ""400 estudantes""},
+                {""E"": ""450 estudantes""}
+            ],
+            ""correct_answer"":[{""C"": ""350 estudantes""}]
+        },
+        {
+            ""pergunta"": ""Se um estudante de terceiro ano tem 3 cartões na urna, qual a probabilidade de um dos cartões desse estudante ser sorteado?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""1/3""},
+                {""B"": ""1/4""},
+                {""C"": ""1/5""},
+                {""D"": ""1/6""},
+                {""E"": ""1/7""}
+            ],
+            ""correct_answer"":[{""A"": ""1/3""}]
+        },
+        {
+            ""pergunta"": ""Qual é a probabilidade de ser sorteado o nome de um estudante de primeiro ano?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""1/3""},
+                {""B"": ""1/4""},
+                {""C"": ""1/5""},
+                {""D"": ""1/6""},
+                {""E"": ""1/7""}
+            ],
+            ""correct_answer"":[{""B"": ""1/4""}]
+        },
+        {
+            ""pergunta"": ""Se um estudante de segundo ano tem um dos seus cartões sorteado, qual a probabilidade de ser o nome desse estudante?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""1/150""},
+                {""B"": ""2/150""},
+                {""C"": ""1/300""},
+                {""D"": ""2/300""},
+                {""E"": ""1/450""}
+            ],
+            ""correct_answer"":[{""A"": ""1/150""}]
+        }
+    ]
+}","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""Quantos cartões com nomes de estudantes de terceiro ano foram depositados na urna?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": {
+                ""A"": ""100"",
+                ""B"": ""300"",
+                ""C"": ""150"",
+                ""D"": ""200"",
+                ""E"": ""250""
+            },
+            ""correct_answer"": {""A"": ""100""}
+        },
+        {
+            ""pergunta"": ""Se um estudante de primeiro ano for sorteado, qual é a probabilidade de o cartão com seu nome ser sorteado?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": {
+                ""A"": ""0,5"",
+                ""B"": ""0,25"",
+                ""C"": ""1"",
+                ""D"": ""0,33"",
+                ""E"": ""0,67""
+            },
+            ""correct_answer"": {""A"": ""0,50""}
+        },
+        {
+            ""pergunta"": ""Se um estudante de segundo ano for sorteado, qual é a probabilidade de o cartão com seu nome ser sorteado?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": {
+                ""A"": ""0,33"",
+                ""B"": ""0,5"",
+                ""C"": ""0,25"",
+                ""D"": ""0,66"",
+                ""E"": ""0,75""
+            },
+            ""correct_answer"": {""B"": ""0,50""}
+        },
+        {
+            ""pergunta"": ""O sorteio para escolher quem ficará com o quarto é um sorteio..."",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": {
+                ""A"": ""com influência em quem é sorteados"",
+                ""B"": ""sem influência em quem é sorteados"",
+                ""C"": ""somente para estudantes de terceiro ano"",
+                ""D"": ""somente para estudantes de primeiro e segundo ano"",
+                ""E"": ""somente para estudantes de todas as classes""
+            },
+            ""correct_answer"": {""B"": ""sem influência em quem é sorteados""}
+        },
+        {
+            ""pergunta"": ""Se mais estudantes de terceiro ano inscreverem-se para morar no local, o número total de cartões com nomes de estudantes depositados na urna aumentará."",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": {
+                ""A"": ""Sim"",
+                ""B"": ""Não"",
+                ""C"": ""Depende do aumento do número de estudantes"",
+                ""D"": ""Somente se os estudantes forem de primeiro ano"",
+                ""E"": ""Somente se os estudantes forem de segundo ano""
+            },
+            ""correct_answer"": {""C"": ""Depende do aumento do número de estudantes""}
+        }
+    ]
+}"
+85,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2017,"
+México, Colômbia, Peru e Chile decidiram seguir um 
+caminho mais curto para a integração regional. Os quatro 
+países, em meados de 2012, criaram a Aliança do Pacífico 
+e eliminaram, em 2013, as tarifas aduaneiras de 90% do 
+total de produtos comercializados entre suas fronteiras.
+
+OLIVEIRA, E. Aliança do Pacífico se fortalece e Mercosul fica à sua sombra. 
+O Globo, 24 fev. 2013 (adaptado).
+","{
+    ""perguntas"":[
+        {
+            ""pergunta"": ""Qual foi o principal objetivo da criação da Aliança do Pacífico pelos países México, Colômbia, Peru e Chile?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Fortalecer o Mercosul.""},
+                {""B"": ""Eliminar as tarifas aduaneiras entre os países.""},
+                {""C"": ""Promover a integração regional.""},
+                {""D"": ""Aumentar as exportações para a Ásia.""},
+                {""E"": ""Reduzir a dependência econômica dos Estados Unidos.""}
+            ],
+            ""correct_answer"":[{""C"": ""Promover a integração regional.""}]
+        },
+        {
+            ""pergunta"": ""Quando os países da Aliança do Pacífico eliminaram as tarifas aduaneiras de 90% dos produtos?"",
+            ""bloom_level"": ""Lembrar"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Em 2010.""},
+                {""B"": ""Em 2011.""},
+                {""C"": ""Em 2012.""},
+                {""D"": ""Em 2013.""},
+                {""E"": ""Em 2014.""}
+            ],
+            ""correct_answer"":[{""D"": ""Em 2013.""}]
+        },
+        {
+            ""pergunta"": ""Qual foi o impacto da criação da Aliança do Pacífico na integração regional?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Aumento das barreiras comerciais.""},
+                {""B"": ""Diminuição do comércio entre os países.""},
+                {""C"": ""Fortalecimento das relações com a Europa.""},
+                {""D"": ""Estímulo ao comércio e investimentos na região.""},
+                {""E"": ""Isolamento econômico dos países membros.""}
+            ],
+            ""correct_answer"":[{""D"": ""Estímulo ao comércio e investimentos na região.""}]
+        },
+        {
+            ""pergunta"": ""Quais países fazem parte da Aliança do Pacífico?"",
+            ""bloom_level"": ""Lembrar"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Brasil, Argentina, Uruguai e Paraguai.""},
+                {""B"": ""México, Colômbia, Peru e Chile.""},
+                {""C"": ""Estados Unidos, Canadá, México e Brasil.""},
+                {""D"": ""Argentina, Chile, Bolívia e Equador.""},
+                {""E"": ""Venezuela, Colômbia, Peru e Panamá.""}
+            ],
+            ""correct_answer"":[{""B"": ""México, Colômbia, Peru e Chile.""}]
+        },
+        {
+            ""pergunta"": ""Qual foi o ano de criação da Aliança do Pacífico?"",
+            ""bloom_level"": ""Lembrar"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""2010.""},
+                {""B"": ""2011.""},
+                {""C"": ""2012.""},
+                {""D"": ""2013.""},
+                {""E"": ""2014.""}
+            ],
+            ""correct_answer"":[{""C"": ""2012.""}]
+        }
+    ]
+}","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""Qual foi a data em que os países México, Colômbia, Peru e Chile criaram a Aliança do Pacífico?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": {
+                ""A"": ""2010"",
+                ""B"": ""2011"",
+                ""C"": ""2012"",
+                ""D"": ""2014"",
+                ""E"": ""2015""
+            },
+            ""correct_answer"": {""C"": ""2012""}
+        },
+        {
+            ""pergunta"": ""O que foram eliminados pela Aliança do Pacífico em 2013?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": {
+                ""A"": ""Tarifas de transporte"",
+                ""B"": ""Tarifas aduaneiras de 90% de produtos comerciais"",
+                ""C"": ""Limitações de trânsito"",
+                ""D"": ""Restrições ambientais"",
+                ""E"": ""Limitações comerciais""
+            },
+            ""correct_answer"": {""B"": ""Tarifas aduaneiras de 90% de produtos comerciais""}
+        },
+        {
+            ""pergunta"": ""Qual foi o objetivo da Aliança do Pacífico?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": {
+                ""A"": ""Fortalecer o Mercosul"",
+                ""B"": ""Criar uma aliança militar"",
+                ""C"": ""Estabelecer um mercado único"",
+                ""D"": ""Promover a integração regional"",
+                ""E"": ""Permitir o livre comércio entre os países membros""
+            },
+            ""correct_answer"": {""E"": ""Promover a integração regional""}
+        },
+        {
+            ""pergunta"": ""Qual foi o resultado da Aliança do Pacífico em termos de comércio?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": {
+                ""A"": ""Aumento de 10% nos volumes comerciais"",
+                ""B"": ""Aumento de 50% nos volumes comerciais"",
+                ""C"": ""Eliminação de tarifas aduaneiras de 90% de produtos comerciais"",
+                ""D"": ""Redução de 20% nos volumes comerciais"",
+                ""E"": ""Nenhum impacto no comércio""
+            },
+            ""correct_answer"": {""C"": ""Eliminação de tarifas aduaneiras de 90% de produtos comerciais""}
+        },
+        {
+            ""pergunta"": "" Qual foi o impacto da Aliança do Pacífico no Mercosul?"",
+            ""bloom_level"": ""Create"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": {
+                ""A"": ""A Aliança do Pacífico fortaleceu o Mercosul"",
+                ""B"": ""A Aliança do Pacífico debilitou o Mercosul"",
+                ""C"": ""A Aliança do Pacífico não teve impacto no Mercosul"",
+                ""D"": ""A Aliança do Pacífico substituiu o Mercosul"",
+                ""E"": ""A Aliança do Pacífico foi um acréscimo ao Mercosul""
+            },
+            ""correct_answer"": {""C"": ""A Aliança do Pacífico não teve impacto no Mercosul""}
+        }
+    ]
+}"
+121,CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS,2017,"
+Alguns tipos de dessalinizadores usam o processo de 
+osmose reversa para obtenção de água potável a partir 
+da água salgada. Nesse método, utiliza-se um recipiente 
+contendo  dois  compartimentos  separados  por  uma 
+membrana semipermeável: em um deles coloca-se água 
+salgada e no outro recolhe-se a água potável. A aplicação 
+de pressão mecânica no sistema faz a água fluir de um 
+compartimento para o outro. O movimento das moléculas 
+de água através da membrana é controlado pela pressão 
+osmótica e pela pressão mecânica aplicada.
+","{
+    ""perguntas"":[
+        {
+            ""pergunta"": ""Qual é o processo utilizado por alguns dessalinizadores para obtenção de água potável a partir da água salgada?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Destilação""},
+                {""B"": ""Filtragem""},
+                {""C"": ""Osmose reversa""},
+                {""D"": ""Evaporação""},
+                {""E"": ""Decantação""}
+            ],
+            ""correct_answer"": [{""C"": ""Osmose reversa""}]
+        },
+        {
+            ""pergunta"": ""O que controla o movimento das moléculas de água através da membrana na osmose reversa?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Pressão atmosférica""},
+                {""B"": ""Pressão osmótica e pressão mecânica""},
+                {""C"": ""Gravidade""},
+                {""D"": ""Temperatura da água""},
+                {""E"": ""Composição química da água""}
+            ],
+            ""correct_answer"": [{""B"": ""Pressão osmótica e pressão mecânica""}]
+        },
+        {
+            ""pergunta"": ""Qual é a função da membrana semipermeável no processo de osmose reversa?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Permitir a passagem apenas de íons positivos""},
+                {""B"": ""Permitir a passagem apenas de íons negativos""},
+                {""C"": ""Permitir a passagem apenas de moléculas de água""},
+                {""D"": ""Bloquear a passagem de íons e moléculas grandes""},
+                {""E"": ""Bloquear a passagem de moléculas de água""}
+            ],
+            ""correct_answer"": [{""E"": ""Bloquear a passagem de moléculas de água""}]
+        },
+        {
+            ""pergunta"": ""Por que é necessária a aplicação de pressão mecânica no sistema de osmose reversa?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Para aumentar a pressão osmótica""},
+                {""B"": ""Para facilitar a passagem de íons""},
+                {""C"": ""Para evitar a formação de cristais de sal""},
+                {""D"": ""Para fazer a água fluir de um compartimento para o outro""},
+                {""E"": ""Para diminuir a eficiência do processo""}
+            ],
+            ""correct_answer"": [{""D"": ""Para fazer a água fluir de um compartimento para o outro""}]
+        },
+        {
+            ""pergunta"": ""Qual é o principal objetivo da osmose reversa em dessalinizadores?"",
+            ""bloom_level"": ""Create"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Eliminar completamente o sal da água""},
+                {""B"": ""Recuperar os minerais presentes na água salgada""},
+                {""C"": ""Produzir água potável a partir da água salgada""},
+                {""D"": ""Aumentar a concentração de sal na água""},
+                {""E"": ""Diminuir a eficiência do processo de dessalinização""}
+            ],
+            ""correct_answer"": [{""C"": ""Produzir água potável a partir da água salgada""}]
+        }
+    ]
+}",
+134,CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS,2023,"As aves apresentam dois tipos de músculos em seus corpos: vermelhos e brancos. Aves migratórias como garças, gansos e patos selvagens têm os músculos vermelhos bem desenvolvidos, com ampla rede de vasos sanguíneos. []","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""Qual é a característica dos músculos das aves migratórias como garças, gansos e patos selvagens?"",
+            ""bloom_level"": ""1"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Músculos azuis""},
+                {""B"": ""Músculos vermelhos""},
+                {""C"": ""Músculos verdes""},
+                {""D"": ""Músculos amarelos""},
+                {""E"": ""Músculos brancos""}
+            ],
+            ""correct_answer"": [{""B"": ""Músculos vermelhos""}]
+        },
+        {
+            ""pergunta"": ""Por que os músculos vermelhos das aves migratórias são bem desenvolvidos?"",
+            ""bloom_level"": ""2"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Para voar mais rápido""},
+                {""B"": ""Para armazenar mais gordura""},
+                {""C"": ""Para suportar longas jornadas de voo""},
+                {""D"": ""Para nadar melhor""},
+                {""E"": ""Para cantar mais alto""}
+            ],
+            ""correct_answer"": [{""C"": ""Para suportar longas jornadas de voo""}]
+        },
+        {
+            ""pergunta"": ""Qual é a função da ampla rede de vasos sanguíneos nos músculos vermelhos das aves migratórias?"",
+            ""bloom_level"": ""3"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Regular a temperatura corporal""},
+                {""B"": ""Facilitar a digestão""},
+                {""C"": ""Ajudar na visão noturna""},
+                {""D"": ""Auxiliar na respiração debaixo d'água""},
+                {""E"": ""Aumentar a velocidade de voo""}
+            ],
+            ""correct_answer"": [{""A"": ""Regular a temperatura corporal""}]
+        },
+        {
+            ""pergunta"": ""Como os músculos brancos das aves se comparam aos músculos vermelhos em termos de resistência à fadiga?"",
+            ""bloom_level"": ""4"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Os músculos brancos são mais resistentes à fadiga""},
+                {""B"": ""Os músculos vermelhos são mais resistentes à fadiga""},
+                {""C"": ""Ambos têm a mesma resistência à fadiga""},
+                {""D"": ""Os músculos brancos são menos resistentes à fadiga""},
+                {""E"": ""Os músculos brancos não se cansam""}
+            ],
+            ""correct_answer"": [{""B"": ""Os músculos vermelhos são mais resistentes à fadiga""}]
+        },
+        {
+            ""pergunta"": ""Por que os músculos vermelhos das aves migratórias são importantes para sua sobrevivência?"",
+            ""bloom_level"": ""5"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Para atrair parceiros durante o acasalamento""},
+                {""B"": ""Para armazenar alimentos por longos períodos""},
+                {""C"": ""Para se camuflar de predadores""},
+                {""D"": ""Para suportar condições climáticas extremas""},
+                {""E"": ""Para realizar migrações de longa distância""}
+            ],
+            ""correct_answer"": [{""E"": ""Para realizar migrações de longa distância""}]
+        }
+    ]
+}","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""O tipo de músculo NN é caracterizado por ter uma estrutura mais fina e nicho."",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Vermelho"", ""B"": ""Branco"", ""C"": ""Vermelho e branco"", ""D"": ""Esquelético"", ""E"": ""Milenário""},
+                ""correct_answer"": {""A"": ""Branco""}
+            ]
+        },
+        {
+            ""pergunta"": ""Qual é o caractere principal que distingue os músculos vermelhos das aves migratórias?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Esteroides"", ""B"": ""Vasos sanguíneos"", ""C"": ""Tamanho"", ""D"": ""Cor"", ""E"": ""Composição proteica""},
+                ""correct_answer"": {""B"": ""Vasos sanguíneos""}
+            ]
+        },
+        {
+            ""pergunta"": ""Os músculos vermelhos em aves migratórias apresentam uma maior capacidade de _______."",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Produção de energia"", ""B"": ""Afrouxamento"", ""C"": ""Contração"", ""D"": "" Relaxamento"", ""E"": "" Regeneração""},
+                ""correct_answer"": {""A"": ""Produção de energia""}
+            ]
+        },
+        {
+            ""pergunta"": ""A características dos músculos vermelhos em aves migratórias permite que estes animais realizar _______."",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Voltar ao seu habitat natal"", ""B"": ""Desenvolver uma coloração mais viva"", ""C"": ""Realizar voos mais longos"", ""D"": ""Criar um maior ombreiro"", ""E"": ""Migrar com mais eficiência""},
+                ""correct_answer"": {""C"": ""Realizar voos mais longos""}
+            ]
+        },
+        {
+            ""pergunta"": ""A falta de desenvolvimento dos músculos vermelhos em aves não migratórias é características de _______."",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Gaviões"", ""B"": ""Gansos"", ""C"": ""Motoristas"", ""D"": ""Patos selvagens"", ""E"": ""Aves que se adaptam imejetefamente""},
+                ""correct_answer"": {""D"": ""Patos selvagens""}
+            ]
+        },
+        {
+            ""pergunta"": ""A construção de uma avião biológica inspirada nos músculos vermelhos de aves migratórias pode ter _______."",
+            ""bloom_level"": ""Create"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Melhor eficiência energética"", ""B"": ""Menor resistência aérea"", ""C"": ""Aumento de velocidade"", ""D"": ""Maior capacidade de transporte"", ""E"": ""Melhoria da sustentação""},
+                ""correct_answer"": {""A"": ""Melhor eficiência energética""}
+            ]
+        },
+        {
+            ""pergunta"": ""Os músculos brancos em aves são tratados como _______."",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Músculos esqueléticos"", ""B"": ""Músculos lisos"", ""C"": ""Músculos vértebrados"", ""D"": ""Músculos involuntários"", ""E"": ""Músculos contratáveis""},
+                ""correct_answer"": {""A"": ""Músculos esqueléticos""}
+            ]
+        },
+        {
+            ""pergunta"": ""Qual é a principal diferença entre os músculos vermelhos e brancos em aves?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Tamanho"", ""B"": ""Função"", ""C"": ""Cor"", ""D"": ""Composição química"", ""E"": ""Estrutura histológica""},
+                ""correct_answer"": {""B"": ""Função""}
+            ]
+        },
+        {
+            ""pergunta"": ""Os músculos vermelhos em aves migratórias têm uma distribuição mais espalhada em _______."",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Corpo inteiro"", ""B"": ""Pernas"", ""C"": ""Asas"", """
+144,MATEMÁTICA E SUAS TECNOLOGIAS,2017,"Um empréstimo foi feito à taxa mensal de i % ,  usando 
+juros compostos, em oito parcelas fixas e iguais a P.
+O  devedor  tem  a  possibilidade  de  quitar  a  dívida 
+antecipadamente  a  qualquer  momento,  pagando 
+para  isso  o  valor  atual  das  parcelas  ainda  a  pagar. 
+Após pagar a 5ª parcela, resolve quitar a dívida no ato 
+de pagar a 6ª parcela.
+","{
+    ""perguntas"":[
+        {
+            ""pergunta"": ""Qual é o conceito matemático relacionado ao processo em que o devedor tem a possibilidade de quitar a dívida antecipadamente pagando o valor atual das parcelas ainda a pagar?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Juros Simples""},
+                {""B"": ""Amortização""},
+                {""C"": ""Montante""},
+                {""D"": ""Taxa de Juros""},
+                {""E"": ""Capital Inicial""}
+            ],
+            ""correct_answer"": [{""B"": ""Amortização""}]
+        },
+        {
+            ""pergunta"": ""Qual é o número total de parcelas fixas e iguais em que o empréstimo foi dividido?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""5 parcelas""},
+                {""B"": ""6 parcelas""},
+                {""C"": ""7 parcelas""},
+                {""D"": ""8 parcelas""},
+                {""E"": ""9 parcelas""}
+            ],
+            ""correct_answer"": [{""D"": ""8 parcelas""}]
+        },
+        {
+            ""pergunta"": ""O que o devedor resolve fazer após pagar a 5ª parcela?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Quitar a dívida""},
+                {""B"": ""Solicitar um novo empréstimo""},
+                {""C"": ""Negociar novas condições de pagamento""},
+                {""D"": ""Deixar de pagar as parcelas restantes""},
+                {""E"": ""Aumentar o valor das parcelas""}
+            ],
+            ""correct_answer"": [{""A"": ""Quitar a dívida""}]
+        },
+        {
+            ""pergunta"": ""Qual é o tipo de juros utilizado no empréstimo descrito?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Juros Simples""},
+                {""B"": ""Juros Compostos""},
+                {""C"": ""Juros Fixos""},
+                {""D"": ""Juros Variáveis""},
+                {""E"": ""Juros Nominais""}
+            ],
+            ""correct_answer"": [{""B"": ""Juros Compostos""}]
+        },
+        {
+            ""pergunta"": ""O que o devedor precisa pagar para quitar a dívida antecipadamente?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Valor futuro das parcelas""},
+                {""B"": ""Valor presente das parcelas""},
+                {""C"": ""Valor total das parcelas""},
+                {""D"": ""Valor médio das parcelas""},
+                {""E"": ""Valor máximo das parcelas""}
+            ],
+            ""correct_answer"": [{""B"": ""Valor presente das parcelas""}]
+        }
+    ]
+}",
+79,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2017,"
+Muitos países se caracterizam por terem populações 
+multiétnicas.  Com  frequência,  evoluíram  desse  modo 
+ao  longo  de  séculos.  Outras  sociedades  se  tornaram 
+multiétnicas  mais  rapidamente,  como  resultado  de 
+políticas incentivando a migração, ou por conta de legados 
+coloniais e imperiais. 
+
+GIDDENS, A. Sociologia. Porto Alegre: Penso, 2012 (adaptado).
+","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""Qual é um dos motivos que podem levar um país a se tornar multiétnico mais rapidamente?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Políticas incentivando a migração""},
+                {""B"": ""Legados coloniais e imperiais""},
+                {""C"": ""Evolução ao longo de séculos""},
+                {""D"": ""Isolamento geográfico""},
+                {""E"": ""Homogeneidade étnica""}
+            ],
+            ""correct_answer"": [{""A"": ""Políticas incentivando a migração""}]
+        },
+        {
+            ""pergunta"": ""O que caracteriza muitos países com populações multiétnicas?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Homogeneidade étnica""},
+                {""B"": ""Evolução rápida ao longo de séculos""},
+                {""C"": ""Legados coloniais e imperiais""},
+                {""D"": ""Diversidade étnica""},
+                {""E"": ""Isolamento geográfico""}
+            ],
+            ""correct_answer"": [{""D"": ""Diversidade étnica""}]
+        },
+        {
+            ""pergunta"": ""Por que algumas sociedades se tornam multiétnicas mais rapidamente?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Por conta de legados coloniais e imperiais""},
+                {""B"": ""Devido à evolução ao longo de séculos""},
+                {""C"": ""Em decorrência do isolamento geográfico""},
+                {""D"": ""Por políticas incentivando a migração""},
+                {""E"": ""Pela homogeneidade étnica""}
+            ],
+            ""correct_answer"": [{""D"": ""Por políticas incentivando a migração""}]
+        },
+        {
+            ""pergunta"": ""Qual é um fator que pode contribuir para a formação de populações multiétnicas ao longo de séculos?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Isolamento geográfico""},
+                {""B"": ""Homogeneidade étnica""},
+                {""C"": ""Legados coloniais e imperiais""},
+                {""D"": ""Políticas de exclusão étnica""},
+                {""E"": ""Migração em massa repentina""}
+            ],
+            ""correct_answer"": [{""C"": ""Legados coloniais e imperiais""}]
+        },
+        {
+            ""pergunta"": ""Por que é importante considerar o contexto histórico ao analisar a formação de populações multiétnicas?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Para justificar a homogeneidade étnica""},
+                {""B"": ""Para compreender a diversidade cultural""},
+                {""C"": ""Para ignorar as políticas migratórias""},
+                {""D"": ""Para simplificar a análise sociológica""},
+                {""E"": ""Para contextualizar as influências coloniais e imperiais""}
+            ],
+            ""correct_answer"": [{""E"": ""Para contextualizar as influências coloniais e imperiais""}]
+        }
+    ]
+}","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""O que caracteriza a formação de populações multiétnicas em muitos países?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": {
+                ""A"": ""A migração voluntária"",
+                ""B"": ""A colonização e herança colonial"",
+                ""C"": ""A fusão de culturas naturais e não naturais"",
+                ""D"": ""A águaそしてa agricultura"",
+                ""E"": ""A política e a economia""
+            },
+            ""correct_answer"": {""A"": ""A colonização e herança colonial""}
+        },
+        {
+            ""pergunta"": ""Como resultado de políticas, muitas sociedades se tornaram multiétnicas rapidamente?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": {
+                ""A"": ""A imigração forçada"",
+                ""B"": ""A política de migração selectiva"",
+                ""C"": ""A atração econômica e política"",
+                ""D"": ""A política de imposição cultural"",
+                ""E"": ""A ação dos governos""
+            },
+            ""correct_answer"": {""C"": ""A atração econômica e política""}
+        },
+        {
+            ""pergunta"": ""Além da colonização e herança colonial, quais outros fatores influenciam a formação de populações multiétnicas?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": {
+                ""A"": ""A política de imposição cultural"",
+                ""B"": ""A migração emocional"",
+                ""C"": ""A economia globalizada"",
+                ""D"": ""A técnologia da informação"",
+                ""E"": ""A ausência de uma política de imigração""
+            },
+            ""correct_answer"": {""B"": ""A migração emocional"", ""C"": ""A economia globalizada""}
+        },
+        {
+            ""pergunta"": ""Quais consequências positivas podem ser identificadas na formação de populações multiétnicas?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": {
+                ""A"": ""Aumento do conflito social"",
+                ""B"": ""Aumento da produção econômica"",
+                ""C"": ""Meta tipping point cultural e económico"",
+                ""D"": ""Desenvolvimento da diversidade cultural"",
+                ""E"": ""Aumento da pobreza""
+            },
+            ""correct_answer"": {""D"": ""Desenvolvimento da diversidade cultural"", ""B"": ""Aumento da produção econômica""}
+        },
+        {
+            ""pergunta"": ""Como as populações multiétnicas podem ser caracterizadas em relação ao tempo?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": {
+                ""A"": ""Criando-se rapidamente"",
+                ""B"": ""Evoluindo lentamente"",
+                ""C"": ""Formando-se em séculos"",
+                ""D"": ""Se desenvolvendo em milénios"",
+                ""E"": ""Desenvolvendo-se em décadas""
+            },
+            ""correct_answer"": {""C"": ""Formando-se em séculos""}
+        }
+    ]
+}"
+69,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2023,"Os movimentos da agricultura urbana no Rio de Janeiro vêm crescendo nos últimos vinte anos, tanto por meio de reproduções de modelos de vida antigos, vinculados ao resgate dos próprios costumes, como — e cada vez mais — são revelados hábitos inventivos nos quais moradores urbanos de diferentes classes sociais, sem nenhuma referência anterior com o campo, passam a se dedicar a essas atividades. Ao possibilitar o acesso ao plantio e, consequentemente, à alimentação, permite-se uma nova relação com o que se come, reduzindo o percurso da cadeia produtiva e aproximando produtores de consumidores, pois ambos se confundem nas experiências de agricultura urbana. []","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""Qual é um dos motivos que tem impulsionado o crescimento dos movimentos de agricultura urbana no Rio de Janeiro nos últimos vinte anos?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Resgate de modelos de vida antigos""},
+                {""B"": ""Aumento do desemprego na área urbana""},
+                {""C"": ""Incentivo do governo para práticas agrícolas""},
+                {""D"": ""Diminuição da população urbana""},
+                {""E"": ""Aumento da poluição nas áreas urbanas""}
+            ],
+            ""correct_answer"": [{""A"": ""Resgate de modelos de vida antigos""}]
+        },
+        {
+            ""pergunta"": ""Como a agricultura urbana pode contribuir para uma nova relação com a alimentação?"",
+            ""bloom_level"": ""Aplicar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Reduzindo a diversidade de alimentos consumidos""},
+                {""B"": ""Aumentando o custo dos alimentos""},
+                {""C"": ""Aproximando produtores de consumidores""},
+                {""D"": ""Aumentando a dependência de supermercados""},
+                {""E"": ""Diminuindo a variedade de produtos disponíveis""}
+            ],
+            ""correct_answer"": [{""C"": ""Aproximando produtores de consumidores""}]
+        },
+        {
+            ""pergunta"": ""Qual é um dos benefícios da agricultura urbana em relação à cadeia produtiva?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Aumento do desperdício de alimentos""},
+                {""B"": ""Aumento da distância entre produtores e consumidores""},
+                {""C"": ""Redução do percurso da cadeia produtiva""},
+                {""D"": ""Aumento da dependência de alimentos importados""},
+                {""E"": ""Diminuição da qualidade dos alimentos produzidos""}
+            ],
+            ""correct_answer"": [{""C"": ""Redução do percurso da cadeia produtiva""}]
+        },
+        {
+            ""pergunta"": ""Por que a agricultura urbana tem atraído moradores urbanos de diferentes classes sociais?"",
+            ""bloom_level"": ""Avaliar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Por ser uma atividade lucrativa""},
+                {""B"": ""Por proporcionar contato com a natureza""},
+                {""C"": ""Por permitir uma nova relação com a alimentação""},
+                {""D"": ""Por ser uma prática tradicional na cidade""},
+                {""E"": ""Por ser uma exigência do governo local""}
+            ],
+            ""correct_answer"": [{""C"": ""Por permitir uma nova relação com a alimentação""}]
+        },
+        {
+            ""pergunta"": ""Qual é um dos impactos positivos da agricultura urbana na sociedade?"",
+            ""bloom_level"": ""Criar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Aumento da dependência de alimentos industrializados""},
+                {""B"": ""Diminuição da consciência alimentar""},
+                {""C"": ""Fortalecimento do comércio de alimentos importados""},
+                {""D"": ""Redução do desperdício de alimentos""},
+                {""E"": ""Aumento da poluição nas áreas urbanas""}
+            ],
+            ""correct_answer"": [{""D"": ""Redução do desperdício de alimentos""}]
+        }
+    ]
+}",
+18,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2017,"
+A língua tupi no Brasil
+
+Há  300  anos,  morar  na  vila  de  São  Paulo  de 
+Piratininga  (peixe  seco,  em  tupi)  era  quase  sinônimo 
+de  falar  língua  de  índio.  Em  cada  cinco  habitantes 
+da  cidade,  só  dois  conheciam  o  português.  Por  isso, 
+em  1698,  o  governador  da  província,  Artur  de  Sá  e 
+Meneses, implorou a Portugal que só mandasse padres 
+que soubessem “a língua geral dos índios”, pois “aquela 
+gente não se explica em outro idioma”.
+
+Derivado  do  dialeto  de  São  Vicente,  o  tupi  de 
+São Paulo se desenvolveu e se espalhou no século XVII, 
+graças ao isolamento geográfico da cidade e à atividade 
+pouco  cristã  dos  mamelucos  paulistas:  as  bandeiras, 
+expedições  ao  sertão  em  busca  de  escravos  índios. 
+Muitos bandeirantes nem sequer falavam o português 
+ou  se  expressavam  mal.  Domingos  Jorge  Velho,  o 
+paulista  que  destruiu  o  Quilombo  dos  Palmares  em 
+1694, foi descrito pelo bispo de Pernambuco como “um 
+bárbaro que nem falar sabe”. Em suas andanças, essa 
+gente batizou lugares como Avanhandava (lugar onde o 
+índio corre), Pindamonhangaba (lugar de fazer anzol) e 
+Itu (cachoeira). E acabou inventando uma nova língua.
+“Os  escravos  dos  bandeirantes  vinham  de  mais  de 
+100 tribos diferentes”, conta o historiador e antropólogo 
+John Monteiro, da Universidade Estadual de Campinas. 
+“Isso  mudou  o  tupi  paulista,  que,  além  da  influência  do 
+português,  ainda  recebia  palavras  de  outros  idiomas.” 
+O resultado da mistura ficou conhecido como língua geral 
+do sul, uma espécie de tupi facilitado.
+
+ÂNGELO, C. Disponível em: http://super.abril.com.br. Acesso em: 8 ago. 2012 (adaptado).
+","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""Qual era a situação linguística predominante na vila de São Paulo de Piratininga há 300 anos?"",
+            ""bloom_level"": ""Compreensão"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""A maioria dos habitantes falava português.""},
+                {""B"": ""A maioria dos habitantes falava tupi.""},
+                {""C"": ""Todos os habitantes falavam português.""},
+                {""D"": ""Todos os habitantes falavam tupi.""},
+                {""E"": ""Metade dos habitantes falava português e metade falava tupi.""}
+            ],
+            ""correct_answer"": [{""B"": ""A maioria dos habitantes falava tupi.""}]
+        },
+        {
+            ""pergunta"": ""Por que o governador da província Artur de Sá e Meneses solicitou a Portugal que enviasse padres que soubessem a 'língua geral dos índios'?"",
+            ""bloom_level"": ""Aplicação"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Para facilitar o comércio com os indígenas.""},
+                {""B"": ""Porque os padres portugueses não sabiam falar tupi.""},
+                {""C"": ""Porque a população local não se comunicava em português.""},
+                {""D"": ""Para ensinar a língua portuguesa aos indígenas.""},
+                {""E"": ""Para converter os indígenas ao cristianismo.""}
+            ],
+            ""correct_answer"": [{""C"": ""Porque a população local não se comunicava em português.""}]
+        },
+        {
+            ""pergunta"": ""Como o tupi de São Paulo se desenvolveu e se espalhou no século XVII?"",
+            ""bloom_level"": ""Análise"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Devido à influência dos bandeirantes.""},
+                {""B"": ""Graças ao isolamento geográfico da cidade.""},
+                {""C"": ""Por meio das expedições ao sertão em busca de escravos indígenas.""},
+                {""D"": ""Devido à atividade pouco cristã dos mamelucos paulistas.""},
+                {""E"": ""Por causa da presença de padres portugueses na região.""}
+            ],
+            ""correct_answer"": [{""B"": ""Graças ao isolamento geográfico da cidade.""}]
+        },
+        {
+            ""pergunta"": ""O que contribuiu para a formação da 'língua geral do sul'?"",
+            ""bloom_level"": ""Análise"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""A presença de mais de 100 tribos diferentes na região.""},
+                {""B"": ""A influência do português e de outros idiomas.""},
+                {""C"": ""A destruição do Quilombo dos Palmares.""},
+                {""D"": ""A falta de conhecimento linguístico dos bandeirantes.""},
+                {""E"": ""A presença de padres que falavam tupi fluentemente.""}
+            ],
+            ""correct_answer"": [{""B"": ""A influência do português e de outros idiomas.""}]
+        },
+        {
+            ""pergunta"": ""Qual foi o resultado da mistura linguística ocorrida no tupi paulista?"",
+            ""bloom_level"": ""Avaliação"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""A formação de uma nova língua chamada 'tupi facilitado'.""},
+                {""B"": ""A extinção do tupi como língua falada na região.""},
+                {""C"": ""A adoção do português como língua oficial.""},
+                {""D"": ""A criação de um alfabeto tupi-português.""},
+                {""E"": ""A tradução de textos religiosos para o tupi.""}
+            ],
+            ""correct_answer"": [{""A"": ""A formação de uma nova língua chamada 'tupi facilitado'.""}]
+        }
+    ]
+}","aqui está o JSON com as questões de múltipla escolha:
+
+{
+""perguntas"": [
+{
+""pergunta"": ""Quando era quase sinônimo morar na vila de São Paulo de Piratininga falar língua de índio?"",
+""bloom_level"": ""Remember"",
+""difficult_level"": ""Beginner"",
+""options"": [
+{""A"": ""Há 100 anos"", ""B"": ""Há 300 anos"", ""C"": ""Há séculos"", ""D"": ""Desde a fundação de São Paulo"", ""E"": ""Sempre""}
+],
+""correct_answer"": [{""B"": ""Há 300 anos""}]
+},
+{
+""pergunta"": ""Qual foi o motivos pelo qual o governador da província implorou a Portugal que mandasse padres que soubessem a língua geral dos índios?"",
+""bloom_level"": ""Understand"",
+""difficult_level"": ""Intermediate"",
+""options"": [
+{""A"": ""Para ensinar português aos índios"", ""B"": ""Para promover a cristianização dos índios"", ""C"": ""Porque aquela gente não se explica em outro idioma"", ""D"": ""Para impedir a influência indígena"", ""E"": ""Sem outro motivo""]
+],
+""correct_answer"": [{""C"": ""Porque aquela gente não se explica em outro idioma""}]
+},
+{
+""pergunta"": ""Onde se desenvolveu o tupi de São Paulo?"",
+""bloom_level"": ""Understand"",
+""difficult_level"": ""Beginner"",
+""options"": [
+{""A"": ""Em São Vicente"", ""B"": ""No sertão"", ""C"": ""Em São Paulo"", ""D"": ""Em Pernambuco"", ""E"": ""Em Portugal""]
+],
+""correct_answer"": [{""A"": ""Em São Vicente""}]
+},
+{
+""pergunta"": ""Quais foram os grupos que se integravam às bandeiras paulistas?"",
+""bloom_level"": ""Apply"",
+""difficult_level"": ""Intermediate"",
+""options"": [
+{""A"": ""Só índios"", ""B"": ""Só portugueses"", ""C"": ""Índios e portugueses"", ""D"": ""Muitos bandeirantes nem sequer falavam português"", ""E"": ""Nenhum dos acima""]
+],
+""correct_answer"": [{""D"": ""Muitos bandeirantes nem sequer falavam português""}]
+},
+{
+""pergunta"": ""Como se chamou o resultado da mistura linguística entre o tupi e outras línguas?"",
+""bloom_level"": ""Understand"",
+""difficult_level"": ""Intermediate"",
+""options"": [
+{""A"": ""Língua geral do sul"", ""B"": ""Língua tupi pura"", ""C"": ""Tupi facilizado"", ""D"": ""Língua portuguesa"", ""E"": ""Língua indígena""]
+],
+""correct_answer"": [{""A"": ""Língua geral do sul""}]
+},
+{
+""pergunta"": ""Quais tribos diferentes vieram dos bandeirantes"",
+""bloom_level"": ""Apply"",
+""difficult_level"": ""Intermediate"",
+""options"": [
+{""A"": ""Até 50"", ""B"": ""Até 100"", ""C"": ""Até 200"", ""D"": ""Mais de 100"", ""E"": ""Não há registro""]
+],
+""correct_answer"": [{""D"": ""Mais de 100""}]
+}
+]
+}"
+14,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2017,"
+Mas  assim  que  penetramos  no  universo  da  web,
+descobrimos  que  ele  constitui  não  apenas  um  imenso 
+“território”  em  expansão  acelerada,  mas  que  também 
+oferece  inúmeros  “mapas”,  filtros,  seleções  para  ajudar 
+o navegante a orientar-se. O melhor guia para a web é 
+a  própria  web.  Ainda  que  seja  preciso  ter  a  paciência 
+de explorá-la. Ainda que seja preciso arriscar-se a ficar 
+perdido,  aceitar  “a  perda  de  tempo”  para  familiarizar-se 
+com esta terra estranha. Talvez seja preciso ceder por um 
+instante a seu aspecto lúdico para descobrir, no desvio 
+de um link, os sites que mais se aproximam de nossos 
+interesses  profissionais  ou  de  nossas  paixões  e  que 
+poderão, portanto, alimentar da melhor maneira possível 
+nossa jornada pessoal.
+
+LÉVY, P. Cibercultura. São Paulo: Editora 34, 1999.
+","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""Qual é a metáfora utilizada para descrever a web no texto?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Um oceano de informações""},
+                {""B"": ""Um labirinto sem saída""},
+                {""C"": ""Um deserto de possibilidades""},
+                {""D"": ""Um jardim de conhecimento""},
+                {""E"": ""Uma montanha de desafios""}
+            ],
+            ""correct_answer"": [{""A"": ""Um oceano de informações""}]
+        },
+        {
+            ""pergunta"": ""Por que o autor sugere que é preciso ter paciência ao explorar a web?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Para evitar ficar perdido""},
+                {""B"": ""Para familiarizar-se com a terra estranha""},
+                {""C"": ""Para ceder ao aspecto lúdico""},
+                {""D"": ""Para alimentar a jornada pessoal""},
+                {""E"": ""Para descobrir sites de interesse profissional""}
+            ],
+            ""correct_answer"": [{""B"": ""Para familiarizar-se com a terra estranha""}]
+        },
+        {
+            ""pergunta"": ""Qual é a principal função dos 'mapas', filtros e seleções mencionados no texto?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Orientar o navegante na web""},
+                {""B"": ""Criar desafios para os usuários""},
+                {""C"": ""Bloquear o acesso a sites indesejados""},
+                {""D"": ""Acelerar a expansão da web""},
+                {""E"": ""Eliminar a necessidade de explorar a web""}
+            ],
+            ""correct_answer"": [{""A"": ""Orientar o navegante na web""}]
+        },
+        {
+            ""pergunta"": ""Por que o autor menciona a 'perda de tempo' ao se referir à exploração da web?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Para desencorajar a navegação na web""},
+                {""B"": ""Para destacar a importância do tempo""},
+                {""C"": ""Para enfatizar a necessidade de rapidez""},
+                {""D"": ""Para valorizar a familiarização com a web""},
+                {""E"": ""Para promover a procrastinação""}
+            ],
+            ""correct_answer"": [{""D"": ""Para valorizar a familiarização com a web""}]
+        },
+        {
+            ""pergunta"": ""Qual é a sugestão do autor ao mencionar que 'o melhor guia para a web é a própria web'?"",
+            ""bloom_level"": ""Create"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Depender exclusivamente de sites de busca""},
+                {""B"": ""Explorar diferentes fontes de informação""},
+                {""C"": ""Ignorar a orientação de especialistas""},
+                {""D"": ""Confiar apenas em recomendações pessoais""},
+                {""E"": ""Desconsiderar a relevância dos mapas e filtros""}
+            ],
+            ""correct_answer"": [{""B"": ""Explorar diferentes fontes de informação""}]
+        }
+    ]
+}","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""O que a autora do texto revela sobre o universo da web?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Que é uma área restrita e fechada"", ""B"": ""Que oferece inúmeros mapas, filtros e seleções"", ""C"": ""Que é apenas um território em expansão"", ""D"": ""Que é um local somente para fins profissionais"", ""E"": ""Que é apenas um local para fins pessoais""}
+            ],
+            ""correct_answer"": [{""B"": ""Que oferece inúmeros mapas, filtros e seleções""}]
+        },
+        {
+            ""pergunta"": ""Qual é o melhor guia para navegação na web?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Um guia específico da área"", ""B"": ""A própria web"", ""C"": ""Um manual de instruções"", ""D"": ""Uma guia de busca"", ""E"": ""Um programa de navegação""}
+            ],
+            ""correct_answer"": [{""B"": ""A própria web""}]
+        },
+        {
+            ""pergunta"": ""Por quê é importante ter paciência ao navegar na web?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Porque é um caos total"", ""B"": ""Porque é preciso ter paciência para explorá-la"", ""C"": ""Porque é um território desconhecido"", ""D"": ""Porque é preciso ter habilidades avançadas"", ""E"": ""Porque é necessário apresentar resultados rapidamente""}
+            ],
+            ""correct_answer"": [{""B"": ""Porque é preciso ter paciência para explorá-la""}]
+        },
+        {
+            ""pergunta"": ""Qual é o resultado de se arriscar a ficar perdido na web?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Descobrir sites que sejam irrelevantes"", ""B"": ""Aprender a se orientar melhor"", ""C"": ""Ficar mais perdido"", ""D"": ""Descobrir sites que sejam similares aos seus interesses"", ""E"": ""Descobrir sites que sejam com conteúdo pobre""}
+            ],
+            ""correct_answer"": [{""D"": ""Descobrir sites que sejam similares aos seus interesses""}]
+        },
+        {
+            ""pergunta"": ""Qual é o objetivo da autora ao descrever a web como uma ""terra estranha""?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Para desanimar os leitores"", ""B"": ""Para mostrar que é difícil encontrar o que se procura"", ""C"": ""Para enfatizar a importância da paciência"", ""D"": ""Para ilustrar a natureza complexa da web"", ""E"": ""Para mostrar que é impossível navegar pela web""}
+            ],
+            ""correct_answer"": [{""D"": ""Para ilustrar a natureza complexa da web""}]
+        }
+    ]
+}"
+75,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2017,"MACHADO, P. J. O.; TORRES, F. T. P. Introdução à hidrogeografia.
+São Paulo: Cengage Learning, 2012 (adaptado).
+","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""Qual é a definição de hidrogeografia?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Estudo das rochas sedimentares.""},
+                {""B"": ""Estudo das águas subterrâneas.""},
+                {""C"": ""Estudo das geleiras.""},
+                {""D"": ""Estudo dos rios.""},
+                {""E"": ""Estudo das chuvas.""}
+            ],
+            ""correct_answer"": [{""B"": ""Estudo das águas subterrâneas.""}]
+        },
+        {
+            ""pergunta"": ""Quais são os principais processos que influenciam a hidrogeografia?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Evaporação e precipitação.""},
+                {""B"": ""Infiltração e recarga de aquíferos.""},
+                {""C"": ""Erosão e sedimentação.""},
+                {""D"": ""Transpiração e condensação.""},
+                {""E"": ""Deriva continental e tectônica de placas.""}
+            ],
+            ""correct_answer"": [{""B"": ""Infiltração e recarga de aquíferos.""}]
+        },
+        {
+            ""pergunta"": ""Como a hidrogeografia se relaciona com a geografia física?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Estudando apenas os rios e lagos.""},
+                {""B"": ""Analisando a distribuição e movimento das águas subterrâneas.""},
+                {""C"": ""Investigando a formação de nuvens e chuvas.""},
+                {""D"": ""Mapeando a distribuição de geleiras.""},
+                {""E"": ""Estudando a influência das marés nos oceanos.""}
+            ],
+            ""correct_answer"": [{""B"": ""Analisando a distribuição e movimento das águas subterrâneas.""}]
+        },
+        {
+            ""pergunta"": ""Quais são os impactos da atividade humana na hidrogeografia?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Aumento da recarga de aquíferos.""},
+                {""B"": ""Diminuição da poluição das águas subterrâneas.""},
+                {""C"": ""Alteração do fluxo das águas subterrâneas devido à extração de água.""},
+                {""D"": ""Aumento da biodiversidade aquática.""},
+                {""E"": ""Diminuição do efeito estufa.""}
+            ],
+            ""correct_answer"": [{""C"": ""Alteração do fluxo das águas subterrâneas devido à extração de água.""}]
+        },
+        {
+            ""pergunta"": ""Como a hidrogeografia contribui para a compreensão dos recursos hídricos?"",
+            ""bloom_level"": ""Create"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Analisando apenas a qualidade da água dos rios.""},
+                {""B"": ""Estudando a influência das marés nos oceanos.""},
+                {""C"": ""Mapeando a distribuição de geleiras.""},
+                {""D"": ""Avaliando a disponibilidade e vulnerabilidade dos aquíferos.""},
+                {""E"": ""Investigando a formação de nuvens e chuvas.""}
+            ],
+            ""correct_answer"": [{""D"": ""Avaliando a disponibilidade e vulnerabilidade dos aquíferos.""}]
+        }
+    ]
+}","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""O que é considerado um dos principais fatores que influenciam a distribuição geográfica da precipitação no planeta?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": {
+                ""A"": ""Altitude"",
+                ""B"": ""Latitude"",
+                ""C"": ""Longitude"",
+                ""D"": ""Topografia"",
+                ""E"": ""Clima""
+            },
+            ""correct_answer"": {
+                ""D"": ""Topografia""
+            }
+        },
+        {
+            ""pergunta"": ""Qual é a função que a hidrografia cumpre no estudo das relações homem-ambiente?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": {
+                ""A"": ""Medir o volume de água dessertada"",
+                ""B"": ""Analisar a disponibilidade de água para uso agrícola"",
+                ""C"": ""Entender as relações entre o homem e o ambiente hídrico"",
+                ""D"": ""Desenvolver políticas de gestão de recursos hídricos"",
+                ""E"": ""Mapear a distribuição de solos em função da hidrografia""
+            },
+            ""correct_answer"": {
+                ""C"": ""Entender as relações entre o homem e o ambiente hídrico""
+            }
+        },
+        {
+            ""pergunta"": ""O que ocorre quando a água de uma bacia hidrográfica é utilizada com intensidade elevada em uma determinada região?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": {
+                ""A"": ""Aumenta a disponibilidade de alimentos"",
+                ""B"": ""Reduz a probabilidade de inundações"",
+                ""C"": ""Causa uma redução significativa no aquífero"",
+                ""D"": ""Aumenta a biodiversidade da região"",
+                ""E"": ""Precipita mudanças climáticas globais""
+            },
+            ""correct_answer"": {
+                ""C"": ""Causa uma redução significativa no aquífero""
+            }
+        },
+        {
+            ""pergunta"": ""Qual é a unidade de medida mais comum utilizada para expressar a quantificada de água em um afluente?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": {
+                ""A"": ""Litro"",
+                ""B"": ""Metro-cúbico"",
+                ""C"": ""Kilowatt-hora"",
+                ""D"": ""Metrópole"",
+                ""E"": ""Caudado""
+            },
+            ""correct_answer"": {
+                ""B"": ""Metro-cúbico""
+            }
+        },
+        {
+            ""pergunta"": ""O que é comum ocorrer quando a água é utilizada de forma imprudente em um afluente?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": {
+                ""A"": ""Causar um aumento na biodiversidade"",
+                ""B"": ""Desenvolver um clima mais seco"",
+                ""C"": ""Reduzir a probabilidade de inundações"",
+                ""D"": ""Aumentar a pressão sobre os aquíferos"",
+                ""E"": ""Causar adaptação das plantas e animais ao clima""
+            },
+            ""correct_answer"": {
+                ""D"": ""Aumentar a pressão sobre os aquíferos""
+            }
+        },
+        {
+            ""pergunta"": ""Que é considerado um dos principais impactos ambientais negativos da exploração da água em um afluente?"",
+            ""bloom_level"": ""Create"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": {
+                ""A"": ""Perda de biodiversidade"",
+                ""B"": ""Redução do perfil do relevo"",
+                ""C"": ""Desenvolvimento de doenças em humanos"",
+                ""D"": ""Aumento da pressão sobre os aquíferos"",
+                ""E"": ""Causa um aumento na temperatura global""
+            },
+            ""correct_answer"": {
+                ""A"": ""Perda de biodiversidade""
+            }
+        }
+    ]
+}"
+63,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2023,"## TEXTO 1
+Pedagogia da autonomia
+Paulo Freire
+Como presença consciente no mundo não posso escapar à responsabilidade ética no meu mover-me no mundo. Se sou puro produto da determinação genética ou cultural ou de classe, sou irresponsável pelo que faço no meu mover-me no mundo e, se careço de responsabilidade, não posso falar em ética.
+## TEXTO 2 []","{
+    ""perguntas"":[
+        {
+            ""pergunta"": ""De acordo com o texto, qual é a relação entre presença consciente no mundo e responsabilidade ética?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""São conceitos independentes.""},
+                {""B"": ""A presença consciente no mundo implica responsabilidade ética.""},
+                {""C"": ""A presença consciente no mundo exclui a responsabilidade ética.""},
+                {""D"": ""A responsabilidade ética é irrelevante para a presença consciente no mundo.""},
+                {""E"": ""A responsabilidade ética é determinada pela classe social.""}
+            ],
+            ""correct_answer"":[{""B"": ""A presença consciente no mundo implica responsabilidade ética.""}]
+        },
+        {
+            ""pergunta"": ""Qual é a condição necessária para que alguém possa falar em ética, de acordo com o texto?"",
+            ""bloom_level"": ""Lembrar"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Determinação genética.""},
+                {""B"": ""Determinação cultural.""},
+                {""C"": ""Determinação de classe.""},
+                {""D"": ""Irresponsabilidade.""},
+                {""E"": ""Responsabilidade ética.""}
+            ],
+            ""correct_answer"":[{""E"": ""Responsabilidade ética.""}]
+        },
+        {
+            ""pergunta"": ""Por que o autor afirma que a responsabilidade é essencial para falar em ética?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Porque a ética depende da determinação genética.""},
+                {""B"": ""Porque a responsabilidade é um conceito cultural.""},
+                {""C"": ""Porque a responsabilidade é um produto da classe social.""},
+                {""D"": ""Porque a ética requer consciência e responsabilidade.""},
+                {""E"": ""Porque a responsabilidade exclui a ética.""}
+            ],
+            ""correct_answer"":[{""D"": ""Porque a ética requer consciência e responsabilidade.""}]
+        },
+        {
+            ""pergunta"": ""Qual é a implicação de ser irresponsável pelo que se faz no mundo, de acordo com o texto?"",
+            ""bloom_level"": ""Aplicar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Não se pode falar em ética.""},
+                {""B"": ""A responsabilidade é um conceito genético.""},
+                {""C"": ""A responsabilidade é determinada pela cultura.""},
+                {""D"": ""A responsabilidade é independente da ética.""},
+                {""E"": ""A ética é irrelevante para a responsabilidade.""}
+            ],
+            ""correct_answer"":[{""A"": ""Não se pode falar em ética.""}]
+        },
+        {
+            ""pergunta"": ""Por que a responsabilidade ética é essencial para o movimento no mundo, segundo o texto?"",
+            ""bloom_level"": ""Criar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Porque a responsabilidade é determinada geneticamente.""},
+                {""B"": ""Porque a responsabilidade é cultural.""},
+                {""C"": ""Porque a responsabilidade é independente da ética.""},
+                {""D"": ""Porque a ética depende da classe social.""},
+                {""E"": ""Porque a ética requer consciência e responsabilidade.""}
+            ],
+            ""correct_answer"":[{""E"": ""Porque a ética requer consciência e responsabilidade.""}]
+        }
+    ]
+}","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""De acordo com Paulo Freire, o autor do texto, qual é a condição para se falar em ética?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Ser puro produto da determinação genética ou cultural ou de classe"", ""B"": ""Ser inteligente"", ""C"": ""Ter uma formação acadêmica"", ""D"": ""Ser consciente do mundo"", ""E"": ""Ser responsável pelo seu movimento no mundo""}
+            ],
+            ""correct_answer"": {""E"": ""Ser consciente do mundo e ser responsável pelo seu movimento no mundo""}
+        },
+        {
+            ""pergunta"": ""De acordo com o texto, qual é a consequência de não sendo responsável pelo que se faz no mundo?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Ser puro produto da determinação genética ou cultural ou de classe"", ""B"": ""Ser irresponsável pelo que se faz no mundo"", ""C"": ""Ser consciente do mundo"", ""D"": ""Ser capaz de falar em ética"", ""E"": ""Ser capaz de agir de forma ética""}
+            ],
+            ""correct_answer"": {""B"": ""Ser irresponsável pelo que se faz no mundo""}
+        },
+        {
+            ""pergunta"": ""Qual é o ponto de partida para o desenvolvimento da consciência crítica em relação à ética, de acordo com o texto?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Ser emocionalmente maduro"", ""B"": ""Ser culto e educado"", ""C"": ""Ser consciente do mundo"", ""D"": ""Ser responsável pelo seu movimento no mundo"", ""E"": ""Ser capaz de legislar sobre o mundo""}
+            ],
+            ""correct_answer"": {""C"": ""Ser consciente do mundo""}
+        },
+        {
+            ""pergunta"": ""Qual é a relação entre ética e responsabilidade, de acordo com o texto?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""A ética é consequência da responsabilidade"", ""B"": ""A responsabilidade é consequência da ética"", ""C"": ""A ética é neutra em relação à responsabilidade"", ""D"": ""A responsabilidade é neutra em relação à ética"", ""E"": ""A ética e a responsabilidade são incompatíveis""}
+            ],
+            ""correct_answer"": {""B"": ""A responsabilidade é consequência da ética""}
+        },
+        {
+            ""pergunta"": ""De acordo com o texto, qual é a situação em que não é possível falar em ética?"",
+            ""bloom_level"": ""Create"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Quando se está puro produto da determinação genética ou cultural ou de classe"", ""B"": ""Quando se é consciente do mundo"", ""C"": ""Quando se é responsável pelo seu movimento no mundo"", ""D"": ""Quando se é capaz de fazer escolhas éticas"", ""E"": ""Quando se é capaz de julgar os demais""}
+            ],
+            ""correct_answer"": {""A"": ""Quando se está puro produto da determinação genética ou cultural ou de classe""}
+        }
+    ]
+}"
+37,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2023,"As cinzas do Museu Nacional, no Rio de Janeiro, consumido pelas chamas no mês de setembro de 2018, são mais do que restos de fósseis, cerâmicas e espécimes raros. O museu abrigava, entre mais de 20 milhões de peças, os esqueletos com as respostas para perguntas que ainda não haviam sido respondidas — ou sequer feitas — por pesquisadores brasileiros. E o incêndio pode ter calado para sempre palavras e cantos indígenas ancestrais, de línguas que não existem mais no mundo.
+O acervo do local continha gravações de conversas, cantos e rituais de dezenas de sociedades indígenas, muitas feitas durante a década de 1960 com antigos gravadores de rolo e que ainda não haviam sido digitalizadas. Alguns dos registros abordavam línguas já extintas, sem falantes originais ainda vivos. “A esperança é que outras instituições tenham registros dessas línguas”,diz a linguista Marilia Facó Soares. A pesquisadora, que trabalha com os índios Tikuna, o maior grupo da Amazônia brasileira, crê ter perdido parte de seu material. “Terei que fazer novas viagens de campo para recompor meus arquivos. Mas obviamente não dá para recuperar a fala de nativos já falecidos, geralmente os mais idosos”, lamenta. []","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""Qual era o principal tipo de material encontrado no Museu Nacional do Rio de Janeiro, antes de ser consumido pelo incêndio de setembro de 2018?"",
+            ""bloom_level"": ""Lembrar"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Fósseis""},
+                {""B"": ""Cerâmicas""},
+                {""C"": ""Espécimes raros""},
+                {""D"": ""Esqueletos""},
+                {""E"": ""Manuscritos""}
+            ],
+            ""correct_answer"": [{""D"": ""Esqueletos""}]
+        },
+        {
+            ""pergunta"": ""O que as cinzas do Museu Nacional podem ter calado para sempre, de acordo com o texto?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Histórias em quadrinhos antigas""},
+                {""B"": ""Canções populares brasileiras""},
+                {""C"": ""Palavras e cantos indígenas ancestrais""},
+                {""D"": ""Receitas culinárias tradicionais""},
+                {""E"": ""Poesias contemporâneas""}
+            ],
+            ""correct_answer"": [{""C"": ""Palavras e cantos indígenas ancestrais""}]
+        },
+        {
+            ""pergunta"": ""O que as gravações encontradas no Museu Nacional abordavam principalmente?"",
+            ""bloom_level"": ""Aplicar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Entrevistas com celebridades""},
+                {""B"": ""Conversas e cantos de sociedades indígenas""},
+                {""C"": ""Programas de rádio antigos""},
+                {""D"": ""Discursos políticos históricos""},
+                {""E"": ""Aulas de idiomas estrangeiros""}
+            ],
+            ""correct_answer"": [{""B"": ""Conversas e cantos de sociedades indígenas""}]
+        },
+        {
+            ""pergunta"": ""O que a linguista Marilia Facó Soares espera em relação às línguas abordadas nas gravações do Museu Nacional?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Que sejam traduzidas para o inglês""},
+                {""B"": ""Que sejam digitalizadas e disponibilizadas online""},
+                {""C"": ""Que sejam preservadas em museus estrangeiros""},
+                {""D"": ""Que sejam utilizadas em filmes documentários""},
+                {""E"": ""Que sejam recuperadas por outras instituições""},
+            ],
+            ""correct_answer"": [{""E"": ""Que sejam recuperadas por outras instituições""}]
+        },
+        {
+            ""pergunta"": ""Por que a linguista Marilia Facó Soares terá que fazer novas viagens de campo?"",
+            ""bloom_level"": ""Criar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Para aprender novos idiomas indígenas""},
+                {""B"": ""Para gravar novas conversas e cantos indígenas""},
+                {""C"": ""Para recompor seus arquivos perdidos""},
+                {""D"": ""Para treinar novos linguistas indígenas""},
+                {""E"": ""Para escrever um livro sobre línguas extintas""},
+            ],
+            ""correct_answer"": [{""C"": ""Para recompor seus arquivos perdidos""}]
+        }
+    ]
+}","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""O que foi consumido pelas chamas no Museu Nacional em setembro de 2018?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Restos de construção"", ""B"": ""Fósseis e cerâmicas"", ""C"": ""Acervo de arte"", ""D"": ""Livros científicos"", ""E"": ""Documentos históricos""}
+            ],
+            ""correct_answer"": {""A"": ""B""}
+        },
+        {
+            ""pergunta"": ""O Museu Nacional abrigava quantos milhões de peças?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""10 milhões"", ""B"": ""20 milhões"", ""C"": ""30 milhões"", ""D"": ""40 milhões"", ""E"": ""50 milhões""}
+            ],
+            ""correct_answer"": {""B""}
+        },
+        {
+            ""pergunta"": ""Quais tipo de registros encontravam-se nos acervos do Museu Nacional?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Somente fósseis"", ""B"": ""Somente livros científicos"", ""C"": ""Gravações de conversas, cantos e rituais de sociedades indígenas"", ""D"": ""Somente documentos históricos"", ""E"": ""Somente arte""}
+            ],
+            ""correct_answer"": {""C""}
+        },
+        {
+            ""pergunta"": ""O que a linguista Marilia Facó Soares espera encontrar em outras instituições?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Gravações de canções de roque"", ""B"": ""Registros de línguas já extintas"", ""C"": ""Fósseis de dinossauros"", ""D"": ""Documentos históricos do Brasil"", ""E"": ""Livros de literatura""
+            ],
+            ""correct_answer"": {""B""}
+        },
+        {
+            ""pergunta"": ""Por que o incêndio no Museu Nacional pode ter calado para sempre palavras e cantos indígenas ancestrais?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Porque os falantes indígenas já estavam vivos"", ""B"": ""Porque os registros foram digitalizados"", ""C"": ""Porque os registros tratavam de línguas já extintas"", ""D"": ""Porque os registros foram destruídos por água"", ""E"": ""Porque os registros tratavam de línguas novas""}
+            ],
+            ""correct_answer"": {""C""}
+        },
+        {
+            ""pergunta"": ""Quem perdeu parte de seu material ao fogo no Museu Nacional?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""O-curador-geral do Museu Nacional"", ""B"": ""A linguista Marilia Facó Soares"", ""C"": ""O governador do Rio de Janeiro"", ""D"": ""Um dos índios Tikuna"", ""E"": ""Um estudante de línguas indígenas""}
+            ],
+            ""correct_answer"": {""B""}
+        }
+    ]
+}"
+30,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2023,"“São tantas formas de matar um preto
+Que para alguns sua morte é justificada
+Devia tá fazendo coisa errada
+Se não era bandido, um dia ia ser
+Por ser PRETO sua morte é defendida
+O PRETO sempre merece morrer”.
+A estrofe acima é do poeta e educador social Baticum Proletário, que atua na periferia de Fortaleza, no Ceará, preparando jovens — em quase sua totalidade negros — para enfrentar as dificuldades impostas pelo racismo estrutural no país.
+É a partir da arte que Baticum consegue envolver a juventude em um projeto de fortalecimento dessa população ao promover batalhas de rimas, slams e saraus com temáticas que discutem os problemas sociais. Não por acaso, o tema mais explorado nas rimas, versos e prosas é a violência. De acordo com o mais recente Atlas da violência, em 2019, os negros representaram 77 por cento das vítimas de homicídios, quase 30 assassinatos por 100 mil habitantes, a maioria deles jovens.
+O Atlas revela ainda que um negro tem quase 2,7 vezes mais chance de ser morto do que um branco, o que justifica o movimento de resistência crescente no Brasil. []","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""Qual é o principal tema abordado nas rimas, versos e prosas do poeta Baticum Proletário?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Amor""},
+                {""B"": ""Violência""},
+                {""C"": ""Felicidade""},
+                {""D"": ""Natureza""},
+                {""E"": ""Política""}
+            ],
+            ""correct_answer"": [{""B"": ""Violência""}]
+        },
+        {
+            ""pergunta"": ""Qual é a porcentagem de negros que representaram as vítimas de homicídios de acordo com o Atlas da violência em 2019?"",
+            ""bloom_level"": ""Lembrar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""50%""},
+                {""B"": ""77%""},
+                {""C"": ""30%""},
+                {""D"": ""10%""},
+                {""E"": ""90%""}
+            ],
+            ""correct_answer"": [{""B"": ""77%""}]
+        },
+        {
+            ""pergunta"": ""Por que Baticum Proletário promove batalhas de rimas, slams e saraus?"",
+            ""bloom_level"": ""Aplicar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Para ensinar matemática""},
+                {""B"": ""Para discutir problemas sociais""},
+                {""C"": ""Para vender seus livros""},
+                {""D"": ""Para promover a violência""},
+                {""E"": ""Para aprender a cozinhar""}
+            ],
+            ""correct_answer"": [{""B"": ""Para discutir problemas sociais""}]
+        },
+        {
+            ""pergunta"": ""Qual é a principal mensagem transmitida pela estrofe apresentada do poeta Baticum Proletário?"",
+            ""bloom_level"": ""Avaliar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Os negros merecem morrer""},
+                {""B"": ""A violência é justificada""},
+                {""C"": ""O racismo estrutural não existe""},
+                {""D"": ""A arte é inútil""},
+                {""E"": ""A resistência é necessária""}
+            ],
+            ""correct_answer"": [{""E"": ""A resistência é necessária""}]
+        },
+        {
+            ""pergunta"": ""Qual é a diferença de chance de um negro ser morto em relação a um branco, de acordo com o Atlas da violência?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""1,5 vezes mais""},
+                {""B"": ""2,7 vezes mais""},
+                {""C"": ""3 vezes mais""},
+                {""D"": ""5 vezes mais""},
+                {""E"": ""10 vezes mais""}
+            ],
+            ""correct_answer"": [{""B"": ""2,7 vezes mais""}]
+        }
+    ]
+}","{
+    ""perguntas"": [
+        {
+            ""pergunta"": ""O que a estrofe poemática acima destaca sobre a situação dos negros no Brasil?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""A necessidade da educação para os negros"", ""B"": ""A alta taxa de mortes de negros no país"", ""C"": ""A justificável morte de negros"", ""D"": ""A falta de oportunidades para os negros"", ""E"": ""A população jovem negra em cotas de desemprego""}
+            ],
+            ""correct_answer"": [{""A"": ""B""}]
+        },
+        {
+            ""pergunta"": ""Qual é a razão pela qual a violência é um tema comum nas rima e saraus participados por Baticum Proletário?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Por ser um tema popular entre os jovens"", ""B"": ""Por permitir ao poeta expressar suas emoções"", ""C"": ""Por ser um reflexo da realidade da sociedade"", ""D"": ""Por ser um formato de enfrentamento ao racismo"", ""E"": ""Por ser um tema comum entre os negros""]
+            ],
+            ""correct_answer"": [{""C""}]
+        },
+        {
+            ""pergunta"": ""Qual é a conclusão que pode ser extraída do Atlas da violência sobre a mortalidade entre negros e brancos no Brasil?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Os negros têm taxa de mortalidade menor que os brancos"", ""B"": ""Os negros têm taxa de mortalidade igual a dos brancos"", ""C"": ""Os negros têm taxa de mortalidade maior que os brancos"", ""D"": ""A taxa de mortalidade é igual em ambos os grupos"", ""E"": ""O Atlas não apresenta dados sobre mortalidade entre negros e brancos""]
+            ],
+            ""correct_answer"": [{""C""}]
+        }
+    ]
+}"

@@ -1,0 +1,329 @@
+area,year,context,question,options,correct_answer,bloom_level,difficult_level,relevance,adherence,answerability,correctness,feedback,rouge,bleu,system_answer,steps_answer,model
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+This is a gigantic movement of city construction, necessary for the residential settlement of this population, as well as for their work, supply, transportation, health, energy, water needs, etc. Even though the direction taken by urban growth has not satisfactorily met all these needs, the territory was occupied and the conditions for living in this space were built.
+
+MARICATO, E. Brazil, cities: alternatives for the urban crisis. Petrópolis: Vozes, 2001.
+",What is the main reason for the gigantic movement of city construction mentioned in the text?,"{'A': 'Work needs', 'B': 'Water supply', 'C': 'Efficient public transportation', 'D': 'Population health', 'E': 'Renewable energy'}",{'B': 'Water supply'},Remember,Beginner,5,4,5,1,The question is highly relevant to the context provided about urban growth and city construction. The bloom taxonomy level and difficulty seem appropriate for a beginner level. The question is clear and provides enough information for the test taker to arrive at the correct answer. The correct option 'A: Work needs' aligns with the main reason mentioned in the text.,"Score(precision=0.5, recall=0.11267605633802817, fmeasure=0.18390804597701152)",0.00707877262796865,{A: Work needs},"The main reason for the gigantic movement of city construction mentioned in the text is for the work needs of the population, as stated in the passage.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+This is a gigantic movement of city construction, necessary for the residential settlement of this population, as well as for their work, supply, transportation, health, energy, water needs, etc. Even though the direction taken by urban growth has not satisfactorily met all these needs, the territory was occupied and the conditions for living in this space were built.
+
+MARICATO, E. Brazil, cities: alternatives for the urban crisis. Petrópolis: Vozes, 2001.
+",What was built to meet the population's needs in cities?,"{'A': 'Hospitals and schools', 'B': 'Parks and recreational areas', 'C': 'Polluting industries', 'D': 'Nuclear power plants', 'E': 'International airports'}",{'A': 'Hospitals and schools'},Understand,Intermediate,5,4,5,0,"The question is highly relevant to the context provided about urban growth and city construction. The bloom taxonomy level 'Understand' is appropriate as it requires interpreting the information given. The question is clear and provides enough information for the test-taker to arrive at an answer. However, the correctness score is 0 as the correct answer is not specified in the question stem.","Score(precision=0.45454545454545453, recall=0.07042253521126761, fmeasure=0.12195121951219513)",3.342117741248642e-234,{A: Hospitals and schools},"The passage mentions that the territory was occupied and the conditions for living in this space were built to meet the population's needs, which would include hospitals and schools for health and education purposes.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+This is a gigantic movement of city construction, necessary for the residential settlement of this population, as well as for their work, supply, transportation, health, energy, water needs, etc. Even though the direction taken by urban growth has not satisfactorily met all these needs, the territory was occupied and the conditions for living in this space were built.
+
+MARICATO, E. Brazil, cities: alternatives for the urban crisis. Petrópolis: Vozes, 2001.
+",Why couldn't urban growth fully meet all the population's needs?,"{'A': 'Lack of investment in infrastructure', 'B': 'Political corruption', 'C': 'Climate change', 'D': 'Population growth', 'E': 'Ethnic conflicts'}",{'A': 'Lack of investment in infrastructure'},Analyse,Advanced,5,4,5,1,The question is highly relevant to the context provided about urban growth and its challenges. The bloom taxonomy level and difficulty seem appropriate for the given information. The question is clear and provides enough information for the test taker to arrive at an answer. The correct option 'A: Lack of investment in infrastructure' aligns with the context given.,"Score(precision=0.3333333333333333, recall=0.056338028169014086, fmeasure=0.0963855421686747)",1.697695098400955e-157,{A: Lack of investment in infrastructure},"The passage mentions that urban growth did not satisfactorily meet all the needs related to residential settlement, work, supply, transportation, health, energy, water needs, etc. This implies a lack of investment in infrastructure, which is crucial for meeting these needs.",gpt-3.5-turbo
+HUMAN SCIENCES AND THEIR TECHNOLOGIES,2013,"
+On July 1, 2012, the city of Rio de Janeiro became the first in the world to receive the title of UNESCO World Heritage as a Cultural Landscape. The candidacy, presented by the National Institute of Historic and Artistic Heritage (Iphan), was approved during the 36th Session of the World Heritage Committee. The president of Iphan explained that 'the carioca landscape is the most explicit image of what we can call Brazilian civilization, with its originality, challenges, contradictions, and possibilities.' From now on, the city's sites valued with the UNESCO title will be the target of integrated actions aimed at preserving its cultural landscape.
+
+Available at: www.cultura.gov.br. Access on: Mar 7, 2013 (adapted).",What was the date on which the city of Rio de Janeiro became the first in the world to receive the title of UNESCO World Heritage as a Cultural Landscape?,"{'A': 'July 1, 2012', 'B': 'March 7, 2013', 'C': 'September 15, 2010', 'D': 'December 25, 2011', 'E': 'May 3, 2014'}","{'A': 'July 1, 2012'}",Remember,Beginner,5,4,5,0,"The question is highly relevant to the context provided about the city of Rio de Janeiro receiving the UNESCO World Heritage title. The bloom taxonomy level and difficulty seem appropriate for a beginner level. The question is clear and provides enough information for the test taker to arrive at the correct answer. However, the correctness score is 0 as the correct option is not marked.","Score(precision=0.8333333333333334, recall=0.21367521367521367, fmeasure=0.3401360544217687)",0.048399922512234426,"{A: July 1, 2012}","The passage states that on July 1, 2012, the city of Rio de Janeiro became the first in the world to receive the title of UNESCO World Heritage as a Cultural Landscape.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+On July 1st, 2012, the city of Rio de Janeiro 
+became the first in the world to receive the title of 
+UNESCO World Heritage as a Cultural Landscape. 
+The application, submitted by the National Institute of Historic 
+and Artistic Heritage (Iphan), was approved 
+during the 36th Session of the World Heritage Committee. 
+The president of Iphan explained that 'the carioca landscape 
+is the most explicit image of what we can call 
+Brazilian civilization, with its originality, challenges, 
+contradictions, and possibilities.' From now on, the 
+places in the city valued with the UNESCO title will be 
+the target of integrated actions aimed at preserving its 
+cultural landscape.
+
+Available at: www.cultura.gov.br. Accessed on: Mar 7, 2013 (adapted).
+",Who submitted the application for the city of Rio de Janeiro to receive the UNESCO title of World Heritage as a Cultural Landscape?,"{'A': 'Iphan', 'B': 'Unesco', 'C': 'Rio de Janeiro City Hall', 'D': 'Federal Government', 'E': 'National Institute of Artistic Heritage'}",{'A': 'Iphan'},Understand,Intermediate,5,4,5,1,"The question is highly relevant to the context provided about Rio de Janeiro receiving the UNESCO title. The bloom taxonomy level 'Understand' is appropriate as it requires understanding of the information given. The question is clear and provides enough information for the test-taker to arrive at the correct answer. The correct answer 'National Institute of Artistic Heritage' is indeed the entity that submitted the application, making the question correct.","Score(precision=0.7391304347826086, recall=0.1440677966101695, fmeasure=0.24113475177304963)",0.008922686991655087,{E: National Institute of Artistic Heritage},"The question asks who submitted the application for the city of Rio de Janeiro to receive the UNESCO title of World Heritage as a Cultural Landscape. From the information provided, it is stated that the application was submitted by the National Institute of Artistic Heritage (Iphan). Therefore, the correct answer is E: National Institute of Artistic Heritage.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+On July 1st, 2012, the city of Rio de Janeiro 
+became the first in the world to receive the title of 
+UNESCO World Heritage as a Cultural Landscape. 
+The application, submitted by the National Institute of 
+Historical and Artistic Heritage (Iphan), was approved 
+during the 36th Session of the World Heritage Committee. 
+The president of Iphan explained that 'the carioca landscape 
+is the most explicit image of what we can call 
+Brazilian civilization, with its originality, challenges, 
+contradictions, and possibilities'. From now on, the 
+places in the city valued with the UNESCO title will be 
+the target of integrated actions aimed at preserving its 
+cultural landscape.
+
+Available at: www.cultura.gov.br. Accessed on: Mar 7, 2013 (adapted).
+","What does the carioca landscape represent, according to the president of Iphan?","{'A': 'World civilization', 'B': 'Brazilian originality', 'C': 'Global challenges', 'D': 'Brazilian civilization with its originality, challenges, contradictions, and possibilities', 'E': 'Cultural diversity'}","{'D': 'Brazilian civilization with its originality, challenges, contradictions, and possibilities'}",Analyzing,Advanced,5,4,5,1,The question is highly relevant to the context provided about the carioca landscape and UNESCO World Heritage. The bloom taxonomy level and difficulty level are appropriate for analyzing the information given. The question is clear and provides enough information for the test-taker to arrive at the correct answer. The correct option aligns with the information presented in the context.,"Score(precision=0.5, recall=0.05084745762711865, fmeasure=0.09230769230769231)",1.5935527305456478e-158,"{D: Brazilian civilization with its originality, challenges, contradictions, and possibilities}","The president of Iphan explained that 'the carioca landscape is the most explicit image of what we can call Brazilian civilization, with its originality, challenges, contradictions, and possibilities'. Therefore, the correct answer is D.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"TEXT I
+
+Some time ago I realized that, since my early years, I had received many false opinions as true, and that what I later founded on such poorly secured principles could only be very doubtful and uncertain. It was necessary to seriously try, once in my life, to get rid of all the opinions to which I had previously given credit, and start all over again in order to establish a firm and unshakable knowledge.
+
+DESCARTES, R. Meditations on First Philosophy. São Paulo: Abril Cultural, 1973 (adapted).
+
+TEXT II
+
+It is the radical nature of what is sought that demands the radicalization of the search process itself. If all space is occupied by doubt, any certainty that appears from there will have been in some way generated by doubt itself, and will certainly not be any of those that were previously swept away by that same doubt.
+SILVA, F. L. Descartes: the metaphysics of modernity. São Paulo: Moderna, 2001 (adapted).","According to Text I, why did Descartes feel the need to get rid of all the opinions he had credited?","{'A': 'Because his opinions were all true.', 'B': 'Because his opinions were unshakable.', 'C': 'Because his opinions were doubtful and uncertain.', 'D': 'Because his opinions were based on solid principles.', 'E': 'Because his opinions were widely accepted by society.'}",{'C': 'Because his opinions were doubtful and uncertain.'},Understand,Intermediate,5,4,5,1,"The question is highly relevant to the context provided about Descartes' need to get rid of all opinions. The bloom taxonomy level 'Understand' is appropriate as it requires interpreting the text. The question is clear and provides enough information for the test-taker to arrive at the correct answer. The correct option aligns with Descartes' motivation as described in the text. Overall, a well-constructed question.","Score(precision=0.55, recall=0.06748466257668712, fmeasure=0.12021857923497266)",0.0002764667825327435,{C: Because his opinions were doubtful and uncertain.},"In Text I, Descartes realized that he had received many false opinions as true since his early years. He found that what he later built on these poorly secured principles could only be very doubtful and uncertain. Therefore, Descartes felt the need to get rid of all the opinions he had credited because they were doubtful and uncertain.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"TEXT I
+
+Some time ago I realized that, since my early years, I had received many false opinions as true, and that what I later founded on such poorly secured principles could only be very doubtful and uncertain. It was necessary to seriously try, once in my life, to get rid of all the opinions to which I had previously given credit, and start all over again in order to establish a firm and unshakable knowledge.
+
+DESCARTES, R. Meditations on First Philosophy. São Paulo: Abril Cultural, 1973 (adapted).
+
+TEXT II
+
+It is the radical character of what is sought that demands the radicalization of the search process itself. If all space is occupied by doubt, any certainty that appears from there will have been in some way generated by doubt itself, and will certainly not be any of those that were previously swept away by that same doubt.
+SILVA, F. L. Descartes: the metaphysics of modernity. São Paulo: Moderna, 2001 (adapted).",What is Descartes' objective in trying to get rid of all the opinions he had given credit to?,"{'A': 'Establish a firm and unshakable knowledge.', 'B': 'Keep his old opinions intact.', 'C': 'Avoid any kind of doubt in his life.', 'D': 'Blindly follow others' opinions.', 'E': 'Completely ignore the pursuit of knowledge.'}",{'A': 'Establish a firm and unshakable knowledge.'},Apply,Beginner,5,4,5,0,"The question is highly relevant to the context provided about Descartes' objective in trying to get rid of all the opinions he had given credit to. The question aligns well with the content presented in the texts. The bloom taxonomy level and difficulty seem appropriate for a beginner level. The question provides enough information for the test-taker to arrive at an answer. However, the correctness score is 0 as the correct option is not specified in the question stem.","Score(precision=0.7222222222222222, recall=0.07975460122699386, fmeasure=0.143646408839779)",0.00012984700348386388,{A: Establish a firm and unshakable knowledge.},Descartes' objective in trying to get rid of all the opinions he had given credit to was to establish a firm and unshakable knowledge by starting over and building on more secure principles.,gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"TEXT I
+
+Some time ago I realized that, since my early years, I had received many false opinions as true, and that what I later founded on such poorly secured principles could only be very doubtful and uncertain. It was necessary to seriously try, once in my life, to get rid of all the opinions to which I had previously given credit, and start all over again in order to establish a firm and unshakable knowledge.
+
+DESCARTES, R. Meditations on First Philosophy. São Paulo: Abril Cultural, 1973 (adapted).
+
+TEXT II
+
+It is the radical nature of what is sought that demands the radicalization of the search process itself. If all space is occupied by doubt, any certainty that appears from there will have been in some way generated by doubt itself, and will certainly not be any of those that were previously swept away by that same doubt.
+SILVA, F. L. Descartes: the metaphysics of modernity. São Paulo: Moderna, 2001 (adapted).",What did Descartes realize about the opinions he had received since his early years?,"{'A': 'They were all correct and unshakable.', 'B': 'They were doubtful and uncertain.', 'C': 'They were widely accepted by society.', 'D': 'They were based on solid principles.', 'E': 'They were all false and unfounded.'}",{'B': 'They were doubtful and uncertain.'},Recall,Advanced,5,4,5,1,The question is highly relevant to the context provided about Descartes' realization of the opinions he had received. The bloom taxonomy level 'Recall' is appropriate as it requires recalling specific information from the text. The question is clear and provides enough information for the test-taker to arrive at the correct answer. The correct answer option is accurate as Descartes realized that the opinions he had received were false and unfounded.,"Score(precision=0.2857142857142857, recall=0.024539877300613498, fmeasure=0.04519774011299435)",2.0814099207615405e-159,{E: They were all false and unfounded.},"Descartes realized that the opinions he had received since his early years were false and unfounded. He understood that what he later built upon these poorly secured principles could only be very doubtful and uncertain. Therefore, he decided to get rid of all these opinions to establish a firm and unshakable knowledge.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+From end to end, it's all palm beach, very flat and 
+very beautiful. Through the backlands, it seemed to us, seen from the sea, 
+very large, because, stretching our eyes, we could not 
+see anything but land with trees, which seemed very 
+long to us. So far, we could not find out if there is gold, 
+nor silver, nor any metal or iron; nor did we see it. But the land itself has very good airs [...]. But the best fruit that can be taken from it seems to me 
+that it will be to save these people.
+
+Letter from Pero Vaz de Caminha. In: MARQUES, A.; BERUTTI, F.; FARIA, R. 
+Modern history through texts. São Paulo: Contexto, 2001.
+",What is the main characteristic of the land described in Pero Vaz de Caminha's letter?,"{'A': 'Presence of gold and silver', 'B': 'Very long extension', 'C': 'Good airs', 'D': 'Abundant trees', 'E': 'View from the sea'}",{'C': 'Good airs'},Remember,Beginner,5,4,5,1,"The question is highly relevant to the context provided, focusing on the main characteristic of the land described in Pero Vaz de Caminha's letter. The bloom taxonomy level and difficulty level seem appropriate for the given information. The question provides enough information for the test-taker to arrive at an answer. The correctness score is 1 as the correct option aligns with the main characteristic described in the text.","Score(precision=0.5, recall=0.06666666666666667, fmeasure=0.11764705882352941)",3.5256716372490203e-81,{C: Good airs},"The main characteristic of the land described in Pero Vaz de Caminha's letter is the presence of very good airs, as mentioned in the text.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+From end to end, it's all palm beach, very flat and 
+very beautiful. Through the backlands, seen from the sea, 
+it seemed very large to us, because, stretching our eyes, we could only 
+see land with trees, which seemed very 
+long. So far, we couldn't find out if there is gold, 
+nor silver, nor anything made of metal or iron; nor did we see it. 
+But the land itself has very good airs [...]. 
+But the best fruit that can be taken from it seems to me 
+that it will be to save these people.
+
+Letter from Pero Vaz de Caminha. In: MARQUES, A.; BERUTTI, F.; FARIA, R. 
+Modern history through texts. São Paulo: Contexto, 2001.
+",What does Pero Vaz de Caminha believe to be the best fruit that can be taken from the described land?,"{'A': 'Gold and silver', 'B': 'Metal and iron', 'C': 'Trees', 'D': 'Good airs', 'E': 'Seen from the sea'}",{'D': 'Good airs'},Understand,Intermediate,5,4,5,1,The question is highly relevant to the context provided from the letter by Pero Vaz de Caminha. The bloom taxonomy level 'Understand' is appropriate as it requires interpreting the text. The question is clear and provides enough information for the test taker to arrive at the correct answer. The correct option 'D: Good airs' aligns with Pero Vaz de Caminha's belief as stated in the text.,"Score(precision=0.45, recall=0.07627118644067797, fmeasure=0.13043478260869565)",0.003728715525970636,{D: Good airs},Pero Vaz de Caminha believes the best fruit that can be taken from the described land is 'Good airs' as mentioned in the text provided.,gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+From end to end, it's all beach-palm, very flat and 
+very beautiful. Through the backlands, it seemed to us, seen from the sea, 
+very large, because, stretching our eyes, we could not 
+see anything but land with trees, which seemed very 
+long to us. So far, we could not find out if there is gold, 
+nor silver, nor anything made of metal or iron; nor did we see it. 
+But the land itself has very good airs [...]. 
+But the best fruit that can be taken from it seems to me 
+that it will be to save these people.
+
+Letter from Pero Vaz de Caminha. In: MARQUES, A.; BERUTTI, F.; FARIA, R. 
+Modern history through texts. São Paulo: Context, 2001.",Why does Pero Vaz de Caminha state that the land is very large?,"{'A': 'Presence of gold and silver', 'B': 'Long extension seen from the sea', 'C': 'Abundant trees', 'D': 'Good airs', 'E': 'They could only see land with trees'}",{'E': 'They could only see land with trees'},Apply,Advanced,5,4,5,1,The question is highly relevant to the provided context from the letter of Pero Vaz de Caminha. The bloom taxonomy level and difficulty level are appropriate for the given information. Sufficient information is provided in the stem and options to arrive at the correct answer. The correct option 'B: Long extension seen from the sea' aligns with the text provided.,"Score(precision=0.3076923076923077, recall=0.03278688524590164, fmeasure=0.05925925925925927)",1.1186183483808564e-81,{B: Long extension seen from the sea},"Pero Vaz de Caminha states that the land is very large because, seen from the sea, they could not see anything but land with trees, which seemed very long to them.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+The sad song of the conquered: 
+the last days of Tenochtitlán 
+
+In the paths lie broken darts;
+hair is scattered.
+The houses are roofless,
+The waters, the rivers, are red, as if someone 
+had dyed them,
+In the shields was our protection,
+but the shields do not hold back the desolation...
+
+PINSKY, J. et al. History of America through texts. 
+São Paulo: Contexto, 2007 (excerpt).",What was the capital of the Aztec Empire in the last days before the Spanish conquest?,"{'A': 'Cuzco', 'B': 'Machu Picchu', 'C': 'Tenochtitlán', 'D': 'Tikal', 'E': 'Chichén Itzá'}",{'C': 'Tenochtitlán'},Recall,Beginner,5,4,5,1,"The question is highly relevant to the context provided about the last days of Tenochtitlán. The bloom taxonomy level 'Recall' and difficulty level 'Beginner' are appropriate for a question that requires recalling a specific fact. Sufficient information is given in the stem and options to arrive at the correct answer, which is 'C: Tenochtitlán'. The question is correct.","Score(precision=0.4375, recall=0.1044776119402985, fmeasure=0.16867469879518074)",1.660646704974432e-79,{C: Tenochtitlán},The capital of the Aztec Empire in the last days before the Spanish conquest was Tenochtitlán.,gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+The sad song of the conquered: 
+the last days of Tenochtitlán 
+
+In the paths lie broken darts;
+hair is scattered.
+The houses are roofless,
+The waters are red, the rivers, as if someone 
+had dyed them,
+In the shields was our protection,
+but the shields do not hold back the desolation...
+
+PINSKY, J. et al. History of America through texts. 
+São Paulo: Contexto, 2007 (excerpt).",Who was the Aztec leader during the Spanish conquest?,"{'A': 'Moctezuma II', 'B': 'Atahualpa', 'C': 'Cuauhtémoc', 'D': 'Pachacuti', 'E': 'Itzcoatl'}",{'A': 'Moctezuma II'},Understand,Intermediate,5,4,5,0,"The question is highly relevant to the context provided about the last days of Tenochtitlán and the Aztec leader during the Spanish conquest. The bloom taxonomy level 'Understand' is appropriate for recalling factual information. The question is clear and provides enough information for the test taker to arrive at the correct answer. However, the correctness score is 0 as the correct answer should be 'C: Cuauhtémoc' instead of 'A: Moctezuma II'.","Score(precision=0.3333333333333333, recall=0.04477611940298507, fmeasure=0.07894736842105263)",2.7475856126747694e-234,{C: Cuauhtémoc},"The Aztec leader during the Spanish conquest was Cuauhtémoc, as indicated in the excerpt provided.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+The sad song of the conquered: 
+the last days of Tenochtitlán 
+
+In the paths lie broken darts;
+hair is scattered.
+The houses are roofless,
+The waters are red, the rivers, as if someone 
+had dyed them,
+In the shields was our protection,
+but the shields do not hold back the desolation...
+
+PINSKY, J. et al. History of America through texts. 
+São Paulo: Contexto, 2007 (excerpt).",What was the main factor that contributed to the fall of Tenochtitlán?,"{'A': 'Alliance with the Incas', 'B': 'Epidemics of European diseases', 'C': 'Internal rebellion of the Aztecs', 'D': 'Food shortage', 'E': 'Betrayal of Moctezuma II'}",{'B': 'Epidemics of European diseases'},Apply,Advanced,5,4,5,1,The question is highly relevant to the context provided about the fall of Tenochtitlán. The bloom level and difficulty level seem appropriate for the given information. The question is clear and provides enough information for the test taker to arrive at the correct answer. The correct option 'B: Epidemics of European diseases' aligns with historical facts about the fall of Tenochtitlán.,"Score(precision=0.38461538461538464, recall=0.07462686567164178, fmeasure=0.12499999999999999)",1.67145253459178e-233,{B: Epidemics of European diseases},"The main factor that contributed to the fall of Tenochtitlán was the epidemics of European diseases, which significantly weakened the Aztec population and their ability to defend the city.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+The sad song of the conquered: 
+the last days of Tenochtitlán 
+
+In the paths lie broken darts;
+hair is scattered.
+The houses are roofless,
+The waters are red, the rivers, as if someone 
+had dyed them,
+In the shields was our protection,
+but the shields do not hold back the desolation...
+
+PINSKY, J. et al. History of America through texts. 
+São Paulo: Contexto, 2007 (fragment).   
+",What were the consequences of the conquest of Tenochtitlán for the indigenous population?,"{'A': 'Peaceful integration into Spanish society', 'B': 'Preservation of Aztec culture', 'C': 'Extinction of many indigenous communities', 'D': 'Strengthening of local political structures', 'E': 'Sustainable economic development'}",{'C': 'Extinction of many indigenous communities'},Analyzing,Intermediate,5,4,5,0,"The question is highly relevant to the context of the conquest of Tenochtitlán and its consequences for the indigenous population. The bloom taxonomy level and difficulty seem appropriate for the given information. The question provides enough information for the test-taker to arrive at an answer. However, the correctness score is 0 as the correct answer option is not provided in the question stem.","Score(precision=0.5, recall=0.1044776119402985, fmeasure=0.1728395061728395)",1.4388265730604107e-156,{C: Extinction of many indigenous communities},"The consequences of the conquest of Tenochtitlán for the indigenous population led to the extinction of many indigenous communities, as seen in the text fragment provided.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+The sad song of the conquered: 
+the last days of Tenochtitlán 
+
+In the paths lie broken darts;
+hair is scattered.
+The houses are roofless,
+The waters are red, the rivers, as if someone 
+had dyed them,
+In the shields was our protection,
+but the shields do not hold back the desolation...
+
+PINSKY, J. et al. History of America through texts. 
+São Paulo: Contexto, 2007 (excerpt).",What was the main economic activity of the Aztecs in Tenochtitlán?,"{'A': 'Gold mining', 'B': 'Subsistence agriculture', 'C': 'Trade and tributes', 'D': 'Fishing in Lake Texcoco', 'E': 'Ceramic craftsmanship'}",{'C': 'Trade and tributes'},Evaluate,Advanced,5,4,5,1,The question is highly relevant to the context provided about the last days of Tenochtitlán and the economic activities of the Aztecs. The bloom taxonomy level and difficulty seem appropriate for an advanced level question. Sufficient information is given to arrive at the correct answer. The correct option 'C: Trade and tributes' aligns with historical knowledge about the Aztecs' main economic activities.,"Score(precision=0.4166666666666667, recall=0.07462686567164178, fmeasure=0.12658227848101264)",4.8067103137312394e-157,{C: Trade and tributes},"The main economic activity of the Aztecs in Tenochtitlán was trade and tributes, as they engaged in extensive trading networks and collected tributes from conquered territories.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+The sad song of the conquered: 
+the last days of Tenochtitlán 
+
+In the paths lie broken darts;
+hair is scattered.
+The houses are roofless,
+The waters are red, the rivers, as if someone 
+had dyed them,
+In the shields was our protection,
+but the shields do not hold back the desolation...
+
+PINSKY, J. et al. History of America through texts. 
+São Paulo: Contexto, 2007 (fragment).   
+",Who was the Spanish conqueror responsible for the fall of Tenochtitlán?,"{'A': 'Francisco Pizarro', 'B': 'Hernán Cortés', 'C': 'Pedro Álvares Cabral', 'D': 'Vasco da Gama', 'E': 'Fernão de Magalhães'}",{'B': 'Hernán Cortés'},Remember,Beginner,5,4,5,0,"The question is highly relevant to the context provided about the fall of Tenochtitlán and the Spanish conqueror. The bloom and difficulty level seem appropriate for a beginner level. The question is clear and provides enough information for the test taker to arrive at the correct answer. However, the correct answer should be 'B: Hernán Cortés' instead of 'A: Francisco Pizarro'.","Score(precision=0.4166666666666667, recall=0.07462686567164178, fmeasure=0.12658227848101264)",1.0439604769372758e-233,{B: Hernán Cortés},The Spanish conqueror responsible for the fall of Tenochtitlán was Hernán Cortés.,gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+ The International Brigades 
+
+ were units of 
+ fighters formed by volunteers from 53 nationalities 
+ willing to fight in defense of the Spanish Republic. 
+ It is estimated that about 60,000 citizens from various 
+ parts of the world - including 40 Brazilians - joined these units. Although coordinated 
+ by the communists, the Brigades had 
+ members from socialist, liberal, and other 
+ political-ideological currents. 
+
+ SOUZA, I. I. The European Civil War. Living History, n. 70, 2009 (excerpt). 
+",What was the main objective of the International Brigades during the Spanish Civil War?,"{'A': 'Defend the Spanish monarchy.', 'B': 'Fight in defense of the Spanish Republic.', 'C': 'Promote fascism in Spain.', 'D': 'Establish a communist government in Spain.', 'E': 'Protect foreign interests in Spain.'}",{'B': 'Fight in defense of the Spanish Republic.'},Remember,Beginner,5,4,5,0,"The question is highly relevant to the context provided about the International Brigades during the Spanish Civil War. The bloom taxonomy level and difficulty seem appropriate for a beginner level. The question provides enough information for the test-taker to arrive at an answer. However, the correctness score is 0 as the correct option is not marked.","Score(precision=0.5, recall=0.09722222222222222, fmeasure=0.16279069767441862)",1.4272077084081574e-156,{B: Fight in defense of the Spanish Republic.},"The main objective of the International Brigades during the Spanish Civil War was to fight in defense of the Spanish Republic, as mentioned in the provided information.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+ The International Brigades 
+
+ were units of 
+ fighters formed by volunteers from 53 nationalities 
+ willing to fight in defense of the Spanish Republic. 
+ It is estimated that about 60,000 citizens from various 
+ parts of the world - including 40 Brazilians - joined these units. Although coordinated 
+ by the communists, the Brigades had 
+ members from socialist, liberal and other 
+ political-ideological currents. 
+
+ SOUZA, I. I. The European Civil War. Living History, n. 70, 2009 (excerpt). 
+",How many nationalities were represented in the International Brigades?,"{'A': '40', 'B': '53', 'C': '60', 'D': '70', 'E': '80'}",{'B': '53'},Understand,Intermediate,5,4,5,0,"The question is highly relevant to the context provided about the International Brigades and the number of nationalities involved. The bloom taxonomy level 'Understand' is appropriate as it requires comprehension of the information given. The question is clear and provides enough information for the test-taker to arrive at the correct answer. However, the correctness score is 0 as the correct answer is '53', not '40' as stated in option A.","Score(precision=0.4444444444444444, recall=0.05555555555555555, fmeasure=0.09876543209876543)",1.4342630957421858e-234,{B: 53},The text states that the International Brigades were formed by volunteers from 53 nationalities.,gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+ The International Brigades 
+
+ were units of 
+ fighters formed by volunteers from 53 nationalities 
+ willing to fight in defense of the Spanish Republic. 
+ It is estimated that about 60,000 citizens from various 
+ parts of the world - including 40 Brazilians - joined these units. Although coordinated 
+ by the communists, the Brigades had 
+ members from socialist, liberal, and other 
+ political-ideological currents. 
+
+ SOUZA, I. I. The European Civil War. Living History, n. 70, 2009 (excerpt). 
+",What were the main political-ideological currents present in the International Brigades?,"{'A': 'Communists and anarchists.', 'B': 'Socialists and fascists.', 'C': 'Liberals and conservatives.', 'D': 'Communists, socialists, liberals, and other political-ideological currents.', 'E': 'Nationalists and separatists.'}","{'D': 'Communists, socialists, liberals, and other political-ideological currents.'}",Apply,Advanced,5,4,5,0,"The question is highly relevant to the context provided about the International Brigades and their political-ideological currents. The bloom taxonomy level 'Apply' seems appropriate as it requires applying knowledge to identify the main currents. The question is clear and provides ample information for answering. However, the correctness score is 0 as the correct option is not specified.","Score(precision=0.5, recall=0.08333333333333333, fmeasure=0.14285714285714285)",6.114172060120004e-234,"{D: Communists, socialists, liberals, and other political-ideological currents.}","The main political-ideological currents present in the International Brigades were communists, socialists, liberals, and other political-ideological currents, as mentioned in the provided text excerpt.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+Of all the transformations imposed by the technical-scientific-informational environment on transport logistics, we are most interested in intermodality. And for a very simple reason: the potential that such a 'logistic tool' boasts allows for a transportation system that is indeed commensurate with Brazil's geographical scale.
+HUERTAS, D. M. The role of transportation in the recent expansion of the Brazilian agricultural frontier. Transport and Territory Journal, University of Buenos Aires, n. 3, 2010 (adapted).
+",What is intermodality in the context of transport logistics?,"{'A': 'A transportation system that uses only one type of mode, such as trucks.', 'B': 'The integration of different modes of transportation, such as road, rail, and maritime, aiming at optimization and efficiency.', 'C': 'An exclusive transportation system for light loads.', 'D': 'A transportation system that does not concern itself with geographical scale.', 'E': 'The use of a single mode of transportation for all cargoes.'}","{'B': 'The integration of different modes of transportation, such as road, rail, and maritime, aiming at optimization and efficiency.'}",Remember,Beginner,5,4,5,1,The question is highly relevant to the context of transport logistics and intermodality. It tests the understanding of intermodality in transportation systems. The bloom taxonomy level and difficulty level are appropriate for a beginner level. The question provides clear information and options for the test taker to arrive at the correct answer. The correct option is accurately defined as the integration of different modes of transportation for optimization and efficiency.,"Score(precision=0.5555555555555556, recall=0.06578947368421052, fmeasure=0.11764705882352941)",6.248348970749382e-158,"{B: The integration of different modes of transportation, such as road, rail, and maritime, aiming at optimization and efficiency.}","In the context of transport logistics, intermodality refers to the integration of different modes of transportation, such as road, rail, and maritime, with the aim of optimizing and increasing efficiency in the transportation system. This allows for a more effective and seamless movement of goods across different transportation networks.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+Of all the transformations imposed by the technical-scientific-informational environment on transport logistics, we are most interested in intermodality. And for a very simple reason: the potential that such a 'logistic tool' boasts allows for a transportation system that is truly commensurate with Brazil's geographical scale.
+HUERTAS, D. M. The role of transportation in the recent expansion of the Brazilian agricultural frontier. Transport and Territory Journal, University of Buenos Aires, n. 3, 2010 (adapted).
+",What is the importance of intermodality for transport logistics in Brazil?,"{'A': 'Reduce the efficiency of cargo transportation.', 'B': 'Increase operational costs.', 'C': 'Facilitate the transportation of goods over long distances and diverse regions.', 'D': 'Decrease integration between different modes of transportation.', 'E': 'Limit the capacity for expansion of the agricultural frontier.'}",{'C': 'Facilitate the transportation of goods over long distances and diverse regions.'},Understand,Intermediate,5,4,5,1,"The question is highly relevant to the context provided about transport logistics in Brazil and intermodality. The bloom taxonomy level 'Understand' and difficulty level 'Intermediate' are appropriate for the question. Sufficient information is given in the stem and options to arrive at the correct answer. The correct option is indeed correct, making the question accurate.","Score(precision=0.45454545454545453, recall=0.06578947368421052, fmeasure=0.11494252873563217)",5.582854887568571e-234,{C: Facilitate the transportation of goods over long distances and diverse regions.},"The importance of intermodality for transport logistics in Brazil is to facilitate the transportation of goods over long distances and diverse regions, as mentioned in the passage.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+Of all the transformations imposed by the technical-scientific-informational environment on transport logistics, we are most interested in intermodality. And for a very simple reason: the potential that such a 'logistic tool' boasts allows for a transportation system that is indeed commensurate with Brazil's geographical scale.
+HUERTAS, D. M. The role of transportation in the recent expansion of the Brazilian agricultural frontier. Transport and Territory Journal, University of Buenos Aires, n. 3, 2010 (adapted).
+",How does intermodality contribute to Brazil's geographical scale?,"{'A': 'Intermodality has no impact on the geographical scale.', 'B': 'Allows the integration of different regions of the country, facilitating trade and development.', 'C': 'Restricts access to remote areas.', 'D': 'Increases dependence on a single mode of transport.', 'E': 'Causes imbalance in cargo distribution.'}","{'B': 'Allows the integration of different regions of the country, facilitating trade and development.'}",Analyzing,Advanced,5,4,5,0,"The question is highly relevant to the context provided, focusing on intermodality in transport logistics in Brazil. The bloom taxonomy level and difficulty level seem appropriate for the given information. The question is clear and provides enough information for the test-taker to arrive at an answer. However, the correctness score is 0 as the correct option is not specified in the question stem.","Score(precision=0.5555555555555556, recall=0.06578947368421052, fmeasure=0.11764705882352941)",1.9197295166740807e-158,"{B: Allows the integration of different regions of the country, facilitating trade and development.}","Intermodality allows for the seamless integration of different modes of transport, such as rail, road, and sea, which in turn facilitates the movement of goods and people across various regions of Brazil. This integration helps in improving trade relations, economic development, and overall efficiency in transportation logistics.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+Hence arises a question: whether it is better to be loved than feared, or feared than loved. It is answered that both would be desirable; but because it is difficult to unite them, it is much safer to be feared than loved, when one of the two must be lacking. For men can generally be said to be ungrateful, fickle, pretenders, cowards and greedy for profit, and while you do them good they are entirely yours, offering you their blood, goods, life and children, when, as I said above, the danger is far away; but when it comes near, they turn against you.
+
+MACHIAVELLI, N. The Prince. Rio de Janeiro: Bertrand, 1991.","According to the passage, why does Machiavelli state that it is safer to be feared than loved?","{'A': 'Because men are naturally good and loyal.', 'B': 'Because men are ungrateful and fickle.', 'C': 'Because men are always loyal to their leaders.', 'D': 'Because men are brave and altruistic.', 'E': 'Because men are always honest and just.'}",{'B': 'Because men are ungrateful and fickle.'},Comprehension,Intermediate,5,4,5,0,"The question is highly relevant to the context provided from Machiavelli's 'The Prince'. The bloom taxonomy level and difficulty are appropriate for a comprehension question at an intermediate level. The question provides enough information from the passage to arrive at the correct answer. However, the correctness score is 0 as the correct option is not specified in the question.","Score(precision=0.5882352941176471, recall=0.08928571428571429, fmeasure=0.15503875968992248)",0.0010072644633937929,{B: Because men are ungrateful and fickle.},"The passage mentions that men can generally be ungrateful, fickle, pretenders, cowards, and greedy for profit. Machiavelli states that when danger is far away, men offer their blood, goods, life, and children, but when danger comes near, they turn against you. This implies that men are not always loyal, making it safer to be feared than loved.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+Hence arises a question: whether it is better to be loved than feared, or feared than loved. It might be answered that we should wish to be both; but since love and fear can hardly exist together, if we must choose between them, it is far safer to be feared than loved when one of the two must be lacking. For men in general are ungrateful, fickle, false, cowardly, covetous, and as long as you succeed they are yours entirely; they will offer you their blood, property, life, and children, as is said above, when the need is far distant; but when it approaches they turn against you.",What is the main reason presented by Machiavelli to justify the preference for being feared instead of loved?,"{'A': 'The unquestionable loyalty of men.', 'B': 'The cowardice and greed of men.', 'C': 'The generosity and honesty of men.', 'D': 'The courage and justice of men.', 'E': 'The fidelity and kindness of men.'}",{'B': 'The cowardice and greed of men.'},Analysis,Advanced,5,4,5,1,"The question is highly relevant to the context provided, focusing on Machiavelli's perspective on whether it is better to be feared or loved. The question aligns well with an advanced level of Bloom's Taxonomy as it requires analysis of Machiavelli's reasoning. The question provides enough information for the test-taker to arrive at an answer based on the passage. The correct answer is 'B: The cowardice and greed of men.'","Score(precision=0.2777777777777778, recall=0.046296296296296294, fmeasure=0.07936507936507937)",9.327292587886388e-234,{B: The cowardice and greed of men.},"Machiavelli justifies the preference for being feared instead of loved by highlighting that men in general are ungrateful, fickle, false, cowardly, and covetous. This implies that the main reason presented is the cowardice and greed of men, making it safer to be feared than loved.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+Hence arises a question: whether it is better to be loved than feared, or feared than loved. It might be answered that we should wish to be both; but since love and fear can hardly exist together, if we must choose between them, it is far safer to be feared than loved when one of the two must be lacking. For men in general are ungrateful, voluble, dissemblers, anxious to avoid danger, and covetous of gain; as long as you benefit them, they are entirely yours; they offer you their blood, their goods, their life, and their children, as is said above, when the necessity is far distant; but when it approaches, they revolt.","According to Machiavelli, why do men show themselves faithful when they are far from danger?","{'A': 'Because they are naturally altruistic.', 'B': 'Because they are brave and loyal.', 'C': 'Because they are ungrateful and fickle.', 'D': 'Because they expect future rewards.', 'E': 'Because they are always honest and just.'}",{'D': 'Because they expect future rewards.'},Application,Beginner,5,4,5,0,"The question is highly relevant to the context provided from Machiavelli's work. The bloom taxonomy level and difficulty level seem appropriate for a beginner level. The question provides enough information for the test-taker to arrive at an answer. However, the correctness score is 0 as the correct option is not specified.","Score(precision=0.3333333333333333, recall=0.043859649122807015, fmeasure=0.07751937984496124)",8.342795996412013e-158,{D: Because they expect future rewards.},"Machiavelli suggests that men show themselves faithful when far from danger because they expect future rewards. He explains that men are ungrateful and fickle, offering their support when the necessity is distant but revolting when danger approaches.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+In the states, however, the oligarchies were being established, 
+of which danger Saint-Hilaire had already warned us, and under the 
+disguise of what was called 'the politics of governors'. 
+In concentric circles, this system comes to culminate in the 
+very central power that is the sun of our system.
+
+PRADO, P. Portrait of Brazil. Rio de Janeiro: José Olympio, 1972.
+","What is the term used to describe the political system in which the oligarchies were established in the states, as described in the text?","{'A': 'Democracy', 'B': 'Oligarchy', 'C': 'Monarchy', 'D': 'Anarchy', 'E': 'Theocracy'}",{'B': 'Oligarchy'},Recall,Beginner,5,4,5,0,"The question is highly relevant to the context provided in the text about the establishment of oligarchies in the states. The bloom taxonomy level 'Recall' is appropriate as it requires the recall of specific information from the text. The question is clear and provides enough information for the test-taker to arrive at the correct answer. However, the correctness score is 0 as 'Oligarchy' should be the correct answer based on the context provided.","Score(precision=0.3333333333333333, recall=0.13114754098360656, fmeasure=0.18823529411764708)",7.371099684762243e-79,{B: Oligarchy},"The text mentions that oligarchies were being established in the states, so the term used to describe this political system is 'Oligarchy'.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+In the states, however, the oligarchies were being established, 
+of which danger Saint-Hilaire had already warned us, and under the 
+disguise of what was called 'the governors' policy'. 
+In concentric circles, this system comes to culminate in the 
+very central power that is the sun of our system.
+
+PRADO, P. Portrait of Brazil. Rio de Janeiro: José Olympio, 1972.
+","Who warned about the danger of oligarchies, as mentioned in the text?","{'A': 'Saint-Hilaire', 'B': 'Prado', 'C': 'José Olympio', 'D': 'Democracy', 'E': 'Monarchy'}",{'A': 'Saint-Hilaire'},Understand,Intermediate,5,4,5,0,"The question is highly relevant to the context provided and tests the understanding of the text. The bloom taxonomy level 'Understand' is appropriate for this question as it requires interpreting the information given. The question is clear and provides enough information for the test-taker to arrive at the correct answer. However, the correctness score is 0 as the correct answer should be 'Saint-Hilaire' but it is not marked as such in the options.","Score(precision=0.4166666666666667, recall=0.08333333333333333, fmeasure=0.1388888888888889)",1.3711337617683104e-156,{A: Saint-Hilaire},"The text explicitly states that Saint-Hilaire warned about the danger of oligarchies, so the correct answer is A.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+In the states, however, the oligarchies were being established, 
+of which the danger was already warned by Saint-Hilaire, and under the 
+disguise of what was called 'the politics of governors'. 
+In concentric circles, this system comes to culminate in the 
+very central power that is the sun of our system.
+
+PRADO, P. Portrait of Brazil. Rio de Janeiro: José Olympio, 1972.
+",What is the term used to describe the political practice under the disguise of what was called 'the politics of governors'?,"{'A': 'Democracy', 'B': 'Oligarchy', 'C': 'Monarchy', 'D': 'Anarchy', 'E': 'Clientelism'}",{'E': 'Clientelism'},Apply,Advanced,5,4,5,0,"The question is highly relevant to the context provided from the text 'Portrait of Brazil'. The bloom taxonomy level and difficulty seem appropriate for the given question. Sufficient information is given to arrive at the correct answer. However, the correctness score is 0 as the correct answer is not provided in the question description.","Score(precision=0.6190476190476191, recall=0.20967741935483872, fmeasure=0.3132530120481928)",0.07195029550918336,{B: Oligarchy},"The term used to describe the political practice under the disguise of what was called 'the politics of governors' is Oligarchy, as mentioned in the passage.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+At the end of the 19th century, the Great Carnival Societies 
+achieved wide popularity among the revelers in Rio de Janeiro. Such societies cultivated a pretentious 
+goal regarding the carnival celebration itself: with their parades of decorated cars through the 
+main streets of the city, they aimed to abolish the 'entrudo' (a game consisting of throwing water at revelers) 
+and other practices widespread among the population since colonial times, replacing them with forms of entertainment 
+that they considered more civilized, inspired by the carnivals of Venice. However, no one seemed willing 
+to give up their amusements to attend the societies' carnival. The 'entrudo,' in the view of its lively 
+practitioners, could perfectly coexist with the parades.",What was the goal of the Great Carnival Societies regarding the carnival celebration at the end of the 19th century?,"{'A': 'Abolish samba and other popular dances.', 'B': 'Replace the entrudo with more civilized forms of entertainment.', 'C': 'Promote sports competitions during the carnival.', 'D': 'Hold parades of decorated cars only for children.', 'E': 'Encourage the practice of throwing water at revelers.'}",{'B': 'Replace the entrudo with more civilized forms of entertainment.'},Remember,Beginner,5,4,5,1,The question is highly relevant to the context provided about the Great Carnival Societies in Rio de Janeiro at the end of the 19th century. The bloom and difficulty level seem appropriate for the information given. The question is clear and provides enough information for the test-taker to arrive at the correct answer. The correct option is accurately stated as 'Replace the entrudo with more civilized forms of entertainment.',"Score(precision=0.7, recall=0.1206896551724138, fmeasure=0.2058823529411765)",0.0037910554837274806,{B: Replace the entrudo with more civilized forms of entertainment.},"The passage mentions that the goal of the Great Carnival Societies was to abolish the 'entrudo' and other practices by replacing them with forms of entertainment they considered more civilized, inspired by the carnivals of Venice.",gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+At the end of the 19th century, the Great Carnival Societies 
+reached wide popularity among the carnival revelers in Rio de Janeiro. Such societies cultivated a pretentious 
+objective regarding the carnival celebration itself: with their parades of decorated cars through the 
+main streets of the city, they intended to abolish the 'entrudo' 
+(a game consisting of throwing water at revelers) and 
+other practices spread among the population since colonial times, replacing them with forms of entertainment 
+that they considered more civilized, 
+inspired by the carnivals of Venice. However, no one seemed willing 
+to give up their amusements to attend the societies' carnival. The 'entrudo', in the view of its lively 
+practitioners, could perfectly coexist with the parades.",Why did the Great Carnival Societies aim to abolish the 'entrudo' and other popular practices?,"{'A': 'Because they considered the 'entrudo' a violent and dangerous practice.', 'B': 'To save water during the carnival.', 'C': 'Due to direct influence from the carnivals of Venice.', 'D': 'To promote gender equality in the parades.', 'E': 'Under pressure from the colonial government.'}",{'A': 'Because they considered the 'entrudo' a violent and dangerous practice.'},Understand,Intermediate,5,4,5,1,"The question is highly relevant to the context provided about the Great Carnival Societies in Rio de Janeiro at the end of the 19th century. The bloom taxonomy level 'Understand' and difficulty level 'Intermediate' are appropriate for the question. Sufficient information is given in the stem and options to arrive at the correct answer. The correct option is indeed correct, as the Great Carnival Societies aimed to abolish the 'entrudo' and other popular practices to replace them with what they considered more civilized forms of entertainment inspired by the carnivals of Venice.","Score(precision=0.7333333333333333, recall=0.09401709401709402, fmeasure=0.16666666666666669)",0.00040272496879718725,{C: Due to direct influence from the carnivals of Venice.},The passage mentions that the Great Carnival Societies aimed to abolish the 'entrudo' and other popular practices to replace them with forms of entertainment inspired by the carnivals of Venice.,gpt-3.5-turbo
+HUMANITIES AND THEIR TECHNOLOGIES,2013,"
+At the end of the 19th century, the Great Carnival Societies 
+reached wide popularity among the carnival revelers in Rio de Janeiro. Such societies cultivated a pretentious 
+goal regarding the carnival celebration itself: with their parades of decorated cars 
+through the main streets of the city, they intended to abolish the 'entrudo' 
+(a game consisting of throwing water at revelers) and 
+other practices spread among the population since colonial times, replacing them with forms of entertainment 
+that they considered more civilized, 
+inspired by the carnivals of Venice. However, no one seemed willing 
+to give up their amusements to attend the societies' carnival. The 'entrudo', in the view of its lively 
+practitioners, could perfectly coexist with the parades.",How did the revelers react to the Great Societies' attempt to abolish the 'entrudo' and other popular practices?,"{'A': 'They immediately accepted the societies' proposal.', 'B': 'They boycotted the parades and continued with their traditions.', 'C': 'They created their own carnival societies.', 'D': 'They asked the government to intervene to ban the 'entrudo'.', 'E': 'They completely abandoned the carnival.'}",{'B': 'They boycotted the parades and continued with their traditions.'},Apply,Advanced,5,4,5,1,The question is highly relevant to the context provided about the Great Carnival Societies in Rio de Janeiro at the end of the 19th century. The bloom taxonomy level and difficulty level are appropriate for the information given. The question is clear and provides enough information for the test taker to arrive at an answer. The options are well-constructed with one correct answer and plausible distractors. The correct option is indeed correct.,"Score(precision=0.6111111111111112, recall=0.09401709401709402, fmeasure=0.16296296296296298)",0.0008039802008672829,{B: They boycotted the parades and continued with their traditions.},"The passage mentions that the revelers were not willing to give up their amusements to attend the societies' carnival, indicating that they boycotted the parades and continued with their traditions.",gpt-3.5-turbo

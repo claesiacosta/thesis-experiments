@@ -1,0 +1,496 @@
+area,year,context,question,options,correct_answer,bloom_level,difficult_level,relevance,adherence,answerability,correctness,feedback,rouge,bleu,system_answer,steps_answer,model
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+Trata-se de um gigantesco movimento de construção de cidades, necessário para o assentamento residencial 
+dessa população, bem como de suas necessidades de trabalho, abastecimento, transportes, saúde, energia, água 
+etc. Ainda  que  o  rumo  tomado  pelo  crescimento  urbano  não  tenha  respondido  satisfatoriamente  a  todas  essas 
+necessidades, o território foi ocupado e foram construídas as condições para viver nesse espaço.
+
+MARICATO, E. Brasil, cidades: alternativas para a crise urbana. Petrópolis: Vozes, 2001.
+",Qual é a principal razão para o gigantesco movimento de construção de cidades mencionado no texto?,"{'A': 'Necessidades de trabalho', 'B': 'Abastecimento de água', 'C': 'Transporte público eficiente', 'D': 'Saúde da população', 'E': 'Energia renovável'}",{'B': 'Abastecimento de água'},Lembrar,Iniciante,5,4,5,1,"A questão é altamente relevante, pois está diretamente relacionada ao contexto apresentado. Quanto à aderência, o nível de Bloom 'Lembrar' e a dificuldade 'Iniciante' estão adequados para a pergunta proposta. A questão fornece informações suficientes para chegar à resposta correta, que é claramente indicada. A opção marcada como correta ('Abastecimento de água') está correta de acordo com o contexto apresentado.","Score(precision=0.4117647058823529, recall=0.10294117647058823, fmeasure=0.16470588235294117)",0.019722371631119204,{A: Necessidades de trabalho},"A principal razão para o gigantesco movimento de construção de cidades mencionado no texto é atender às necessidades de trabalho da população, entre outras necessidades como residência, abastecimento, transporte, saúde, energia e água.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+Trata-se de um gigantesco movimento de construção de cidades, necessário para o assentamento residencial 
+dessa população, bem como de suas necessidades de trabalho, abastecimento, transportes, saúde, energia, água 
+etc. Ainda  que  o  rumo  tomado  pelo  crescimento  urbano  não  tenha  respondido  satisfatoriamente  a  todas  essas 
+necessidades, o território foi ocupado e foram construídas as condições para viver nesse espaço.
+
+MARICATO, E. Brasil, cidades: alternativas para a crise urbana. Petrópolis: Vozes, 2001.
+",O que foi construído para atender às necessidades da população nas cidades?,"{'A': 'Hospitais e escolas', 'B': 'Parques e áreas de lazer', 'C': 'Indústrias poluentes', 'D': 'Centrais nucleares', 'E': 'Aeroportos internacionais'}",{'A': 'Hospitais e escolas'},Compreender,Intermediário,5,4,5,1,"A questão é altamente relevante, pois está diretamente relacionada ao contexto descrito sobre a construção de cidades para atender às necessidades da população. Quanto à aderência, o nível de Bloom 'Compreender' e a dificuldade 'Intermediário' estão adequados considerando a complexidade da pergunta. A questão fornece informações claras o suficiente para chegar à resposta correta. A opção marcada como correta ('Hospitais e escolas') está de acordo com o contexto apresentado, sendo a resposta correta para a pergunta.","Score(precision=0.42857142857142855, recall=0.08823529411764706, fmeasure=0.14634146341463417)",2.9952459934854115e-233,{A: Hospitais e escolas},"O texto menciona que foram construídas condições para viver no espaço urbano, atendendo às necessidades da população, como saúde e educação. Portanto, a resposta correta é 'Hospitais e escolas'.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+Trata-se de um gigantesco movimento de construção de cidades, necessário para o assentamento residencial 
+dessa população, bem como de suas necessidades de trabalho, abastecimento, transportes, saúde, energia, água 
+etc. Ainda  que  o  rumo  tomado  pelo  crescimento  urbano  não  tenha  respondido  satisfatoriamente  a  todas  essas 
+necessidades, o território foi ocupado e foram construídas as condições para viver nesse espaço.
+
+MARICATO, E. Brasil, cidades: alternativas para a crise urbana. Petrópolis: Vozes, 2001.
+",Por que o crescimento urbano não conseguiu atender plenamente a todas as necessidades da população?,"{'A': 'Falta de investimento em infraestrutura', 'B': 'Corrupção política', 'C': 'Mudanças climáticas', 'D': 'Aumento da população', 'E': 'Conflitos étnicos'}",{'A': 'Falta de investimento em infraestrutura'},Analisar,Avançado,5,5,5,1,"A questão apresenta alta qualidade em todos os aspectos avaliados. A relevância é máxima, pois a pergunta está diretamente relacionada ao contexto fornecido. O nível de Bloom 'Analisar' e a dificuldade 'Avançado' estão adequados considerando a complexidade da questão. A questão fornece informações suficientes para chegar à resposta correta, que está claramente indicada. A opção marcada como correta é de fato a resposta correta, garantindo a pontuação máxima de correção.","Score(precision=0.5882352941176471, recall=0.14705882352941177, fmeasure=0.23529411764705882)",2.3544721432858955e-79,{A: Falta de investimento em infraestrutura},"O crescimento urbano não conseguiu atender plenamente a todas as necessidades da população devido à falta de investimento em infraestrutura, o que resultou em dificuldades para suprir demandas essenciais como transporte, saúde, energia, água, entre outros.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+No dia 1º de julho de 2012, a cidade do Rio de Janeiro 
+tornou-se  a  primeira  do  mundo  a  receber  o  título  da 
+Unesco de Patrimônio Mundial como Paisagem Cultural. 
+A candidatura, apresentada pelo Instituto do Patrimônio 
+Histórico  e  Artístico  Nacional  (Iphan),  foi  aprovada 
+durante a 36ª Sessão do Comitê do Patrimônio Mundial. 
+O presidente do Iphan explicou que “a paisagem carioca 
+é a imagem mais explícita do que podemos chamar de 
+civilização  brasileira,  com  sua  originalidade,  desafios, 
+contradições  e  possibilidades”.  A  partir  de  agora,  os 
+locais da cidade valorizados com o título da Unesco serão 
+alvo de ações integradas visando a preservação da sua 
+paisagem cultural.
+
+Disponível em: www.cultura.gov.br. Acesso em: 7 mar. 2013 (adaptado).
+",Qual foi a data em que a cidade do Rio de Janeiro se tornou a primeira do mundo a receber o título da Unesco de Patrimônio Mundial como Paisagem Cultural?,"{'A': '1 de julho de 2012', 'B': '7 de março de 2013', 'C': '15 de setembro de 2010', 'D': '25 de dezembro de 2011', 'E': '3 de maio de 2014'}",{'A': '1 de julho de 2012'},Lembrar,Iniciante,5,4,5,1,"A questão é altamente relevante, pois está diretamente relacionada ao contexto fornecido sobre a cidade do Rio de Janeiro e seu título da Unesco. Quanto à aderência, a questão está no nível 'Lembrar' do Bloom e é classificada como de dificuldade 'Iniciante', o que está de acordo com a informação apresentada. A resposta correta é clara e baseada na informação fornecida no enunciado. A opção marcada como correta ('1 de julho de 2012') está de acordo com a data mencionada no contexto, portanto, a questão é considerada correta.","Score(precision=0.78125, recall=0.7575757575757576, fmeasure=0.7692307692307692)",0.6271450618820373,{A: 1 de julho de 2012},"A questão menciona que no dia 1º de julho de 2012, a cidade do Rio de Janeiro tornou-se a primeira do mundo a receber o título da Unesco de Patrimônio Mundial como Paisagem Cultural, portanto, a resposta correta é a opção A: 1 de julho de 2012.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+No dia 1º de julho de 2012, a cidade do Rio de Janeiro 
+tornou-se  a  primeira  do  mundo  a  receber  o  título  da 
+Unesco de Patrimônio Mundial como Paisagem Cultural. 
+A candidatura, apresentada pelo Instituto do Patrimônio 
+Histórico  e  Artístico  Nacional  (Iphan),  foi  aprovada 
+durante a 36ª Sessão do Comitê do Patrimônio Mundial. 
+O presidente do Iphan explicou que “a paisagem carioca 
+é a imagem mais explícita do que podemos chamar de 
+civilização  brasileira,  com  sua  originalidade,  desafios, 
+contradições  e  possibilidades”.  A  partir  de  agora,  os 
+locais da cidade valorizados com o título da Unesco serão 
+alvo de ações integradas visando a preservação da sua 
+paisagem cultural.
+
+Disponível em: www.cultura.gov.br. Acesso em: 7 mar. 2013 (adaptado).
+",Quem apresentou a candidatura da cidade do Rio de Janeiro para receber o título da Unesco de Patrimônio Mundial como Paisagem Cultural?,"{'A': 'Iphan', 'B': 'Unesco', 'C': 'Prefeitura do Rio de Janeiro', 'D': 'Governo Federal', 'E': 'Instituto do Patrimônio Artístico Nacional'}",{'A': 'Iphan'},Compreender,Intermediário,5,4,5,1,"A questão é altamente relevante, pois está diretamente relacionada ao contexto fornecido sobre a candidatura do Rio de Janeiro para o título da Unesco. Quanto à aderência, o nível de Bloom 'Compreender' e a dificuldade 'Intermediário' estão adequados considerando a informação da questão. A resposta correta é clara e baseada nas informações apresentadas. Todas as opções são plausíveis, mas apenas uma está correta, o que demonstra que a questão é respondível e a opção correta está corretamente identificada.","Score(precision=0.7916666666666666, recall=0.5757575757575758, fmeasure=0.6666666666666667)",0.40681126757218594,{C: Prefeitura do Rio de Janeiro},"A cidade do Rio de Janeiro foi candidata a receber o título da Unesco de Patrimônio Mundial como Paisagem Cultural, e a candidatura foi apresentada pela Prefeitura do Rio de Janeiro.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+No dia 1º de julho de 2012, a cidade do Rio de Janeiro 
+tornou-se  a  primeira  do  mundo  a  receber  o  título  da 
+Unesco de Patrimônio Mundial como Paisagem Cultural. 
+A candidatura, apresentada pelo Instituto do Patrimônio 
+Histórico  e  Artístico  Nacional  (Iphan),  foi  aprovada 
+durante a 36ª Sessão do Comitê do Patrimônio Mundial. 
+O presidente do Iphan explicou que “a paisagem carioca 
+é a imagem mais explícita do que podemos chamar de 
+civilização  brasileira,  com  sua  originalidade,  desafios, 
+contradições  e  possibilidades”.  A  partir  de  agora,  os 
+locais da cidade valorizados com o título da Unesco serão 
+alvo de ações integradas visando a preservação da sua 
+paisagem cultural.
+
+Disponível em: www.cultura.gov.br. Acesso em: 7 mar. 2013 (adaptado).
+","O que a paisagem carioca representa, de acordo com o presidente do Iphan?","{'A': 'A civilização mundial', 'B': 'A originalidade brasileira', 'C': 'Os desafios globais', 'D': 'A civilização brasileira com sua originalidade, desafios, contradições e possibilidades', 'E': 'A diversidade cultural'}","{'D': 'A civilização brasileira com sua originalidade, desafios, contradições e possibilidades'}",Analisar,Avançado,5,4,5,1,"A questão apresenta alta relevância, pois está diretamente relacionada ao contexto fornecido sobre a paisagem carioca e o título da Unesco. Quanto à aderência, o nível de Bloom 'Analisar' e a dificuldade 'Avançado' estão adequados para a pergunta. A resposta correta está claramente presente nas opções fornecidas, permitindo uma resposta direta e precisa. Além disso, a opção marcada como correta ('A civilização brasileira com sua originalidade, desafios, contradições e possibilidades') está correta de acordo com a descrição do contexto. Portanto, a questão atende aos critérios de qualidade estabelecidos.","Score(precision=0.23076923076923078, recall=0.09090909090909091, fmeasure=0.13043478260869568)",3.669559467077384e-232,"{D: A civilização brasileira com sua originalidade, desafios, contradições e possibilidades}","O presidente do Iphan afirmou que a paisagem carioca representa a civilização brasileira com sua originalidade, desafios, contradições e possibilidades.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"TEXTO I
+
+Há  já  algum  tempo  eu  me  apercebi  de  que,  desde 
+meus  primeiros  anos,  recebera  muitas  falsas  opiniões 
+como verdadeiras, e de que aquilo que depois eu fundei 
+em princípios tão mal assegurados não podia ser senão 
+mui duvidoso e incerto. Era necessário tentar seriamente, 
+uma vez em minha vida, desfazer-me de todas as opiniões 
+a que até então dera crédito, e começar tudo novamente 
+a fim de estabelecer um saber firme e inabalável.
+
+DESCARTES, R. Meditações concernentes à Primeira Filosofia. 
+São Paulo: Abril Cultural, 1973 (adaptado).
+
+TEXTO II
+
+É  o  caráter  radical  do  que  se  procura  que  exige  a 
+radicalização  do  próprio  processo  de  busca.  Se  todo  o 
+espaço  for  ocupado  pela  dúvida,  qualquer  certeza  que 
+aparecer a partir daí terá sido de alguma forma gerada 
+pela  própria  dúvida,  e  não  será  seguramente  nenhuma 
+daquelas  que  foram  anteriormente  varridas  por  essa 
+mesma dúvida.
+SILVA, F. L. Descartes: a metafísica da modernidade. São Paulo: Moderna, 2001 (adaptado).
+","De acordo com o Texto I, por que Descartes sentiu a necessidade de desfazer-se de todas as opiniões a que dera crédito?","{'A': 'Porque suas opiniões eram todas verdadeiras.', 'B': 'Porque suas opiniões eram inabaláveis.', 'C': 'Porque suas opiniões eram duvidosas e incertas.', 'D': 'Porque suas opiniões eram baseadas em princípios sólidos.', 'E': 'Porque suas opiniões eram amplamente aceitas pela sociedade.'}",{'C': 'Porque suas opiniões eram duvidosas e incertas.'},Compreender,Intermediário,5,4,5,1,"A questão é altamente relevante, relacionada ao contexto de Ciências Humanas e ao Texto I. Quanto à aderência, o nível de Bloom 'Compreender' e a dificuldade 'Intermediário' estão adequados. A questão fornece informações suficientes para chegar à resposta correta. A opção marcada como correta ('C') realmente corresponde à resposta correta indicada. Ótima questão no geral.","Score(precision=0.08, recall=1.0, fmeasure=0.14814814814814814)",0.0,{C: Porque suas opiniões eram duvidosas e incertas.},"Descartes sentiu a necessidade de desfazer-se de todas as opiniões a que dera crédito porque percebeu que muitas delas eram duvidosas e incertas, não sendo suficientemente sólidas para construir um conhecimento verdadeiro e indubitável.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"TEXTO I
+
+Há  já  algum  tempo  eu  me  apercebi  de  que,  desde 
+meus  primeiros  anos,  recebera  muitas  falsas  opiniões 
+como verdadeiras, e de que aquilo que depois eu fundei 
+em princípios tão mal assegurados não podia ser senão 
+mui duvidoso e incerto. Era necessário tentar seriamente, 
+uma vez em minha vida, desfazer-me de todas as opiniões 
+a que até então dera crédito, e começar tudo novamente 
+a fim de estabelecer um saber firme e inabalável.
+
+DESCARTES, R. Meditações concernentes à Primeira Filosofia. 
+São Paulo: Abril Cultural, 1973 (adaptado).
+
+TEXTO II
+
+É  o  caráter  radical  do  que  se  procura  que  exige  a 
+radicalização  do  próprio  processo  de  busca.  Se  todo  o 
+espaço  for  ocupado  pela  dúvida,  qualquer  certeza  que 
+aparecer a partir daí terá sido de alguma forma gerada 
+pela  própria  dúvida,  e  não  será  seguramente  nenhuma 
+daquelas  que  foram  anteriormente  varridas  por  essa 
+mesma dúvida.
+SILVA, F. L. Descartes: a metafísica da modernidade. São Paulo: Moderna, 2001 (adaptado).
+",Qual o objetivo de Descartes ao tentar desfazer-se de todas as opiniões a que dera crédito?,"{'A': 'Estabelecer um saber firme e inabalável.', 'B': 'Manter suas opiniões antigas intactas.', 'C': 'Evitar qualquer tipo de dúvida em sua vida.', 'D': 'Seguir cegamente as opiniões alheias.', 'E': 'Ignorar completamente a busca pelo conhecimento.'}",{'A': 'Estabelecer um saber firme e inabalável.'},Aplicar,Iniciante,5,4,5,1,"A questão é altamente relevante, relacionada ao contexto de Descartes e seu objetivo. O nível de Bloom 'Aplicar' e a dificuldade 'Iniciante' estão adequados. A pergunta fornece informações suficientes para chegar à resposta correta. A opção marcada como correta está correta, o que garante a pontuação máxima de 1 para a correção.","Score(precision=0.0, recall=0.0, fmeasure=0.0)",0.0,{A: Estabelecer um saber firme e inabalável.},"Descartes buscava encontrar um conhecimento seguro e indubitável, livre de qualquer dúvida. Para isso, ele decidiu questionar e eliminar todas as opiniões que antes aceitava como verdadeiras, a fim de estabelecer uma base sólida para seu conhecimento.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"TEXTO I
+
+Há  já  algum  tempo  eu  me  apercebi  de  que,  desde 
+meus  primeiros  anos,  recebera  muitas  falsas  opiniões 
+como verdadeiras, e de que aquilo que depois eu fundei 
+em princípios tão mal assegurados não podia ser senão 
+mui duvidoso e incerto. Era necessário tentar seriamente, 
+uma vez em minha vida, desfazer-me de todas as opiniões 
+a que até então dera crédito, e começar tudo novamente 
+a fim de estabelecer um saber firme e inabalável.
+
+DESCARTES, R. Meditações concernentes à Primeira Filosofia. 
+São Paulo: Abril Cultural, 1973 (adaptado).
+
+TEXTO II
+
+É  o  caráter  radical  do  que  se  procura  que  exige  a 
+radicalização  do  próprio  processo  de  busca.  Se  todo  o 
+espaço  for  ocupado  pela  dúvida,  qualquer  certeza  que 
+aparecer a partir daí terá sido de alguma forma gerada 
+pela  própria  dúvida,  e  não  será  seguramente  nenhuma 
+daquelas  que  foram  anteriormente  varridas  por  essa 
+mesma dúvida.
+SILVA, F. L. Descartes: a metafísica da modernidade. São Paulo: Moderna, 2001 (adaptado).
+",O que Descartes percebeu sobre as opiniões que recebera desde seus primeiros anos?,"{'A': 'Eram todas corretas e inabaláveis.', 'B': 'Eram duvidosas e incertas.', 'C': 'Eram amplamente aceitas pela sociedade.', 'D': 'Eram baseadas em princípios sólidos.', 'E': 'Eram todas falsas e sem fundamento.'}",{'B': 'Eram duvidosas e incertas.'},Lembrar,Avançado,4,3,5,1,"A questão apresenta uma boa relevância com o contexto e tópico abordados, pontuando 4. No entanto, o nível de Bloom atribuído ('Lembrar') parece um pouco baixo para a complexidade da pergunta, resultando em uma pontuação de 3 para aderência. A resposta correta é clara e fornece informações suficientes para chegar a ela, garantindo uma pontuação máxima de 5 para answerability. A opção marcada como correta está correta, o que resulta em uma pontuação de 1 para a correção.","Score(precision=0.0, recall=0.0, fmeasure=0.0)",0.0,{B: Eram duvidosas e incertas.},"Descartes percebeu que as opiniões que recebera desde seus primeiros anos eram duvidosas e incertas, levando-o a duvidar de tudo para encontrar uma base sólida de conhecimento.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+De  ponta  a  ponta,  é  tudo  praia-palma,  muito  chã  e 
+muito  formosa.  Pelo  sertão  nos  pareceu,  vista  do  mar, 
+muito  grande,  porque,  a  estender  olhos,  não  podíamos 
+ver  senão  terra  com  arvoredos,  que  nos  parecia  muito 
+longa. Nela, até agora, não pudemos saber que haja ouro, 
+nem prata, nem coisa alguma de metal ou ferro; nem lho 
+vimos.  Porém  a  terra  em  si  é  de  muito  bons  ares  [...]. 
+Porém o melhor fruto que dela se pode tirar me parece 
+que será salvar esta gente.
+
+Carta de Pero Vaz de Caminha. In: MARQUES, A.; BERUTTI, F.; FARIA, R. 
+História moderna através de textos. São Paulo: Contexto, 2001.
+",Qual é a principal característica da terra descrita na carta de Pero Vaz de Caminha?,"{'A': 'Presença de ouro e prata', 'B': 'Extensão muito longa', 'C': 'Bons ares', 'D': 'Arvoredos abundantes', 'E': 'Vista do mar'}",{'C': 'Bons ares'},Remember,Beginner,5,4,5,1,"A questão é altamente relevante, pois está diretamente relacionada ao contexto da carta de Pero Vaz de Caminha. Quanto à aderência, o nível de Bloom 'Remember' e a dificuldade 'Beginner' estão adequados para a pergunta. A questão fornece informações suficientes para chegar à resposta correta, que é clara e baseada no trecho fornecido. Além disso, a opção marcada como correta ('Bons ares') está correta de acordo com a descrição da carta. Excelente questão de múltipla escolha.","Score(precision=0.26666666666666666, recall=0.044444444444444446, fmeasure=0.0761904761904762)",1.3017285428067626e-233,{C: Bons ares},"A principal característica da terra descrita na carta de Pero Vaz de Caminha é a presença de bons ares, conforme mencionado no trecho fornecido.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+De  ponta  a  ponta,  é  tudo  praia-palma,  muito  chã  e 
+muito  formosa.  Pelo  sertão  nos  pareceu,  vista  do  mar, 
+muito  grande,  porque,  a  estender  olhos,  não  podíamos 
+ver  senão  terra  com  arvoredos,  que  nos  parecia  muito 
+longa. Nela, até agora, não pudemos saber que haja ouro, 
+nem prata, nem coisa alguma de metal ou ferro; nem lho 
+vimos.  Porém  a  terra  em  si  é  de  muito  bons  ares  [...]. 
+Porém o melhor fruto que dela se pode tirar me parece 
+que será salvar esta gente.
+
+Carta de Pero Vaz de Caminha. In: MARQUES, A.; BERUTTI, F.; FARIA, R. 
+História moderna através de textos. São Paulo: Contexto, 2001.
+",O que Pero Vaz de Caminha acredita ser o melhor fruto que se pode tirar da terra descrita?,"{'A': 'Ouro e prata', 'B': 'Metal e ferro', 'C': 'Arvoredos', 'D': 'Bons ares', 'E': 'Vista do mar'}",{'D': 'Bons ares'},Understand,Intermediate,5,4,5,1,"A questão é altamente relevante, pois está diretamente relacionada ao contexto apresentado sobre a carta de Pero Vaz de Caminha. Quanto à aderência, o nível de Bloom 'Understand' e a dificuldade 'Intermediate' estão adequados considerando a informação fornecida. A questão fornece informações suficientes para chegar à resposta correta, que é claramente indicada no texto. Além disso, a opção marcada como correta ('Bons ares') está correta de acordo com a descrição de Pero Vaz de Caminha. Portanto, a questão atende aos critérios de qualidade estabelecidos.","Score(precision=0.5555555555555556, recall=0.1111111111111111, fmeasure=0.18518518518518515)",0.005140425581313275,{E: Vista do mar},"Pero Vaz de Caminha acredita que o melhor fruto que se pode tirar da terra descrita é 'Vista do mar', conforme mencionado no trecho fornecido.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+De  ponta  a  ponta,  é  tudo  praia-palma,  muito  chã  e 
+muito  formosa.  Pelo  sertão  nos  pareceu,  vista  do  mar, 
+muito  grande,  porque,  a  estender  olhos,  não  podíamos 
+ver  senão  terra  com  arvoredos,  que  nos  parecia  muito 
+longa. Nela, até agora, não pudemos saber que haja ouro, 
+nem prata, nem coisa alguma de metal ou ferro; nem lho 
+vimos.  Porém  a  terra  em  si  é  de  muito  bons  ares  [...]. 
+Porém o melhor fruto que dela se pode tirar me parece 
+que será salvar esta gente.
+
+Carta de Pero Vaz de Caminha. In: MARQUES, A.; BERUTTI, F.; FARIA, R. 
+História moderna através de textos. São Paulo: Contexto, 2001.
+",Por que Pero Vaz de Caminha afirma que a terra é muito grande?,"{'A': 'Presença de ouro e prata', 'B': 'Extensão longa vista do mar', 'C': 'Arvoredos abundantes', 'D': 'Bons ares', 'E': 'Não podiam ver senão terra com arvoredos'}",{'E': 'Não podiam ver senão terra com arvoredos'},Apply,Advanced,5,4,5,1,"A questão é altamente relevante, pois está diretamente relacionada ao contexto histórico da carta de Pero Vaz de Caminha. Quanto à aderência, o nível de Bloom 'Apply' e a dificuldade 'Advanced' estão adequados para a pergunta apresentada. A questão fornece informações suficientes para chegar à resposta correta, que é claramente indicada no enunciado. Além disso, a opção marcada como correta ('E: Não podiam ver senão terra com arvoredos') está correta de acordo com a descrição de Pero Vaz de Caminha. Portanto, a questão atende aos critérios de qualidade estabelecidos.","Score(precision=0.4166666666666667, recall=0.05555555555555555, fmeasure=0.09803921568627451)",2.699866509664459e-157,{B: Extensão longa vista do mar},"Pero Vaz de Caminha afirma que a terra é muito grande porque, ao estender os olhos, não podiam ver senão terra com arvoredos, o que lhes parecia muito longa.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+O canto triste dos conquistados: 
+os últimos dias de Tenochtitlán 
+
+Nos caminhos jazem dardos quebrados;
+os cabelos estão espalhados.
+Destelhadas estão as casas,
+Vermelhas estão as águas, os rios, como se alguém 
+as tivesse tingido,
+Nos escudos esteve nosso resguardo,
+mas os escudos não detêm a desolação...
+
+PINSKY, J. et al. História da América através de textos. 
+São Paulo: Contexto, 2007 (fragmento).   
+",Qual era a capital do Império Asteca nos últimos dias antes da conquista espanhola?,"{'A': 'Cuzco', 'B': 'Machu Picchu', 'C': 'Tenochtitlán', 'D': 'Tikal', 'E': 'Chichén Itzá'}",{'C': 'Tenochtitlán'},Lembrar,Iniciante,5,4,5,1,"A questão é altamente relevante, relacionando-se diretamente com o contexto histórico apresentado. Quanto à aderência, o nível de Bloom 'Lembrar' e a dificuldade 'Iniciante' estão adequados para a pergunta proposta. A questão fornece informações suficientes para chegar à resposta correta, sendo clara e direta. A opção marcada como correta ('Tenochtitlán') está correta, sem ambiguidades.","Score(precision=0.13333333333333333, recall=0.18181818181818182, fmeasure=0.15384615384615383)",4.829607837557235e-155,{C: Tenochtitlán},A capital do Império Asteca nos últimos dias antes da conquista espanhola era Tenochtitlán.,gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+O canto triste dos conquistados: 
+os últimos dias de Tenochtitlán 
+
+Nos caminhos jazem dardos quebrados;
+os cabelos estão espalhados.
+Destelhadas estão as casas,
+Vermelhas estão as águas, os rios, como se alguém 
+as tivesse tingido,
+Nos escudos esteve nosso resguardo,
+mas os escudos não detêm a desolação...
+
+PINSKY, J. et al. História da América através de textos. 
+São Paulo: Contexto, 2007 (fragmento).   
+",Quem foi o líder asteca durante a conquista espanhola?,"{'A': 'Moctezuma II', 'B': 'Atahualpa', 'C': 'Cuauhtémoc', 'D': 'Pachacuti', 'E': 'Itzcoatl'}",{'A': 'Moctezuma II'},Compreender,Intermediário,5,4,5,1,"A questão é altamente relevante, pois está diretamente relacionada ao contexto fornecido sobre a conquista espanhola e o líder asteca. Quanto à aderência, o nível de Bloom 'Compreender' e a dificuldade 'Intermediário' estão adequados para a pergunta. A resposta correta é clara e bem definida, permitindo que os alunos cheguem facilmente à resposta correta. A opção marcada como correta ('Moctezuma II') está correta de acordo com a informação fornecida.","Score(precision=0.1, recall=0.09090909090909091, fmeasure=0.09523809523809525)",0.0,{A: Moctezuma II},"O líder asteca durante a conquista espanhola foi Moctezuma II, que governou o Império Asteca durante esse período conturbado.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+O canto triste dos conquistados: 
+os últimos dias de Tenochtitlán 
+
+Nos caminhos jazem dardos quebrados;
+os cabelos estão espalhados.
+Destelhadas estão as casas,
+Vermelhas estão as águas, os rios, como se alguém 
+as tivesse tingido,
+Nos escudos esteve nosso resguardo,
+mas os escudos não detêm a desolação...
+
+PINSKY, J. et al. História da América através de textos. 
+São Paulo: Contexto, 2007 (fragmento).   
+",Qual foi o principal fator que contribuiu para a queda de Tenochtitlán?,"{'A': 'Aliança com os incas', 'B': 'Epidemias de doenças europeias', 'C': 'Rebelião interna dos astecas', 'D': 'Escassez de alimentos', 'E': 'Traição de Moctezuma II'}",{'B': 'Epidemias de doenças europeias'},Aplicar,Avançado,5,4,5,1,"A questão apresenta alta relevância, pois está diretamente relacionada ao contexto histórico descrito. Quanto à aderência, o nível de Bloom 'Aplicar' e a dificuldade 'Avançado' estão adequados para a pergunta proposta. A resposta correta está claramente apresentada e é facilmente identificável. Além disso, a questão fornece informações suficientes para chegar à resposta correta. No entanto, para uma pontuação máxima de aderência, seria ideal fornecer mais contexto sobre o tema, como a data aproximada da queda de Tenochtitlán. No geral, a questão é bem formulada e atende aos critérios de qualidade estabelecidos.","Score(precision=0.3076923076923077, recall=0.36363636363636365, fmeasure=0.33333333333333337)",9.788429383461836e-232,{B: Epidemias de doenças europeias},"Para responder a essa pergunta, é importante lembrar que um dos principais fatores que contribuíram para a queda de Tenochtitlán foi a chegada de doenças europeias, como varíola e sarampo, para as quais os nativos não tinham imunidade. Essas epidemias dizimaram a população asteca e enfraqueceram significativamente a resistência da cidade.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+O canto triste dos conquistados: 
+os últimos dias de Tenochtitlán 
+
+Nos caminhos jazem dardos quebrados;
+os cabelos estão espalhados.
+Destelhadas estão as casas,
+Vermelhas estão as águas, os rios, como se alguém 
+as tivesse tingido,
+Nos escudos esteve nosso resguardo,
+mas os escudos não detêm a desolação...
+
+PINSKY, J. et al. História da América através de textos. 
+São Paulo: Contexto, 2007 (fragmento).   
+",Quais foram as consequências da conquista de Tenochtitlán para a população indígena?,"{'A': 'Integração pacífica na sociedade espanhola', 'B': 'Preservação da cultura asteca', 'C': 'Extinção de muitas comunidades indígenas', 'D': 'Fortalecimento das estruturas políticas locais', 'E': 'Desenvolvimento econômico sustentável'}",{'C': 'Extinção de muitas comunidades indígenas'},Analisar,Intermediário,5,4,5,1,"A questão apresenta alta relevância, pois está diretamente relacionada ao contexto histórico descrito. Quanto à aderência, o nível de Bloom 'Analisar' e a dificuldade 'Intermediário' estão adequados para a pergunta. A resposta correta é clara e as opções fornecem informações suficientes para chegar a ela. Além disso, a opção marcada como correta ('Extinção de muitas comunidades indígenas') está correta, garantindo a pontuação máxima de correção.","Score(precision=0.1875, recall=0.2727272727272727, fmeasure=0.2222222222222222)",5.233427736988301e-155,{C: Extinção de muitas comunidades indígenas},"A conquista de Tenochtitlán resultou na extinção de muitas comunidades indígenas devido a guerras, doenças trazidas pelos espanhóis e exploração. Esses fatores levaram a um declínio significativo da população nativa na região.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+O canto triste dos conquistados: 
+os últimos dias de Tenochtitlán 
+
+Nos caminhos jazem dardos quebrados;
+os cabelos estão espalhados.
+Destelhadas estão as casas,
+Vermelhas estão as águas, os rios, como se alguém 
+as tivesse tingido,
+Nos escudos esteve nosso resguardo,
+mas os escudos não detêm a desolação...
+
+PINSKY, J. et al. História da América através de textos. 
+São Paulo: Contexto, 2007 (fragmento).   
+",Qual era a principal atividade econômica dos astecas em Tenochtitlán?,"{'A': 'Mineração de ouro', 'B': 'Agricultura de subsistência', 'C': 'Comércio e tributos', 'D': 'Pesca no lago Texcoco', 'E': 'Artesanato em cerâmica'}",{'C': 'Comércio e tributos'},Avaliar,Avançado,5,4,5,1,"A questão é altamente relevante, pois está diretamente relacionada ao contexto fornecido sobre os astecas em Tenochtitlán. Quanto à aderência, o nível de Bloom 'Avaliar' e a dificuldade 'Avançado' estão adequados considerando a complexidade da pergunta. A resposta correta é clara e baseada nas informações apresentadas, permitindo uma resposta precisa. A opção marcada como correta ('Comércio e tributos') está correta de acordo com o contexto fornecido.","Score(precision=0.25, recall=0.2727272727272727, fmeasure=0.2608695652173913)",1.0244914152188952e-231,{C: Comércio e tributos},"A principal atividade econômica dos astecas em Tenochtitlán era o comércio e a cobrança de tributos. Eles controlavam uma extensa rede de comércio e exigiam tributos das regiões conquistadas, o que contribuía significativamente para a economia asteca.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+O canto triste dos conquistados: 
+os últimos dias de Tenochtitlán 
+
+Nos caminhos jazem dardos quebrados;
+os cabelos estão espalhados.
+Destelhadas estão as casas,
+Vermelhas estão as águas, os rios, como se alguém 
+as tivesse tingido,
+Nos escudos esteve nosso resguardo,
+mas os escudos não detêm a desolação...
+
+PINSKY, J. et al. História da América através de textos. 
+São Paulo: Contexto, 2007 (fragmento).   
+",Quem foi o conquistador espanhol responsável pela queda de Tenochtitlán?,"{'A': 'Francisco Pizarro', 'B': 'Hernán Cortés', 'C': 'Pedro Álvares Cabral', 'D': 'Vasco da Gama', 'E': 'Fernão de Magalhães'}",{'B': 'Hernán Cortés'},Lembrar,Iniciante,5,4,5,1,"A questão é altamente relevante, pois está diretamente relacionada ao contexto apresentado. Quanto à aderência, o nível de Bloom 'Lembrar' e a dificuldade 'Iniciante' estão adequados para a pergunta. A questão fornece informações suficientes para chegar à resposta correta. A opção marcada como correta ('Hernán Cortés') está correta de acordo com o contexto histórico apresentado.","Score(precision=0.3333333333333333, recall=0.36363636363636365, fmeasure=0.34782608695652173)",1.0244914152188952e-231,{B: Hernán Cortés},O conquistador espanhol responsável pela queda de Tenochtitlán foi Hernán Cortés.,gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+As  Brigadas 
+
+Internacionais 
+
+foram  unidades  de 
+combatentes formadas por voluntários de 53 nacionalidades 
+dispostos  a  lutar  em  defesa  da  República  espanhola. 
+Estima-se  que  cerca  de  60  mil  cidadãos  de  várias 
+partes do mundo – incluindo 40 brasileiros – tenham se 
+incorporado a essas unidades. Apesar de coordenadas 
+pelos  comunistas,  as  Brigadas  contaram  com 
+membros  socialistas,  liberais  e  de  outras  correntes 
+político-ideológicas.
+
+SOUZA, I. I. A Guerra Civil Europeia. História Viva, n. 70, 2009 (fragmento).
+",Qual era o principal objetivo das Brigadas Internacionais durante a Guerra Civil Espanhola?,"{'A': 'Defender a monarquia espanhola.', 'B': 'Lutar em defesa da República espanhola.', 'C': 'Promover o fascismo na Espanha.', 'D': 'Estabelecer um governo comunista na Espanha.', 'E': 'Proteger interesses estrangeiros na Espanha.'}",{'B': 'Lutar em defesa da República espanhola.'},Lembrar,Iniciante,5,5,5,1,"A questão apresenta alta qualidade em todas as métricas avaliadas. A relevância é máxima, pois a pergunta está diretamente relacionada ao contexto fornecido sobre as Brigadas Internacionais durante a Guerra Civil Espanhola. O nível de Bloom e a dificuldade estão adequadamente atribuídos, considerando a informação apresentada. A resposta correta é claramente indicada no enunciado e nas opções, fornecendo informações suficientes para chegar à resposta correta. Além disso, a opção marcada como correta ('Lutar em defesa da República espanhola.') está correta de acordo com o contexto histórico fornecido.","Score(precision=0.3076923076923077, recall=0.05970149253731343, fmeasure=0.09999999999999999)",1.3839567669933715e-156,{B: Lutar em defesa da República espanhola.},As Brigadas Internacionais foram formadas por voluntários de diversas nacionalidades com o principal objetivo de lutar em defesa da República espanhola durante a Guerra Civil Espanhola.,gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+As  Brigadas 
+
+Internacionais 
+
+foram  unidades  de 
+combatentes formadas por voluntários de 53 nacionalidades 
+dispostos  a  lutar  em  defesa  da  República  espanhola. 
+Estima-se  que  cerca  de  60  mil  cidadãos  de  várias 
+partes do mundo – incluindo 40 brasileiros – tenham se 
+incorporado a essas unidades. Apesar de coordenadas 
+pelos  comunistas,  as  Brigadas  contaram  com 
+membros  socialistas,  liberais  e  de  outras  correntes 
+político-ideológicas.
+
+SOUZA, I. I. A Guerra Civil Europeia. História Viva, n. 70, 2009 (fragmento).
+",Quantas nacionalidades estavam representadas nas Brigadas Internacionais?,"{'A': '40', 'B': '53', 'C': '60', 'D': '70', 'E': '80'}",{'B': '53'},Compreender,Intermediário,5,5,5,1,"A questão apresenta alta qualidade em todos os aspectos avaliados. A relevância é máxima, pois a pergunta está diretamente relacionada ao contexto fornecido sobre as Brigadas Internacionais. O nível de Bloom 'Compreender' e a dificuldade 'Intermediário' estão adequados à pergunta. A resposta correta é clara e baseada nas informações apresentadas no contexto. Além disso, a questão fornece informações suficientes para que o respondente possa chegar à resposta correta de forma assertiva.","Score(precision=0.2857142857142857, recall=0.029850746268656716, fmeasure=0.05405405405405406)",5.9459273011833076e-235,{B: 53},"Ao ler o texto fornecido, podemos identificar que as Brigadas Internacionais foram formadas por voluntários de 53 nacionalidades diferentes.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+As  Brigadas 
+
+Internacionais 
+
+foram  unidades  de 
+combatentes formadas por voluntários de 53 nacionalidades 
+dispostos  a  lutar  em  defesa  da  República  espanhola. 
+Estima-se  que  cerca  de  60  mil  cidadãos  de  várias 
+partes do mundo – incluindo 40 brasileiros – tenham se 
+incorporado a essas unidades. Apesar de coordenadas 
+pelos  comunistas,  as  Brigadas  contaram  com 
+membros  socialistas,  liberais  e  de  outras  correntes 
+político-ideológicas.
+
+SOUZA, I. I. A Guerra Civil Europeia. História Viva, n. 70, 2009 (fragmento).
+",Quais eram as principais correntes político-ideológicas presentes nas Brigadas Internacionais?,"{'A': 'Comunistas e anarquistas.', 'B': 'Socialistas e fascistas.', 'C': 'Liberais e conservadores.', 'D': 'Comunistas, socialistas, liberais e outras correntes político-ideológicas.', 'E': 'Nacionalistas e separatistas.'}","{'D': 'Comunistas, socialistas, liberais e outras correntes político-ideológicas.'}",Aplicar,Avançado,5,4,5,1,"A questão é altamente relevante, pois está diretamente relacionada ao contexto das Brigadas Internacionais. Quanto à aderência, a questão está bem alinhada com o nível de Bloom 'Aplicar' e a dificuldade 'Avançado'. A resposta correta é clara e baseada nas informações fornecidas no enunciado, tornando a questão facilmente respondível. Além disso, a opção marcada como correta ('D') está correta de acordo com as informações apresentadas no contexto.","Score(precision=0.46153846153846156, recall=0.08955223880597014, fmeasure=0.15)",8.220283194227999e-234,"{D: Comunistas, socialistas, liberais e outras correntes político-ideológicas.}","As principais correntes político-ideológicas presentes nas Brigadas Internacionais eram comunistas, socialistas, liberais e outras correntes político-ideológicas, conforme descrito no texto fornecido.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+De  todas  as  transformações  impostas  pelo  meio 
+técnico-científico-informacional à logística de transportes, 
+interessa-nos  mais  de  perto  a  intermodalidade.  E  por 
+uma razão muito simples: o potencial que tal “ferramenta 
+logística” ostenta permite que haja, de fato, um sistema de 
+transportes condizente com a escala geográfica do Brasil.
+HUERTAS, D. M. O papel dos transportes na expansão recente da fronteira agrícola brasileira. 
+Revista Transporte y Territorio, Universidade de Buenos Aires, n. 3, 2010 (adaptado).
+",O que é intermodalidade no contexto da logística de transportes?,"{'A': 'Um sistema de transporte que utiliza apenas um tipo de modal, como caminhões.', 'B': 'A integração de diferentes modais de transporte, como rodoviário, ferroviário e marítimo, visando otimização e eficiência.', 'C': 'Um sistema de transporte exclusivo para cargas leves.', 'D': 'Um sistema de transporte que não se preocupa com a escala geográfica.', 'E': 'A utilização de um único modal de transporte para todas as cargas.'}","{'B': 'A integração de diferentes modais de transporte, como rodoviário, ferroviário e marítimo, visando otimização e eficiência.'}",Lembrar,Iniciante,5,5,5,1,"A questão de múltipla escolha é altamente relevante, pois está diretamente relacionada ao contexto da logística de transportes e define claramente o conceito de intermodalidade. O nível de Bloom e a dificuldade estão apropriados para a pergunta, considerando que se enquadra em 'Lembrar' e 'Iniciante'. A questão fornece informações claras o suficiente para chegar à resposta correta, que é bem definida. A opção marcada como correta ('B') realmente corresponde à definição correta de intermodalidade no contexto da logística de transportes.","Score(precision=0.6, recall=0.10714285714285714, fmeasure=0.18181818181818182)",1.575804436977033e-156,"{B: A intermodalidade no contexto da logística de transportes é a integração de diferentes modais de transporte, como rodoviário, ferroviário e marítimo, visando otimização e eficiência.}","Para responder a essa pergunta, é importante entender o conceito de intermodalidade, que se refere à utilização de diferentes modais de transporte de forma integrada para otimizar a logística. Dentre as opções fornecidas, a definição mais adequada é a letra B, que descreve essa integração de modais para melhorar a eficiência do transporte de cargas.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+De  todas  as  transformações  impostas  pelo  meio 
+técnico-científico-informacional à logística de transportes, 
+interessa-nos  mais  de  perto  a  intermodalidade.  E  por 
+uma razão muito simples: o potencial que tal “ferramenta 
+logística” ostenta permite que haja, de fato, um sistema de 
+transportes condizente com a escala geográfica do Brasil.
+HUERTAS, D. M. O papel dos transportes na expansão recente da fronteira agrícola brasileira. 
+Revista Transporte y Territorio, Universidade de Buenos Aires, n. 3, 2010 (adaptado).
+",Qual é a importância da intermodalidade para a logística de transportes no Brasil?,"{'A': 'Reduzir a eficiência do transporte de cargas.', 'B': 'Aumentar os custos operacionais.', 'C': 'Facilitar o transporte de cargas em longas distâncias e regiões diversas.', 'D': 'Diminuir a integração entre os diferentes modais de transporte.', 'E': 'Limitar a capacidade de expansão da fronteira agrícola.'}",{'C': 'Facilitar o transporte de cargas em longas distâncias e regiões diversas.'},Compreender,Intermediário,5,5,5,1,"A questão de múltipla escolha é altamente relevante, pois está diretamente relacionada ao contexto de logística de transportes no Brasil. O nível de Bloom 'Compreender' e a dificuldade 'Intermediário' estão adequadamente atribuídos, considerando a complexidade da pergunta. A questão fornece informações claras o suficiente para chegar à resposta correta. A opção marcada como correta ('Facilitar o transporte de cargas em longas distâncias e regiões diversas.') está correta de acordo com o enunciado da questão. Portanto, a questão atende a todos os critérios de qualidade estabelecidos.","Score(precision=0.5, recall=0.125, fmeasure=0.2)",5.489641193391308e-156,{C: A importância da intermodalidade para a logística de transportes no Brasil é facilitar o transporte de cargas em longas distâncias e regiões diversas.},"A intermodalidade permite a integração de diferentes modais de transporte, tornando o sistema logístico mais eficiente e adequado para a extensa geografia do Brasil, facilitando o transporte de cargas em longas distâncias e regiões diversas.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+De  todas  as  transformações  impostas  pelo  meio 
+técnico-científico-informacional à logística de transportes, 
+interessa-nos  mais  de  perto  a  intermodalidade.  E  por 
+uma razão muito simples: o potencial que tal “ferramenta 
+logística” ostenta permite que haja, de fato, um sistema de 
+transportes condizente com a escala geográfica do Brasil.
+HUERTAS, D. M. O papel dos transportes na expansão recente da fronteira agrícola brasileira. 
+Revista Transporte y Territorio, Universidade de Buenos Aires, n. 3, 2010 (adaptado).
+",Como a intermodalidade contribui para a escala geográfica do Brasil?,"{'A': 'A intermodalidade não tem impacto na escala geográfica.', 'B': 'Permite a integração de diferentes regiões do país, facilitando o comércio e o desenvolvimento.', 'C': 'Restringe o acesso a áreas remotas.', 'D': 'Aumenta a dependência de um único modal de transporte.', 'E': 'Causa desequilíbrio na distribuição de cargas.'}","{'B': 'Permite a integração de diferentes regiões do país, facilitando o comércio e o desenvolvimento.'}",Analisar,Avançado,5,5,5,1,"A questão de múltipla escolha é altamente relevante, pois está diretamente relacionada ao contexto apresentado sobre intermodalidade e sua contribuição para a escala geográfica do Brasil. O nível de Bloom 'Analisar' e a dificuldade 'Avançado' estão adequados, considerando a complexidade da pergunta. A questão fornece informações claras o suficiente para chegar à resposta correta, que é de fato a opção B. A opção correta está corretamente identificada e alinhada com o conteúdo apresentado. Excelente qualidade geral da questão.","Score(precision=0.7272727272727273, recall=0.14285714285714285, fmeasure=0.23880597014925373)",0.006867253771190904,"{B: Permite a integração de diferentes regiões do país, facilitando o comércio e o desenvolvimento.}","A intermodalidade permite a utilização de diferentes modais de transporte de forma integrada, o que facilita o deslocamento de cargas entre regiões distantes, contribuindo para a integração do país e impulsionando o comércio e o desenvolvimento econômico.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+Nasce daqui uma questão: se vale mais ser amado 
+que  temido  ou  temido  que  amado.  Responde-se  que 
+ambas  as  coisas  seriam  de  desejar;  mas  porque  é 
+difícil  juntá-las,  é  muito  mais  seguro  ser  temido  que 
+amado,  quando  haja  de  faltar  uma  das  duas.  Porque 
+dos  homens  se  pode  dizer,  duma  maneira  geral,  que 
+são ingratos, volúveis, simuladores, covardes e ávidos 
+de  lucro,  e  enquanto  lhes  fazes  bem  são  inteiramente 
+teus, oferecem-te o sangue, os bens, a vida e os filhos, 
+quando,  como  acima  disse,  o  perigo  está  longe;  mas 
+quando ele chega, revoltam-se.
+
+MAQUIAVEL, N. O príncipe. Rio de Janeiro: Bertrand, 1991.
+","De acordo com o trecho, por que Maquiavel afirma que é mais seguro ser temido que amado?","{'A': 'Porque os homens são naturalmente bons e leais.', 'B': 'Porque os homens são ingratos e volúveis.', 'C': 'Porque os homens são sempre fiéis aos seus líderes.', 'D': 'Porque os homens são corajosos e altruístas.', 'E': 'Porque os homens são sempre honestos e justos.'}",{'B': 'Porque os homens são ingratos e volúveis.'},Compreensão,Intermediário,5,5,5,1,"A questão está altamente relacionada ao contexto fornecido, abordando diretamente a citação de Maquiavel. O nível de Bloom e a dificuldade estão apropriados para a compreensão do trecho. A pergunta fornece informações suficientes para chegar à resposta correta, que está claramente indicada nas opções. A opção marcada como correta ('Porque os homens são ingratos e volúveis.') está de acordo com o texto apresentado.","Score(precision=0.5625, recall=0.09, fmeasure=0.15517241379310345)",0.002837034301038074,{B: Porque os homens são ingratos e volúveis.},"Maquiavel afirma que é mais seguro ser temido que amado porque, de acordo com o trecho fornecido, os homens são descritos como ingratos, volúveis, simuladores, covardes e ávidos de lucro. Ou seja, a natureza humana é vista como propensa a traições e mudanças de lealdade, tornando o medo uma forma mais eficaz de controle do que o amor.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+Nasce daqui uma questão: se vale mais ser amado 
+que  temido  ou  temido  que  amado.  Responde-se  que 
+ambas  as  coisas  seriam  de  desejar;  mas  porque  é 
+difícil  juntá-las,  é  muito  mais  seguro  ser  temido  que 
+amado,  quando  haja  de  faltar  uma  das  duas.  Porque 
+dos  homens  se  pode  dizer,  duma  maneira  geral,  que 
+são ingratos, volúveis, simuladores, covardes e ávidos 
+de  lucro,  e  enquanto  lhes  fazes  bem  são  inteiramente 
+teus, oferecem-te o sangue, os bens, a vida e os filhos, 
+quando,  como  acima  disse,  o  perigo  está  longe;  mas 
+quando ele chega, revoltam-se.
+
+MAQUIAVEL, N. O príncipe. Rio de Janeiro: Bertrand, 1991.
+",Qual é a principal razão apresentada por Maquiavel para justificar a preferência por ser temido em vez de amado?,"{'A': 'A lealdade inquestionável dos homens.', 'B': 'A covardia e a avidez dos homens.', 'C': 'A generosidade e a honestidade dos homens.', 'D': 'A coragem e a justiça dos homens.', 'E': 'A fidelidade e a bondade dos homens.'}",{'B': 'A covardia e a avidez dos homens.'},Análise,Avançado,5,4,5,1,"A questão é altamente relevante, pois está diretamente relacionada ao contexto de Maquiavel e sua obra. Quanto à aderência, embora o nível de Bloom 'Análise' seja apropriado, o nível de dificuldade 'Avançado' poderia ser um pouco elevado para uma questão de múltipla escolha. No entanto, a questão fornece informações suficientes para chegar à resposta correta, tornando-a altamente answerable. A opção marcada como correta ('A covardia e a avidez dos homens.') está correta de acordo com a citação fornecida do texto de Maquiavel.","Score(precision=0.25, recall=0.05, fmeasure=0.08333333333333334)",1.0554689733690496e-156,{B: A covardia e a avidez dos homens.},"Maquiavel justifica a preferência por ser temido em vez de amado devido à visão geral que ele tem dos homens como ingratos, volúveis, simuladores, covardes e ávidos de lucro. Portanto, a principal razão apresentada por Maquiavel é a covardia e a avidez dos homens, o que torna mais seguro ser temido do que amado.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+Nasce daqui uma questão: se vale mais ser amado 
+que  temido  ou  temido  que  amado.  Responde-se  que 
+ambas  as  coisas  seriam  de  desejar;  mas  porque  é 
+difícil  juntá-las,  é  muito  mais  seguro  ser  temido  que 
+amado,  quando  haja  de  faltar  uma  das  duas.  Porque 
+dos  homens  se  pode  dizer,  duma  maneira  geral,  que 
+são ingratos, volúveis, simuladores, covardes e ávidos 
+de  lucro,  e  enquanto  lhes  fazes  bem  são  inteiramente 
+teus, oferecem-te o sangue, os bens, a vida e os filhos, 
+quando,  como  acima  disse,  o  perigo  está  longe;  mas 
+quando ele chega, revoltam-se.
+
+MAQUIAVEL, N. O príncipe. Rio de Janeiro: Bertrand, 1991.
+","Segundo Maquiavel, por que os homens se mostram fiéis quando estão longe do perigo?","{'A': 'Porque são naturalmente altruístas.', 'B': 'Porque são corajosos e leais.', 'C': 'Porque são ingratos e volúveis.', 'D': 'Porque esperam recompensas futuras.', 'E': 'Porque são sempre honestos e justos.'}",{'D': 'Porque esperam recompensas futuras.'},Aplicação,Iniciante,5,4,5,1,"A questão é altamente relevante, pois está diretamente relacionada ao contexto fornecido sobre a visão de Maquiavel. Quanto à aderência, o nível de Bloom 'Aplicação' e a dificuldade 'Iniciante' estão adequados para a pergunta. A resposta correta é claramente apresentada e é facilmente identificável com base nas informações fornecidas. Portanto, a pontuação de correção é máxima. A questão fornece informações suficientes para chegar à resposta correta, tornando-a altamente respondível.","Score(precision=0.375, recall=0.06, fmeasure=0.10344827586206896)",2.151469285660795e-157,{D: Porque esperam recompensas futuras.},"Segundo Maquiavel, os homens se mostram fiéis quando estão longe do perigo porque esperam recompensas futuras. Maquiavel descreve os homens como ingratos, volúveis, simuladores, covardes e ávidos de lucro, sugerindo que sua lealdade está muitas vezes ligada a interesses próprios e recompensas futuras.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+Nos estados, entretanto, se instalavam as oligarquias, 
+de  cujo  perigo  já  nos  advertia  Saint-Hilaire,  e  sob  o 
+disfarce do que se chamou “a política dos governadores”. 
+Em círculos concêntricos esse sistema vem cumular no 
+próprio poder central que é o sol do nosso sistema.
+
+PRADO, P. Retrato do Brasil. Rio de Janeiro: José Olympio, 1972.
+","Qual é o termo utilizado para descrever o sistema político em que as oligarquias se instalavam nos estados, conforme descrito no texto?","{'A': 'Democracia', 'B': 'Oligarquia', 'C': 'Monarquia', 'D': 'Anarquia', 'E': 'Teocracia'}",{'B': 'Oligarquia'},Lembrar,Iniciante,5,4,5,1,"A questão é altamente relevante, pois está diretamente relacionada ao contexto apresentado. Quanto à aderência, o nível de Bloom 'Lembrar' e a dificuldade 'Iniciante' estão adequados para a pergunta. A questão fornece informações suficientes para chegar à resposta correta, e a opção marcada como correta ('Oligarquia') está correta de acordo com o enunciado. Ótima questão!","Score(precision=0.18181818181818182, recall=0.08333333333333333, fmeasure=0.1142857142857143)",2.563438544086444e-155,{B: Oligarquia},"O termo utilizado para descrever o sistema político em que as oligarquias se instalavam nos estados, conforme descrito no texto, é 'Oligarquia'.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+Nos estados, entretanto, se instalavam as oligarquias, 
+de  cujo  perigo  já  nos  advertia  Saint-Hilaire,  e  sob  o 
+disfarce do que se chamou “a política dos governadores”. 
+Em círculos concêntricos esse sistema vem cumular no 
+próprio poder central que é o sol do nosso sistema.
+
+PRADO, P. Retrato do Brasil. Rio de Janeiro: José Olympio, 1972.
+","Quem advertiu sobre o perigo das oligarquias, conforme mencionado no texto?","{'A': 'Saint-Hilaire', 'B': 'Prado', 'C': 'José Olympio', 'D': 'Democracia', 'E': 'Monarquia'}",{'A': 'Saint-Hilaire'},Compreender,Intermediário,5,4,5,1,"A questão é altamente relevante, pois está diretamente relacionada ao contexto apresentado. Quanto à aderência, o nível de Bloom 'Compreender' e a dificuldade 'Intermediário' estão adequados. A questão fornece informações suficientes para chegar à resposta correta, que é claramente indicada. A opção marcada como correta ('Saint-Hilaire') está correta de acordo com o texto fornecido.","Score(precision=0.18181818181818182, recall=0.041666666666666664, fmeasure=0.06779661016949153)",7.043551662689507e-233,{A: Saint-Hilaire},O texto menciona que Saint-Hilaire advertiu sobre o perigo das oligarquias.,gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+Nos estados, entretanto, se instalavam as oligarquias, 
+de  cujo  perigo  já  nos  advertia  Saint-Hilaire,  e  sob  o 
+disfarce do que se chamou “a política dos governadores”. 
+Em círculos concêntricos esse sistema vem cumular no 
+próprio poder central que é o sol do nosso sistema.
+
+PRADO, P. Retrato do Brasil. Rio de Janeiro: José Olympio, 1972.
+",Qual é o termo utilizado para descrever a prática política sob o disfarce do que se chamou 'a política dos governadores'?,"{'A': 'Democracia', 'B': 'Oligarquia', 'C': 'Monarquia', 'D': 'Anarquia', 'E': 'Coronelismo'}",{'E': 'Coronelismo'},Aplicar,Avançado,5,5,5,1,"A questão apresenta alta qualidade em todos os aspectos avaliados. A relevância é máxima, pois a pergunta está diretamente relacionada ao contexto fornecido. O nível de Bloom 'Aplicar' e a dificuldade 'Avançado' estão adequados considerando a complexidade da questão. A resposta correta está claramente apresentada nas opções, permitindo uma resposta precisa. Além disso, a opção marcada como correta ('Coronelismo') está de acordo com a resposta esperada, garantindo a correção da questão.","Score(precision=0.5217391304347826, recall=0.25, fmeasure=0.3380281690140845)",0.11127649985970223,{E: Coronelismo},"O termo utilizado para descrever a prática política sob o disfarce do que se chamou 'a política dos governadores' é o Coronelismo, que se refere ao sistema político em que os coronéis exerciam grande influência e controle sobre a política local, estendendo-se até o poder central.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+No  final  do  século  XIX,  as  Grandes  Sociedades 
+carnavalescas  alcançaram  ampla  popularidade  entre  os 
+foliões cariocas. Tais sociedades cultivavam um pretensioso 
+objetivo  em  relação  à  comemoração  carnavalesca  em 
+si  mesma:  com  seus  desfiles  de  carros  enfeitados  pelas 
+principais  ruas  da  cidade,  pretendiam  abolir  o  entrudo 
+(brincadeira  que  consistia  em  jogar  água  nos  foliões)  e 
+outras  práticas  difundidas  entre  a  população  desde  os 
+tempos  coloniais,  substituindo-os  por  formas  de  diversão 
+que  consideravam  mais  civilizadas, 
+inspiradas  nos 
+carnavais de Veneza. Contudo, ninguém parecia disposto 
+a  abrir  mão  de  suas  diversões  para  assistir  ao  carnaval 
+das sociedades. O entrudo, na visão dos seus animados 
+praticantes, poderia coexistir perfeitamente com os desfiles.
+ PEREIRA, C. S. Os senhores da alegria: a presença das mulheres nas Grandes Sociedades 
+carnavalescas cariocas em fins do século XIX. In: CUNHA, M. C. P. Carnavais e outras 
+frestas: ensaios de história social da cultura. Campinas: Unicamp; Cecult, 2002 (adaptado).
+",Qual era o objetivo das Grandes Sociedades carnavalescas em relação à comemoração carnavalesca no final do século XIX?,"{'A': 'Abolir o samba e outras danças populares.', 'B': 'Substituir o entrudo por formas de diversão mais civilizadas.', 'C': 'Promover competições esportivas durante o carnaval.', 'D': 'Realizar desfiles de carros enfeitados apenas para crianças.', 'E': 'Incentivar a prática de jogar água nos foliões.'}",{'B': 'Substituir o entrudo por formas de diversão mais civilizadas.'},Lembrar,Iniciante,5,4,5,1,"A questão apresenta alta relevância, pois está diretamente relacionada ao contexto histórico descrito. Quanto à aderência, o nível de Bloom 'Lembrar' e a dificuldade 'Iniciante' estão adequados considerando a informação fornecida. A resposta correta está claramente indicada e é precisa, garantindo a pontuação máxima de correção. A questão fornece informações suficientes para chegar à resposta correta, tornando-a altamente answerable.","Score(precision=0.45, recall=0.0743801652892562, fmeasure=0.1276595744680851)",0.0023678213333476555,{B: Substituir o entrudo por formas de diversão mais civilizadas.},"No final do século XIX, as Grandes Sociedades carnavalescas tinham como objetivo substituir o entrudo e outras práticas populares por formas de diversão que consideravam mais civilizadas, inspiradas nos carnavais de Veneza.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+No  final  do  século  XIX,  as  Grandes  Sociedades 
+carnavalescas  alcançaram  ampla  popularidade  entre  os 
+foliões cariocas. Tais sociedades cultivavam um pretensioso 
+objetivo  em  relação  à  comemoração  carnavalesca  em 
+si  mesma:  com  seus  desfiles  de  carros  enfeitados  pelas 
+principais  ruas  da  cidade,  pretendiam  abolir  o  entrudo 
+(brincadeira  que  consistia  em  jogar  água  nos  foliões)  e 
+outras  práticas  difundidas  entre  a  população  desde  os 
+tempos  coloniais,  substituindo-os  por  formas  de  diversão 
+que  consideravam  mais  civilizadas, 
+inspiradas  nos 
+carnavais de Veneza. Contudo, ninguém parecia disposto 
+a  abrir  mão  de  suas  diversões  para  assistir  ao  carnaval 
+das sociedades. O entrudo, na visão dos seus animados 
+praticantes, poderia coexistir perfeitamente com os desfiles.
+ PEREIRA, C. S. Os senhores da alegria: a presença das mulheres nas Grandes Sociedades 
+carnavalescas cariocas em fins do século XIX. In: CUNHA, M. C. P. Carnavais e outras 
+frestas: ensaios de história social da cultura. Campinas: Unicamp; Cecult, 2002 (adaptado).
+",Por que as Grandes Sociedades carnavalescas pretendiam abolir o entrudo e outras práticas populares?,"{'A': 'Por considerarem o entrudo uma prática violenta e perigosa.', 'B': 'Para economizar água durante o carnaval.', 'C': 'Por influência direta dos carnavais de Veneza.', 'D': 'Para promover a igualdade de gênero nos desfiles.', 'E': 'Por pressão do governo colonial.'}",{'A': 'Por considerarem o entrudo uma prática violenta e perigosa.'},Compreender,Intermediário,5,4,5,1,"A questão apresenta alta relevância, pois está diretamente relacionada ao contexto histórico do carnaval carioca e às práticas sociais da época. Quanto à aderência, a questão está classificada corretamente em termos de nível de Bloom e dificuldade. A resposta correta é claramente apresentada, permitindo uma fácil identificação. Além disso, a resposta correta está corretamente marcada como 'A'. Portanto, a questão é altamente relevante, aderente, respondível e correta.","Score(precision=0.8, recall=0.09917355371900827, fmeasure=0.17647058823529413)",0.0005425368516293615,{A: Por considerarem o entrudo uma prática violenta e perigosa.},"As Grandes Sociedades carnavalescas pretendiam abolir o entrudo e outras práticas populares, como jogar água nos foliões, por considerarem o entrudo uma prática violenta e perigosa. Eles buscavam substituir essas práticas por formas de diversão que consideravam mais civilizadas, inspiradas nos carnavais de Veneza.",gpt-3.5-turbo
+CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2013,"
+No  final  do  século  XIX,  as  Grandes  Sociedades 
+carnavalescas  alcançaram  ampla  popularidade  entre  os 
+foliões cariocas. Tais sociedades cultivavam um pretensioso 
+objetivo  em  relação  à  comemoração  carnavalesca  em 
+si  mesma:  com  seus  desfiles  de  carros  enfeitados  pelas 
+principais  ruas  da  cidade,  pretendiam  abolir  o  entrudo 
+(brincadeira  que  consistia  em  jogar  água  nos  foliões)  e 
+outras  práticas  difundidas  entre  a  população  desde  os 
+tempos  coloniais,  substituindo-os  por  formas  de  diversão 
+que  consideravam  mais  civilizadas, 
+inspiradas  nos 
+carnavais de Veneza. Contudo, ninguém parecia disposto 
+a  abrir  mão  de  suas  diversões  para  assistir  ao  carnaval 
+das sociedades. O entrudo, na visão dos seus animados 
+praticantes, poderia coexistir perfeitamente com os desfiles.
+ PEREIRA, C. S. Os senhores da alegria: a presença das mulheres nas Grandes Sociedades 
+carnavalescas cariocas em fins do século XIX. In: CUNHA, M. C. P. Carnavais e outras 
+frestas: ensaios de história social da cultura. Campinas: Unicamp; Cecult, 2002 (adaptado).
+",Como os foliões reagiram à tentativa das Grandes Sociedades de abolir o entrudo e outras práticas populares?,"{'A': 'Aceitaram imediatamente a proposta das sociedades.', 'B': 'Boicotaram os desfiles e continuaram com suas tradições.', 'C': 'Criaram suas próprias sociedades carnavalescas.', 'D': 'Pediram intervenção do governo para proibir o entrudo.', 'E': 'Abandonaram o carnaval por completo.'}",{'B': 'Boicotaram os desfiles e continuaram com suas tradições.'},Aplicar,Avançado,5,4,5,1,"A questão apresenta alta relevância, pois está diretamente relacionada ao contexto histórico do carnaval carioca e das Grandes Sociedades. Quanto à aderência, a questão está bem alinhada com o nível de Bloom 'Aplicar' e a dificuldade 'Avançado', por exigir dos alunos a aplicação do conhecimento histórico. A answerability é pontuada em 5, pois fornece informações claras o suficiente para que os alunos possam responder com base no texto fornecido. Quanto à correção, a opção correta está de acordo com as informações apresentadas no enunciado, sendo a resposta 'Boicotaram os desfiles e continuaram com suas tradições.'","Score(precision=0.6666666666666666, recall=0.09917355371900827, fmeasure=0.17266187050359713)",2.5568155667663724e-80,{B: Boicotaram os desfiles e continuaram com suas tradições.},"Os foliões reagiram à tentativa das Grandes Sociedades de abolir o entrudo e outras práticas populares boicotando os desfiles e continuando com suas tradições, mostrando resistência às mudanças impostas pelas sociedades carnavalescas.",gpt-3.5-turbo
