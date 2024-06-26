@@ -39,19 +39,20 @@ c=0
 for index, row in tqdm(enem_pt.iterrows()):
     try:
         c+=1
-        print(str(c) +"_"+"enem_pt")
         system_context, user_prompt = helpers.prompt_builder_PT([[row['area'], row['context']]])
         messages=[{"role":"system","content": system_context},
                 {"role":"user","content": user_prompt}]
-        res_gpt = gpt.chat(messages)
+        res_gpt = ''#gpt.chat(messages)
         res_llama = llama.chat(messages)
 
         dic = {'id': row['id'], 'area': row['area'], 'year': row['year'], 'context': row['context'], 'response_gpt': res_gpt, 'response_llama': res_llama}
         enem_pt_MCQ.loc[len(enem_pt_MCQ)] = dic
+        print(str(c) +"_"+"enem_pt")
     
     except Exception as e:
         dic_error = {'id': row['id'], 'area': row['area'], 'year': row['year'], 'context': row['context'], 'file': "enem_pt", 'error': str(e)}
         df_err.loc[len(df_err)] = dic_error
+        print(e)
         pass
 enem_pt_MCQ.to_csv(f'/Users/claesia/Documents/Thesis - experiment/thesis-experiments/src/code/outputs/enem_pt_MCQ_{date}.csv', index=False)
 
@@ -59,15 +60,15 @@ c=0
 for index, row in tqdm(enade_pt.iterrows()):
     try:
         c+=1
-        print(str(c) +"_"+"enade_pt")
         system_context, user_prompt = helpers.prompt_builder_PT([[row['area'], row['context']]])
         messages=[{"role":"system","content": system_context},
                 {"role":"user","content": user_prompt}]
-        res_gpt = gpt.chat(messages)
+        res_gpt = ''#gpt.chat(messages)
         res_llama = llama.chat(messages)
 
         dic = {'id': row['id'], 'area': row['area'], 'year': row['year'], 'context': row['context'], 'response_gpt': res_gpt, 'response_llama': res_llama}
         enade_pt_MCQ.loc[len(enade_pt_MCQ)] = dic
+        print(str(c) +"_"+"enade_pt")
     
     except Exception as e:
         dic_error = {'id': row['id'], 'area': row['area'], 'year': row['year'], 'context': row['context'], 'file': "enade_pt", 'error': str(e)}
@@ -79,15 +80,16 @@ c=0
 for index, row in tqdm(enem_en.iterrows()):
     try:
         c+=1
-        print(str(c) +"_"+"enem_en")
+        
         system_context, user_prompt = helpers.prompt_builder([[row['area'], row['context']]])
         messages=[{"role":"system","content": system_context},
                 {"role":"user","content": user_prompt}]
-        res_gpt = gpt.chat(messages)
+        res_gpt = ''#gpt.chat(messages)
         res_llama = llama.chat(messages)
 
         dic = {'id': row['id'], 'area': row['area'], 'year': row['year'], 'context': row['context'], 'response_gpt': res_gpt, 'response_llama': res_llama}
         enem_en_MCQ.loc[len(enem_en_MCQ)] = dic
+        print(str(c) +"_"+"enem_en")
     
     except Exception as e:
         dic_error = {'id': row['id'], 'area': row['area'], 'year': row['year'], 'context': row['context'], 'file': "enem_en", 'error': str(e)}
@@ -99,15 +101,15 @@ c=0
 for index, row in tqdm(enade_en.iterrows()):
     try:
         c+=1
-        print(str(c) +"_"+"enade_en")
         system_context, user_prompt = helpers.prompt_builder([[row['area'], row['context']]])
         messages=[{"role":"system","content": system_context},
                 {"role":"user","content": user_prompt}]
-        res_gpt = gpt.chat(messages)
+        res_gpt = ''#gpt.chat(messages)
         res_llama = llama.chat(messages)
 
         dic = {'id': row['id'], 'area': row['area'], 'year': row['year'], 'context': row['context'], 'response_gpt': res_gpt, 'response_llama': res_llama}
         enade_en_MCQ.loc[len(enade_en_MCQ)] = dic
+        print(str(c) +"_"+"enade_en")
     
     except Exception as e:
         dic_error = {'id': row['id'], 'area': row['area'], 'year': row['year'], 'context': row['context'], 'file': "enade_en", 'error': str(e)}
