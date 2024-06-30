@@ -1,0 +1,206 @@
+index,id,area,year,context,response_gpt_4,error
+0,25,Journalism,2022,"The journalist knows that his work will go through stages in which his editors have certain powers and means of control. The journalist has to anticipate the editors' expectations, to avoid retouching in their texts and reprimands - two means that are part of the control system and can have effects or not on the maintenance of their position, the choice of their tasks, and their promotion - in other words, nothing less than their professional career. Source of the Text: TRAQUINA. The Theories of Journalism: why the news is as it is. 2005 (adapted).","{""questions"":[
+    {""question"": ""What are the two means of control that editors have over a journalist's work?"", 
+    ""bloom_level"": ""Remember"", 
+    ""difficult_level"": ""Beginner"", 
+    ""options"": [
+        {""A"": ""Rewriting and reprimanding"", 
+        ""B"": ""Retouching and reprimanding"", 
+        ""C"": ""Rewriting and rejecting"", 
+        ""D"": ""Rejecting and retouching"", 
+        ""E"": ""Rewriting and revising""}, 
+    ""correct_answer"":[""B""], 
+    ""correct_answer_letter"": ""B"", 
+    ""correct_answer_text"": ""Retouching and reprimanding""},
+
+    {""question"": ""Why is it important for a journalist to anticipate the expectations of their editors?"", 
+    ""bloom_level"": ""Understand"", 
+    ""difficult_level"": ""Intermediate"", 
+    ""options"": [
+        {""A"": ""To avoid retouching in their texts and reprimands"", 
+        ""B"": ""To ensure their articles are published"", 
+        ""C"": ""To get a promotion"", 
+        ""D"": ""To maintain their position"", 
+        ""E"": ""All of the above""}, 
+    ""correct_answer"":[""E""], 
+    ""correct_answer_letter"": ""E"", 
+    ""correct_answer_text"": ""All of the above""},
+
+    {""question"": ""How can the control system of editors affect a journalist's professional career?"", 
+    ""bloom_level"": ""Analyze"", 
+    ""difficult_level"": ""Advanced"", 
+    ""options"": [
+        {""A"": ""It can determine the tasks they are assigned"", 
+        ""B"": ""It can affect their promotion"", 
+        ""C"": ""It can affect the maintenance of their position"", 
+        ""D"": ""It can lead to their work being retouched"", 
+        ""E"": ""All of the above""}, 
+    ""correct_answer"":[""E""], 
+    ""correct_answer_letter"": ""E"", 
+    ""correct_answer_text"": ""All of the above""}
+]}","Expecting ',' delimiter: line 11 column 21 (char 433)"
+1,27,Journalism,2022,"Journalistic editing requires exemption and balance. In television journalism, the editor's role is to organize the material collected on the street and put together the story that will be told on the newscast.
+Suppose a reporter develops a story about allegations of mistreatment of a person with disabilities in a private school. Until the edition closing that will air the story, the reporter interviews the accuser, but fails to contact the owner of the accused school, who could not be located. A few minutes before the newscast goes on air, the school owner calls the station and reports his version by phone to the editor.","{""questions"":[
+    {""question"": ""What is the primary role of an editor in television journalism?"", 
+    ""bloom_level"": ""Remember"", 
+    ""difficult_level"": ""Beginner"", 
+    ""options"": [
+        {""A"": ""To interview the subjects of the story"", 
+        ""B"": ""To organize the material collected and put together the story"", 
+        ""C"": ""To film the story"", 
+        ""D"": ""To write the script for the newscast"", 
+        ""E"": ""To broadcast the story on air""}, 
+    ""correct_answer"":[""B""], 
+    ""correct_answer_letter"": ""B"", 
+    ""correct_answer_text"": ""To organize the material collected and put together the story""},
+
+    {""question"": ""In the given scenario, what should the editor do when the owner of the accused school calls and reports his version of the story?"", 
+    ""bloom_level"": ""Understand"", 
+    ""difficult_level"": ""Intermediate"", 
+    ""options"": [
+        {""A"": ""Ignore the owner's version because it's too late to include it"", 
+        ""B"": ""Include the owner's version without verifying it"", 
+        ""C"": ""Include the owner's version but also mention that it was not verified"", 
+        ""D"": ""Postpone the story to the next newscast to verify the owner's version"", 
+        ""E"": ""Include the owner's version but also mention that it was received just before the newscast""}, 
+    ""correct_answer"":[""E""], 
+    ""correct_answer_letter"": ""E"", 
+    ""correct_answer_text"": ""Include the owner's version but also mention that it was received just before the newscast""},
+
+    {""question"": ""In the context of journalistic editing, what does 'balance' mean?"", 
+    ""bloom_level"": ""Analyze"", 
+    ""difficult_level"": ""Advanced"", 
+    ""options"": [
+        {""A"": ""Giving equal time to all stories"", 
+        ""B"": ""Ensuring that all sides of a story are represented"", 
+        ""C"": ""Balancing the newscast with a mix of serious and light-hearted stories"", 
+        ""D"": ""Balancing the workload among the news team"", 
+        ""E"": ""Ensuring that the newscast is not too long or too short""}, 
+    ""correct_answer"":[""B""], 
+    ""correct_answer_letter"": ""B"", 
+    ""correct_answer_text"": ""Ensuring that all sides of a story are represented""}
+]}","Expecting ',' delimiter: line 11 column 21 (char 478)"
+2,26,Law,2022,"Most scholars of Criminal Law and Criminal Procedure agree that it is not possible to waive the use of imprisonment, especially in the most serious cases and those involving more dangerous criminals. However, there is largely a consensus on the need for prison reform and the penitentiary system, due to its ineffectiveness. In this sense, Brazilian criminal procedural legislation establishes several personal precautionary measures, among which electronic monitoring as an autonomous precautionary measure (article 319, item IX, of the Code of Criminal Procedure), applicable in the presence of general requirements of precautionary protection, in isolation or cumulatively, with the exception of offenses not punished with deprivation of liberty (articles 282, caput and paragraph one, and 283, paragraph one, of the Code of Criminal Procedure).","{""questions"":[
+    {""question"": ""What is the consensus among most scholars of Criminal Law and Criminal Procedure regarding the use of imprisonment?"", 
+    ""bloom_level"": ""Remember"", 
+    ""difficult_level"": ""Beginner"", 
+    ""options"": [
+        {""A"": ""It should be waived in all cases"", 
+        ""B"": ""It should be waived in serious cases"", 
+        ""C"": ""It should not be waived, especially in serious cases"", 
+        ""D"": ""It should be used only for minor offenses"", 
+        ""E"": ""It should be used only for dangerous criminals""}, 
+    ""correct_answer"":[""C""], 
+    ""correct_answer_letter"": ""C"", 
+    ""correct_answer_text"": ""It should not be waived, especially in serious cases""},
+
+    {""question"": ""What is the purpose of electronic monitoring as established by Brazilian criminal procedural legislation?"", 
+    ""bloom_level"": ""Understand"", 
+    ""difficult_level"": ""Intermediate"", 
+    ""options"": [
+        {""A"": ""To punish offenders with deprivation of liberty"", 
+        ""B"": ""To serve as an autonomous precautionary measure"", 
+        ""C"": ""To replace imprisonment in all cases"", 
+        ""D"": ""To monitor the activities of all criminals"", 
+        ""E"": ""To be used only for minor offenses""}, 
+    ""correct_answer"":[""B""], 
+    ""correct_answer_letter"": ""B"", 
+    ""correct_answer_text"": ""To serve as an autonomous precautionary measure""},
+
+    {""question"": ""How does the Brazilian criminal procedural legislation apply electronic monitoring as a precautionary measure?"", 
+    ""bloom_level"": ""Analyze"", 
+    ""difficult_level"": ""Advanced"", 
+    ""options"": [
+        {""A"": ""In isolation or cumulatively, except for offenses not punished with deprivation of liberty"", 
+        ""B"": ""Only for offenses punished with deprivation of liberty"", 
+        ""C"": ""In all cases, regardless of the offense"", 
+        ""D"": ""Only in the presence of general requirements of precautionary protection"", 
+        ""E"": ""Only for serious offenses""}, 
+    ""correct_answer"":[""A""], 
+    ""correct_answer_letter"": ""A"", 
+    ""correct_answer_text"": ""In isolation or cumulatively, except for offenses not punished with deprivation of liberty""}
+]}","Expecting ',' delimiter: line 11 column 21 (char 556)"
+3,9,Psychology,2022,"Working in a health institution, whether it be a hospital, outpatient clinic, or health center, needs to be carried out from an interdisciplinary perspective, so that the care provided seeks the integrality of the individual being attended. Working with interdisciplinarity does not mean denying the specialties and objectivity of each science, but rather unveiling the need to break with the fragmentary and disjointed tendency of the knowledge process, as well as highlighting the importance of reciprocal interaction and transformation between different areas of knowledge. In summary, teamwork is currently a growing practice in health care. Source of the Text: XAVIER; REIS; FRASSÃO. The work of the psychologist with the health team. Journal of Health Sciences. 2016 (adapted).","{""questions"":[
+    {""question"": ""What does working with interdisciplinarity in a health institution imply?"", 
+    ""bloom_level"": ""Understand"", 
+    ""difficult_level"": ""Beginner"", 
+    ""options"": [
+        {""A"": ""Denying the specialties and objectivity of each science"", 
+        ""B"": ""Working in isolation without considering other areas of knowledge"", 
+        ""C"": ""Breaking with the fragmentary and disjointed tendency of the knowledge process"", 
+        ""D"": ""Ignoring the importance of reciprocal interaction and transformation between different areas of knowledge"", 
+        ""E"": ""Focusing only on the physical health of the individual being attended""}, 
+        ], 
+    ""correct_answer"":[""C""], 
+    ""correct_answer_letter"": ""C"", 
+    ""correct_answer_text"": ""Breaking with the fragmentary and disjointed tendency of the knowledge process""},
+
+    {""question"": ""Why is teamwork a growing practice in health care?"", 
+    ""bloom_level"": ""Analyze"", 
+    ""difficult_level"": ""Intermediate"", 
+    ""options"": [
+        {""A"": ""Because it allows for a more holistic approach to patient care"", 
+        ""B"": ""Because it is easier to manage"", 
+        ""C"": ""Because it reduces the workload of individual health care professionals"", 
+        ""D"": ""Because it is a requirement by health care regulatory bodies"", 
+        ""E"": ""Because it is cheaper than individual care""}, 
+        ], 
+    ""correct_answer"":[""A""], 
+    ""correct_answer_letter"": ""A"", 
+    ""correct_answer_text"": ""Because it allows for a more holistic approach to patient care""},
+
+    {""question"": ""How can the concept of interdisciplinarity transform the approach to patient care in a health institution?"", 
+    ""bloom_level"": ""Evaluate"", 
+    ""difficult_level"": ""Advanced"", 
+    ""options"": [
+        {""A"": ""By focusing only on the physical health of the patient"", 
+        ""B"": ""By considering the patient as a whole, integrating different areas of knowledge in their care"", 
+        ""C"": ""By reducing the need for specialists in the health care team"", 
+        ""D"": ""By increasing the workload of individual health care professionals"", 
+        ""E"": ""By making the health care process more complicated""}, 
+        ], 
+    ""correct_answer"":[""B""], 
+    ""correct_answer_letter"": ""B"", 
+    ""correct_answer_text"": ""By considering the patient as a whole, integrating different areas of knowledge in their care""}
+]}",Expecting value: line 11 column 9 (char 669)
+4,27,Psychology,2022,"It is undeniable the fact that the Internet is a technological invention that has transformed human thoughts and behaviors. This tool has created a multifaceted environment, providing its users with the various possibilities offered by a system with high-speed characteristics and hyperconnection in a global information network. Therefore, a process of changes and adaptations to this reality in human cognition has been delimiting the learning of individuals. Studies of the various biological changes produced by the common use of these technologies have been increasing, showing impacts, both positive and negative, at the level of cognitive functions.
+Source of the Text: PEREIRA, et al. Cognitive functions and the impacts of digital technologies on memory. Health Themes, 2018 (adapted).","{""questions"":[
+    {""question"": ""What is one of the impacts of the Internet on human cognition?"", 
+    ""bloom_level"": ""Remember"", 
+    ""difficult_level"": ""Beginner"", 
+    ""options"": [
+        {""A"": ""It has no impact"", 
+        ""B"": ""It has decreased cognitive functions"", 
+        ""C"": ""It has increased cognitive functions"", 
+        ""D"": ""It has transformed human thoughts and behaviors"", 
+        ""E"": ""It has reduced human thoughts and behaviors""}, 
+    ""correct_answer"":[""D""], 
+    ""correct_answer_letter"": ""D"", 
+    ""correct_answer_text"": ""It has transformed human thoughts and behaviors""},
+
+    {""question"": ""How has the Internet influenced the learning of individuals?"", 
+    ""bloom_level"": ""Understand"", 
+    ""difficult_level"": ""Intermediate"", 
+    ""options"": [
+        {""A"": ""By decreasing the speed of learning"", 
+        ""B"": ""By increasing the speed of learning"", 
+        ""C"": ""By delimiting the learning"", 
+        ""D"": ""By expanding the learning"", 
+        ""E"": ""By not influencing the learning""}, 
+    ""correct_answer"":[""C""], 
+    ""correct_answer_letter"": ""C"", 
+    ""correct_answer_text"": ""By delimiting the learning""},
+
+    {""question"": ""What can be inferred about the relationship between the use of digital technologies and cognitive functions?"", 
+    ""bloom_level"": ""Analyze"", 
+    ""difficult_level"": ""Advanced"", 
+    ""options"": [
+        {""A"": ""There is no relationship"", 
+        ""B"": ""Digital technologies always improve cognitive functions"", 
+        ""C"": ""Digital technologies always impair cognitive functions"", 
+        ""D"": ""The relationship is multifaceted with both positive and negative impacts"", 
+        ""E"": ""The relationship is one-sided with only positive impacts""}, 
+    ""correct_answer"":[""D""], 
+    ""correct_answer_letter"": ""D"", 
+    ""correct_answer_text"": ""The relationship is multifaceted with both positive and negative impacts""}
+]}","Expecting ',' delimiter: line 11 column 21 (char 474)"

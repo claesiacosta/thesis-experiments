@@ -1,0 +1,177 @@
+index,id,area,year,context,response_gpt,error
+0,16,Administration,2022,"When using the market analysis model proposed by Porter, one seeks to identify the forces at play in a dynamic and competitive market, determining the intensity of competition in a given sector. Next, the figure representing the mentioned model is presented.
+Figure description: Title: 'Porter's Five Competitive Forces'. Highlighted are the companies that are already competitors in the industrial field. Above these competing companies, there are two threats: potential new entrants and substitute products and services. Also acting on these competing companies are buyers and suppliers with their bargaining power. Thus, potential entrants, substitutes, suppliers, and buyers influence competing companies in the industry.","{
+    ""questions"": [
+        {
+            ""question"": ""Which force in Porter's Five Competitive Forces model represents the threat of new companies entering the market?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Competing companies"", ""B"": ""Suppliers"", ""C"": ""Buyers"", ""D"": ""Potential new entrants"", ""E"": ""Substitute products""},
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Potential new entrants""
+        },
+        {
+            ""question"": ""In Porter's model, which force is related to the power of customers to affect pricing and quality?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Suppliers"", ""B"": ""Buyers"", ""C"": ""Competing companies"", ""D"": ""Potential new entrants"", ""E"": ""Substitute products""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Buyers""
+        },
+        {
+            ""question"": ""How do substitute products or services impact the competitive landscape according to Porter's model?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Increase competition"", ""B"": ""Decrease bargaining power of suppliers"", ""C"": ""Enhance buyer power"", ""D"": ""Create barriers to entry"", ""E"": ""Strengthen existing competitors""},
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Increase competition""
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 429)
+1,17,Administration,2022,"With inflation, the purchasing power of the citizen is reduced if the salary does not keep up with the price increases. Subsequently, this reduction in consumption, due to the impoverishment of people, affects companies, which sell less because people are buying less. This process leads to a reduction in production and a decrease in GDP (Gross Domestic Product). In summary, inflation causes money to lose value, since it does not keep up with price increases, therefore reducing purchasing power and GDP. According to the Inflation Report of the Central Bank of Brazil, from July 2022, the expectations for the variation of the National Consumer Price Index (IPCA), as surveyed by Focus, are around 7.96% for 2022, and GDP growth was adjusted to 1.51%.","{
+    ""questions"": [
+        {
+            ""question"": ""What is the potential impact of inflation on the purchasing power of citizens?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Increase purchasing power"", ""B"": ""No impact on purchasing power"", ""C"": ""Reduce purchasing power"", ""D"": ""Stabilize purchasing power"", ""E"": ""Boost GDP""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Reduce purchasing power""
+        },
+        {
+            ""question"": ""How does inflation affect companies according to the context?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Increases production"", ""B"": ""Leads to higher GDP"", ""C"": ""Reduces sales"", ""D"": ""Boosts consumption"", ""E"": ""Stabilizes prices""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Reduces sales""
+        },
+        {
+            ""question"": ""Explain the relationship between inflation and GDP as mentioned in the context."",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Inflation has no impact on GDP"", ""B"": ""Inflation boosts GDP growth"", ""C"": ""Inflation leads to GDP reduction"", ""D"": ""Inflation stabilizes GDP"", ""E"": ""Inflation increases production""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Inflation leads to GDP reduction""
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 431)
+2,14,Journalism,2022,"Journalistic activities are an exception to the applicability of the General Data Protection Law (LGPD) (article 4, item II, item 'a'), that is, the regulation of personal data protection cannot be used as a form of censorship or limitation of the exercise of freedom of the press.
+Source of the Text: CHAVES. et al. Journalism and personal data protection: freedom of expression, information, and communication as foundations of the LGPD. 2022 (adapted).
+'Art. 5 For the purposes of this Law [LGPD], it is considered: II - sensitive personal data: personal data on racial or ethnic origin, religious belief, political opinion, membership of a union or organization of religious, philosophical, or political character, data related to health or sexual life, genetic or biometric data, when linked to a natural person.'
+Source of the Text: BRAZIL. Law No. 13,709, of August 14, 2018. General Data Protection Law (LGPD). Official Gazette of the Union.","{
+    ""questions"": [
+        {
+            ""question"": ""Which of the following statements best describes the relationship between journalistic activities and the General Data Protection Law (LGPD)?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Journalistic activities are exempt from the LGPD regulations.""},
+                {""B"": ""Journalistic activities must comply with all LGPD regulations.""},
+                {""C"": ""Journalistic activities can use LGPD to censor information.""},
+                {""D"": ""Journalistic activities are not affected by LGPD.""},
+                {""E"": ""Journalistic activities are prohibited under LGPD.""},
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Journalistic activities are exempt from the LGPD regulations.""
+        },
+        {
+            ""question"": ""What type of personal data is considered sensitive according to the LGPD?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Data related to educational background""},
+                {""B"": ""Data related to financial status""},
+                {""C"": ""Data related to racial or ethnic origin""},
+                {""D"": ""Data related to social media activity""},
+                {""E"": ""Data related to shopping preferences""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Data related to racial or ethnic origin""
+        },
+        {
+            ""question"": ""How does the LGPD impact the freedom of the press?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""It restricts the freedom of the press in all circumstances.""},
+                {""B"": ""It allows the press to publish any personal data without consequences.""},
+                {""C"": ""It requires the press to obtain explicit consent before publishing personal data.""},
+                {""D"": ""It ensures that the press can publish sensitive personal data without restrictions.""},
+                {""E"": ""It prohibits the press from reporting on certain topics.""},
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""It ensures that the press can publish sensitive personal data without restrictions.""
+        }
+    ]
+}",Expecting value: line 13 column 13 (char 735)
+3,31,Psychology,2022,"Since the Federal Constitution of 1988, adoption has become a right for individuals, regardless of marital status. Parenthood through adoption ceased to be an exclusive right of heterosexual couples and started to be exercised by new family configurations. One of the effects of this was the increase in cases of late adoption.","{
+    ""questions"": [
+        {
+            ""question"": ""Which of the following statements is true regarding adoption after the Federal Constitution of 1988?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Adoption is still restricted to heterosexual couples only.""},
+                {""B"": ""Adoption is now a right for individuals, regardless of marital status.""},
+                {""C"": ""Adoption is no longer allowed after 1988.""},
+                {""D"": ""Adoption is only possible for married couples.""},
+                {""E"": ""Adoption is limited to single individuals.""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Adoption is now a right for individuals, regardless of marital status.""
+        },
+        {
+            ""question"": ""How has the increase in cases of late adoption been affected by the changes in adoption laws?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""There has been a decrease in late adoption cases.""},
+                {""B"": ""Late adoption is no longer allowed.""},
+                {""C"": ""Late adoption is now restricted to certain family configurations.""},
+                {""D"": ""Late adoption has become more common.""},
+                {""E"": ""Late adoption is only possible for heterosexual couples.""},
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Late adoption has become more common.""
+        },
+        {
+            ""question"": ""In what way did the Federal Constitution of 1988 impact the concept of parenthood through adoption?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""It restricted parenthood through adoption to married couples.""},
+                {""B"": ""It allowed only single individuals to adopt children.""},
+                {""C"": ""It expanded parenthood through adoption to new family configurations.""},
+                {""D"": ""It prohibited adoption for individuals with certain marital statuses.""},
+                {""E"": ""It limited adoption to specific age groups.""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""It expanded parenthood through adoption to new family configurations.""
+        }
+    ]
+}",Expecting value: line 13 column 13 (char 670)

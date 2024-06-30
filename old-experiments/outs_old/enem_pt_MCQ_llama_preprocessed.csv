@@ -1,0 +1,46 @@
+area,year,context,question,bloom_level,difficult_level,options,correct_answer,correct_answer_letter,correct_answer_text,relevance,adherence,answerability,correctness,feedback,rouge,bleu,system_answer,steps_answer
+CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS,2017,"
+Um  fato  corriqueiro  ao  se  cozinhar  arroz  é  o 
+derramamento  de  parte  da  água  de  cozimento  sobre  a 
+chama azul do fogo, mudando-a para uma chama amarela. 
+Essa  mudança  de  cor  pode  suscitar  interpretações 
+diversas, relacionadas às substâncias presentes na água 
+de  cozimento. Além  do  sal  de  cozinha  (NaCl),  nela  se 
+encontram carboidratos, proteínas e sais minerais.
+",Qual é a razão pela qual a água de cozimento muda a cor da chama ao ser derramada?,Remember,Beginner,"[{'A': 'Devido à presença de sal na água'}, {'B': 'Devido à reação química entre a água e o fogo'}, {'C': 'Devido à mudança de temperatura da água'}, {'D': 'Devido à presença de carboidratos na água'}, {'E': 'Nenhuma das opções anteriores'}]",['B'],B,Devido à reação química entre a água e o fogo,,,,,,,,,
+CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS,2017,"
+Um  fato  corriqueiro  ao  se  cozinhar  arroz  é  o 
+derramamento  de  parte  da  água  de  cozimento  sobre  a 
+chama azul do fogo, mudando-a para uma chama amarela. 
+Essa  mudança  de  cor  pode  suscitar  interpretações 
+diversas, relacionadas às substâncias presentes na água 
+de  cozimento. Além  do  sal  de  cozinha  (NaCl),  nela  se 
+encontram carboidratos, proteínas e sais minerais.
+","Quais substâncias estão presentes na água de cozimento, além do sal?",Understand,Intermediate,"[{'A': 'Só carboidratos'}, {'B': 'Só proteínas'}, {'C': 'Carboidratos e proteínas'}, {'D': 'Carboidratos, proteínas e sais minerais'}, {'E': 'Nenhuma das opções anteriores'}]",['D'],D,"Carboidratos, proteínas e sais minerais",,,,,,,,,
+CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS,2017,"
+Um  fato  corriqueiro  ao  se  cozinhar  arroz  é  o 
+derramamento  de  parte  da  água  de  cozimento  sobre  a 
+chama azul do fogo, mudando-a para uma chama amarela. 
+Essa  mudança  de  cor  pode  suscitar  interpretações 
+diversas, relacionadas às substâncias presentes na água 
+de  cozimento. Além  do  sal  de  cozinha  (NaCl),  nela  se 
+encontram carboidratos, proteínas e sais minerais.
+",Qual é o efeito da água de cozimento sobre a cor da chama?,Apply,Intermediate,"[{'A': 'Aumenta a intensidade da chama'}, {'B': 'Diminui a intensidade da chama'}, {'C': 'Muda a cor da chama para amarela'}, {'D': 'Nenhuma das opções anteriores'}, {'E': 'Aumenta a temperatura da chama'}]",['C'],C,Muda a cor da chama para amarela,,,,,,,,,
+CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS,2017,"
+Um  fato  corriqueiro  ao  se  cozinhar  arroz  é  o 
+derramamento  de  parte  da  água  de  cozimento  sobre  a 
+chama azul do fogo, mudando-a para uma chama amarela. 
+Essa  mudança  de  cor  pode  suscitar  interpretações 
+diversas, relacionadas às substâncias presentes na água 
+de  cozimento. Além  do  sal  de  cozinha  (NaCl),  nela  se 
+encontram carboidratos, proteínas e sais minerais.
+",Qual é a razão pela qual a água de cozimento é considerada uma mistura complexa?,Analyze,Advanced,"[{'A': 'Devido à presença de apenas um tipo de substância'}, {'B': 'Devido à presença de carboidratos e proteínas'}, {'C': 'Devido à presença de carboidratos, proteínas e sais minerais'}, {'D': 'Devido à presença de apenas sais minerais'}, {'E': 'Nenhuma das opções anteriores'}]",['C'],C,"Devido à presença de carboidratos, proteínas e sais minerais",,,,,,,,,
+CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS,2017,"
+Um  fato  corriqueiro  ao  se  cozinhar  arroz  é  o 
+derramamento  de  parte  da  água  de  cozimento  sobre  a 
+chama azul do fogo, mudando-a para uma chama amarela. 
+Essa  mudança  de  cor  pode  suscitar  interpretações 
+diversas, relacionadas às substâncias presentes na água 
+de  cozimento. Além  do  sal  de  cozinha  (NaCl),  nela  se 
+encontram carboidratos, proteínas e sais minerais.
+",Qual é a importância da análise das substâncias presentes na água de cozimento?,Evaluate,Advanced,"[{'A': 'Para entender a mudança de cor da chama'}, {'B': 'Para saber a quantidade de sal presente'}, {'C': 'Para identificar as substâncias que afetam a cor da chama'}, {'D': 'Nenhuma das opções anteriores'}, {'E': 'Para determinar a temperatura ideal para cozimento'}]",['C'],C,Para identificar as substâncias que afetam a cor da chama,,,,,,,,,

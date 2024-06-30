@@ -1,0 +1,28 @@
+area,year,context,question,bloom_level,difficult_level,options,correct_answer,correct_answer_letter,correct_answer_text,relevance,adherence,answerability,correctness,feedback,rouge,bleu,system_answer,steps_answer
+CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS,2017,"
+Um  fato  corriqueiro  ao  se  cozinhar  arroz  é  o 
+derramamento  de  parte  da  água  de  cozimento  sobre  a 
+chama azul do fogo, mudando-a para uma chama amarela. 
+Essa  mudança  de  cor  pode  suscitar  interpretações 
+diversas, relacionadas às substâncias presentes na água 
+de  cozimento. Além  do  sal  de  cozinha  (NaCl),  nela  se 
+encontram carboidratos, proteínas e sais minerais.
+",Qual substância presente na água de cozimento do arroz é responsável por mudar a cor da chama do fogo de azul para amarela?,Remember,Beginner,"[{'A': 'Carboidratos'}, {'B': 'Proteínas'}, {'C': 'Sais minerais'}, {'D': 'Sal de cozinha (NaCl)'}, {'E': 'Água'}]",['D'],D,O sal de cozinha (NaCl) presente na água de cozimento do arroz é responsável por mudar a cor da chama do fogo de azul para amarela.,,,,,,,,,
+CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS,2017,"
+Um  fato  corriqueiro  ao  se  cozinhar  arroz  é  o 
+derramamento  de  parte  da  água  de  cozimento  sobre  a 
+chama azul do fogo, mudando-a para uma chama amarela. 
+Essa  mudança  de  cor  pode  suscitar  interpretações 
+diversas, relacionadas às substâncias presentes na água 
+de  cozimento. Além  do  sal  de  cozinha  (NaCl),  nela  se 
+encontram carboidratos, proteínas e sais minerais.
+",Qual nível de dificuldade é necessário para identificar as substâncias presentes na água de cozimento do arroz que causam a mudança de cor da chama do fogo?,Understand,Intermediate,"[{'A': 'Beginner'}, {'B': 'Intermediate'}, {'C': 'Advanced'}, {'D': 'Não é possível determinar'}, {'E': 'Expert'}]",['B'],B,"Para identificar as substâncias presentes na água de cozimento do arroz que causam a mudança de cor da chama do fogo, é necessário um nível de dificuldade intermediário.",,,,,,,,,
+CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS,2017,"
+Um  fato  corriqueiro  ao  se  cozinhar  arroz  é  o 
+derramamento  de  parte  da  água  de  cozimento  sobre  a 
+chama azul do fogo, mudando-a para uma chama amarela. 
+Essa  mudança  de  cor  pode  suscitar  interpretações 
+diversas, relacionadas às substâncias presentes na água 
+de  cozimento. Além  do  sal  de  cozinha  (NaCl),  nela  se 
+encontram carboidratos, proteínas e sais minerais.
+",Como as proteínas presentes na água de cozimento do arroz podem influenciar a cor da chama do fogo?,Apply,Advanced,"[{'A': 'Tornando a chama verde'}, {'B': 'Intensificando a chama azul'}, {'C': 'Mantendo a chama amarela'}, {'D': 'Não interferindo na cor da chama'}, {'E': 'Mudando a chama para vermelho'}]",['D'],D,"As proteínas presentes na água de cozimento do arroz não interferem na cor da chama do fogo, portanto, não influenciam a mudança para amarela.",,,,,,,,,

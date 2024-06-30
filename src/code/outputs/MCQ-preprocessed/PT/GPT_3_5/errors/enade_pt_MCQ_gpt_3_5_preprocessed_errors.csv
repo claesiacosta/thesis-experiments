@@ -1,0 +1,753 @@
+index,id,area,year,context,response_gpt,error
+0,6,Administração,2022,"Ao final de 2021, cerca de 89,3 milhões de pessoas estavam deslocadas em todo o mundo, em decorrência de violência, perseguições, violações dos direitos humanos ou outros conflitos em seus locais de origem. Esse contingente de deslocamentos forçados já alcançava mais de 100 milhões de pessoas em maio de 2022, sendo motivados por instabilidades como as ocorridas no Afeganistão, em alguns países africanos e nas regiões da Ucrânia ocupadas pela Rússia, além de outros locais onde já perduravam confrontos armados, como, por exemplo, na Síria.
+Disponível no site do acnur.org. Acesso em: 21 jun. 2022 (adaptado).
+Descrição da figura:
+A charge do artista Latuff retrata migrantes sírios fugindo da guerra civil em direção à Europa. Em uma praia, três personagens assistem à chegada de barcos superlotados com migrantes:
+O primeiro, com as mãos nos bolsos, está de terno cinza com o símbolo de cifrão estampado em suas costas e diz: “Eu vejo mão de obra barata!”.
+Ao seu lado, uma senhora vestindo a bandeira da União Europeia demonstra preocupação e fala: “Eu vejo dor de cabeça!”. 
+Por último, já de costas para a praia, o terceiro veste roupas com as cores da bandeira dos EUA, se despede tocando no ombro da senhora, assovia e diz: “Eu vejo você na minha próxima aventura militar!”.","{
+    ""questions"": [
+        {
+            ""question"": ""Qual o principal motivo que levou mais de 100 milhões de pessoas a se deslocarem forçadamente em maio de 2022, de acordo com o contexto apresentado?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Perseguições políticas"",},
+                {""B"": ""Conflitos religiosos"",},
+                {""C"": ""Violações dos direitos humanos"",},
+                {""D"": ""Desastres naturais"",},
+                {""E"": ""Motivos econômicos"",}
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Violações dos direitos humanos""
+        },
+        {
+            ""question"": ""O que o personagem que veste terno cinza com o símbolo de cifrão estampado em suas costas representa na charge?"",
+            ""bloom_level"": ""Lembrar"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Um líder político"",},
+                {""B"": ""Um empresário ganancioso"",},
+                {""C"": ""Um ativista humanitário"",},
+                {""D"": ""Um refugiado"",},
+                {""E"": ""Um jornalista"",}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Um empresário ganancioso""
+        },
+        {
+            ""question"": ""Qual a atitude do personagem que veste roupas com as cores da bandeira dos EUA em relação aos migrantes na charge?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Demonstra solidariedade"",},
+                {""B"": ""Critica a União Europeia"",},
+                {""C"": ""Planeja ajudar na integração dos migrantes"",},
+                {""D"": ""Mostra indiferença e interesse militar"",},
+                {""E"": ""Propõe soluções diplomáticas"",}
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Mostra indiferença e interesse militar""
+        }
+    ]
+}",Expecting property name enclosed in double quotes: line 8 column 51 (char 373)
+1,6,Administração,2022,"Ao final de 2021, cerca de 89,3 milhões de pessoas estavam deslocadas em todo o mundo, em decorrência de violência, perseguições, violações dos direitos humanos ou outros conflitos em seus locais de origem. Esse contingente de deslocamentos forçados já alcançava mais de 100 milhões de pessoas em maio de 2022, sendo motivados por instabilidades como as ocorridas no Afeganistão, em alguns países africanos e nas regiões da Ucrânia ocupadas pela Rússia, além de outros locais onde já perduravam confrontos armados, como, por exemplo, na Síria.
+Disponível no site do acnur.org. Acesso em: 21 jun. 2022 (adaptado).
+Descrição da figura:
+A charge do artista Latuff retrata migrantes sírios fugindo da guerra civil em direção à Europa. Em uma praia, três personagens assistem à chegada de barcos superlotados com migrantes:
+O primeiro, com as mãos nos bolsos, está de terno cinza com o símbolo de cifrão estampado em suas costas e diz: “Eu vejo mão de obra barata!”.
+Ao seu lado, uma senhora vestindo a bandeira da União Europeia demonstra preocupação e fala: “Eu vejo dor de cabeça!”. 
+Por último, já de costas para a praia, o terceiro veste roupas com as cores da bandeira dos EUA, se despede tocando no ombro da senhora, assovia e diz: “Eu vejo você na minha próxima aventura militar!”.","{
+    ""questions"": [
+        {
+            ""question"": ""Qual o principal motivo que levou mais de 100 milhões de pessoas a se deslocarem forçadamente em maio de 2022, de acordo com o contexto apresentado?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Perseguições políticas"",},
+                {""B"": ""Conflitos religiosos"",},
+                {""C"": ""Violações dos direitos humanos"",},
+                {""D"": ""Desastres naturais"",},
+                {""E"": ""Motivos econômicos"",}
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Violações dos direitos humanos""
+        },
+        {
+            ""question"": ""O que o personagem que veste terno cinza com o símbolo de cifrão estampado em suas costas representa na charge?"",
+            ""bloom_level"": ""Lembrar"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Um líder político"",},
+                {""B"": ""Um empresário ganancioso"",},
+                {""C"": ""Um ativista humanitário"",},
+                {""D"": ""Um refugiado"",},
+                {""E"": ""Um jornalista"",}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Um empresário ganancioso""
+        },
+        {
+            ""question"": ""Qual a atitude do personagem que veste roupas com as cores da bandeira dos EUA em relação aos migrantes na charge?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Demonstra solidariedade"",},
+                {""B"": ""Critica a União Europeia"",},
+                {""C"": ""Planeja ajudar na integração dos migrantes"",},
+                {""D"": ""Mostra indiferença e interesse militar"",},
+                {""E"": ""Propõe soluções diplomáticas"",}
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Mostra indiferença e interesse militar""
+        }
+    ]
+}",Expecting property name enclosed in double quotes: line 8 column 51 (char 373)
+2,6,Administração,2022,"Ao final de 2021, cerca de 89,3 milhões de pessoas estavam deslocadas em todo o mundo, em decorrência de violência, perseguições, violações dos direitos humanos ou outros conflitos em seus locais de origem. Esse contingente de deslocamentos forçados já alcançava mais de 100 milhões de pessoas em maio de 2022, sendo motivados por instabilidades como as ocorridas no Afeganistão, em alguns países africanos e nas regiões da Ucrânia ocupadas pela Rússia, além de outros locais onde já perduravam confrontos armados, como, por exemplo, na Síria.
+Disponível no site do acnur.org. Acesso em: 21 jun. 2022 (adaptado).
+Descrição da figura:
+A charge do artista Latuff retrata migrantes sírios fugindo da guerra civil em direção à Europa. Em uma praia, três personagens assistem à chegada de barcos superlotados com migrantes:
+O primeiro, com as mãos nos bolsos, está de terno cinza com o símbolo de cifrão estampado em suas costas e diz: “Eu vejo mão de obra barata!”.
+Ao seu lado, uma senhora vestindo a bandeira da União Europeia demonstra preocupação e fala: “Eu vejo dor de cabeça!”. 
+Por último, já de costas para a praia, o terceiro veste roupas com as cores da bandeira dos EUA, se despede tocando no ombro da senhora, assovia e diz: “Eu vejo você na minha próxima aventura militar!”.","{
+    ""questions"": [
+        {
+            ""question"": ""Qual o principal motivo que levou mais de 100 milhões de pessoas a se deslocarem forçadamente em maio de 2022, de acordo com o contexto apresentado?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Perseguições políticas"",},
+                {""B"": ""Conflitos religiosos"",},
+                {""C"": ""Violações dos direitos humanos"",},
+                {""D"": ""Instabilidades econômicas"",},
+                {""E"": ""Desastres naturais"",}
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Violações dos direitos humanos""
+        },
+        {
+            ""question"": ""O que o personagem que veste terno cinza com o símbolo de cifrão estampado em suas costas representa na charge?"",
+            ""bloom_level"": ""Lembrar"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Um líder político europeu"",},
+                {""B"": ""Um empresário em busca de lucro"",},
+                {""C"": ""Um ativista de direitos humanos"",},
+                {""D"": ""Um refugiado em busca de ajuda"",},
+                {""E"": ""Um representante da ONU"",}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Um empresário em busca de lucro""
+        },
+        {
+            ""question"": ""Qual a atitude do personagem que veste roupas com as cores da bandeira dos EUA em relação à situação dos migrantes na charge?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Demonstra solidariedade e empatia"",},
+                {""B"": ""Está preocupado com a segurança dos migrantes"",},
+                {""C"": ""Planeja ajudar na integração dos migrantes na Europa"",},
+                {""D"": ""Visualiza os migrantes como mão de obra qualificada"",},
+                {""E"": ""Mostra interesse em intervir militarmente na situação"",}
+            ],
+            ""correct_answer"": [""E""],
+            ""correct_answer_letter"": ""E"",
+            ""correct_answer_text"": ""Mostra interesse em intervir militarmente na situação""
+        }
+    ]
+}",Expecting property name enclosed in double quotes: line 8 column 51 (char 373)
+3,6,Administração,2022,"Ao final de 2021, cerca de 89,3 milhões de pessoas estavam deslocadas em todo o mundo, em decorrência de violência, perseguições, violações dos direitos humanos ou outros conflitos em seus locais de origem. Esse contingente de deslocamentos forçados já alcançava mais de 100 milhões de pessoas em maio de 2022, sendo motivados por instabilidades como as ocorridas no Afeganistão, em alguns países africanos e nas regiões da Ucrânia ocupadas pela Rússia, além de outros locais onde já perduravam confrontos armados, como, por exemplo, na Síria.
+Disponível no site do acnur.org. Acesso em: 21 jun. 2022 (adaptado).
+Descrição da figura:
+A charge do artista Latuff retrata migrantes sírios fugindo da guerra civil em direção à Europa. Em uma praia, três personagens assistem à chegada de barcos superlotados com migrantes:
+O primeiro, com as mãos nos bolsos, está de terno cinza com o símbolo de cifrão estampado em suas costas e diz: “Eu vejo mão de obra barata!”.
+Ao seu lado, uma senhora vestindo a bandeira da União Europeia demonstra preocupação e fala: “Eu vejo dor de cabeça!”. 
+Por último, já de costas para a praia, o terceiro veste roupas com as cores da bandeira dos EUA, se despede tocando no ombro da senhora, assovia e diz: “Eu vejo você na minha próxima aventura militar!”.","{
+    ""questions"": [
+        {
+            ""question"": ""Qual o principal motivo que levou mais de 100 milhões de pessoas a se deslocarem forçadamente em maio de 2022, de acordo com o contexto apresentado?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Perseguições políticas"",},
+                {""B"": ""Conflitos religiosos"",},
+                {""C"": ""Violações dos direitos humanos"",},
+                {""D"": ""Instabilidades econômicas"",},
+                {""E"": ""Desastres naturais"",}
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Violações dos direitos humanos""
+        },
+        {
+            ""question"": ""O que o personagem que veste terno cinza com o símbolo de cifrão estampado em suas costas representa na charge?"",
+            ""bloom_level"": ""Lembrar"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Um líder político europeu"",},
+                {""B"": ""Um empresário em busca de lucro"",},
+                {""C"": ""Um ativista de direitos humanos"",},
+                {""D"": ""Um refugiado em busca de ajuda"",},
+                {""E"": ""Um representante da ONU"",}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Um empresário em busca de lucro""
+        },
+        {
+            ""question"": ""Qual a atitude do personagem que veste roupas com as cores da bandeira dos EUA em relação à situação dos migrantes na charge?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Demonstra solidariedade e empatia"",},
+                {""B"": ""Está preocupado com a segurança dos migrantes"",},
+                {""C"": ""Planeja ajudar na integração dos migrantes na Europa"",},
+                {""D"": ""Visualiza os migrantes como mão de obra qualificada"",},
+                {""E"": ""Mostra interesse em intervir militarmente na situação"",}
+            ],
+            ""correct_answer"": [""E""],
+            ""correct_answer_letter"": ""E"",
+            ""correct_answer_text"": ""Mostra interesse em intervir militarmente na situação""
+        }
+    ]
+}",Expecting property name enclosed in double quotes: line 8 column 51 (char 373)
+4,11,Administração,2022,"O desenvolvimento das instituições no interior da sociedade capitalista, desencadeado por transformações tecnológicas no final do século XIX, levou à racionalização material e imaterial dos processos produtivos. Essas instituições foram minuciosamente estudadas por Max Weber (1864-1920), que focou na análise da organização cotidiana da sociedade, na divisão e na coordenação das mais diversas atividades laborais. Essas atividades eram baseadas na divisão racional do trabalho, na exigência de especialização e diferenciação das funções exercidas pelos trabalhadores, e classificadas de acordo com critérios técnicos, mediante a subordinação a uma autoridade hierarquicamente organizada e altamente especializada.
+Fonte do Texto: SANTOS, F. R. Max Weber e a racionalidade burocrática, jun. 2015 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""Qual sociólogo se destacou por estudar minuciosamente as instituições no interior da sociedade capitalista, focando na racionalização dos processos produtivos e na organização cotidiana da sociedade?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Karl Marx""},
+                {""B"": ""Max Weber""},
+                {""C"": ""Émile Durkheim""},
+                {""D"": ""Adam Smith""},
+                {""E"": ""Friedrich Hayek""}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Max Weber""
+        },
+        {
+            ""question"": ""Qual é um dos princípios fundamentais das atividades laborais baseadas na divisão racional do trabalho, conforme estudado por Max Weber?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Autonomia total dos trabalhadores""},
+                {""B"": ""Subordinação a uma autoridade hierarquicamente organizada""},
+                {""C"": ""Igualdade salarial para todas as funções""},
+                {""D"": ""Ausência de especialização nas tarefas""},
+                {""E"": ""Rotação constante de funções""
+                }
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Subordinação a uma autoridade hierarquicamente organizada""
+        },
+        {
+            ""question"": ""O que Max Weber enfatizou como exigência fundamental nas atividades laborais baseadas na divisão racional do trabalho?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Flexibilidade extrema nas funções desempenhadas""},
+                {""B"": ""Centralização do poder decisório em todos os níveis"",
+                {""C"": ""Padronização absoluta das tarefas""},
+                {""D"": ""Especialização e diferenciação das funções exercidas""},
+                {""E"": ""Descentralização total da autoridade""
+                }
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Especialização e diferenciação das funções exercidas""
+        }
+    ]
+}",Expecting property name enclosed in double quotes: line 41 column 17 (char 1969)
+5,14,Administração,2022,"Em virtude da crise ocasionada pela pandemia de Covid-19, uma empresa precisou demitir 20% de seus funcionários. No intuito de reduzir os impactos desse processo, a empresa buscará realizar a recolocação profissional desses funcionários por meio da contratação de consultoria.","{
+    ""questions"": [
+        {
+            ""question"": ""Qual é a principal razão pela qual a empresa decidiu contratar uma consultoria para recolocar os funcionários demitidos devido à crise da Covid-19?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Reduzir os impactos da demissão"",},
+                {""B"": ""Aumentar os lucros da empresa"",},
+                {""C"": ""Diminuir a produtividade dos funcionários remanescentes"",},
+                {""D"": ""Aumentar a carga de trabalho dos funcionários atuais"",},
+                {""E"": ""Realizar cortes adicionais de pessoal"",}
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Reduzir os impactos da demissão""
+        },
+        {
+            ""question"": ""Quando uma empresa demite funcionários devido a uma crise, qual é uma estratégia eficaz para minimizar os impactos negativos?"",
+            ""bloom_level"": ""Aplicar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Contratar mais funcionários temporários"",},
+                {""B"": ""Oferecer treinamento adicional aos funcionários remanescentes"",},
+                {""C"": ""Aumentar a carga de trabalho dos funcionários atuais"",},
+                {""D"": ""Ignorar a situação e focar apenas nos lucros"",},
+                {""E"": ""Reduzir os salários dos funcionários remanescentes"",}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Oferecer treinamento adicional aos funcionários remanescentes""
+        },
+        {
+            ""question"": ""Por que é importante buscar a recolocação profissional dos funcionários demitidos em vez de simplesmente dispensá-los?"",
+            ""bloom_level"": ""Avaliar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Para evitar custos adicionais com rescisões contratuais"",},
+                {""B"": ""Para manter a moral e a motivação dos funcionários remanescentes"",},
+                {""C"": ""Para demonstrar responsabilidade social corporativa"",},
+                {""D"": ""Para evitar processos judiciais por demissão injusta"",},
+                {""E"": ""Para garantir a continuidade das operações da empresa"",}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Para manter a moral e a motivação dos funcionários remanescentes""
+        }
+    ]
+}",Expecting property name enclosed in double quotes: line 8 column 57 (char 373)
+6,32,Jornalismo,2022,"Não pode ser negado acesso a informações que sejam necessárias para garantir ou reivindicar direitos fundamentais (liberdade de expressão, vida, liberdade religiosa etc.). Documentos com informações sobre violação de direitos humanos praticada por agentes públicos ou por ordem de autoridades públicas devem ser de acesso livre, sem restrições. Detalhe relevante: esta determinação permite que a grande maioria dos documentos relacionados à prática de tortura e outros tipos de violação de direitos cometidos durante a ditadura militar seja aberta.
+Fonte do Texto: ABRAJI. Lei de Acesso a Informações Públicas: o que você precisa saber. 2014 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""Qual é a importância da Lei de Acesso a Informações no contexto de garantia de direitos fundamentais?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Facilitar o acesso a informações sobre violações de direitos humanos"",},
+                {""B"": ""Restringir o acesso a documentos relacionados à ditadura militar"",},
+                {""C"": ""Limitar a liberdade de expressão dos cidadãos"",},
+                {""D"": ""Promover a censura de informações públicas"",},
+                {""E"": ""Incentivar a prática de violações de direitos humanos"",}
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Facilitar o acesso a informações sobre violações de direitos humanos""
+        },
+        {
+            ""question"": ""O que a Lei de Acesso a Informações permite em relação aos documentos da ditadura militar?"",
+            ""bloom_level"": ""Aplicar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Restringir o acesso a todos os documentos relacionados à ditadura militar"",},
+                {""B"": ""Permitir o acesso livre e sem restrições à grande maioria dos documentos"",},
+                {""C"": ""Exigir autorização prévia para consultar qualquer documento histórico"",},
+                {""D"": ""Proibir o acesso a informações sobre violações de direitos humanos"",},
+                {""E"": ""Limitar o acesso apenas a pesquisadores acadêmicos"",}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Permitir o acesso livre e sem restrições à grande maioria dos documentos""
+        },
+        {
+            ""question"": ""Por que é importante que documentos sobre violações de direitos humanos sejam de acesso livre?"",
+            ""bloom_level"": ""Avaliar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Para proteger os agentes públicos envolvidos nas violações"",},
+                {""B"": ""Para garantir a impunidade dos responsáveis pelos crimes"",},
+                {""C"": ""Para possibilitar a memória, verdade e justiça sobre os fatos ocorridos"",},
+                {""D"": ""Para promover a manipulação da informação pela mídia"",},
+                {""E"": ""Para restringir o acesso à informação apenas a determinados grupos"",}
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Para possibilitar a memória, verdade e justiça sobre os fatos ocorridos""
+        }
+    ]
+}",Expecting property name enclosed in double quotes: line 8 column 94 (char 364)
+7,4,Direito,2022,"TEXTO 1
+Além de tramitar no Judiciário um processo a respeito do Marco Temporal, há também, na Câmara dos Deputados, um projeto em que se tenta transformar a tese do Marco Temporal em lei. Trata-se do Projeto de Lei n. 490/2007, que determina que devem ter direito às terras consideradas ancestrais somente os povos que as estivessem ocupando no dia da promulgação da Constituição Federal, em 5 de outubro de 1988.
+Disponível no site do g1.globo. Acesso em: 21 jun. 2022 (adaptado).
+TEXTO 2
+O assassinato do indigenista Bruno Pereira e do jornalista Dom Phillips expôs ao mundo a importância da demarcação dos territórios indígenas, assegurada pela Constituição Federal de 1988. Os territórios indígenas, além de preservarem identidades, modos de vida, tradições e culturas desses povos, também são fundamentais para a preservação ambiental. Eles contribuem para conter as emissões de gases de efeito estufa, promover a biodiversidade e potencializar sistemas.
+Se mantido o critério do Marco Temporal, a guerra fundiária poderá ser intensificada. Os territórios se tornarão zonas de mais conflitos entre fazendeiros, mineradores, garimpeiros, grileiros, produtores rurais, narcotraficantes, comerciantes de peixes, caçadores e madeireiros, o que resultará na morte de indígenas e de defensores da floresta e, por extensão, dos territórios indígenas.","{
+	""questions"": [{
+			""question"": ""De acordo com o Projeto de Lei n. 490/2007, qual é o critério estabelecido para determinar quem tem direito às terras consideradas ancestrais?"",
+			""bloom_level"": ""Remember"",
+			""difficult_level"": ""Beginner"",
+			""options"": [{
+					""A"": ""Povos que as estivessem ocupando em 1492."",
+					""B"": ""Povos que as estivessem ocupando em 1822."",
+					""C"": ""Povos que as estivessem ocupando em 1888."",
+					""D"": ""Povos que as estivessem ocupando em 1988."",
+					""E"": ""Povos que as estivessem ocupando em 2000.""
+				],
+			""correct_answer"": [""D""],
+			""correct_answer_letter"": ""D"",
+			""correct_answer_text"": ""Povos que as estivessem ocupando no dia da promulgação da Constituição Federal, em 5 de outubro de 1988.""
+		},
+		{
+			""question"": ""Qual é a importância dos territórios indígenas, de acordo com o TEXTO 2?"",
+			""bloom_level"": ""Understand"",
+			""difficult_level"": ""Intermediate"",
+			""options"": [{
+					""A"": ""Preservar identidades e modos de vida apenas."",
+					""B"": ""Contribuir para a preservação ambiental e promover a biodiversidade."",
+					""C"": ""Intensificar a guerra fundiária."",
+					""D"": ""Gerar conflitos entre fazendeiros e mineradores."",
+					""E"": ""Aumentar as emissões de gases de efeito estufa.""
+				],
+			""correct_answer"": [""B""],
+			""correct_answer_letter"": ""B"",
+			""correct_answer_text"": ""Contribuir para a preservação ambiental e promover a biodiversidade.""
+		}
+	]
+}","Expecting ',' delimiter: line 12 column 5 (char 539)"
+8,6,Direito,2022,"Ao final de 2021, cerca de 89,3 milhões de pessoas estavam deslocadas em todo o mundo, em decorrência de violência, perseguições, violações dos direitos humanos ou outros conflitos em seus locais de origem. Esse contingente de deslocamentos forçados já alcançava mais de 100 milhões de pessoas em maio de 2022, sendo motivados por instabilidades como as ocorridas no Afeganistão, em alguns países africanos e nas regiões da Ucrânia ocupadas pela Rússia, além de outros locais onde já perduravam confrontos armados, como, por exemplo, na Síria.
+Disponível no site do acnur.org. Acesso em: 21 jun. 2022 (adaptado).
+Descrição da figura:
+A charge do artista Latuff retrata migrantes sírios fugindo da guerra civil em direção à Europa. Em uma praia, três personagens assistem à chegada de barcos superlotados com migrantes:
+O primeiro, com as mãos nos bolsos, está de terno cinza com o símbolo de cifrão estampado em suas costas e diz: “Eu vejo mão de obra barata!”.
+Ao seu lado, uma senhora vestindo a bandeira da União Europeia demonstra preocupação e fala: “Eu vejo dor de cabeça!”. 
+Por último, já de costas para a praia, o terceiro veste roupas com as cores da bandeira dos EUA, se despede tocando no ombro da senhora, assovia e diz: “Eu vejo você na minha próxima aventura militar!”.","{
+    ""questions"": [
+        {
+            ""question"": ""Qual o principal motivo que levou mais de 100 milhões de pessoas a se deslocarem forçadamente em maio de 2022?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Perseguições políticas"",},
+                {""B"": ""Conflitos e instabilidades em seus locais de origem"",},
+                {""C"": ""Desastres naturais"",},
+                {""D"": ""Busca por oportunidades econômicas"",},
+                {""E"": ""Motivos religiosos"",}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Conflitos e instabilidades em seus locais de origem""
+        },
+        {
+            ""question"": ""De acordo com a descrição da figura, qual a atitude do personagem que veste roupas com as cores da bandeira dos EUA?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Demonstra solidariedade aos migrantes"",},
+                {""B"": ""Está preocupado com a situação dos migrantes"",},
+                {""C"": ""Planeja ajudar os migrantes a se estabelecerem na Europa"",},
+                {""D"": ""Mostra interesse em recrutar os migrantes para o exército"",},
+                {""E"": ""Está apenas observando a cena sem interferir"",}
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Mostra interesse em recrutar os migrantes para o exército""
+        },
+        {
+            ""question"": ""O que a senhora vestindo a bandeira da União Europeia representa na charge?"",
+            ""bloom_level"": ""Lembrar"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Uma ativista em defesa dos direitos dos migrantes"",},
+                {""B"": ""Uma líder política europeia"",},
+                {""C"": ""Uma pessoa indiferente à situação dos migrantes"",},
+                {""D"": ""Uma representação simbólica da Europa"",},
+                {""E"": ""Uma voluntária em um centro de acolhimento de migrantes"",}
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Uma representação simbólica da Europa""
+        }
+    ]
+}",Expecting property name enclosed in double quotes: line 8 column 51 (char 335)
+9,18,Direito,2022,"A gestão social e ambientalmente responsável tem sido uma temática recorrente no meio empresarial quando se discute o desenvolvimento econômico. O grande desafio para as empresas é desenvolver atividades sustentáveis e obter lucros, mantendo a competitividade.
+Visando compreender o impacto de uma cultura de sustentabilidade no comportamento e desempenho das empresas, um departamento da Universidade de Harvard, nos Estados Unidos, publicou o resultado de uma investigação científica, após realizar a análise da vida econômica de 180 empresas, no período de 18 anos (de 1994 a 2012). Constatou-se que as empresas sustentáveis geraram muito mais lucro do que as que não observavam a sustentabilidade. De acordo com os pesquisadores, a lucratividade das empresas sustentáveis decorreu da adoção de gestão consciente e organizada.
+Fonte do Texto: ECCLES; IOANNOU; SERAFEIM. The Impact of a Corporate Culture of Sustainability on Corporate Behavior and Performance. 2012 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""Qual o principal desafio para as empresas ao discutir o desenvolvimento econômico?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Obter lucros"", ""B"": ""Manter a competitividade"", ""C"": ""Desenvolver atividades sustentáveis"", ""D"": ""Analisar a vida econômica"", ""E"": ""Adotar gestão consciente""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Desenvolver atividades sustentáveis""
+        },
+        {
+            ""question"": ""O que foi constatado em relação à lucratividade das empresas sustentáveis?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Geraram menos lucro que as empresas não sustentáveis"", ""B"": ""Não tiveram impacto na lucratividade"", ""C"": ""Geraram mais lucro que as empresas não sustentáveis"", ""D"": ""Tiveram lucro sem relação com a sustentabilidade"", ""E"": ""Faliram devido à sustentabilidade""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Geraram mais lucro que as empresas não sustentáveis""
+        },
+        {
+            ""question"": ""De acordo com os pesquisadores, qual foi o motivo da lucratividade das empresas sustentáveis?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Adoção de gestão desorganizada"", ""B"": ""Falta de competitividade"", ""C"": ""Adoção de gestão consciente e organizada"", ""D"": ""Desprezo pela sustentabilidade"", ""E"": ""Falta de análise econômica""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Adoção de gestão consciente e organizada""
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 443)
+10,4,Psicologia,2022,"TEXTO 1
+Além de tramitar no Judiciário um processo a respeito do Marco Temporal, há também, na Câmara dos Deputados, um projeto em que se tenta transformar a tese do Marco Temporal em lei. Trata-se do Projeto de Lei n. 490/2007, que determina que devem ter direito às terras consideradas ancestrais somente os povos que as estivessem ocupando no dia da promulgação da Constituição Federal, em 5 de outubro de 1988.
+Disponível no site do g1.globo. Acesso em: 21 jun. 2022 (adaptado).
+TEXTO 2
+O assassinato do indigenista Bruno Pereira e do jornalista Dom Phillips expôs ao mundo a importância da demarcação dos territórios indígenas, assegurada pela Constituição Federal de 1988. Os territórios indígenas, além de preservarem identidades, modos de vida, tradições e culturas desses povos, também são fundamentais para a preservação ambiental. Eles contribuem para conter as emissões de gases de efeito estufa, promover a biodiversidade e potencializar sistemas.
+Se mantido o critério do Marco Temporal, a guerra fundiária poderá ser intensificada. Os territórios se tornarão zonas de mais conflitos entre fazendeiros, mineradores, garimpeiros, grileiros, produtores rurais, narcotraficantes, comerciantes de peixes, caçadores e madeireiros, o que resultará na morte de indígenas e de defensores da floresta e, por extensão, dos territórios indígenas.","{
+	""questions"": [{
+			""question"": ""De acordo com o texto 1, o que determina o Projeto de Lei n. 490/2007 em relação aos direitos às terras consideradas ancestrais?"",
+			""bloom_level"": ""Compreensão"",
+			""difficult_level"": ""Intermediário"",
+			""options"": [{
+					""A"": ""Os povos que as estivessem ocupando em 5 de outubro de 1988."",
+					""B"": ""Os povos que as estivessem ocupando em 1990."",
+					""C"": ""Os povos que as estivessem ocupando em 2000."",
+					""D"": ""Os povos que as estivessem ocupando em 2020."",
+					""E"": ""Os povos que as estivessem ocupando em 1998.""
+				],
+			""correct_answer"": [""A""],
+			""correct_answer_letter"": ""A"",
+			""correct_answer_text"": ""Os povos que as estivessem ocupando em 5 de outubro de 1988.""
+		},
+		{
+			""question"": ""De acordo com o texto 2, qual é a importância dos territórios indígenas para a preservação ambiental?"",
+			""bloom_level"": ""Aplicação"",
+			""difficult_level"": ""Intermediário"",
+			""options"": [{
+					""A"": ""Contribuem para aumentar as emissões de gases de efeito estufa."",
+					""B"": ""Promovem a destruição da biodiversidade."",
+					""C"": ""Aumentam os conflitos entre fazendeiros e indígenas."",
+					""D"": ""Contribuem para conter as emissões de gases de efeito estufa."",
+					""E"": ""Não possuem relação com a preservação ambiental.""
+				],
+			""correct_answer"": [""D""],
+			""correct_answer_letter"": ""D"",
+			""correct_answer_text"": ""Contribuem para conter as emissões de gases de efeito estufa.""
+		},
+		{
+			""question"": ""Qual é a principal preocupação em relação à manutenção do critério do Marco Temporal, conforme mencionado no texto 2?"",
+			""bloom_level"": ""Análise"",
+			""difficult_level"": ""Avançado"",
+			""options"": [{
+					""A"": ""Aumento da preservação ambiental."",
+					""B"": ""Intensificação da guerra fundiária."",
+					""C"": ""Diminuição dos conflitos entre fazendeiros e indígenas."",
+					""D"": ""Melhoria das relações entre garimpeiros e indígenas."",
+					""E"": ""Redução da biodiversidade.""
+				],
+			""correct_answer"": [""B""],
+			""correct_answer_letter"": ""B"",
+			""correct_answer_text"": ""Intensificação da guerra fundiária.""
+		}
+	]
+}","Expecting ',' delimiter: line 12 column 5 (char 564)"
+11,6,Psicologia,2022,"Ao final de 2021, cerca de 89,3 milhões de pessoas estavam deslocadas em todo o mundo, em decorrência de violência, perseguições, violações dos direitos humanos ou outros conflitos em seus locais de origem. Esse contingente de deslocamentos forçados já alcançava mais de 100 milhões de pessoas em maio de 2022, sendo motivados por instabilidades como as ocorridas no Afeganistão, em alguns países africanos e nas regiões da Ucrânia ocupadas pela Rússia, além de outros locais onde já perduravam confrontos armados, como, por exemplo, na Síria.
+Disponível no site do acnur.org. Acesso em: 21 jun. 2022 (adaptado).
+Descrição da figura:
+A charge do artista Latuff retrata migrantes sírios fugindo da guerra civil em direção à Europa. Em uma praia, três personagens assistem à chegada de barcos superlotados com migrantes:
+O primeiro, com as mãos nos bolsos, está de terno cinza com o símbolo de cifrão estampado em suas costas e diz: “Eu vejo mão de obra barata!”.
+Ao seu lado, uma senhora vestindo a bandeira da União Europeia demonstra preocupação e fala: “Eu vejo dor de cabeça!”. 
+Por último, já de costas para a praia, o terceiro veste roupas com as cores da bandeira dos EUA, se despede tocando no ombro da senhora, assovia e diz: “Eu vejo você na minha próxima aventura militar!”.","{
+    ""questions"": [
+        {
+            ""question"": ""Qual o principal motivo que levou mais de 100 milhões de pessoas a se deslocarem forçadamente em maio de 2022, conforme o contexto apresentado?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Perseguições políticas"",},
+                {""B"": ""Conflitos religiosos"",},
+                {""C"": ""Violações dos direitos humanos"",},
+                {""D"": ""Instabilidade econômica"",},
+                {""E"": ""Desastres naturais"",}
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Violações dos direitos humanos""
+        },
+        {
+            ""question"": ""Qual o principal sentimento demonstrado pela senhora que veste a bandeira da União Europeia na charge?"",
+            ""bloom_level"": ""Lembrar"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Alegria"",},
+                {""B"": ""Indiferença"",},
+                {""C"": ""Preocupação"",},
+                {""D"": ""Empolgação"",},
+                {""E"": ""Tristeza"",}
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Preocupação""
+        },
+        {
+            ""question"": ""O que o personagem que veste roupas com as cores da bandeira dos EUA sugere com a frase 'Eu vejo você na minha próxima aventura militar!'?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Apoio humanitário"",},
+                {""B"": ""Intervenção pacífica"",},
+                {""C"": ""Exploração econômica"",},
+                {""D"": ""Ameaça de guerra"",},
+                {""E"": ""Promoção da paz"",}
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Ameaça de guerra""
+        }
+    ]
+}",Expecting property name enclosed in double quotes: line 8 column 51 (char 368)
+12,22,Psicologia,2022,"Para aumentar a sua clientela, uma psicóloga que realiza atendimentos individuais de crianças com dificuldades de aprendizagem criou uma conta em uma rede social e passou a realizar postagens diárias. Os temas incluíam desenvolvimento infantil, sinais precoces de dificuldades de aprendizagem, indicações de leituras e filmes relacionados aos temas, além de outros materiais que pudessem interessar ao seu público em potencial. As postagens da psicóloga foram elaboradas a partir de aulas de Marketing digital que ela realizou.
+","{
+    ""questions"": [
+        {
+            ""question"": ""Qual é a principal estratégia utilizada pela psicóloga para aumentar sua clientela?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Realizar atendimentos individuais de crianças"",},
+                {""B"": ""Criar uma conta em uma rede social e fazer postagens diárias"",},
+                {""C"": ""Participar de aulas de Marketing digital"",},
+                {""D"": ""Realizar palestras sobre desenvolvimento infantil"",},
+                {""E"": ""Escrever um livro sobre dificuldades de aprendizagem"",}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Criar uma conta em uma rede social e fazer postagens diárias""
+        },
+        {
+            ""question"": ""Qual dos temas NÃO era abordado nas postagens da psicóloga?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Desenvolvimento infantil"",},
+                {""B"": ""Sinais precoces de dificuldades de aprendizagem"",},
+                {""C"": ""Indicações de leituras e filmes relacionados aos temas"",},
+                {""D"": ""Dicas de culinária"",},
+                {""E"": ""Outros materiais de interesse ao público em potencial"",}
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Dicas de culinária""
+        },
+        {
+            ""question"": ""O que motivou a psicóloga a criar postagens diárias em uma rede social?"",
+            ""bloom_level"": ""Recordar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""A necessidade de divulgar seus atendimentos individuais"",},
+                {""B"": ""O interesse em compartilhar conhecimento sobre desenvolvimento infantil"",},
+                {""C"": ""A participação em aulas de Marketing digital"",},
+                {""D"": ""A vontade de se tornar famosa nas redes sociais"",},
+                {""E"": ""A pressão dos colegas psicólogos"",}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""O interesse em compartilhar conhecimento sobre desenvolvimento infantil""
+        }
+    ]
+}",Expecting property name enclosed in double quotes: line 8 column 71 (char 323)
+13,29,Psicologia,2022,"TEXTO 1
+Em maio de 2022, Genivaldo de Jesus Santos foi asfixiado e morto por gás lacrimogênio, segundo laudo do Instituto Médico Legal, dentro de uma viatura da Polícia Rodoviária Federal no Estado de Sergipe, após ser abordado por andar de motocicleta sem capacete. Durante a abordagem policial, um sobrinho da vítima informou que o mesmo sofria de esquizofrenia, encontrava-se em tratamento há cerca de 20 anos e fazia uso de medicação, a qual, inclusive, estava em sua posse. Ainda que os policiais tenham sido informados, a abordagem prosseguiu com o uso de força e violência, desproporcional ao risco oferecido por Genivaldo.
+Disponível no site g1.globo. Acesso em: 10 ago. de 2022 (adaptado).
+TEXTO 2
+No início do século XX, surgem as primeiras iniciativas eugênicas no país, cujos problemas coletivos eram compreendidos a partir da proliferação indesejada de pessoas que se reproduziram, durante consecutivas gerações, propagando características comportamentais e mentais viciosas, criminosas e degeneradas. Sob o discurso altruísta de garantia de tratamento, o louco-criminoso passou a ser contido e isolado em manicômios judiciários, instituições vinculadas ao sistema penitenciário e administradas, à época, por importantes médicos psiquiatras.
+Fonte do Texto: BAGATIN, T. A eugenia e o tratamento do louco-criminoso no início do século XX. VIII CONGRESSO INTERNACIONAL DE HISTÓRIA, 2017 (adaptado).","{
+	""questions"": [{
+			""question"": ""De acordo com o TEXTO 1, o que aconteceu com Genivaldo de Jesus Santos em maio de 2022?"",
+			""bloom_level"": ""Compreensão"",
+			""difficult_level"": ""Intermediário"",
+			""options"": [{
+					""A"": ""Foi preso por dirigir sem capacete"",
+					""B"": ""Foi asfixiado por gás lacrimogêneo dentro de uma viatura policial"",
+					""C"": ""Fugiu da abordagem policial"",
+					""D"": ""Sofreu um acidente de moto"",
+					""E"": ""Foi liberado após a abordagem""
+				],
+			""correct_answer"": [""B""],
+			""correct_answer_letter"": ""B"",
+			""correct_answer_text"": ""Foi asfixiado por gás lacrimogêneo dentro de uma viatura policial""
+		},
+		{
+			""question"": ""Qual informação sobre Genivaldo foi fornecida durante a abordagem policial no TEXTO 1?"",
+			""bloom_level"": ""Aplicação"",
+			""difficult_level"": ""Iniciante"",
+			""options"": [{
+					""A"": ""Ele estava dirigindo sem habilitação"",
+					""B"": ""Ele estava armado"",
+					""C"": ""Ele sofria de esquizofrenia e fazia tratamento há 20 anos"",
+					""D"": ""Ele era um fugitivo procurado"",
+					""E"": ""Ele não possuía documentos pessoais""
+				],
+			""correct_answer"": [""C""],
+			""correct_answer_letter"": ""C"",
+			""correct_answer_text"": ""Ele sofria de esquizofrenia e fazia tratamento há 20 anos""
+		},
+		{
+			""question"": ""De acordo com o TEXTO 1, por que a abordagem policial foi considerada desproporcional?"",
+			""bloom_level"": ""Análise"",
+			""difficult_level"": ""Avançado"",
+			""options"": [{
+					""A"": ""Genivaldo estava armado e representava perigo iminente"",
+					""B"": ""Os policiais não foram informados sobre a condição de saúde de Genivaldo"",
+					""C"": ""A abordagem ocorreu durante a noite"",
+					""D"": ""A abordagem foi realizada por policiais inexperientes"",
+					""E"": ""A abordagem foi violenta mesmo após serem informados sobre a condição de Genivaldo""
+				],
+			""correct_answer"": [""E""],
+			""correct_answer_letter"": ""E"",
+			""correct_answer_text"": ""A abordagem foi violenta mesmo após serem informados sobre a condição de Genivaldo""
+		}
+	]
+}","Expecting ',' delimiter: line 12 column 5 (char 468)"
+14,34,Psicologia,2022,"A aprovação da Lei da Reforma Psiquiátrica, Lei n. 10.216/2001, promoveu um redirecionamento do modelo assistencial em saúde mental no país, com o fechamento gradual de leitos em hospitais psiquiátricos. Entretanto, decorridos 21 anos desde então, esse modelo vem sofrendo com a escassez de investimentos, mesmo ante um contexto em que se avolumam problemas econômicos e sociais, que tendem a agravar o quadro de saúde mental das pessoas. Levantamento da ONG Conectas e do Centro Brasileiro de Análise e Planejamento (Cebrap) aponta que entre 2017 e 2020 houve significativo investimento público em comunidades terapêuticas, todavia, desde 2011, o valor necessário à abertura de um Centro de Atenção Psicossocial (CAPS) permanece inalterado.
+Disponível no site da Fiocruz. Acesso em: 26 jun. 2022 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""Qual foi o impacto da Lei da Reforma Psiquiátrica, Lei n. 10.216/2001, no modelo assistencial em saúde mental no Brasil?"",
+            ""bloom_level"": ""Compreensão"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Fechamento gradual de leitos em hospitais psiquiátricos."", ""B"": ""Aumento do número de hospitais psiquiátricos."", ""C"": ""Redução do investimento em saúde mental."", ""D"": ""Criação de mais hospitais psiquiátricos."", ""E"": ""Nenhuma mudança no modelo assistencial.""},
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Fechamento gradual de leitos em hospitais psiquiátricos.""
+        },
+        {
+            ""question"": ""O que aponta o levantamento da ONG Conectas e do Centro Brasileiro de Análise e Planejamento (Cebrap) em relação aos investimentos em saúde mental entre 2017 e 2020?"",
+            ""bloom_level"": ""Aplicação"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Aumento do investimento em hospitais psiquiátricos."", ""B"": ""Redução do investimento em comunidades terapêuticas."", ""C"": ""Significativo investimento público em comunidades terapêuticas."", ""D"": ""Diminuição do investimento em Centros de Atenção Psicossocial (CAPS)."", ""E"": ""Nenhuma mudança nos investimentos em saúde mental.""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Significativo investimento público em comunidades terapêuticas.""
+        },
+        {
+            ""question"": ""Por que o modelo assistencial em saúde mental no Brasil vem sofrendo com a escassez de investimentos, mesmo diante de problemas econômicos e sociais crescentes?"",
+            ""bloom_level"": ""Análise"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Devido à falta de profissionais qualificados na área da saúde mental."", ""B"": ""Por conta da falta de demanda por serviços de saúde mental."", ""C"": ""Devido à falta de conscientização da população sobre saúde mental."", ""D"": ""Por conta da falta de priorização política e de investimentos adequados."", ""E"": ""Devido à falta de leis específicas que regulamentem os investimentos em saúde mental.""},
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Por conta da falta de priorização política e de investimentos adequados.""
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 585)

@@ -1,0 +1,259 @@
+index,id,area,year,context,response_gpt_4,error
+0,53,HUMANITIES AND THEIR TECHNOLOGIES,2017,"
+A society is a more or less self-sufficient association of people who in their mutual relations recognize certain rules of conduct as obligatory and who, most of the time, act accordingly. A society is well-ordered not only when it is planned to promote the well-being of its members, but also when it is effectively regulated by a public conception of justice. That is, it is a society in which everyone accepts, and knows that others accept, the same principle of justice. 
+
+RAWLS, J. A Theory of Justice. São Paulo: Martins Fontes, 1997 (adapted).
+","{""questions"":[
+    {""question"": ""What is a key characteristic of a well-ordered society according to Rawls?"", 
+    ""bloom_level"": ""Remember"", 
+    ""difficult_level"": ""Beginner"", 
+    ""options"": [
+        {""A"": ""It is self-sufficient"", 
+        ""B"": ""It is effectively regulated by a public conception of justice"", 
+        ""C"": ""It is planned to promote the well-being of its members"", 
+        ""D"": ""It is a society in which everyone accepts the same principle of justice"", 
+        ""E"": ""All of the above""}, 
+    ""correct_answer"":[""B""], 
+    ""correct_answer_letter"": ""B"", 
+    ""correct_answer_text"": ""It is effectively regulated by a public conception of justice""},
+
+    {""question"": ""What does it mean when Rawls says a society is 'well-ordered'?"", 
+    ""bloom_level"": ""Understand"", 
+    ""difficult_level"": ""Intermediate"", 
+    ""options"": [
+        {""A"": ""The society has a clear hierarchy"", 
+        ""B"": ""The society is organized and has no chaos"", 
+        ""C"": ""The society is planned to promote the well-being of its members and is effectively regulated by a public conception of justice"", 
+        ""D"": ""The society has a strong economy"", 
+        ""E"": ""The society has a high standard of living""}, 
+    ""correct_answer"":[""C""], 
+    ""correct_answer_letter"": ""C"", 
+    ""correct_answer_text"": ""The society is planned to promote the well-being of its members and is effectively regulated by a public conception of justice""},
+
+    {""question"": ""How does the concept of justice contribute to the well-being of a society according to Rawls?"", 
+    ""bloom_level"": ""Analyze"", 
+    ""difficult_level"": ""Advanced"", 
+    ""options"": [
+        {""A"": ""It ensures that everyone has equal opportunities"", 
+        ""B"": ""It promotes a sense of fairness and equality among members"", 
+        ""C"": ""It helps in the effective regulation of the society"", 
+        ""D"": ""It ensures that everyone accepts the same principle of justice"", 
+        ""E"": ""All of the above""}, 
+    ""correct_answer"":[""E""], 
+    ""correct_answer_letter"": ""E"", 
+    ""correct_answer_text"": ""All of the above""}
+]}","Expecting ',' delimiter: line 11 column 21 (char 531)"
+1,60,HUMANITIES AND THEIR TECHNOLOGIES,2017,"
+Figure 1
+
+Figure 2
+
+SALGADO-LABOURIAU, M. L. Ecological history of the Earth.
+São Paulo: Edgard Blucher, 1994 (adapted).
+","Apologies for the confusion, but without the actual content or context from the figures and the book ""Ecological history of the Earth"" by M. L. Salgado-Labouriau, it's impossible to create specific multiple-choice questions. However, I can provide a general template based on the information given:
+
+```json
+{
+  ""questions"": [
+    {
+      ""question"": ""What is the main theme of the book 'Ecological history of the Earth' by M. L. Salgado-Labouriau?"",
+      ""bloom_level"": ""Remember"",
+      ""difficulty_level"": ""Beginner"",
+      ""options"": {
+        ""A"": ""The history of human civilization"",
+        ""B"": ""The ecological history of the Earth"",
+        ""C"": ""The history of ecological movements"",
+        ""D"": ""The history of Earth's geology"",
+        ""E"": ""The history of Earth's climate""
+      },
+      ""correct_answer"": [""B""],
+      ""correct_answer_letter"": ""B"",
+      ""correct_answer_text"": ""The ecological history of the Earth""
+    },
+    {
+      ""question"": ""What can be inferred from the figures provided in the context?"",
+      ""bloom_level"": ""Understand"",
+      ""difficulty_level"": ""Intermediate"",
+      ""options"": {
+        ""A"": ""The figures show the evolution of species"",
+        ""B"": ""The figures show the geological timeline of Earth"",
+        ""C"": ""The figures show the impact of human activities on Earth's ecology"",
+        ""D"": ""The figures show the climate changes over the years"",
+        ""E"": ""The figures show the biodiversity of Earth""
+      },
+      ""correct_answer"": [""C""],
+      ""correct_answer_letter"": ""C"",
+      ""correct_answer_text"": ""The figures show the impact of human activities on Earth's ecology""
+    },
+    {
+      ""question"": ""How does the book 'Ecological history of the Earth' by M. L. Salgado-Labouriau contribute to the field of humanities and their technologies?"",
+      ""bloom_level"": ""Evaluate"",
+      ""difficulty_level"": ""Advanced"",
+      ""options"": {
+        ""A"": ""It provides a historical perspective on Earth's ecology"",
+        ""B"": ""It provides a scientific perspective on Earth's ecology"",
+        ""C"": ""It provides a technological perspective on Earth's ecology"",
+        ""D"": ""It provides a sociological perspective on Earth's ecology"",
+        ""E"": ""It provides an anthropological perspective on Earth's ecology""
+      },
+      ""correct_answer"": [""A""],
+      ""correct_answer_letter"": ""A"",
+      ""correct_answer_text"": ""It provides a historical perspective on Earth's ecology""
+    }
+  ]
+}
+```
+
+Please replace the questions and answers with the actual content when you have it.",Expecting value: line 1 column 1 (char 0)
+2,68,HUMANITIES AND THEIR TECHNOLOGIES,2017,"
+A person finds himself forced by necessity to borrow money. He knows very well that he will not be able to pay, but also sees that they will not lend him anything if he does not promise firmly to pay within a specified period. Feels tempted to make the promise; but still has enough conscience to ask himself: is it not forbidden and contrary to duty to get out of trouble in this way? Assuming that he decides to do so, his maxim of action would be: when I think I am in financial trouble, I will borrow it and promise to pay it back, although I know that this will never happen.
+
+KANT, I. Groundwork of the Metaphysics of Morals. São Paulo: Abril Cultural, 1980.
+","{""questions"":[
+    {""question"": ""What is the main moral dilemma faced by the person in the context?"", 
+    ""bloom_level"": ""Understand"", 
+    ""difficult_level"": ""Beginner"", 
+    ""options"": [
+        {""A"": ""Whether to borrow money or not"", 
+        ""B"": ""Whether to promise to pay back the money knowing he can't"", 
+        ""C"": ""Whether to ask for more time to pay back"", 
+        ""D"": ""Whether to tell the truth about his financial situation"", 
+        ""E"": ""Whether to find another way to get money""}, 
+    ""correct_answer"":[""B""], 
+    ""correct_answer_letter"": ""B"", 
+    ""correct_answer_text"": ""Whether to promise to pay back the money knowing he can't""},
+
+    {""question"": ""What would be the person's maxim of action according to the context?"", 
+    ""bloom_level"": ""Remember"", 
+    ""difficult_level"": ""Intermediate"", 
+    ""options"": [
+        {""A"": ""To borrow money whenever in financial trouble"", 
+        ""B"": ""To promise to pay back the money even if he knows he can't"", 
+        ""C"": ""To avoid borrowing money as much as possible"", 
+        ""D"": ""To always tell the truth about his financial situation"", 
+        ""E"": ""To find other ways to get money when in financial trouble""}, 
+    ""correct_answer"":[""B""], 
+    ""correct_answer_letter"": ""B"", 
+    ""correct_answer_text"": ""To promise to pay back the money even if he knows he can't""},
+
+    {""question"": ""What can be inferred about the person's character from the context?"", 
+    ""bloom_level"": ""Analyze"", 
+    ""difficult_level"": ""Advanced"", 
+    ""options"": [
+        {""A"": ""The person is dishonest and deceitful"", 
+        ""B"": ""The person is desperate but has a sense of moral duty"", 
+        ""C"": ""The person is irresponsible with money"", 
+        ""D"": ""The person is manipulative and cunning"", 
+        ""E"": ""The person is naive and gullible""}, 
+    ""correct_answer"":[""B""], 
+    ""correct_answer_letter"": ""B"", 
+    ""correct_answer_text"": ""The person is desperate but has a sense of moral duty""}
+]}","Expecting ',' delimiter: line 11 column 21 (char 524)"
+3,70,HUMANITIES AND THEIR TECHNOLOGIES,2017,"
+
+Figure 1
+
+Available at: http://img0.cptec.inpe.br. Accessed on: Aug 25, 2014 (adapted).
+
+Figure 2
+
+Available at: http://imagens.climatempo.com.br. Accessed on: Aug 25, 2014 (adapted).
+","I'm sorry, but I can't assist with that. The context provided doesn't contain any specific information or details about the figures mentioned. The links provided are not accessible, and no additional information about the figures or the specific topic within Humanities and their Technologies is given. Please provide more details or context.",Expecting value: line 1 column 1 (char 0)
+4,80,HUMANITIES AND THEIR TECHNOLOGIES,2017,"
+Figure 1
+Figure 2
+
+Available at: https://pt.climate-data.org. Accessed on: May 12, 2017 (adapted).
+","Since the context provided does not include any specific information or data, I will create hypothetical questions based on the general theme of climate data and its relevance to humanities and their technologies.
+
+Here is the JSON:
+
+{
+""questions"":[
+    {
+        ""question"": ""What is the primary purpose of a climate data website?"",
+        ""bloom_level"": ""Remember"",
+        ""difficult_level"": ""Beginner"",
+        ""options"": {
+            ""A"": ""To provide weather forecasts"",
+            ""B"": ""To provide historical climate data"",
+            ""C"": ""To provide information on global warming"",
+            ""D"": ""To provide information on natural disasters"",
+            ""E"": ""To provide information on geographical features""
+        },
+        ""correct_answer"": [""B""],
+        ""correct_answer_letter"": ""B"",
+        ""correct_answer_text"": ""To provide historical climate data""
+    },
+    {
+        ""question"": ""How can climate data be used in the field of humanities?"",
+        ""bloom_level"": ""Understand"",
+        ""difficult_level"": ""Intermediate"",
+        ""options"": {
+            ""A"": ""To predict future climate trends"",
+            ""B"": ""To understand the impact of climate on historical events"",
+            ""C"": ""To design climate-resistant buildings"",
+            ""D"": ""To develop new technologies for weather forecasting"",
+            ""E"": ""To study the effect of climate on animal behavior""
+        },
+        ""correct_answer"": [""B""],
+        ""correct_answer_letter"": ""B"",
+        ""correct_answer_text"": ""To understand the impact of climate on historical events""
+    },
+    {
+        ""question"": ""What kind of technology would be most useful for analyzing large sets of climate data?"",
+        ""bloom_level"": ""Apply"",
+        ""difficult_level"": ""Advanced"",
+        ""options"": {
+            ""A"": ""Virtual reality"",
+            ""B"": ""Blockchain"",
+            ""C"": ""Artificial intelligence"",
+            ""D"": ""Quantum computing"",
+            ""E"": ""Nanotechnology""
+        },
+        ""correct_answer"": [""C""],
+        ""correct_answer_letter"": ""C"",
+        ""correct_answer_text"": ""Artificial intelligence""
+    }
+]
+}",Expecting value: line 1 column 1 (char 0)
+5,47,HUMANITIES AND THEIR TECHNOLOGIES,2023,"In southern Bahia, since the 18th century, there have been records of a type of agroforestry system. To this day, this system is a striking feature of the region's landscape, known as cabruca, which consists of cultivating cocoa under the canopy of the native forest. This cocoa cultivation system (thanks to the species' shade tolerance) is considered wildlife-friendly, as it excels in terms of biodiversity conservation when compared to other tropical plantations (monocultures of oil palm, rubber, or coffee), agriculture, or pastures.","{""questions"":[
+    {""question"": ""What is the agroforestry system known as cabruca?"", 
+    ""bloom_level"": ""Remember"", 
+    ""difficult_level"": ""Beginner"", 
+    ""options"": [
+        {""A"": ""Cultivating cocoa under the canopy of the native forest"", 
+        ""B"": ""Planting oil palm in the native forest"", 
+        ""C"": ""Growing rubber trees in the open field"", 
+        ""D"": ""Cultivating coffee in the shade of the native forest"", 
+        ""E"": ""Planting cocoa in the open field""}, 
+    ""correct_answer"":[""A""], 
+    ""correct_answer_letter"": ""A"", 
+    ""correct_answer_text"": ""Cultivating cocoa under the canopy of the native forest""},
+
+    {""question"": ""Why is the cabruca system considered wildlife-friendly?"", 
+    ""bloom_level"": ""Understand"", 
+    ""difficult_level"": ""Intermediate"", 
+    ""options"": [
+        {""A"": ""It allows for the growth of other plants"", 
+        ""B"": ""It excels in terms of biodiversity conservation"", 
+        ""C"": ""It uses less water than other systems"", 
+        ""D"": ""It produces more cocoa than other systems"", 
+        ""E"": ""It requires less labor than other systems""}, 
+    ""correct_answer"":[""B""], 
+    ""correct_answer_letter"": ""B"", 
+    ""correct_answer_text"": ""It excels in terms of biodiversity conservation""},
+
+    {""question"": ""How does the cabruca system compare to other tropical plantations in terms of biodiversity conservation?"", 
+    ""bloom_level"": ""Analyze"", 
+    ""difficult_level"": ""Advanced"", 
+    ""options"": [
+        {""A"": ""It is less effective"", 
+        ""B"": ""It is equally effective"", 
+        ""C"": ""It is more effective"", 
+        ""D"": ""It has not been compared"", 
+        ""E"": ""It is only effective for certain species""}, 
+    ""correct_answer"":[""C""], 
+    ""correct_answer_letter"": ""C"", 
+    ""correct_answer_text"": ""It is more effective""}
+]}","Expecting ',' delimiter: line 11 column 21 (char 498)"

@@ -1,0 +1,712 @@
+index,id,area,year,context,response_gpt,error
+0,116,CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS,2017,"
+O ferro é encontrado na natureza na forma de seus minérios, tais como a hematita (a-Fe2O3), a magnetita (Fe3O4)
+e a wustita (FeO). Na siderurgia, o ferro-gusa é obtido pela fusão de minérios de ferro em altos fornos em condições 
+adequadas. Uma das etapas nesse processo é a formação de monóxido de carbono. O CO (gasoso) é utilizado para 
+reduzir o FeO (sólido), conforme a equação química:
+
+<math xmlns=""http://www.w3.org/1998/Math/MathML""><mtext>FeO</mtext><mfenced><mtext>s</mtext></mfenced><mo>+</mo><mtext>CO</mtext><mfenced><mtext>g</mtext></mfenced><mo>&#x2192;</mo><mtext>Fe</mtext><mfenced><mi>s</mi></mfenced><mo>+</mo><msub><mtext>CO</mtext><mn>2</mn></msub><mfenced><mtext>g</mtext></mfenced></math>
+
+Considere as seguintes equações termoquímicas:
+
+<math xmlns=""http://www.w3.org/1998/Math/MathML""><msub><mtext>Fe</mtext><mn>2</mn></msub><msub><mtext>O</mtext><mn>3</mn></msub><mfenced><mtext>s</mtext></mfenced><mo>+</mo><mn>3</mn><mtext>CO</mtext><mfenced><mtext>g</mtext></mfenced><mo>&#x2192;</mo><mn>2</mn><mtext>Fe</mtext><mfenced><mtext>s</mtext></mfenced><mo>+</mo><mn>3</mn><msub><mtext>CO</mtext><mn>2</mn></msub><mfenced><mtext>g</mtext></mfenced></math>
+
+<math xmlns=""http://www.w3.org/1998/Math/MathML""><msub><mi>&#x394;</mi><mi>r</mi></msub><msup><mi>H</mi><mi>&#x3B8;</mi></msup><mo>=</mo><mo>-</mo><mn>25</mn><mtext>kJ/mol</mtext></math> de <math xmlns=""http://www.w3.org/1998/Math/MathML""><msub><mtext>Fe</mtext><mn>2</mn></msub><msub><mtext>O</mtext><mn>3</mn></msub></math> 
+ 
+<math xmlns=""http://www.w3.org/1998/Math/MathML""><mn>3</mn><mtext>FeO</mtext><mfenced><mtext>s</mtext></mfenced><mo>+</mo><msub><mtext>CO</mtext><mi>2</mi></msub><mfenced><mtext>g</mtext></mfenced><mo>&#x2192;</mo><msub><mtext>Fe</mtext><mn>3</mn></msub><msub><mtext>O</mtext><mi>4</mi></msub><mfenced><mtext>s</mtext></mfenced><mo>+</mo><mtext>CO</mtext><mfenced><mtext>g</mtext></mfenced></math>
+
+<math xmlns=""http://www.w3.org/1998/Math/MathML""><msub><mi>&#x394;</mi><mi>r</mi></msub><msup><mi>H</mi><mi>&#x3B8;</mi></msup><mo>=</mo><mo>-</mo><mn>36</mn><mtext>kJ/mol</mtext></math> de <math xmlns=""http://www.w3.org/1998/Math/MathML""><msub><mtext>CO</mtext><mi>2</mi></msub></math>
+ 
+<math xmlns=""http://www.w3.org/1998/Math/MathML""><mn>2</mn><msub><mtext>Fe</mtext><mi>3</mi></msub><msub><mtext>O</mtext><mn>4</mn></msub><mfenced><mtext>s</mtext></mfenced><mo>+</mo><msub><mtext>CO</mtext><mn>2</mn></msub><mfenced><mtext>g</mtext></mfenced><mo>&#x2192;</mo><mn>3</mn><msub><mtext>Fe</mtext><mn>2</mn></msub><msub><mtext>O</mtext><mn>3</mn></msub><mfenced><mtext>s</mtext></mfenced><mo>+</mo><mtext>CO</mtext><mfenced><mtext>g</mtext></mfenced></math>  
+
+<math xmlns=""http://www.w3.org/1998/Math/MathML""><msub><mi>&#x394;</mi><mi>r</mi></msub><msup><mi>H</mi><mi>&#x3B8;</mi></msup><mo>=</mo><mn>47</mn><mtext>kJ/mol</mtext></math> de <math xmlns=""http://www.w3.org/1998/Math/MathML""><msub><mtext>CO</mtext><mn>2</mn></msub></math>
+","{
+    ""questions"": [
+        {
+            ""question"": ""Qual é a equação química que representa a redução do FeO pelo CO?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": {
+                ""A"": ""Fe2O3 + CO -> Fe + CO2"",
+                ""B"": ""Fe3O4 + CO -> FeO + CO2"",
+                ""C"": ""FeO + CO -> Fe + CO2"",
+                ""D"": ""Fe + CO2 -> FeO + CO"",
+                ""E"": ""Fe3O4 + CO2 -> FeO + CO""
+            },
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""FeO + CO -> Fe + CO2""
+        },
+        {
+            ""question"": ""Qual é a variação de entalpia para a reação 3FeO(s) + CO2(g) -> Fe3O4(s) + CO(g)?"",
+            ""bloom_level"": ""Aplicar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": {
+                ""A"": ""-36 kJ/mol"",
+                ""B"": ""-25 kJ/mol"",
+                ""C"": ""36 kJ/mol"",
+                ""D"": ""25 kJ/mol"",
+                ""E"": ""47 kJ/mol""
+            },
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""-36 kJ",Unterminated string starting at: line 31 column 36 (char 1160)
+1,13,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2017,"
+Garcia  tinha-se  chegado  ao  cadáver,  levantara  o 
+lenço  e  contemplara  por  alguns  instantes  as  feições 
+defuntas. Depois, como se a morte espiritualizasse tudo,
+inclinou-se e beijou-a na testa. Foi nesse momento que 
+Fortunato  chegou  à  porta.  Estacou  assombrado;  não 
+podia ser o beijo da amizade, podia ser o epílogo de um 
+livro adúltero [...].
+
+Entretanto, Garcia inclinou-se ainda para beijar outra 
+vez o cadáver, mas então não pôde mais. O beijo rebentou 
+em soluços, e os olhos não puderam conter as lágrimas, 
+que  vieram  em  borbotões,  lágrimas  de  amor  calado,  e 
+irremediável desespero. Fortunato, à porta, onde ficara, 
+saboreou  tranquilo  essa  explosão  de  dor  moral  que  foi 
+longa, muito longa, deliciosamente longa.
+
+ASSIS, M. A causa secreta. Disponível em: www.dominiopublico.gov.br. 
+Acesso em: 9 out. 2015.
+","{
+    ""questions"": [
+        {
+            ""question"": ""Qual a ação realizada por Garcia ao se aproximar do cadáver pela primeira vez?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Contemplar as feições defuntas"", ""B"": ""Beijar a testa do cadáver"", ""C"": ""Chorar em silêncio"", ""D"": ""Gritar de desespero"", ""E"": ""Ignorar o cadáver""},
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Contemplar as feições defuntas""
+        },
+        {
+            ""question"": ""O que Fortunato sentiu ao presenciar a cena do beijo de Garcia no cadáver?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Alegria"", ""B"": ""Tristeza"", ""C"": ""Assombro"", ""D"": ""Raiva"", ""E"": ""Desprezo""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Assombro""
+        },
+        {
+            ""question"": ""Por que Garcia não conseguiu completar o segundo beijo no cadáver?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Porque Fortunato o impediu"", ""B"": ""Porque o cadáver se moveu"", ""C"": ""Porque começou a chorar"", ""D"": ""Porque desmaiou"", ""E"": ""Porque percebeu que era um erro""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Porque começou a chorar""
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 428)
+2,18,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2017,"
+A língua tupi no Brasil
+
+Há  300  anos,  morar  na  vila  de  São  Paulo  de 
+Piratininga  (peixe  seco,  em  tupi)  era  quase  sinônimo 
+de  falar  língua  de  índio.  Em  cada  cinco  habitantes 
+da  cidade,  só  dois  conheciam  o  português.  Por  isso, 
+em  1698,  o  governador  da  província,  Artur  de  Sá  e 
+Meneses, implorou a Portugal que só mandasse padres 
+que soubessem “a língua geral dos índios”, pois “aquela 
+gente não se explica em outro idioma”.
+
+Derivado  do  dialeto  de  São  Vicente,  o  tupi  de 
+São Paulo se desenvolveu e se espalhou no século XVII, 
+graças ao isolamento geográfico da cidade e à atividade 
+pouco  cristã  dos  mamelucos  paulistas:  as  bandeiras, 
+expedições  ao  sertão  em  busca  de  escravos  índios. 
+Muitos bandeirantes nem sequer falavam o português 
+ou  se  expressavam  mal.  Domingos  Jorge  Velho,  o 
+paulista  que  destruiu  o  Quilombo  dos  Palmares  em 
+1694, foi descrito pelo bispo de Pernambuco como “um 
+bárbaro que nem falar sabe”. Em suas andanças, essa 
+gente batizou lugares como Avanhandava (lugar onde o 
+índio corre), Pindamonhangaba (lugar de fazer anzol) e 
+Itu (cachoeira). E acabou inventando uma nova língua.
+“Os  escravos  dos  bandeirantes  vinham  de  mais  de 
+100 tribos diferentes”, conta o historiador e antropólogo 
+John Monteiro, da Universidade Estadual de Campinas. 
+“Isso  mudou  o  tupi  paulista,  que,  além  da  influência  do 
+português,  ainda  recebia  palavras  de  outros  idiomas.” 
+O resultado da mistura ficou conhecido como língua geral 
+do sul, uma espécie de tupi facilitado.
+
+ÂNGELO, C. Disponível em: http://super.abril.com.br. Acesso em: 8 ago. 2012 (adaptado).
+","{
+  ""questions"": [
+    {
+      ""question"": ""Qual era o principal motivo pelo qual o governador da província de São Paulo, Artur de Sá e Meneses, solicitou a Portugal que enviasse apenas padres que soubessem a língua geral dos índios?"",
+      ""bloom_level"": ""Compreender"",
+      ""difficult_level"": ""Iniciante"",
+      ""options"": [
+        {""A"": ""Para facilitar a comunicação com os bandeirantes.""},
+        {""B"": ""Porque a população de São Paulo de Piratininga não falava português.""},
+        {""C"": ""Para promover a língua tupi como idioma oficial da região.""},
+        {""D"": ""Devido à influência do isolamento geográfico da cidade.""},
+        {""E"": ""Para evitar conflitos linguísticos com os povos indígenas.""},
+      ],
+      ""correct_answer"": [""B""],
+      ""correct_answer_letter"": ""B"",
+      ""correct_answer_text"": ""Porque a população de São Paulo de Piratininga não falava português.""
+    },
+    {
+      ""question"": ""Qual foi o resultado da mistura do tupi paulista com palavras de outros idiomas, de acordo com o historiador John Monteiro?"",
+      ""bloom_level"": ""Aplicar"",
+      ""difficult_level"": ""Intermediário"",
+      ""options"": [
+        {""A"": ""A criação de uma nova língua chamada tupi facilitado.""},
+        {""B"": ""A extinção do dialeto de São Vicente.""},
+        {""C"": ""A influência do português na língua geral do sul.""},
+        {""D"": ""A formação de uma língua universal entre os bandeirantes.""},
+        {""E"": ""A preservação da língua tupi sem alterações significativas.""},
+      ],
+      ""correct_answer"": [""A""],
+      ""correct_answer_letter"": ""A"",
+      ""correct_answer_text"": ""A criação de uma nova língua chamada tupi facilitado.""
+    },
+    {
+      ""question"": ""Por que a mistura de palavras de outros idiomas no tupi paulista foi importante para a formação da língua geral do sul?"",
+      ""bloom_level"": ""Analisar"",
+      ""difficult_level"": ""Avançado"",
+      ""options"": [
+        {""A"": ""Para dificultar a comunicação entre os bandeirantes e os povos indígenas.""},
+        {""B"": ""Para enriquecer o vocabulário do tupi paulista com novos termos.""},
+        {""C"": ""Para padronizar a língua falada pelos bandeirantes durante as expedições.""},
+        {""D"": ""Para facilitar a compreensão entre os escravos de diferentes tribos.""},
+        {""E"": ""Para criar uma língua mais complexa e de difícil compreensão.""},
+      ],
+      ""correct_answer"": [""D""],
+      ""correct_answer_letter"": ""D"",
+      ""correct_answer_text"": ""Para facilitar a compreensão entre os escravos de diferentes tribos.""
+    }
+  ]
+}",Expecting value: line 13 column 7 (char 718)
+3,53,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2017,"
+Uma  sociedade  é  uma  associação  mais  ou  menos 
+autossuficiente de pessoas que em suas relações mútuas 
+reconhecem certas regras de conduta como obrigatórias 
+e que, na maioria das vezes, agem de acordo com elas. 
+Uma  sociedade  é  bem  ordenada  não  apenas  quando 
+está planejada para promover o bem de seus membros, 
+mas  quando  é  também  efetivamente  regulada  por  uma 
+concepção  pública  de  justiça.  Isto  é,  trata-se  de  uma 
+sociedade na qual todos aceitam, e sabem que os outros 
+aceitam, o mesmo princípio de justiça. 
+
+RAWLS, J. Uma teoria da justiça. São Paulo: Martins Fontes, 1997 (adaptado).
+","{
+    ""questions"": [
+        {
+            ""question"": ""Qual é a definição de uma sociedade, de acordo com o texto apresentado?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Uma associação de pessoas autossuficientes que não reconhecem regras de conduta."", ""B"": ""Uma associação de pessoas que não agem de acordo com regras obrigatórias."", ""C"": ""Uma associação de pessoas que reconhecem regras de conduta como obrigatórias e agem de acordo com elas."", ""D"": ""Uma associação de pessoas que não se preocupam com a justiça."", ""E"": ""Uma associação de pessoas que não aceitam regras de conduta.""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Uma associação de pessoas que reconhecem regras de conduta como obrigatórias e agem de acordo com elas.""
+        },
+        {
+            ""question"": ""Por que uma sociedade é considerada bem ordenada, de acordo com o texto?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Porque promove o bem de apenas alguns de seus membros."", ""B"": ""Porque não possui regras de conduta obrigatórias."", ""C"": ""Porque é regulada por uma concepção pública de justiça e todos aceitam o mesmo princípio de justiça."", ""D"": ""Porque não se preocupa com a autossuficiência de seus membros."", ""E"": ""Porque não reconhece a importância da ordem social.""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Porque é regulada por uma concepção pública de justiça e todos aceitam o mesmo princípio de justiça.""
+        },
+        {
+            ""question"": ""Qual é a principal característica de uma sociedade bem ordenada, de acordo com o texto?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""A imposição de regras sem consenso da maioria."", ""B"": ""A desigualdade na aplicação das regras de conduta."", ""C"": ""A falta de aceitação mútua dos princípios de justiça."", ""D"": ""A efetiva regulação por uma concepção pública de justiça aceita por todos."", ""E"": ""A ausência de regras de conduta na sociedade.""},
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""A efetiva regulação por uma concepção pública de justiça aceita por todos.""
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 689)
+4,55,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2017,"
+Uma  conversação  de  tal  natureza  transforma  o 
+ouvinte;  o  contato  de  Sócrates  paralisa  e  embaraça; 
+leva a refletir sobre si mesmo, a imprimir à atenção uma 
+direção incomum: os temperamentais, como Alcibíades, 
+sabem  que  encontrarão  junto  dele  todo  o  bem  de  que 
+são capazes, mas fogem porque receiam essa influência 
+poderosa,  que  os  leva  a  se  censurarem.  É  sobretudo 
+a  esses  jovens,  muitos  quase  crianças,  que  ele  tenta 
+imprimir sua orientação.
+
+BRÉHIER, E. História da filosofia. São Paulo: Mestre Jou, 1977.
+","{
+    ""questions"": [
+        {
+            ""question"": ""Qual o principal efeito da conversação de Sócrates descrita no texto?"",
+            ""bloom_level"": ""Compreensão"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Paralisar e embaraçar o ouvinte.""},
+                {""B"": ""Levar o ouvinte a refletir sobre si mesmo.""},
+                {""C"": ""Impressar à atenção uma direção incomum.""},
+                {""D"": ""Fazer com que os temperamentais fujam.""},
+                {""E"": ""Censurar os jovens e crianças.""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Levar o ouvinte a refletir sobre si mesmo.""
+        },
+        {
+            ""question"": ""Por que os temperamentais, como Alcibíades, fogem do contato de Sócrates?"",
+            ""bloom_level"": ""Análise"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Porque Sócrates os paralisa e embaraça.""},
+                {""B"": ""Porque temem a influência poderosa que os leva a se censurarem.""},
+                {""C"": ""Porque não encontram todo o bem de que são capazes junto a Sócrates.""},
+                {""D"": ""Porque não conseguem refletir sobre si mesmos na presença de Sócrates.""},
+                {""E"": ""Porque não gostam da orientação que Sócrates tenta imprimir neles.""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Porque temem a influência poderosa que os leva a se censurarem.""
+        },
+        {
+            ""question"": ""Qual é o principal objetivo de Sócrates ao tentar imprimir sua orientação aos jovens e crianças?"",
+            ""bloom_level"": ""Criação"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Fazer com que eles se censurem constantemente.""},
+                {""B"": ""Paralisá-los e embaraçá-los.""},
+                {""C"": ""Levá-los a refletir sobre si mesmos de forma profunda.""},
+                {""D"": ""Impressar à atenção uma direção comum.""},
+                {""E"": ""Ajudá-los a encontrar todo o bem de que são capazes.""},
+            ],
+            ""correct_answer"": [""E""],
+            ""correct_answer_letter"": ""E"",
+            ""correct_answer_text"": ""Ajudá-los a encontrar todo o bem de que são capazes.""
+        }
+    ]
+}",Expecting value: line 13 column 13 (char 568)
+5,68,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2017,"
+Uma pessoa vê-se forçada pela necessidade a pedir 
+dinheiro  emprestado.  Sabe  muito  bem  que  não  poderá 
+pagar, mas vê também que não lhe emprestarão nada se 
+não prometer fi rmemente pagar em prazo determinado. 
+Sente a tentação de fazer a promessa; mas tem ainda 
+consciência bastante para perguntar a si mesma: não é 
+proibido  e  contrário  ao  dever  livrar-se  de  apuros  desta 
+maneira?  Admitindo  que  se  decida  a  fazê-lo,  a  sua 
+máxima  de  ação  seria:  quando  julgo  estar  em  apuros 
+de dinheiro, vou pedi-lo emprestado e prometo pagá-lo, 
+embora saiba que tal nunca sucederá.
+
+KANT, I. Fundamentação da metafísica dos costumes. São Paulo: Abril Cultural, 1980.
+","{
+    ""questions"": [
+        {
+            ""question"": ""De acordo com o contexto apresentado, qual é a ação que a pessoa decide tomar ao se ver forçada a pedir dinheiro emprestado, mesmo sabendo que não poderá pagar?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Não pedir dinheiro emprestado""},
+                {""B"": ""Pedir dinheiro emprestado e prometer pagar, mesmo sabendo que não conseguirá""},
+                {""C"": ""Ignorar a situação e não fazer nada a respeito""},
+                {""D"": ""Pedir dinheiro emprestado sem prometer pagar""},
+                {""E"": ""Roubar o dinheiro ao invés de pedir emprestado""}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Pedir dinheiro emprestado e prometer pagar, mesmo sabendo que não conseguirá""
+        },
+        {
+            ""question"": ""Qual é a reflexão que a pessoa faz antes de decidir pedir dinheiro emprestado, questionando se é proibido e contrário ao dever livrar-se de apuros desta maneira?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Refletir sobre a possibilidade de encontrar outra solução para seus problemas financeiros""},
+                {""B"": ""Questionar se é ético prometer pagar sabendo que não poderá cumprir""},
+                {""C"": ""Decidir não pedir dinheiro emprestado para evitar conflitos""},
+                {""D"": ""Ignorar a questão ética e agir impulsivamente""},
+                {""E"": ""Consultar um especialista financeiro antes de tomar qualquer decisão""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Questionar se é ético prometer pagar sabendo que não poderá cumprir""
+        },
+        {
+            ""question"": ""Qual é a máxima de ação que a pessoa decide adotar ao enfrentar a tentação de fazer uma promessa de pagamento que sabe que não poderá cumprir?"",
+            ""bloom_level"": ""Criar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Evitar pedir dinheiro emprestado a qualquer custo""},
+                {""B"": ""Prometer pagar mesmo sabendo que não conseguirá e buscar alternativas para honrar a dívida""},
+                {""C"": ""Mentir sobre a situação financeira para conseguir o empréstimo desejado""},
+                {""D"": ""Recusar-se a fazer qualquer tipo de promessa de pagamento""},
+                {""E"": ""Aceitar a situação e não se preocupar com as consequências futuras""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Prometer pagar mesmo sabendo que não conseguirá e buscar alternativas para honrar a dívida""
+        }
+    ]
+}","Expecting ',' delimiter: line 28 column 13 (char 1708)"
+6,71,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2017,"
+A grande maioria dos países ocidentais democráticos 
+adotou  o  Tribunal  Constitucional  como  mecanismo  de 
+controle  dos  demais  poderes. A  inclusão  dos  Tribunais 
+no  cenário  político  implicou  alterações  no  cálculo  para 
+a  implementação  de  políticas  públicas.  O  governo, 
+além de negociar seu plano político com o Parlamento, 
+teve  que  se  preocupar  em  não  infringir  a  Constituição. 
+Essa  nova  arquitetura 
+institucional  propiciou  o 
+desenvolvimento de um ambiente político que viabilizou a 
+participação do Judiciário nos processos decisórios.
+
+CARVALHO, E. R. Revista de Sociologia e Política, n. 23, nov. 2004 (adaptado).
+","{
+    ""questions"": [
+        {
+            ""question"": ""Qual foi o impacto da inclusão dos Tribunais Constitucionais no cenário político dos países ocidentais democráticos?"",
+            ""bloom_level"": ""Compreensão"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Diminuição do poder do Parlamento"", ""B"": ""Aumento da influência do Executivo"", ""C"": ""Alterações no cálculo para implementação de políticas públicas"", ""D"": ""Redução da participação do Judiciário nos processos decisórios"", ""E"": ""Fortalecimento dos partidos políticos""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Alterações no cálculo para implementação de políticas públicas""
+        },
+        {
+            ""question"": ""Qual é o papel do Tribunal Constitucional em relação ao governo e ao Parlamento?"",
+            ""bloom_level"": ""Aplicação"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Negociar planos políticos com o Parlamento"", ""B"": ""Infringir a Constituição deliberadamente"", ""C"": ""Controlar os demais poderes"", ""D"": ""Participar ativamente dos processos decisórios"", ""E"": ""Garantir a constitucionalidade das ações do governo""},
+            ],
+            ""correct_answer"": [""E""],
+            ""correct_answer_letter"": ""E"",
+            ""correct_answer_text"": ""Garantir a constitucionalidade das ações do governo""
+        },
+        {
+            ""question"": ""Por que a inclusão dos Tribunais Constitucionais propiciou o desenvolvimento de um ambiente político que viabilizou a participação do Judiciário nos processos decisórios?"",
+            ""bloom_level"": ""Análise"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Redução do poder do Judiciário"", ""B"": ""Aumento da influência do Executivo"", ""C"": ""Fortalecimento dos partidos políticos"", ""D"": ""Garantia da constitucionalidade das ações do governo"", ""E"": ""Controle dos demais poderes""},
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Garantia da constitucionalidade das ações do governo""
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 593)
+7,8,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2023,"## Carta aberta à população brasileira
+Prezados Cidadãos e Cidadãs,
+O envelhecimento populacional é um fenômeno mundial. Infelizmente, nosso país ainda não está preparado para atender às demandas dessa população.
+Este é o retrato da saúde pública no Brasil, que, apesar dos indiscutíveis avanços, apresenta um cenário de deficiências e falta de integração em todos os níveis de atenção à saúde: primária (atendimento deficiente nas unidades de saúde da atenção básica), secundária (carência de centros de referência com atendimento por especialistas) e terciária (atendimento hospitalar com abordagem ao idoso centrada na doença), ou seja, não há, na prática, uma rede de atenção à saúde do idoso.
+Diante desse cenário, a Sociedade Brasileira de Geriatria e Gerontologia (SBGG) vem a público manifestar suas preocupações com o presente e o futuro dos idosos no Brasil. É preciso garantir a saúde como direito universal.
+Esperamos que tanto nossos atuais quanto os futuros governantes e legisladores reflitam sobre a necessidade de investir na saúde e na qualidade de vida associada ao envelhecimento.Dignidade à saúde do idoso!
+Rio de Janeiro, 15 de setembro de 2014. []","{
+    ""questions"": [
+        {
+            ""question"": ""Qual é o principal problema apontado pela Sociedade Brasileira de Geriatria e Gerontologia em relação à saúde do idoso no Brasil?"",
+            ""bloom_level"": ""Compreensão"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Falta de integração nos níveis de atenção à saúde"",},
+                {""B"": ""Excesso de investimento na saúde do idoso"",},
+                {""C"": ""Falta de tecnologia nas unidades de saúde"",},
+                {""D"": ""Falta de atendimento para jovens"",},
+                {""E"": ""Excesso de centros de referência para idosos"",}
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Falta de integração nos níveis de atenção à saúde""
+        },
+        {
+            ""question"": ""O que a Sociedade Brasileira de Geriatria e Gerontologia espera que os governantes e legisladores façam em relação à saúde do idoso?"",
+            ""bloom_level"": ""Aplicação"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Ignorar a situação atual"",},
+                {""B"": ""Investir na saúde e qualidade de vida dos idosos"",},
+                {""C"": ""Reduzir o acesso dos idosos aos serviços de saúde"",},
+                {""D"": ""Eliminar os centros de referência para idosos"",},
+                {""E"": ""Aumentar a burocracia nos serviços de saúde"",}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Investir na saúde e qualidade de vida dos idosos""
+        },
+        {
+            ""question"": ""Qual é a data mencionada no final da carta aberta à população brasileira?"",
+            ""bloom_level"": ""Lembrar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""10 de agosto de 2014"",},
+                {""B"": ""15 de setembro de 2014"",},
+                {""C"": ""20 de julho de 2014"",},
+                {""D"": ""30 de setembro de 2014"",},
+                {""E"": ""5 de outubro de 2014"",}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""15 de setembro de 2014""
+        }
+    ]
+}",Expecting property name enclosed in double quotes: line 8 column 75 (char 373)
+8,10,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2023,"A neozelandesa Laurel Hubbard fez história nos Jogos Olímpicos. Apesar de ter ficado de fora da disputa por medalhas, a levantadora de peso deixou sua marca na edição de Tóquio por ser a primeira mulher abertamente transgênero a participar de uma competição olímpica. No início da carreira, na década de 1990, a neozelandesa participava de disputas na categoria masculina. Em 2001, aos 23 anos, ela se afastou da atividade. “A pressão de tentar me encaixar em um mundo que talvez não tenha sido feito para pessoas como eu se tornou um fardo muito grande para suportar.” Em 2012, Laurel começou sua transição de gênero por meio de terapias hormonais e, em 2013, declarou abertamente ser uma mulher trans. Para o Comitê Olímpico Internacional, a participação de mulheres trans nos Jogos é permitida caso o nível de testosterona, hormônio que aumenta a massa muscular, esteja abaixo de 10 nanomols por litro por pelo menos 12 meses. []","{
+    ""questions"": [
+        {
+            ""question"": ""Qual é o principal marco alcançado por Laurel Hubbard nos Jogos Olímpicos de Tóquio?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Ser a primeira mulher a ganhar uma medalha de ouro como levantadora de peso"", ""B"": ""Ser a primeira mulher a participar de uma competição olímpica como transgênero"", ""C"": ""Ser a primeira mulher a competir em mais de uma modalidade olímpica"", ""D"": ""Ser a primeira mulher a quebrar um recorde mundial de levantamento de peso"", ""E"": ""Ser a primeira mulher a representar a Nova Zelândia nos Jogos Olímpicos""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Ser a primeira mulher a participar de uma competição olímpica como transgênero.""
+        },
+        {
+            ""question"": ""Em que ano Laurel Hubbard começou sua transição de gênero?"",
+            ""bloom_level"": ""Lembrar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""2001"", ""B"": ""2012"", ""C"": ""2013"", ""D"": ""1990"", ""E"": ""2005""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""2012.""
+        },
+        {
+            ""question"": ""Qual é o critério estabelecido pelo Comitê Olímpico Internacional para a participação de mulheres trans nos Jogos?"",
+            ""bloom_level"": ""Aplicar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Idade mínima de 30 anos"", ""B"": ""Altura mínima de 1,80m"", ""C"": ""Peso máximo de 100kg"", ""D"": ""Nível de testosterona abaixo de 10 nanomols por litro por pelo menos 12 meses"", ""E"": ""Participação em competições anteriores""},
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Nível de testosterona abaixo de 10 nanomols por litro por pelo menos 12 meses.""
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 694)
+9,11,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2023,"“Ganhei 25 medalhas em mundiais, sete em Jogos Olímpicos, e sou uma sobrevivente de abuso sexual.” Foi assim que Simone Biles se apresentou ao comitê do Senado norte-americano que investiga as supostas falhas do FBI no caso Larry Nassar. Biles e outras três atletas, vítimas dos abusos do ex-médico da equipe de ginástica feminina dos EUA, exigiram que os agentes da investigação sejam processados por falta de ação prévia contra Nassar, agora preso. Biles esclareceu que culpa Larry Nassar e “todo o sistema que o permitiu e o perpetrou”, acusando a Federação de Ginástica e o Comitê Olímpico dos Estados Unidos de saberem “muito antes” que ela havia sofrido abusos. A melhor ginasta do mundo é um ícone. Nos Jogos Olímpicos de Tóquio, uma lesão psicológica a impediu de competir como previa. No entanto, ela chegou ao topo como uma líder no trabalho de acabar com o preconceito com os problemas de saúde mental. “Não quero que nenhum outro atleta olímpico sofra o horror que eu e outras centenas suportamos e continuamos suportando até hoje”, afirmou. []","{
+    ""questions"": [
+        {
+            ""question"": ""Qual foi a ação exigida por Simone Biles e outras atletas em relação aos agentes da investigação no caso Larry Nassar?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Serem premiados por seu trabalho"", ""B"": ""Serem promovidos a cargos mais altos"", ""C"": ""Serem processados por falta de ação prévia"", ""D"": ""Serem condecorados pela Federação de Ginástica"", ""E"": ""Serem recompensados financeiramente""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Serem processados por falta de ação prévia""
+        },
+        {
+            ""question"": ""O que Simone Biles esclareceu ser a causa dos abusos que sofreu?"",
+            ""bloom_level"": ""Aplicar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""A falta de apoio da família"", ""B"": ""A pressão dos treinadores"", ""C"": ""Larry Nassar e todo o sistema que o permitiu e o perpetrou"", ""D"": ""Problemas de saúde mental"", ""E"": ""A falta de preparo físico""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Larry Nassar e todo o sistema que o permitiu e o perpetrou""
+        },
+        {
+            ""question"": ""Qual foi o motivo que impediu Simone Biles de competir como previsto nos Jogos Olímpicos de Tóquio?"",
+            ""bloom_level"": ""Lembrar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Lesão física"", ""B"": ""Problemas familiares"", ""C"": ""Lesão psicológica"", ""D"": ""Falta de patrocínio"", ""E"": ""Desinteresse no esporte""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Lesão psicológica""
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 554)
+10,43,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2023,"## De quem é esta língua?
+José Eduardo Agualusa
+Uma pequena editora brasileira, a Urutau, acaba de lançar em Lisboa uma “antologia antirracista de poetas estrangeiros em Portugal”, com o título Volta para a tua terra.
+O livro denuncia as diversas formas de racismo a que os imigrantes estão sujeitos. Alguns dos poetas brasileiros antologiados queixam-se do desdém com que um grande número de portugueses acolhe o português brasileiro. É uma queixa frequente.
+“Aqui em Portugal eles dizem / — eles dizem — / que nosso português é errado, que nós não falamos português”, escreve a poetisa paulista Maria Giulia Pinheiro, para concluir: “Se a sua linguagem, a lusitana, / ainda conserva a palavra da opressão / ela não é a mais bonita do mundo./ Ela é uma das mais violentas”. []","{
+    ""questions"": [
+        {
+            ""question"": ""Qual é o tema principal da antologia 'Volta para a tua terra'?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Racismo contra imigrantes"", ""B"": ""Culinária brasileira"", ""C"": ""Turismo em Portugal"", ""D"": ""Literatura infantil"", ""E"": ""História da colonização""},
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Racismo contra imigrantes""
+        },
+        {
+            ""question"": ""Quem é a poetisa que critica a forma como os portugueses acolhem o português brasileiro?"",
+            ""bloom_level"": ""Lembrar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Maria Giulia Pinheiro"", ""B"": ""José Eduardo Agualusa"", ""C"": ""Urutau"", ""D"": ""Lisboa"", ""E"": ""Paulista""},
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Maria Giulia Pinheiro""
+        },
+        {
+            ""question"": ""Qual é a crítica feita pela poetisa Maria Giulia Pinheiro em relação à linguagem lusitana?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""É a mais bonita do mundo"", ""B"": ""É a mais antiga do mundo"", ""C"": ""Conserva a palavra da opressão"", ""D"": ""É a mais falada no mundo"", ""E"": ""É a mais pacífica do mundo""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Conserva a palavra da opressão""
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 413)
+11,62,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2023,"## A Guerra da Palestina
+Escrito durante a Primeira Guerra Mundial, o seguinte trecho faz parte da carta enviada pelo secretário do exterior britânico, Sir Arthur James Balfour, ao banqueiro Lord Rotschild, presidente da Liga Sionista, em 2 de novembro de 1917, a carta ficou conhecida como Declaração Balfour:
+“O governo de Sua Majestade vê com aprovação o estabelecimento na Palestina de um lar nacional para o povo judeu, e fará todos os esforços para facilitar tal objetivo. Nada será feito que possa prejudicar os direitos civis e religiosos das comunidades não judaicas na Palestina.” []","{
+    ""questions"": [
+        {
+            ""question"": ""Qual foi o teor da Declaração Balfour enviada por Sir Arthur James Balfour ao banqueiro Lord Rotschild em 1917?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Estabelecimento de um lar nacional para o povo judeu na Palestina."", ""B"": ""Estabelecimento de um lar nacional para o povo palestino na Inglaterra."", ""C"": ""Estabelecimento de um lar nacional para o povo judeu na Europa."", ""D"": ""Estabelecimento de um lar nacional para o povo judeu na África."", ""E"": ""Estabelecimento de um lar nacional para o povo judeu na Ásia.""},
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Estabelecimento de um lar nacional para o povo judeu na Palestina.""
+        },
+        {
+            ""question"": ""Qual era a garantia dada na Declaração Balfour em relação aos direitos das comunidades não judaicas na Palestina?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Seriam removidas da Palestina."", ""B"": ""Seriam beneficiadas com terras adicionais."", ""C"": ""Nada seria feito que pudesse prejudicar seus direitos civis e religiosos."", ""D"": ""Seriam convertidas à religião judaica."", ""E"": ""Seriam enviadas para a Europa.""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Nada seria feito que pudesse prejudicar seus direitos civis e religiosos.""
+        },
+        {
+            ""question"": ""Qual era o objetivo principal do governo britânico ao apoiar o estabelecimento de um lar nacional para o povo judeu na Palestina?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Promover a colonização britânica na região."", ""B"": ""Ajudar a resolver conflitos étnicos na Europa."", ""C"": ""Facilitar a expansão do império britânico no Oriente Médio."", ""D"": ""Contribuir para a criação de um estado judeu independente."", ""E"": ""Impor a cultura britânica na Palestina.""},
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Contribuir para a criação de um estado judeu independente.""
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 676)
+12,81,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2023,"Alternativas logísticas estão servindo de instrumentos que ativam os mercados especuladores de terras nas diferentes regiões da Amazônia e constituem em indicadores utilizados por diferentes atores para defender ou denunciar o avanço da cultura da soja na região e, com ela, a retomada do desmatamento. É evidente que o crescimento do desmatamento tem a ver também com a expansão da soja, porém atribuir a ela o fator principal parece não totalmente correto. Parto da compreensão central de que a lógica que gera o desmatamento está articulada pelo tripé grileiros, madeireiros e pecuaristas. []","{
+    ""questions"": [
+        {
+            ""question"": ""Qual é a relação entre as alternativas logísticas e o avanço da cultura da soja na Amazônia?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""As alternativas logísticas são responsáveis pelo desmatamento na região."", ""B"": ""As alternativas logísticas são um indicador do avanço da cultura da soja."", ""C"": ""As alternativas logísticas não têm relação com a cultura da soja."", ""D"": ""As alternativas logísticas beneficiam apenas os grileiros."", ""E"": ""As alternativas logísticas são exclusivas dos madeireiros.""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""As alternativas logísticas são um indicador do avanço da cultura da soja.""
+        },
+        {
+            ""question"": ""Quais são os principais atores envolvidos na lógica que gera o desmatamento na Amazônia?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Agricultores familiares"", ""B"": ""Pescadores artesanais"", ""C"": ""Grileiros, madeireiros e pecuaristas"", ""D"": ""ONGs ambientais"", ""E"": ""Governo federal""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Grileiros, madeireiros e pecuaristas""
+        },
+        {
+            ""question"": ""Por que atribuir apenas à expansão da soja o fator principal do desmatamento na Amazônia é considerado incorreto?"",
+            ""bloom_level"": ""Avaliar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Porque a soja é uma cultura sustentável"", ""B"": ""Porque a soja não é cultivada na região amazônica"", ""C"": ""Porque outros fatores como grileiros, madeireiros e pecuaristas também contribuem significativamente"", ""D"": ""Porque a soja é a única cultura rentável na região"", ""E"": ""Porque a soja não requer desmatamento para ser cultivada""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Porque outros fatores como grileiros, madeireiros e pecuaristas também contribuem significativamente""
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 663)
+13,127,CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS,2023,"Há muito tempo são conhecidas espécies de lesmas-do-mar com uma capacidade ímpar: guardar parte da maquinaria das células das algas que consomem — os cloroplastos — e mantê-los funcionais dentro das suas próprias células, obtendo assim parte do seu alimento. Investigadores portugueses descobriram que essas lesmas-do-mar podem ser mais eficientes nesse processo do que as próprias algas que consomem. []","{
+    ""questions"": [
+        {
+            ""question"": ""Qual é a capacidade das lesmas-do-mar mencionadas no contexto em relação às algas que consomem?"",
+            ""bloom_level"": ""Compreender"",
+            ""difficult_level"": ""Iniciante"",
+            ""options"": [
+                {""A"": ""Guardar parte da maquinaria das células das algas"",},
+                {""B"": ""Produzir cloroplastos em suas próprias células"",},
+                {""C"": ""Consumir as algas por completo"",},
+                {""D"": ""Realizar fotossíntese de forma independente"",},
+                {""E"": ""Absorver nutrientes diretamente do ambiente marinho"",}
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Guardar parte da maquinaria das células das algas""
+        },
+        {
+            ""question"": ""Qual é a principal descoberta dos investigadores portugueses sobre as lesmas-do-mar?"",
+            ""bloom_level"": ""Analisar"",
+            ""difficult_level"": ""Intermediário"",
+            ""options"": [
+                {""A"": ""Elas são incapazes de manter os cloroplastos funcionais"",},
+                {""B"": ""Elas consomem as algas apenas por necessidade de alimento"",},
+                {""C"": ""Elas são menos eficientes do que as algas na fotossíntese"",},
+                {""D"": ""Elas podem ser mais eficientes que as próprias algas no processo de manter os cloroplastos funcionais"",},
+                {""E"": ""Elas não possuem relação alguma com as algas que consomem"",}
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Elas podem ser mais eficientes que as próprias algas no processo de manter os cloroplastos funcionais""
+        },
+        {
+            ""question"": ""Qual é a habilidade única das lesmas-do-mar em relação aos cloroplastos das algas?"",
+            ""bloom_level"": ""Criar"",
+            ""difficult_level"": ""Avançado"",
+            ""options"": [
+                {""A"": ""Reproduzir os cloroplastos em grande quantidade"",},
+                {""B"": ""Transformar os cloroplastos em outra forma de energia"",},
+                {""C"": ""Integrar os cloroplastos em seu DNA"",},
+                {""D"": ""Manter os cloroplastos funcionais dentro de suas próprias células"",},
+                {""E"": ""Eliminar os cloroplastos após a digestão das algas"",}
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Manter os cloroplastos funcionais dentro de suas próprias células""
+        }
+    ]
+}",Expecting property name enclosed in double quotes: line 8 column 75 (char 339)

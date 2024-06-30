@@ -1,0 +1,2556 @@
+index,id,area,year,context,response_llama,error
+0,1,Administração,2022,"TEXTO 1
+A democracia representativa exige, para o seu funcionamento, um conjunto de características, as quais podem ser compreendidas como instituições. São elas: Funcionários eleitos; Eleições livres, justas e frequentes; Sufrágio inclusivo; Direito de concorrer a cargos eletivos; Liberdade de expressão; Fontes de informação diversificadas; Autonomia para as associações. Entre as categorias mencionadas, destacam-se duas como pilares do regime democrático.
+Liberdade de expressão: os cidadãos têm o direito de se expressar, sem o perigo de punições severas, quanto aos assuntos políticos de uma forma geral, o que inclui a liberdade de criticar os funcionários do governo, o governo em si, o regime, a ordem socioeconômica e a ideologia dominante.
+Fontes de informação diversificadas: os cidadãos têm o direito de buscar fontes de informação, alternativas, diversificadas e independentes. Ademais, a existência de fontes de informação alternativa deve ser protegida por lei.
+Fonte do Texto: DAHL, R. A. Sobre a democracia, EDU: UnB, 2001 (adaptado).
+TEXTO 2
+Fonte do Texto: DAHL, R. A. Sobre a democracia, EDU: UnB, 2001 (adaptado).
+Embora os regimes políticos possam ser derrubados e as ideologias criticadas e destituídas de sua legitimidade, por trás de um regime e de sua ideologia há sempre um modo de pensar e de sentir, uma série de hábitos culturais, uma nebulosa de instintos obscuros e de pulsões insondáveis.
+Fonte do Texto: ECO, U. O Fascismo Eterno. In: Cinco escritos Morais. Editora Record: Rio de Janeiro, 2002 (adaptado).
+TEXTO 3
+A figura a seguir exemplifica algumas condutas que, segundo Umberto Eco, podem ser consideradas contraditórias aos princípios democráticos.
+Descrição da Figura:
+São apresentados 7 quadros com frases e ilustrações distintas.
+Frase: “Culto às tradições e às raízes”. Ilustração: desenho de uma águia de cabeça branca utilizando um boné semelhante ao de beisebol. 
+Frase: “Constante estado de ameaça”. Ilustração: tanque de guerra. 
+Frase: “Exaltação da vontade popular”. Ilustração: adereço de mão com o dedo indicador levantado e a escrita “#1 - o melhor”. 
+Frase: “Oposição à análise crítica”. Ilustração: microfones emitindo a frase “Fake News!”. 
+Frase: “obsessão por conspirações e culpados externos”. Ilustração: desenho de imigrantes como alvo. 
+Frase: “Proclamação de um líder (a voz do povo)”. Ilustração: uma pessoa sobre um monte falando às multidões. 
+Frase: “Linguagem limitada e repetitiva”. Ilustração: uma boca falando “eu tenho as melhores palavras”.","{
+    ""questions"": [
+        {
+            ""question"": ""Quais são as características necessárias para o funcionamento da democracia representativa?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Funcionários eleitos, eleições livres e justas, e autonomia para as associações."", ""B"": ""Sufração inclusivo, liberdade de expressão e fontes de informação diversificadas."", ""C"": ""Proclamação de um líder, oposição à análise crítica e obsessão por conspirações."", ""D"": ""Todas as opções anteriores são corretas."", ""E"": ""Nenhuma das opções anteriores é correta.""},
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Funcionários eleitos, eleições livres e justas, e autonomia para as associações.""
+        },
+        {
+            ""question"": ""Qual é o significado da liberdade de expressão em uma democracia?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""O direito de expressar-se apenas sobre assuntos políticos."", ""B"": ""O direito de expressar-se sem perigo de punições severas, incluindo criticar o governo e a ideologia dominante."", ""C"": ""O direito de expressar-se apenas por meio de eleições."", ""D"": ""O direito de expressar-se apenas para aprovar ou reprovar o governo."", ""E"": ""O direito de expressar-se apenas para criticar o regime.""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""O direito de expressar-se sem perigo de punições severas, incluindo criticar o governo e a ideologia dominante.""
+        },
+        {
+            ""question"": ""Por que é importante a existência de fontes de informação alternativas?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Para evitar a manipulação da informação."", ""B"": ""Para evitar a apresentação de informações parciais."", ""C"": ""Para evitar a apresentação de informações falsas."", ""D"": ""Para evitar a apresentação de informações incompletas."", ""E"": ""Para evitar a apresentação de informações irrelevantes.""},
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Para evitar a manipulação da informação.""
+        },
+        {
+            ""question"": ""Quais são as condutas que, segundo Umberto Eco, podem ser consideradas contraditórias aos princípios democráticos?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Culto às tradições e raízes, constantes estado de ameaça e exaltação da vontade popular."", ""B"": ""Oposição à análise crítica, obsessão por conspirações e linguagem limitada e repetitiva."", ""C"": ""Proclamação de um líder e apresentação de informações parciais."", ""D"": ""Todas as opções anteriores são corretas."", ""E"": ""Nenhuma das opções anteriores é correta.""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Oposição à análise crítica, obsessão por conspirações e linguagem limitada e repetitiva.""
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 653)
+1,2,Administração,2022,"TEXTO 1
+Dados do levantamento feito pelo TransgenderEurope (TGEU) mostram que o Brasil permaneceu pelo 13o ano consecutivo como o país que mais mata pessoas transgêneros.
+Descrição do Mapa: Título: Mortes de Transgêneros – por países de 2008 a 2021 – Números absolutos:
+• Maior que 1000: Brasil. • 501 a 1000: México. • 251 a 500: EUA. • 101 a 250: Argentina, Venezuela, Colômbia, Índia. • 51 a 100: Turquia.
+• 2 a 50: Canadá, Rússia, China, Arábia Saudita, Austrália e parte da Europa.
+TEXTO 2
+De acordo com dados do Sistema de Informação de Agravos de Notificação (Sinan), do Ministério da Saúde, houve um crescimento bruto de 5% nas violências contra homossexuais e 37,1% nas violências contra bissexuais, passando de 4 855 registros em 2018 para 5 330 em 2019. No gráfico a seguir são apresentados os dados percentuais de casos notificados em 2019, de acordo com a orientação sexual das vítimas de violência.
+Descrição do Gráfico: TÍtulo: Brasil: Perfil de Pessoas Homossexuais e Bissexuais Vítimas de Violência, por orientação Sexual, por Faixa etária (2019):
+• 10 a 14 anos: Heterossexuais (9%), Homossexuais (6%), Bissexuais (8%). • 15 a 19 anos: Heterossexuais (14%), Homossexuais (16%), Bissexuais (27%). • 35 a 39 anos: Heterossexuais (11%), Homossexuais (9%), Bissexuais (7%). • 40 a 44 anos: Heterossexuais (9%), Homossexuais (7%), Bissexuais (4%). • 60 a 64 anos: Heterossexuais (3%), Homossexuais (2%), Bissexuais (1%).","{
+    ""questions"": [
+        {
+            ""question"": ""De acordo com o levantamento do TransgenderEurope (TGEU), qual país permaneceu como o país que mais mata pessoas transgêneros em 13 anos consecutivos?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Brasil"", ""B"": ""México"", ""C"": ""EUA"", ""D"": ""Argentina"", ""E"": ""Turquia""},
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Brasil""
+            }
+        },
+        {
+            ""question"": ""Quais países apresentaram um número de mortes de pessoas transgêneros entre 101 e 250, de acordo com o levantamento do TGEU?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Argentina"", ""B"": ""Venezuela"", ""C"": ""Colômbia"", ""D"": ""Índia"", ""E"": ""China""},
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Argentina, Venezuela, Colômbia e Índia""
+            }
+        },
+        {
+            ""question"": ""De acordo com os dados do Sinan, houve um crescimento de 5% nas violências contra homossexuais em 2019 em relação a 2018. Qual foi o número total de registros de violências contra homossexuais em 2019?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""4 855"", ""B"": ""5 330"", ""C"": ""4 000"", ""D"": ""5 000"", ""E"": ""6 000""},
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""5 330""
+            }
+        },
+        {
+            ""question"": ""Quais são as faixas etárias que apresentaram uma maior porcentagem de heterossexuais entre as vítimas de violência, de acordo com o gráfico do Sinan?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""10 a 14 anos"", ""B"": ""15 a 19 anos"", ""C"": ""35 a 39 anos"", ""D"": ""40 a 44 anos"", ""E"": ""60 a 64 anos""},
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""15 a 19 anos""
+            }
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 40 (char 449)"
+2,2,Administração,2022,"TEXTO 1
+Dados do levantamento feito pelo TransgenderEurope (TGEU) mostram que o Brasil permaneceu pelo 13o ano consecutivo como o país que mais mata pessoas transgêneros.
+Descrição do Mapa: Título: Mortes de Transgêneros – por países de 2008 a 2021 – Números absolutos:
+• Maior que 1000: Brasil. • 501 a 1000: México. • 251 a 500: EUA. • 101 a 250: Argentina, Venezuela, Colômbia, Índia. • 51 a 100: Turquia.
+• 2 a 50: Canadá, Rússia, China, Arábia Saudita, Austrália e parte da Europa.
+TEXTO 2
+De acordo com dados do Sistema de Informação de Agravos de Notificação (Sinan), do Ministério da Saúde, houve um crescimento bruto de 5% nas violências contra homossexuais e 37,1% nas violências contra bissexuais, passando de 4 855 registros em 2018 para 5 330 em 2019. No gráfico a seguir são apresentados os dados percentuais de casos notificados em 2019, de acordo com a orientação sexual das vítimas de violência.
+Descrição do Gráfico: TÍtulo: Brasil: Perfil de Pessoas Homossexuais e Bissexuais Vítimas de Violência, por orientação Sexual, por Faixa etária (2019):
+• 10 a 14 anos: Heterossexuais (9%), Homossexuais (6%), Bissexuais (8%). • 15 a 19 anos: Heterossexuais (14%), Homossexuais (16%), Bissexuais (27%). • 35 a 39 anos: Heterossexuais (11%), Homossexuais (9%), Bissexuais (7%). • 40 a 44 anos: Heterossexuais (9%), Homossexuais (7%), Bissexuais (4%). • 60 a 64 anos: Heterossexuais (3%), Homossexuais (2%), Bissexuais (1%).","{
+    ""questions"": [
+        {
+            ""question"": ""De acordo com o levantamento do TransgenderEurope (TGEU), qual país permaneceu como o país que mais mata pessoas transgêneros em 13 anos consecutivos?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Brasil"", ""B"": ""México"", ""C"": ""EUA"", ""D"": ""Argentina"", ""E"": ""Turquia""},
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Brasil""
+            }
+        },
+        {
+            ""question"": ""Quais países apresentaram um número de mortes de pessoas transgêneros entre 101 e 250, de acordo com o levantamento do TGEU?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Argentina"", ""B"": ""Venezuela"", ""C"": ""Colômbia"", ""D"": ""Índia"", ""E"": ""China""},
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Argentina, Venezuela, Colômbia e Índia""
+            }
+        },
+        {
+            ""question"": ""De acordo com os dados do Sinan, houve um crescimento de 5% nas violências contra homossexuais em 2019 em relação a 2018. Qual foi o número total de registros de violências contra homossexuais em 2019?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""4 855"", ""B"": ""5 330"", ""C"": ""4 000"", ""D"": ""5 000"", ""E"": ""6 000""},
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""5 330""
+            }
+        },
+        {
+            ""question"": ""Quais são as faixas etárias que apresentaram uma maior porcentagem de heterossexuais entre as vítimas de violência, de acordo com o gráfico do Sinan?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""10 a 14 anos"", ""B"": ""15 a 19 anos"", ""C"": ""35 a 39 anos"", ""D"": ""40 a 44 anos"", ""E"": ""60 a 64 anos""},
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""15 a 19 anos""
+            }
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 40 (char 449)"
+3,2,Administração,2022,"TEXTO 1
+Dados do levantamento feito pelo TransgenderEurope (TGEU) mostram que o Brasil permaneceu pelo 13o ano consecutivo como o país que mais mata pessoas transgêneros.
+Descrição do Mapa: Título: Mortes de Transgêneros – por países de 2008 a 2021 – Números absolutos:
+• Maior que 1000: Brasil. • 501 a 1000: México. • 251 a 500: EUA. • 101 a 250: Argentina, Venezuela, Colômbia, Índia. • 51 a 100: Turquia.
+• 2 a 50: Canadá, Rússia, China, Arábia Saudita, Austrália e parte da Europa.
+TEXTO 2
+De acordo com dados do Sistema de Informação de Agravos de Notificação (Sinan), do Ministério da Saúde, houve um crescimento bruto de 5% nas violências contra homossexuais e 37,1% nas violências contra bissexuais, passando de 4 855 registros em 2018 para 5 330 em 2019. No gráfico a seguir são apresentados os dados percentuais de casos notificados em 2019, de acordo com a orientação sexual das vítimas de violência.
+Descrição do Gráfico: TÍtulo: Brasil: Perfil de Pessoas Homossexuais e Bissexuais Vítimas de Violência, por orientação Sexual, por Faixa etária (2019):
+• 10 a 14 anos: Heterossexuais (9%), Homossexuais (6%), Bissexuais (8%). • 15 a 19 anos: Heterossexuais (14%), Homossexuais (16%), Bissexuais (27%). • 35 a 39 anos: Heterossexuais (11%), Homossexuais (9%), Bissexuais (7%). • 40 a 44 anos: Heterossexuais (9%), Homossexuais (7%), Bissexuais (4%). • 60 a 64 anos: Heterossexuais (3%), Homossexuais (2%), Bissexuais (1%).","{
+    ""questions"": [
+        {
+            ""question"": ""De acordo com o levantamento do TransgenderEurope (TGEU), qual país permaneceu como o país que mais mata pessoas transgêneros em 13 anos consecutivos?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Brasil"", ""B"": ""México"", ""C"": ""EUA"", ""D"": ""Argentina"", ""E"": ""Turquia""},
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Brasil""
+            }
+        },
+        {
+            ""question"": ""Quais países apresentaram um número de mortes de pessoas transgêneros entre 101 e 250, de acordo com o levantamento do TGEU?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Argentina"", ""B"": ""Venezuela"", ""C"": ""Colômbia"", ""D"": ""Índia"", ""E"": ""China""},
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Argentina, Venezuela, Colômbia e Índia""
+            }
+        },
+        {
+            ""question"": ""De acordo com os dados do Sinan, houve um crescimento de 5% nas violências contra homossexuais em 2019 em relação a 2018. Qual foi o número total de registros de violências contra homossexuais em 2019?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""4 855"", ""B"": ""5 330"", ""C"": ""4 000"", ""D"": ""5 000"", ""E"": ""6 000""},
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""5 330""
+            }
+        },
+        {
+            ""question"": ""Quais são as faixas etárias que apresentaram uma maior porcentagem de heterossexuais entre as vítimas de violência, de acordo com o gráfico do Sinan?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""10 a 14 anos"", ""B"": ""15 a 19 anos"", ""C"": ""35 a 39 anos"", ""D"": ""40 a 44 anos"", ""E"": ""60 a 64 anos""},
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""15 a 19 anos""
+            }
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 40 (char 449)"
+4,2,Administração,2022,"TEXTO 1
+Dados do levantamento feito pelo TransgenderEurope (TGEU) mostram que o Brasil permaneceu pelo 13o ano consecutivo como o país que mais mata pessoas transgêneros.
+Descrição do Mapa: Título: Mortes de Transgêneros – por países de 2008 a 2021 – Números absolutos:
+• Maior que 1000: Brasil. • 501 a 1000: México. • 251 a 500: EUA. • 101 a 250: Argentina, Venezuela, Colômbia, Índia. • 51 a 100: Turquia.
+• 2 a 50: Canadá, Rússia, China, Arábia Saudita, Austrália e parte da Europa.
+TEXTO 2
+De acordo com dados do Sistema de Informação de Agravos de Notificação (Sinan), do Ministério da Saúde, houve um crescimento bruto de 5% nas violências contra homossexuais e 37,1% nas violências contra bissexuais, passando de 4 855 registros em 2018 para 5 330 em 2019. No gráfico a seguir são apresentados os dados percentuais de casos notificados em 2019, de acordo com a orientação sexual das vítimas de violência.
+Descrição do Gráfico: TÍtulo: Brasil: Perfil de Pessoas Homossexuais e Bissexuais Vítimas de Violência, por orientação Sexual, por Faixa etária (2019):
+• 10 a 14 anos: Heterossexuais (9%), Homossexuais (6%), Bissexuais (8%). • 15 a 19 anos: Heterossexuais (14%), Homossexuais (16%), Bissexuais (27%). • 35 a 39 anos: Heterossexuais (11%), Homossexuais (9%), Bissexuais (7%). • 40 a 44 anos: Heterossexuais (9%), Homossexuais (7%), Bissexuais (4%). • 60 a 64 anos: Heterossexuais (3%), Homossexuais (2%), Bissexuais (1%).","{
+    ""questions"": [
+        {
+            ""question"": ""De acordo com o levantamento do TransgenderEurope (TGEU), qual país permaneceu como o país que mais mata pessoas transgêneros em 13 anos consecutivos?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Brasil"", ""B"": ""México"", ""C"": ""EUA"", ""D"": ""Argentina"", ""E"": ""Turquia""},
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Brasil""
+            }
+        },
+        {
+            ""question"": ""Quais países apresentaram um número de mortes de pessoas transgêneros entre 101 e 250, de acordo com o levantamento do TGEU?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Argentina"", ""B"": ""Venezuela"", ""C"": ""Colômbia"", ""D"": ""Índia"", ""E"": ""China""},
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Argentina, Venezuela, Colômbia e Índia""
+            }
+        },
+        {
+            ""question"": ""De acordo com os dados do Sinan, houve um crescimento de 5% nas violências contra homossexuais em 2019 em relação a 2018. Qual foi o número total de registros de violências contra homossexuais em 2019?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""4 855"", ""B"": ""5 330"", ""C"": ""4 000"", ""D"": ""5 000"", ""E"": ""6 000""},
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""5 330""
+            }
+        },
+        {
+            ""question"": ""Quais são as faixas etárias que apresentaram uma maior porcentagem de heterossexuais entre as vítimas de violência, de acordo com o gráfico do Sinan?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""10 a 14 anos"", ""B"": ""15 a 19 anos"", ""C"": ""35 a 39 anos"", ""D"": ""40 a 44 anos"", ""E"": ""60 a 64 anos""},
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""15 a 19 anos""
+            }
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 40 (char 449)"
+5,3,Administração,2022,"Em 2019, a violência armada foi três vezes maior para a população negra, em comparação com a não negra, tanto para a população geral quanto para o grupo jovem (entre 15 e 29 anos de idade). Quanto à taxa de mortalidade por 100 mil habitantes no grupo de pessoas com até 14 anos de idade, destaca-se, da mesma forma, a desigualdade na vitimização de crianças e adolescentes negros por agressão com arma de fogo, com taxa 3,6 vezes maior do que a de não negros em 2019.
+Fonte do Texto: INSTITUTO SOU DA PAZ. Violência armada e racismo: o papel da arma de fogo na desigualdade racial. 2021.","{
+    ""questions"": [
+        {
+            ""question"": ""Em 2019, a violência armada foi mais frequente entre:"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Pessoas brancas"", ""B"": ""Pessoas negras"", ""C"": ""Pessoas idosas"", ""D"": ""Pessoas jovens"", ""E"": ""Pessoas com deficiência""}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Pessoas negras""
+        },
+        {
+            ""question"": ""A taxa de mortalidade por 100 mil habitantes entre pessoas com até 14 anos de idade, em 2019, foi mais alta entre:"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Pessoas brancas"", ""B"": ""Pessoas negras"", ""C"": ""Pessoas idosas"", ""D"": ""Pessoas jovens"", ""E"": ""Pessoas com deficiência""}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Pessoas negras""
+        },
+        {
+            ""question"": ""A violência armada afetou mais a população jovem em 2019:"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Sim, especialmente entre 15 e 29 anos de idade"", ""B"": ""Sim, especialmente entre 30 e 49 anos de idade"", ""C"": ""Não, principalmente entre 50 e 64 anos de idade"", ""D"": ""Não, principalmente entre 65 anos de idade ou mais"", ""E"": ""Não, não houve diferença""
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Sim, especialmente entre 15 e 29 anos de idade""
+        },
+        {
+            ""question"": ""A desigualdade na vitimização de crianças e adolescentes negros por agressão com arma de fogo, em 2019, foi:"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Igual para todos os grupos"", ""B"": ""Mais grave para pessoas brancas"", ""C"": ""Menos grave para pessoas negras"", ""D"": ""Três vezes maior para a população negra"", ""E"": ""Nenhum grupo foi mais afetado""
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Três vezes maior para a população negra""
+        }
+    ]
+}","Expecting ',' delimiter: line 31 column 13 (char 1573)"
+6,3,Administração,2022,"Em 2019, a violência armada foi três vezes maior para a população negra, em comparação com a não negra, tanto para a população geral quanto para o grupo jovem (entre 15 e 29 anos de idade). Quanto à taxa de mortalidade por 100 mil habitantes no grupo de pessoas com até 14 anos de idade, destaca-se, da mesma forma, a desigualdade na vitimização de crianças e adolescentes negros por agressão com arma de fogo, com taxa 3,6 vezes maior do que a de não negros em 2019.
+Fonte do Texto: INSTITUTO SOU DA PAZ. Violência armada e racismo: o papel da arma de fogo na desigualdade racial. 2021.","{
+    ""questions"": [
+        {
+            ""question"": ""Em 2019, a violência armada foi mais frequente entre:"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Pessoas brancas"", ""B"": ""Pessoas negras"", ""C"": ""Pessoas idosas"", ""D"": ""Pessoas jovens"", ""E"": ""Pessoas com deficiência""}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Pessoas negras""
+        },
+        {
+            ""question"": ""A taxa de mortalidade por 100 mil habitantes entre pessoas com até 14 anos de idade, em 2019, foi mais alta entre:"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Pessoas brancas"", ""B"": ""Pessoas negras"", ""C"": ""Pessoas idosas"", ""D"": ""Pessoas jovens"", ""E"": ""Pessoas com deficiência""}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Pessoas negras""
+        },
+        {
+            ""question"": ""A violência armada afetou mais a população jovem em 2019:"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Sim, especialmente entre 15 e 29 anos de idade"", ""B"": ""Sim, especialmente entre 30 e 49 anos de idade"", ""C"": ""Não, principalmente entre 50 e 64 anos de idade"", ""D"": ""Não, principalmente entre 65 anos de idade ou mais"", ""E"": ""Não, não houve diferença""
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Sim, especialmente entre 15 e 29 anos de idade""
+        },
+        {
+            ""question"": ""A desigualdade na vitimização de crianças e adolescentes negros por agressão com arma de fogo, em 2019, foi:"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Igual para todos os grupos"", ""B"": ""Mais grave para pessoas brancas"", ""C"": ""Menos grave para pessoas negras"", ""D"": ""Três vezes maior para a população negra"", ""E"": ""Nenhum grupo foi mais afetado""
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Três vezes maior para a população negra""
+        }
+    ]
+}","Expecting ',' delimiter: line 31 column 13 (char 1573)"
+7,3,Administração,2022,"Em 2019, a violência armada foi três vezes maior para a população negra, em comparação com a não negra, tanto para a população geral quanto para o grupo jovem (entre 15 e 29 anos de idade). Quanto à taxa de mortalidade por 100 mil habitantes no grupo de pessoas com até 14 anos de idade, destaca-se, da mesma forma, a desigualdade na vitimização de crianças e adolescentes negros por agressão com arma de fogo, com taxa 3,6 vezes maior do que a de não negros em 2019.
+Fonte do Texto: INSTITUTO SOU DA PAZ. Violência armada e racismo: o papel da arma de fogo na desigualdade racial. 2021.","{
+    ""questions"": [
+        {
+            ""question"": ""Em 2019, a violência armada foi mais frequente entre:"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Pessoas brancas"", ""B"": ""Pessoas negras"", ""C"": ""Pessoas idosas"", ""D"": ""Pessoas jovens"", ""E"": ""Pessoas com deficiência""}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Pessoas negras""
+        },
+        {
+            ""question"": ""A taxa de mortalidade por 100 mil habitantes entre pessoas com até 14 anos de idade, em 2019, foi mais alta entre:"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Pessoas brancas"", ""B"": ""Pessoas negras"", ""C"": ""Pessoas idosas"", ""D"": ""Pessoas jovens"", ""E"": ""Pessoas com deficiência""}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Pessoas negras""
+        },
+        {
+            ""question"": ""A violência armada afetou mais a população jovem em 2019:"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Sim, especialmente entre 15 e 29 anos de idade"", ""B"": ""Sim, especialmente entre 30 e 49 anos de idade"", ""C"": ""Não, principalmente entre 50 e 64 anos de idade"", ""D"": ""Não, principalmente entre 65 anos de idade ou mais"", ""E"": ""Não, não houve diferença""
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Sim, especialmente entre 15 e 29 anos de idade""
+        },
+        {
+            ""question"": ""A desigualdade na vitimização de crianças e adolescentes negros por agressão com arma de fogo, em 2019, foi:"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Igual para todos os grupos"", ""B"": ""Mais grave para pessoas brancas"", ""C"": ""Menos grave para pessoas negras"", ""D"": ""Três vezes maior para a população negra"", ""E"": ""Nenhum grupo foi mais afetado""
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Três vezes maior para a população negra""
+        }
+    ]
+}","Expecting ',' delimiter: line 31 column 13 (char 1573)"
+8,3,Administração,2022,"Em 2019, a violência armada foi três vezes maior para a população negra, em comparação com a não negra, tanto para a população geral quanto para o grupo jovem (entre 15 e 29 anos de idade). Quanto à taxa de mortalidade por 100 mil habitantes no grupo de pessoas com até 14 anos de idade, destaca-se, da mesma forma, a desigualdade na vitimização de crianças e adolescentes negros por agressão com arma de fogo, com taxa 3,6 vezes maior do que a de não negros em 2019.
+Fonte do Texto: INSTITUTO SOU DA PAZ. Violência armada e racismo: o papel da arma de fogo na desigualdade racial. 2021.","{
+    ""questions"": [
+        {
+            ""question"": ""Em 2019, a violência armada foi mais frequente entre:"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Pessoas brancas"", ""B"": ""Pessoas negras"", ""C"": ""Pessoas idosas"", ""D"": ""Pessoas jovens"", ""E"": ""Pessoas com deficiência""}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Pessoas negras""
+        },
+        {
+            ""question"": ""A taxa de mortalidade por 100 mil habitantes entre pessoas com até 14 anos de idade, em 2019, foi mais alta entre:"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Pessoas brancas"", ""B"": ""Pessoas negras"", ""C"": ""Pessoas idosas"", ""D"": ""Pessoas jovens"", ""E"": ""Pessoas com deficiência""}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Pessoas negras""
+        },
+        {
+            ""question"": ""A violência armada afetou mais a população jovem em 2019:"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Sim, especialmente entre 15 e 29 anos de idade"", ""B"": ""Sim, especialmente entre 30 e 49 anos de idade"", ""C"": ""Não, principalmente entre 50 e 64 anos de idade"", ""D"": ""Não, principalmente entre 65 anos de idade ou mais"", ""E"": ""Não, não houve diferença""
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Sim, especialmente entre 15 e 29 anos de idade""
+        },
+        {
+            ""question"": ""A desigualdade na vitimização de crianças e adolescentes negros por agressão com arma de fogo, em 2019, foi:"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Igual para todos os grupos"", ""B"": ""Mais grave para pessoas brancas"", ""C"": ""Menos grave para pessoas negras"", ""D"": ""Três vezes maior para a população negra"", ""E"": ""Nenhum grupo foi mais afetado""
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Três vezes maior para a população negra""
+        }
+    ]
+}","Expecting ',' delimiter: line 31 column 13 (char 1573)"
+9,7,Administração,2022,"TEXTO 1
+Descrição do Gráfico:
+Título: América Latina, Caribe (21 países): Feminicídio ou femicídio (2021) (em números absolutos e taxas por 100 mil mulheres)
+São apresentados os seguintes dados: Países - Número Absoluto de Mortes - Mortes a cada 100 mil mulheres (aproximadamente)
+Honduras - 227 - 4,8
+SantaLúcia-4-4,5
+ Trinidad e Tobago - 22 - 3,1
+República Dominicana - 132 - 2,4
+ElSalvador-73-2,3
+Bolívia-113-2
+Brasil - 1738 - 1,8
+Panamá-31-1,5
+México-948-1,6
+Guatemala - 119 - 1,2
+Uruguai-19-1,1
+Argentina - 251 - 1,1
+Paraguai-36-1
+Equador-79-0,9
+Peru-148-0,9
+TEXTO 2
+Resultados de pesquisa da Comissão Econômica para a América Latina e o Caribe (CEPAL), vinculada à Organização das Nações Unidas (ONU), apontam que, além do feminicídio íntimo, aquele perpetrado por parceiros ou ex-parceiros da vítima, e do feminicídio sexual sistêmico, em que a vítima é sequestrada e estuprada, há o feminicídio lesbofóbico ou bifóbico, configurado quando a vítima é bissexual ou lésbica e é assassinada porque o agressor entende que deve puni-la por sua orientação sexual.
+Disponível no site da ebc. Acesso em: 22 ago. 2022.","{
+    ""questions"": [
+        {
+            ""question"": ""Qual país apresenta a maior taxa de feminicídio em números absolutos em 2021?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Brasil"", ""B"": ""México"", ""C"": ""República Dominicana"", ""D"": ""Honduras"", ""E"": ""Argentina""},
+                ""correct_answer"": [""A""]
+        },
+        {
+            ""question"": ""A taxa de feminicídio em Honduras é maior do que a taxa em Trinidad e Tobago"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Verdadeiro"", ""B"": ""Falso"", ""C"": ""Nenhuma das opções"", ""D"": ""Depende do contexto"", ""E"": ""Ignoro""},
+                ""correct_answer"": [""A""]
+        },
+        {
+            ""question"": ""Segundo a CEPAL, qual é um tipo de feminicídio?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Feminicídio intimo"", ""B"": ""Feminicídio lesbofóbico ou bissexual"", ""C"": ""Feminicídio sexual sitemático"", ""D"": ""Feminicídio por motivos de gênero"", ""E"": ""Nenhuma das opções""},
+                ""correct_answer"": [""B""]
+        },
+        {
+            ""question"": ""Qual é a taxa de feminicídio em Uruguai em relação a 100 mil mulheres?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""1,2"", ""B"": ""1,1"", ""C"": ""1,5"", ""D"": ""2,3"", ""E"": ""4,8""},
+                ""correct_answer"": [""B""]
+        },
+        {
+            ""question"": ""A informação apresentada no gráfico se refere a qual período?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""2020"", ""B"": ""2021"", ""C"": ""2019"", ""D"": ""2022"", ""E"": ""Nenhuma das opções""},
+                ""correct_answer"": [""B""]
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 33 (char 387)"
+10,7,Administração,2022,"TEXTO 1
+Descrição do Gráfico:
+Título: América Latina, Caribe (21 países): Feminicídio ou femicídio (2021) (em números absolutos e taxas por 100 mil mulheres)
+São apresentados os seguintes dados: Países - Número Absoluto de Mortes - Mortes a cada 100 mil mulheres (aproximadamente)
+Honduras - 227 - 4,8
+SantaLúcia-4-4,5
+ Trinidad e Tobago - 22 - 3,1
+República Dominicana - 132 - 2,4
+ElSalvador-73-2,3
+Bolívia-113-2
+Brasil - 1738 - 1,8
+Panamá-31-1,5
+México-948-1,6
+Guatemala - 119 - 1,2
+Uruguai-19-1,1
+Argentina - 251 - 1,1
+Paraguai-36-1
+Equador-79-0,9
+Peru-148-0,9
+TEXTO 2
+Resultados de pesquisa da Comissão Econômica para a América Latina e o Caribe (CEPAL), vinculada à Organização das Nações Unidas (ONU), apontam que, além do feminicídio íntimo, aquele perpetrado por parceiros ou ex-parceiros da vítima, e do feminicídio sexual sistêmico, em que a vítima é sequestrada e estuprada, há o feminicídio lesbofóbico ou bifóbico, configurado quando a vítima é bissexual ou lésbica e é assassinada porque o agressor entende que deve puni-la por sua orientação sexual.
+Disponível no site da ebc. Acesso em: 22 ago. 2022.","{
+    ""questions"": [
+        {
+            ""question"": ""Qual país apresenta a maior taxa de feminicídio em números absolutos em 2021?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Brasil"", ""B"": ""México"", ""C"": ""República Dominicana"", ""D"": ""Honduras"", ""E"": ""Argentina""},
+                ""correct_answer"": [""A""]
+        },
+        {
+            ""question"": ""A taxa de feminicídio em Honduras é maior do que a taxa em Trinidad e Tobago"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Verdadeiro"", ""B"": ""Falso"", ""C"": ""Nenhuma das opções"", ""D"": ""Depende do contexto"", ""E"": ""Ignoro""},
+                ""correct_answer"": [""A""]
+        },
+        {
+            ""question"": ""Segundo a CEPAL, qual é um tipo de feminicídio?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Feminicídio intimo"", ""B"": ""Feminicídio lesbofóbico ou bissexual"", ""C"": ""Feminicídio sexual sitemático"", ""D"": ""Feminicídio por motivos de gênero"", ""E"": ""Nenhuma das opções""},
+                ""correct_answer"": [""B""]
+        },
+        {
+            ""question"": ""Qual é a taxa de feminicídio em Uruguai em relação a 100 mil mulheres?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""1,2"", ""B"": ""1,1"", ""C"": ""1,5"", ""D"": ""2,3"", ""E"": ""4,8""},
+                ""correct_answer"": [""B""]
+        },
+        {
+            ""question"": ""A informação apresentada no gráfico se refere a qual período?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""2020"", ""B"": ""2021"", ""C"": ""2019"", ""D"": ""2022"", ""E"": ""Nenhuma das opções""},
+                ""correct_answer"": [""B""]
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 33 (char 387)"
+11,7,Administração,2022,"TEXTO 1
+Descrição do Gráfico:
+Título: América Latina, Caribe (21 países): Feminicídio ou femicídio (2021) (em números absolutos e taxas por 100 mil mulheres)
+São apresentados os seguintes dados: Países - Número Absoluto de Mortes - Mortes a cada 100 mil mulheres (aproximadamente)
+Honduras - 227 - 4,8
+SantaLúcia-4-4,5
+ Trinidad e Tobago - 22 - 3,1
+República Dominicana - 132 - 2,4
+ElSalvador-73-2,3
+Bolívia-113-2
+Brasil - 1738 - 1,8
+Panamá-31-1,5
+México-948-1,6
+Guatemala - 119 - 1,2
+Uruguai-19-1,1
+Argentina - 251 - 1,1
+Paraguai-36-1
+Equador-79-0,9
+Peru-148-0,9
+
+TEXTO 2
+Resultados de pesquisa da Comissão Econômica para a América Latina e o Caribe (CEPAL), vinculada à Organização das Nações Unidas (ONU), apontam que, além do feminicídio íntimo, aquele perpetrado por parceiros ou ex-parceiros da vítima, e do feminicídio sexual sistêmico, em que a vítima é sequestrada e estuprada, há o feminicídio lesbofóbico ou bifóbico, configurado quando a vítima é bissexual ou lésbica e é assassinada porque o agressor entende que deve puni-la por sua orientação sexual.
+Disponível no site da ebc. Acesso em: 22 ago. 2022.","{
+    ""questions"": [
+        {
+            ""question"": ""Qual país apresenta a maior taxa de feminicídio em números absolutos em 2021?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Brasil"", ""B"": ""México"", ""C"": ""República Dominicana"", ""D"": ""Honduras"", ""E"": ""Argentina""},
+                ""correct_answer"": [""A""]
+        },
+        {
+            ""question"": ""A taxa de feminicídio em Honduras é maior do que a taxa em Trinidad e Tobago"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Verdadeiro"", ""B"": ""Falso"", ""C"": ""Nenhuma das opções"", ""D"": ""Depende do contexto"", ""E"": ""Ignoro""},
+                ""correct_answer"": [""A""]
+        },
+        {
+            ""question"": ""Segundo a CEPAL, qual é um tipo de feminicídio?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Feminicídio intimo"", ""B"": ""Feminicídio lesbofóbico ou bissexual"", ""C"": ""Feminicídio sexual sitemático"", ""D"": ""Feminicídio por motivos de gênero"", ""E"": ""Nenhuma das opções""},
+                ""correct_answer"": [""B""]
+        },
+        {
+            ""question"": ""Qual é a taxa de feminicídio em Uruguai em relação a 100 mil mulheres?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""1,2"", ""B"": ""1,1"", ""C"": ""1,5"", ""D"": ""2,3"", ""E"": ""4,8""},
+                ""correct_answer"": [""B""]
+        },
+        {
+            ""question"": ""Qual é a ordem dos países com maior taxa de feminicídio em relação a 100 mil mulheres?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Brasil, Honduras, República Dominicana"", ""B"": ""Honduras, Brasil, República Dominicana"", ""C"": ""República Dominicana, Honduras, Brasil"", ""D"": ""Nenhuma das opções"", ""E"": ""Ignoro""},
+                ""correct_answer"": [""A""]
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 33 (char 387)"
+12,7,Administração,2022,"TEXTO 1
+Descrição do Gráfico:
+Título: América Latina, Caribe (21 países): Feminicídio ou femicídio (2021) (em números absolutos e taxas por 100 mil mulheres)
+São apresentados os seguintes dados: Países - Número Absoluto de Mortes - Mortes a cada 100 mil mulheres (aproximadamente)
+Honduras - 227 - 4,8
+SantaLúcia-4-4,5
+ Trinidad e Tobago - 22 - 3,1
+República Dominicana - 132 - 2,4
+ElSalvador-73-2,3
+Bolívia-113-2
+Brasil - 1738 - 1,8
+Panamá-31-1,5
+México-948-1,6
+Guatemala - 119 - 1,2
+Uruguai-19-1,1
+Argentina - 251 - 1,1
+Paraguai-36-1
+Equador-79-0,9
+Peru-148-0,9
+
+TEXTO 2
+Resultados de pesquisa da Comissão Econômica para a América Latina e o Caribe (CEPAL), vinculada à Organização das Nações Unidas (ONU), apontam que, além do feminicídio íntimo, aquele perpetrado por parceiros ou ex-parceiros da vítima, e do feminicídio sexual sistêmico, em que a vítima é sequestrada e estuprada, há o feminicídio lesbofóbico ou bifóbico, configurado quando a vítima é bissexual ou lésbica e é assassinada porque o agressor entende que deve puni-la por sua orientação sexual.
+Disponível no site da ebc. Acesso em: 22 ago. 2022.","{
+    ""questions"": [
+        {
+            ""question"": ""Qual país apresenta a maior taxa de feminicídio em números absolutos em 2021?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Brasil"", ""B"": ""México"", ""C"": ""República Dominicana"", ""D"": ""Honduras"", ""E"": ""Argentina""},
+                ""correct_answer"": [""A""]
+        },
+        {
+            ""question"": ""A taxa de feminicídio em Honduras é maior do que a taxa em Trinidad e Tobago"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Verdadeiro"", ""B"": ""Falso"", ""C"": ""Nenhuma das opções"", ""D"": ""Depende do contexto"", ""E"": ""Ignoro""},
+                ""correct_answer"": [""A""]
+        },
+        {
+            ""question"": ""Segundo a CEPAL, qual é um tipo de feminicídio?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Feminicídio intimo"", ""B"": ""Feminicídio lesbofóbico ou bissexual"", ""C"": ""Feminicídio sexual sitemático"", ""D"": ""Feminicídio por motivos de gênero"", ""E"": ""Nenhuma das opções""},
+                ""correct_answer"": [""B""]
+        },
+        {
+            ""question"": ""Qual é a taxa de feminicídio em Uruguai em relação a 100 mil mulheres?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""1,2"", ""B"": ""1,1"", ""C"": ""1,5"", ""D"": ""2,3"", ""E"": ""4,8""},
+                ""correct_answer"": [""B""]
+        },
+        {
+            ""question"": ""Qual é a ordem dos países com maior taxa de feminicídio em relação a 100 mil mulheres?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Brasil, Honduras, República Dominicana"", ""B"": ""Honduras, Brasil, República Dominicana"", ""C"": ""República Dominicana, Honduras, Brasil"", ""D"": ""Nenhuma das opções"", ""E"": ""Ignoro""},
+                ""correct_answer"": [""A""]
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 33 (char 387)"
+13,8,Administração,2022,"Descrição da imagem:
+Foto de Charles Humpres mostrando grafite de Eduardo Kobra. A arte ocupa o espaço lateral de dois andares de um prédio, sendo caracterizada pelo uso intenso de contrastes e cores que retrata um homem sentado ao chão, cabeça baixa, descalço, com dois pratos vazios ao seu lado e segurando um cartaz escrito “Welcome to real Brazil”.
+nicialmente, a natureza transgressora do grafite foi encarada pelo Estado como vandalismo no espaço público e como um perigo para a conservação da propriedade privada, devendo-se, portanto, combatê-lo. Com o tempo, contudo, essa concepção marginal transformou-se, incidindo em uma valorização aceitável pelo Estado e positiva para a sociedade. Essa transição do grafite, de arte marginal para manifestação artística reconhecida e aceita, tem revelado aspectos importantes não somente para os profissionais do grafite, mas para a sociedade como um todo, pois incorpora a possibilidade de ele ser um produto artístico de valor cultural, econômico e ideológico.
+Fonte do Texto: PIRES, E. M.; SANTOS, F. A. A cidade de São Paulo e suas dinâmicas: graffiti, Lei Cidade Limpa e publicidade urbana. Anais do Museu Paulista: História e Cultura Material. v. 26, São Paulo, 2018 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""Qual foi a primeira percepção do Estado sobre o grafite?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Ela o considerou uma forma de arte"", ""B"": ""Ela o considerou um perigo para a conservação da propriedade privada"", ""C"": ""Ela o considerou uma forma de expressão cultural"", ""D"": ""Ela o considerou uma forma de vandalismo"", ""E"": ""Nenhuma das acima""
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Ela o considerou um perigo para a conservação da propriedade privada""
+        },
+        {
+            ""question"": ""Qual é o resultado da valorização do grafite pela sociedade?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Ele foi considerado uma forma de arte marginal"", ""B"": ""Ele foi considerado um perigo para a sociedade"", ""C"": ""Ele foi considerado um produto artístico de valor cultural, econômico e ideológico"", ""D"": ""Ele foi considerado uma forma de expressão cultural"", ""E"": ""Nenhuma das acima""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Ele foi considerado um produto artístico de valor cultural, econômico e ideológico""
+        },
+        {
+            ""question"": ""Qual é o resultado da transição do grafite de arte marginal para manifestação artística reconhecida e aceita?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Ele foi banido da sociedade"", ""B"": ""Ele foi considerado um perigo para a conservação da propriedade privada"", ""C"": ""Ele revelou aspectos importantes para os profissionais do grafite e para a sociedade como um todo"", ""D"": ""Ele foi considerado uma forma de expressão cultural"", ""E"": ""Nenhuma das acima""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Ele revelou aspectos importantes para os profissionais do grafite e para a sociedade como um todo""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 502)"
+14,8,Administração,2022,"Descrição da imagem:
+Foto de Charles Humpres mostrando grafite de Eduardo Kobra. A arte ocupa o espaço lateral de dois andares de um prédio, sendo caracterizada pelo uso intenso de contrastes e cores que retrata um homem sentado ao chão, cabeça baixa, descalço, com dois pratos vazios ao seu lado e segurando um cartaz escrito “Welcome to real Brazil”.
+nicialmente, a natureza transgressora do grafite foi encarada pelo Estado como vandalismo no espaço público e como um perigo para a conservação da propriedade privada, devendo-se, portanto, combatê-lo. Com o tempo, contudo, essa concepção marginal transformou-se, incidindo em uma valorização aceitável pelo Estado e positiva para a sociedade. Essa transição do grafite, de arte marginal para manifestação artística reconhecida e aceita, tem revelado aspectos importantes não somente para os profissionais do grafite, mas para a sociedade como um todo, pois incorpora a possibilidade de ele ser um produto artístico de valor cultural, econômico e ideológico.
+Fonte do Texto: PIRES, E. M.; SANTOS, F. A. A cidade de São Paulo e suas dinâmicas: graffiti, Lei Cidade Limpa e publicidade urbana. Anais do Museu Paulista: História e Cultura Material. v. 26, São Paulo, 2018 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""Qual foi a primeira percepção do Estado sobre o grafite?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Ela o considerou uma forma de arte"", ""B"": ""Ela o considerou um perigo para a conservação da propriedade privada"", ""C"": ""Ela o considerou uma forma de expressão cultural"", ""D"": ""Ela o considerou uma forma de vandalismo"", ""E"": ""Nenhuma das acima""
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Ela o considerou um perigo para a conservação da propriedade privada""
+        },
+        {
+            ""question"": ""Qual é o resultado da valorização do grafite pela sociedade?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Ele foi considerado uma forma de arte marginal"", ""B"": ""Ele foi considerado um perigo para a sociedade"", ""C"": ""Ele foi considerado um produto artístico de valor cultural, econômico e ideológico"", ""D"": ""Ele foi considerado uma forma de expressão cultural"", ""E"": ""Nenhuma das acima""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Ele foi considerado um produto artístico de valor cultural, econômico e ideológico""
+        },
+        {
+            ""question"": ""Qual é o resultado da transição do grafite de arte marginal para manifestação artística reconhecida e aceita?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Ele foi banido da sociedade"", ""B"": ""Ele foi considerado um perigo para a conservação da propriedade privada"", ""C"": ""Ele revelou aspectos importantes para os profissionais do grafite e para a sociedade como um todo"", ""D"": ""Ele foi considerado uma forma de expressão cultural"", ""E"": ""Nenhuma das acima""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Ele revelou aspectos importantes para os profissionais do grafite e para a sociedade como um todo""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 502)"
+15,8,Administração,2022,"Descrição da imagem:
+Foto de Charles Humpres mostrando grafite de Eduardo Kobra. A arte ocupa o espaço lateral de dois andares de um prédio, sendo caracterizada pelo uso intenso de contrastes e cores que retrata um homem sentado ao chão, cabeça baixa, descalço, com dois pratos vazios ao seu lado e segurando um cartaz escrito “Welcome to real Brazil”.
+nicialmente, a natureza transgressora do grafite foi encarada pelo Estado como vandalismo no espaço público e como um perigo para a conservação da propriedade privada, devendo-se, portanto, combatê-lo. Com o tempo, contudo, essa concepção marginal transformou-se, incidindo em uma valorização aceitável pelo Estado e positiva para a sociedade. Essa transição do grafite, de arte marginal para manifestação artística reconhecida e aceita, tem revelado aspectos importantes não somente para os profissionais do grafite, mas para a sociedade como um todo, pois incorpora a possibilidade de ele ser um produto artístico de valor cultural, econômico e ideológico.
+Fonte do Texto: PIRES, E. M.; SANTOS, F. A. A cidade de São Paulo e suas dinâmicas: graffiti, Lei Cidade Limpa e publicidade urbana. Anais do Museu Paulista: História e Cultura Material. v. 26, São Paulo, 2018 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""Qual foi a primeira percepção do Estado sobre o grafite?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Ela o considerou uma forma de arte"", ""B"": ""Ela o considerou um perigo para a conservação da propriedade privada"", ""C"": ""Ela o considerou uma forma de expressão cultural"", ""D"": ""Ela o considerou uma forma de vandalismo"", ""E"": ""Nenhuma das acima""
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Ela o considerou um perigo para a conservação da propriedade privada""
+        },
+        {
+            ""question"": ""Qual é o resultado da valorização do grafite pela sociedade?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Ele foi considerado uma forma de arte marginal"", ""B"": ""Ele foi considerado um perigo para a sociedade"", ""C"": ""Ele foi considerado um produto artístico de valor cultural, econômico e ideológico"", ""D"": ""Ele foi considerado uma forma de expressão cultural"", ""E"": ""Nenhuma das acima""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Ele foi considerado um produto artístico de valor cultural, econômico e ideológico""
+        },
+        {
+            ""question"": ""Qual é o resultado da transição do grafite de arte marginal para manifestação artística reconhecida e aceita?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Ele foi banido da sociedade"", ""B"": ""Ele foi considerado um perigo para a conservação da propriedade privada"", ""C"": ""Ele revelou aspectos importantes para os profissionais do grafite e para a sociedade como um todo"", ""D"": ""Ele foi considerado uma forma de expressão cultural"", ""E"": ""Nenhuma das acima""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Ele revelou aspectos importantes para os profissionais do grafite e para a sociedade como um todo""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 502)"
+16,8,Administração,2022,"Descrição da imagem:
+Foto de Charles Humpres mostrando grafite de Eduardo Kobra. A arte ocupa o espaço lateral de dois andares de um prédio, sendo caracterizada pelo uso intenso de contrastes e cores que retrata um homem sentado ao chão, cabeça baixa, descalço, com dois pratos vazios ao seu lado e segurando um cartaz escrito “Welcome to real Brazil”.
+nicialmente, a natureza transgressora do grafite foi encarada pelo Estado como vandalismo no espaço público e como um perigo para a conservação da propriedade privada, devendo-se, portanto, combatê-lo. Com o tempo, contudo, essa concepção marginal transformou-se, incidindo em uma valorização aceitável pelo Estado e positiva para a sociedade. Essa transição do grafite, de arte marginal para manifestação artística reconhecida e aceita, tem revelado aspectos importantes não somente para os profissionais do grafite, mas para a sociedade como um todo, pois incorpora a possibilidade de ele ser um produto artístico de valor cultural, econômico e ideológico.
+Fonte do Texto: PIRES, E. M.; SANTOS, F. A. A cidade de São Paulo e suas dinâmicas: graffiti, Lei Cidade Limpa e publicidade urbana. Anais do Museu Paulista: História e Cultura Material. v. 26, São Paulo, 2018 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""Qual foi a primeira percepção do Estado sobre o grafite?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Ela o considerou uma forma de arte"", ""B"": ""Ela o considerou um perigo para a conservação da propriedade privada"", ""C"": ""Ela o considerou uma forma de expressão cultural"", ""D"": ""Ela o considerou uma forma de vandalismo"", ""E"": ""Nenhuma das acima""
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Ela o considerou um perigo para a conservação da propriedade privada""
+        },
+        {
+            ""question"": ""Qual é o resultado da valorização do grafite pela sociedade?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Ele foi considerado uma forma de arte marginal"", ""B"": ""Ele foi considerado um perigo para a sociedade"", ""C"": ""Ele foi considerado um produto artístico de valor cultural, econômico e ideológico"", ""D"": ""Ele foi considerado uma forma de expressão cultural"", ""E"": ""Nenhuma das acima""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Ele foi considerado um produto artístico de valor cultural, econômico e ideológico""
+        },
+        {
+            ""question"": ""Qual é o resultado da transição do grafite de arte marginal para manifestação artística reconhecida e aceita?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Ele foi banido da sociedade"", ""B"": ""Ele foi considerado um perigo para a conservação da propriedade privada"", ""C"": ""Ele revelou aspectos importantes para os profissionais do grafite e para a sociedade como um todo"", ""D"": ""Ele foi considerado uma forma de expressão cultural"", ""E"": ""Nenhuma das acima""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Ele revelou aspectos importantes para os profissionais do grafite e para a sociedade como um todo""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 502)"
+17,10,Administração,2022,"Entre as teorias utilizadas na Administração, a Teoria Matemática é a que mantém o foco no processo decisório racional, baseado em procedimentos matemáticos, estatísticos e computacionais. Essa teoria surgiu entre os anos 1940 e 1950 e, desde então, está presente nas práticas e nas tendências gerenciais. A teoria dos jogos, a teoria das filas, a teoria das probabilidades e a programação linear, aplicadas aos problemas gerenciais de técnicas e métodos recorrentes nas ciências matemáticas originaram-se da Teoria Matemática.
+A evolução recente de usos da Teoria Matemática está evidenciada nos métodos e processos de Big Data, Business Intelligence e Business Analytics, que utilizam plataformas computacionais com grandes volumes de dados em diferentes formatos (numérico, textual, visual).
+Quando consideramos as diferentes especialidades e funções gerenciais, temos variações de intensidade de uso dessas ferramentas, em áreas que fazem uso intensivo de métodos e ferramentas, e, em outras que têm uso reduzido. Além disso, as áreas funcionais vinculam-se, de forma diferenciada, aos diferentes métodos.
+Fonte do Texto: ANDRADE, R.; AMBONI, N. TGA - Teoria Geral da Administração, 2017 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""Qual é a principal característica da Teoria Matemática na Administração?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Foco no processo decisório emocional"", ""B"": ""Foco no processo decisório racional"", ""C"": ""Foco no processo decisório intuitivo"", ""D"": ""Foco no processo decisório financeiro"", ""E"": ""Foco no processo decisório ético""}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Foco no processo decisório racional""
+        },
+        {
+            ""question"": ""Quais teorias foram originadas da Teoria Matemática?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Teoria dos Jogos, Teoria das Filas e Teoria das Probabilidades"", ""B"": ""Teoria da Programação Linear e Teoria da Otimização"", ""C"": ""Teoria da Estatística e Teoria da Matemática"", ""D"": ""Teoria da Economia e Teoria da Sociologia"", ""E"": ""Teoria da Física e Teoria da Química""}
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Teoria dos Jogos, Teoria das Filas e Teoria das Probabilidades""
+        },
+        {
+            ""question"": ""Como a Teoria Matemática evoluiu recentemente?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Através da aplicação de métodos estatísticos"", ""B"": ""Através da criação de novas ferramentas"", ""C"": ""Através da combinação de métodos matemáticos e computacionais"", ""D"": ""Através da análise de grandes volumes de dados"", ""E"": ""Através da criação de novas teorias""]
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Através da combinação de métodos matemáticos e computacionais""
+        },
+        {
+            ""question"": ""Como as áreas funcionais se vinculam aos diferentes métodos?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""De forma igual e uniforme"", ""B"": ""De forma diferenciada, com uso intensivo em algumas áreas"", ""C"": ""De forma reduzida, sem uso de métodos complexos"", ""D"": ""De forma excludente, com uso de apenas um método"", ""E"": ""De forma adaptável, dependendo do contexto""]
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""De forma diferenciada, com uso intensivo em algumas áreas""
+        },
+        {
+            ""question"": ""Quais são os principais exemplos de aplicação da Teoria Matemática nos meios de Big Data, Business Intelligence e Business Analytics?"",
+            ""bloom_level"": ""Create"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Análise de dados numéricos e visualização de resultados"", ""B"": ""Desenvolvimento de algoritmos para processamento de grandes volumes de dados"", ""C"": ""Criação de relatórios e dashboards para tomada de decisão"", ""D"": ""Análise de tendências e predição de resultados"", ""E"": ""Desenvolvimento de modelos de machine learning para previsão de resultados""]
+            ],
+            ""correct_answer"": [""A"", ""B"", ""C""],
+            ""correct_answer_letter"": [""A"", ""B"", ""C""],
+            ""correct_answer_text"": ""Análise de dados numéricos e visualização de resultados, Desenvolvimento de algoritmos para processamento de grandes volumes de dados e Criação de relatórios e dashboards para tomada de decisão""
+        }
+    ]
+}","Expecting ',' delimiter: line 30 column 286 (char 1831)"
+18,13,Administração,2022,"A Teoria da Contingência propõe o pressuposto de que as organizações recebem influências do ambiente onde estão inseridas. Desse modo, o ambiente pode contribuir para remodelar características específicas da empresa em determinado momento.
+Nesses termos, uma mesma organização que possua diferentes sedes pode ser condicionada a planejar e a executar seu processo decisório de maneiras distintas para lugares distintos. A unificação de procedimentos, processos e decisões, que seria, a priori, adequada para facilitar o gerenciamento, torna-se pressionada por fatores como negociações com grupos locais, cultura local, disponibilidade de recursos e legislações locais. A liderança corporativa e/ou de áreas funcionais torna-se um processo muito mais complexo e desafiador.
+Fonte do Texto: MOURA, G. D.; CAMARGO, T. F.; ZANIN, A. Competitividade de mercado e gerenciamento de resultados: um estudo sob a ótica da Teoria da Contingência (adaptado).
+","{
+    ""questions"": [
+        {
+            ""question"": ""A Teoria da Contingência propõe que as organizações recebem influências do ambiente onde estão inseridas."",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Sim, a Teoria da Contingência propõe que as organizações recebem influências do ambiente."", ""B"": ""Não, a Teoria da Contingência propõe que as organizações são independentes do ambiente."", ""C"": ""A Teoria da Contingência não aborda o tema de influências do ambiente."", ""D"": ""A resposta é incerta."", ""E"": ""Não há relação entre a Teoria da Contingência e o ambiente.""
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Sim, a Teoria da Contingência propõe que as organizações recebem influências do ambiente.""
+        },
+        {
+            ""question"": ""Uma mesma organização com diferentes sedes pode ser condicionada a planejar e a executar seu processo decisório de maneiras distintas para lugares distintos."",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Sim, a diversidade de sedes pode influenciar o processo decisório."", ""B"": ""Não, a Teoria da Contingência não aborda a diversidade de sedes e processo decisório."", ""C"": ""O processo decisório é independente das sedes."", ""D"": ""A resposta é incerta."", ""E"": ""O processo decisório é unificado para todas as sedes.""
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Sim, a diversidade de sedes pode influenciar o processo decisório.""
+        },
+        {
+            ""question"": ""A unificação de procedimentos, processos e decisões pode ser pressionada por fatores como negociações com grupos locais, cultura local, disponibilidade de recursos e legislações locais."",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Sim, a unificação de procedimentos, processos e decisões pode ser pressionada por esses fatores."", ""B"": ""Não, a unificação de procedimentos, processos e decisões é independente dos fatores locais."", ""C"": ""A unificação é um obstáculo para o sucesso da empresa."", ""D"": ""A resposta é incerta."", ""E"": ""A unificação é uma necessidade para o sucesso da empresa.""
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Sim, a unificação de procedimentos, processos e decisões pode ser pressionada por esses fatores.""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 687)"
+19,16,Administração,2022,"Ao utilizar o modelo de análise de mercado proposto por Porter, procura-se identificar as forças que atuam em um mercado dinâmico e competitivo, determinando-se a intensidade da competição em dado setor. A seguir, é apresentada a figura que representa o mencionado modelo.
+Descrição da figura: Título: “As cinco forças competitivas de Porter”. Em destaque temos as empresas que já são concorrentes no campo industrial. Sobre estas empresas concorrentes existem duas ameaças: as empresas entrantes potenciais e os produtos e serviços substitutos. Também atuam sobre estas empresas concorrentes os compradores e fornecedores com seu poder de negociação. Assim, entrantes potenciais, substitutos, fornecedores e compradores exercem influência sobre as empresas concorrentes na indústria.
+
+","{
+    ""questions"": [
+        {
+            ""question"": ""Qual é o objetivo principal do modelo de análise de mercado proposto por Porter?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Identificar as forças que atuam em um mercado dinâmico e competitivo"", ""B"": ""Analisar a estrutura de um mercado"", ""C"": ""Definir a estratégia de uma empresa"", ""D"": ""Determinar a intensidade da concorrência em um setor"", ""E"": ""Criar um plano de marketing""
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Identificar as forças que atuam em um mercado dinâmico e competitivo""
+        },
+        {
+            ""question"": ""Quais são as duas ameaças que atuam sobre as empresas concorrentes no modelo de Porter?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Empresas entrantes potenciais e fornecedores"", ""B"": ""Empresas entrantes potenciais e produtos substitutos"", ""C"": ""Fornecedores e compradores"", ""D"": ""Compradores e produtos substitutos"", ""E"": ""Empresas concorrentes e produtos substitutos""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Empresas entrantes potenciais e produtos substitutos""
+        },
+        {
+            ""question"": ""Quem exerce influência sobre as empresas concorrentes no modelo de Porter?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Empresas concorrentes apenas"", ""B"": ""Empresas concorrentes e fornecedores"", ""C"": ""Empresas concorrentes e compradores"", ""D"": ""Empresas concorrentes, fornecedores e compradores"", ""E"": ""Nenhum grupo de empresas""
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Empresas concorrentes, fornecedores e compradores""
+        },
+        {
+            ""question"": ""Qual é a razão pela qual os compradores e fornecedores exercem influência sobre as empresas concorrentes no modelo de Porter?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Porque eles são importantes para a estrutura de mercado"", ""B"": ""Porque eles têm poder de negociação"", ""C"": ""Porque eles são responsáveis pela concorrência"", ""D"": ""Porque eles são concorrentes diretos"", ""E"": ""Porque eles são indiferentes""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Porque eles têm poder de negociação""
+        },
+        {
+            ""question"": ""Qual é a consequência da intensidade da concorrência em um setor, de acordo com o modelo de Porter?"",
+            ""bloom_level"": ""Create"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Aumenta a margem de lucro das empresas"", ""B"": ""Diminui a margem de lucro das empresas"", ""C"": ""Nenhuma consequência"", ""D"": ""Fomenta a inovação"", ""E"": ""Fomenta a concorrência""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Diminui a margem de lucro das empresas""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 535)"
+20,18,Administração,2022,"Segundo o Instituto Ethos, em uma economia inclusiva, “os investimentos públicos e privados, as regras, as instituições, as tecnologias e os programas devem estar voltados também para o atendimento das necessidades e dos direitos de todos os seres humanos, sem o que não será possível construir ambientes sociais saudáveis em nenhuma atividade produtiva.”.
+Disponível no site Ethos. Acesso em: 23 ago. 2022 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""Qual é o objetivo principal de uma economia inclusiva?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Garantir a prosperidade dos investidores."", ""B"": ""Atender às necessidades e direitos de todos os seres humanos."", ""C"": ""Fomentar a competitividade entre as empresas."", ""D"": ""Reduzir os impostos."", ""E"": ""Melhorar a eficiência do mercado livre.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Atender às necessidades e direitos de todos os seres humanos.""
+        },
+        {
+            ""question"": ""Quais são os principais componentes que devem estar voltados para o atendimento das necessidades e direitos de todos os seres humanos em uma economia inclusiva?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Investimentos públicos e privados, regras, instituições e tecnologias."", ""B"": ""Investimentos públicos e privados, tecnologias e programas."", ""C"": ""Regras, instituições e programas."", ""D"": ""Investimentos públicos e programas."", ""E"": ""Tecnologias e instituições.""
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Investimentos públicos e privados, regras, instituições e tecnologias.""
+        },
+        {
+            ""question"": ""Como construir ambientes sociais saudáveis em atividades produtivas?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Através da implementação de políticas públicas que priorizem a igualdade de gênero."", ""B"": ""Através da criação de programas que promovam a diversidade e o inclusivismo."", ""C"": ""Através da construção de infraestruturas que garantam a segurança dos trabalhadores."", ""D"": ""Através da formação de equipes que integrem pessoas com deficiência."", ""E"": ""Através da implementação de tecnologias que reduzam a carga de trabalho.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Através da criação de programas que promovam a diversidade e o inclusivismo.""
+        },
+        {
+            ""question"": ""Por que é importante construir ambientes sociais saudáveis em atividades produtivas?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Porque isso ajuda a reduzir os custos de saúde dos trabalhadores."", ""B"": ""Porque isso promove a produtividade e a eficiência das empresas."", ""C"": ""Porque isso garante a igualdade de oportunidades para todos os trabalhadores."", ""D"": ""Porque isso ajuda a melhorar a qualidade de vida dos trabalhadores."", ""E"": ""Porque isso é um requisito para a obtenção de certificação de empresa responsável.""
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Porque isso ajuda a melhorar a qualidade de vida dos trabalhadores.""
+        },
+        {
+            ""question"": ""Como a construção de ambientes sociais saudáveis em atividades produtivas pode ser avaliada?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Através da coleta de dados sobre a satisfação dos trabalhadores."", ""B"": ""Através da análise de indicadores de produtividade e eficiência."", ""C"": ""Através da avaliação das políticas públicas que promovem a inclusividade."", ""D"": ""Através da análise das infraestruturas que garantam a segurança dos trabalhadores."", ""E"": ""Através da comparação com empresas semelhantes.""
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Através da coleta de dados sobre a satisfação dos trabalhadores.""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 499)"
+21,30,Administração,2022,"A pesquisa de marketing inclui identificação, coleta, análise, disseminação e uso de informações, e cada fase desse processo é importante. Identificamos ou definimos o problema ou oportunidade de pesquisa de marketing e, a seguir, determinamos as informações necessárias para investigá-lo. Como toda oportunidade de marketing se traduz em um problema de pesquisa a ser investigado, os termos “problema” e “oportunidade” são usados de forma intercambiável. Em seguida, identificam-se as fontes relevantes de informações e avaliam-se os métodos de coleta de dados com sofisticação e complexidade variadas em função da sua utilidade. Os dados são coletados pelo método mais adequado e, posteriormente, são analisados e interpretados para proporcionar as devidas inferências. Finalmente, as constatações, implicações e recomendações permitem a utilização das informações para a tomada de decisões de marketing e ações diretas.
+Fonte do Texto: MALHOTRA, N. K. Pesquisa de marketing: uma orientação aplicada (adaptado).
+","{
+    ""questions"": [
+        {
+            ""question"": ""Qual é o primeiro passo da pesquisa de marketing?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Definir a oportunidade de pesquisa"", ""B"": ""Identificar as fontes relevantes de informações"", ""C"": ""Coletar dados"", ""D"": ""Analisar e interpretar dados"", ""E"": ""Utilizar as informações para tomar decisões""}
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Definir a oportunidade de pesquisa""
+        },
+        {
+            ""question"": ""O que é comum entre o termos ‘problema’ e ‘oportunidade’ no contexto da pesquisa de marketing?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": Eles são usados para descrever processos diferentes"", ""B"": Eles são usados de forma intercambiável"", ""C"": Eles são termos exclusivos do marketing"", ""D"": Eles são termos exclusivos da gestão"", ""E"": Eles são termos sem significado""]
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Eles são usados de forma intercambiável""
+        },
+        {
+            ""question"": ""Qual é o objetivo principal da análise e interpretação de dados na pesquisa de marketing?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": Identificar as fontes relevantes de informações"", ""B"": Coletar dados com sofisticação e complexidade variadas"", ""C"": Proporcionar as devidas inferências"", ""D"": Utilizar as informações para tomar decisões"", ""E"": Desenvolver modelos de negócios""]
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Proporcionar as devidas inferências""
+        },
+        {
+            ""question"": ""O que é resultado da análise e interpretação de dados na pesquisa de marketing?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": A identificação das fontes relevantes de informações"", ""B"": A coleta de dados com sofisticação e complexidade variadas"", ""C"": A proposta de ações para tomar decisões"", ""D"": A identificação das oportunidades de marketing"", ""E"": A avaliação das alternativas de marketing""]
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""A proposta de ações para tomar decisões""
+        },
+        {
+            ""question"": ""O que é o resultado final da pesquisa de marketing?"",
+            ""bloom_level"": ""Create"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": A identificação das fontes relevantes de informações"", ""B"": A coleta de dados com sofisticação e complexidade variadas"", ""C"": A proposta de ações para tomar decisões"", ""D"": A utilização das informações para tomar decisões e acções diretas"", ""E"": A definição da oportunidade de pesquisa""]
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""A utilização das informações para tomar decisões e acções diretas""
+        }
+    ]
+}",Expecting value: line 19 column 23 (char 886)
+22,12,Jornalismo,2022,"Descrição da imagem: Imagem de um cenário de telejornal, onde o apresentador negro dialoga com cinco outras profissionais da comunicação, também negras. Abaixo aparecem os textos: “MANIFESTAÇÕES NOS ESTADOS UNIDOS” “RAPAZIADA... A PAUTA É RACISMO...”
+“MAIS 3 POLICIAIS VÃO RESPONDER PELO ASSASSINATO DE GEORGE FLOYD”.
+Após o programa Em Pauta, da GloboNews, ser alvo de críticas nas redes sociais por só ter jornalistas e comentaristas brancos falando sobre racismo, a atração do dia seguinte contou com um time de profissionais negros para debater o assunto. O apresentador Marcelo Cosme começou o programa dizendo que eles entenderam o recado dos internautas e, por isso, convidaram um time de profissionais negros para “discutir um tema que eles conhecem muito bem, porque o enfrentam em suas vidas”. Em ambos os dias, o programa abordou a onda de protestos contra o racismo ocorrida nos Estados Unidos depois da morte de George Floyd, sufocado por um policial branco em Mineápolis.
+Disponível no site da uol. Acesso em: 27 jun. 2022 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""Qual foi o motivo da atração do programa Em Pauta, da GloboNews, ser alvo de críticas nas redes sociais?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""A atração não havia sido criticada antes"", ""B"": ""A atração havia apenas um apresentador negro"", ""C"": ""A atração só havia jornalistas e comentaristas brancos falando sobre racismo"", ""D"": ""A atração não havia discutido o tema de racismo antes"", ""E"": ""A atração havia sido elogiada por todos""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""A atração só havia jornalistas e comentaristas brancos falando sobre racismo""
+        },
+        {
+            ""question"": ""Qual foi o objetivo do programa Em Pauta, da GloboNews, ao convidar um time de profissionais negros para debater o assunto?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Para demonstrar que o assunto era de interesse apenas para negros"", ""B"": ""Para discutir um tema que os profissionais negros conhecem muito bem"", ""C"": ""Para mostrar que os profissionais brancos sabem mais sobre o assunto"", ""D"": ""Para evitar críticas nas redes sociais"", ""E"": ""Para apenas apresentar notícias""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Para discutir um tema que os profissionais negros conhecem muito bem""
+        },
+        {
+            ""question"": ""Qual foi o tema que o apresentador Marcelo Cosme disse que os profissionais negros conhecem muito bem?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""O tema da morte de George Floyd"", ""B"": ""O tema da onda de protestos contra o racismo"", ""C"": ""O tema do racismo"", ""D"": ""O tema da justiça social"", ""E"": ""O tema da comunicação""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""O tema do racismo""
+        },
+        {
+            ""question"": ""Quais foram os dois dias em que o programa Em Pauta, da GloboNews, abordou a onda de protestos contra o racismo?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Um dia"", ""B"": ""Dois dias"", ""C"": ""Três dias"", ""D"": ""Quatro dias"", ""E"": ""Nenhum dos dias""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Dois dias""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 595)"
+23,27,Jornalismo,2022,"A edição jornalística requer isenção e equilíbrio. No jornalismo televisivo, a função do editor é organizar o material que foi coletado na rua e montar a história que vai ser contada no telejornal.
+Suponha que um repórter desenvolva uma matéria sobre denúncia de maus-tratos a uma pessoa com deficiência em uma escola particular. Até o fechamento da edição que vai veicular a matéria, o repórter entrevista o denunciante, mas não consegue entrar em contato com o dono da escola denunciada, que não foi localizado. Faltando poucos minutos para o telejornal ir ao ar, o dono da escola liga para a emissora e relata sua versão por telefone ao editor.
+","{
+    ""questions"": [
+        {
+            ""question"": ""Qual é a função do editor no jornalismo televisivo?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Entrevistar os entrevistados."", ""B"": ""Organizar o material coletado."", ""C"": ""Escrever o texto do telejornal."", ""D"": ""Realizar as gravações."", ""E"": ""Montar a história do telejornal.""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Organizar o material coletado.""
+        },
+        {
+            ""question"": ""O que o repórter desenvolveu para a edição?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Uma matéria de futebol."", ""B"": ""Uma matéria sobre denúncia de maus-tratos."", ""C"": ""Uma matéria sobre política."", ""D"": ""Uma matéria sobre economia."", ""E"": ""Uma matéria sobre saúde.""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Uma matéria sobre denúncia de maus-tratos.""
+        },
+        {
+            ""question"": ""Qual é o resultado da entrevista do repórter com o denunciante?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""O denunciante não quis se entrevistar."", ""B"": ""O repórter não conseguiu entrevistar o denunciante."", ""C"": ""O repórter conseguiu entrevistar o denunciante e obter uma declaração."", ""D"": ""O repórter não entrevistou o denunciante."", ""E"": ""O denunciante não foi localizado.""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""O repórter não conseguiu entrevistar o denunciante.""
+        },
+        {
+            ""question"": ""Quem ligou para a emissora para relatar sua versão?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""O denunciante."", ""B"": ""O dono da escola."", ""C"": ""O repórter."", ""D"": ""O editor."", ""E"": ""Ninguém.""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""O dono da escola.""
+        },
+        {
+            ""question"": ""Quando o dono da escola ligou para a emissora?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Antes da entrevista com o denunciante."", ""B"": ""Depois da entrevista com o denunciante."", ""C"": ""Faltando poucos minutos para o telejornal ir ao ar."", ""D"": ""Durante a entrevista com o denunciante."", ""E"": ""Ninguém.""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Faltando poucos minutos para o telejornal ir ao ar.""
+        },
+        {
+            ""question"": ""O que é a função do editor em relação ao material coletado?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Organizar o material e montar a história."", ""B"": ""Entrevistar os entrevistados e coletar informações."", ""C"": ""Escrever o texto do telejornal e gravar as imagens."", ""D"": ""Verificar a precisão das informações e certificar-se da autenticidade das fontes."", ""E"": ""Ninguém.""},
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Organizar o material e montar a história.""
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 436)
+24,32,Jornalismo,2022,"Não pode ser negado acesso a informações que sejam necessárias para garantir ou reivindicar direitos fundamentais (liberdade de expressão, vida, liberdade religiosa etc.). Documentos com informações sobre violação de direitos humanos praticada por agentes públicos ou por ordem de autoridades públicas devem ser de acesso livre, sem restrições. Detalhe relevante: esta determinação permite que a grande maioria dos documentos relacionados à prática de tortura e outros tipos de violação de direitos cometidos durante a ditadura militar seja aberta.
+Fonte do Texto: ABRAJI. Lei de Acesso a Informações Públicas: o que você precisa saber. 2014 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""Qual é o princípio fundamental da Lei de Acesso à Informação Pública?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": {
+                ""A"": ""O acesso às informações é restrito apenas às autoridades públicas."",
+                ""B"": ""A não pode ser negado acesso às informações necessárias para garantir ou reivindicar direitos fundamentais."",
+                ""C"": ""A Lei de Acesso à Informação Pública é uma lei secreta."",
+                ""D"": ""O acesso às informações públicas é pago."",
+                ""E"": ""As informações públicas são apenas acessíveis para os jornalistas.""
+            },
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""A não pode ser negado acesso às informações necessárias para garantir ou reivindicar direitos fundamentais.""
+        },
+        {
+            ""question"": ""Segundo a Lei de Acesso à Informação Pública, quais documentos devem ser de acesso livre, sem restrições?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": {
+                ""A"": ""Documentos secretos da inteligência nacional."",
+                ""B"": ""Documentos com informações sobre violação de direitos humanos praticada por agentes públicos ou por ordem de autoridades públicas."",
+                ""C"": ""Documentos comerciais das empresas públicas."",
+                ""D"": ""Documentos pessoais de políticos."",
+                ""E"": ""Documentos sobre projetos de infraestrutura.""
+            },
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Documentos com informações sobre violação de direitos humanos praticada por agentes públicos ou por ordem de autoridades públicas.""
+        },
+        {
+            ""question"": ""A legislação que regula o acesso às informações públicas foi promulgada em que ano?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": {
+                ""A"": ""2000"",
+                ""B"": ""2014"",
+                ""C"": ""2002"",
+                ""D"": ""1995"",
+                ""E"": ""1998""
+            },
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""2014""
+        },
+        {
+            ""question"": ""Quais são os fundamentos que justificam o acesso às informações públicas, de acordo com a Lei de Acesso à Informação Pública?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": {
+                ""A"": ""A garantia da segurança nacional e a proteção da indústria petrolífera."",
+                ""B"": ""A garantia do direito à liberdade de expressão e a proteção dos direitos humanos."",
+                ""C"": ""A proteção da privacidade individual e a segurança do Estado.""
+                ""D"": ""A proteção dos interesses das empresas públicas e a garantia da justiça.""
+                ""E"": ""A garantia da ordem pública e a proteção da família.""
+            },
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""A garantia do direito à liberdade de expressão e a proteção dos direitos humanos.""
+        }
+    ]
+}","Expecting ',' delimiter: line 56 column 17 (char 2986)"
+25,2,Direito,2022,"TEXTO 1
+Dados do levantamento feito pelo TransgenderEurope (TGEU) mostram que o Brasil permaneceu pelo 13o ano consecutivo como o país que mais mata pessoas transgêneros.
+Descrição do Mapa: Título: Mortes de Transgêneros – por países de 2008 a 2021 – Números absolutos:
+• Maior que 1000: Brasil. • 501 a 1000: México. • 251 a 500: EUA. • 101 a 250: Argentina, Venezuela, Colômbia, Índia. • 51 a 100: Turquia.
+• 2 a 50: Canadá, Rússia, China, Arábia Saudita, Austrália e parte da Europa.
+TEXTO 2
+De acordo com dados do Sistema de Informação de Agravos de Notificação (Sinan), do Ministério da Saúde, houve um crescimento bruto de 5% nas violências contra homossexuais e 37,1% nas violências contra bissexuais, passando de 4 855 registros em 2018 para 5 330 em 2019. No gráfico a seguir são apresentados os dados percentuais de casos notificados em 2019, de acordo com a orientação sexual das vítimas de violência.
+Descrição do Gráfico: TÍtulo: Brasil: Perfil de Pessoas Homossexuais e Bissexuais Vítimas de Violência, por orientação Sexual, por Faixa etária (2019):
+• 10 a 14 anos: Heterossexuais (9%), Homossexuais (6%), Bissexuais (8%). • 15 a 19 anos: Heterossexuais (14%), Homossexuais (16%), Bissexuais (27%). • 35 a 39 anos: Heterossexuais (11%), Homossexuais (9%), Bissexuais (7%). • 40 a 44 anos: Heterossexuais (9%), Homossexuais (7%), Bissexuais (4%). • 60 a 64 anos: Heterossexuais (3%), Homossexuais (2%), Bissexuais (1%).","{
+    ""questions"": [
+        {
+            ""question"": ""De acordo com o levantamento do TransgenderEurope (TGEU), qual país permaneceu como o país que mais mata pessoas transgêneros em 13 anos consecutivos?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Brasil"", ""B"": ""México"", ""C"": ""EUA"", ""D"": ""Argentina"", ""E"": ""Turquia""},
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Brasil""
+            }
+        },
+        {
+            ""question"": ""Quais países apresentaram um número de mortes de pessoas transgêneros entre 101 a 250 em 2008 a 2021, de acordo com o mapa?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Argentina, Venezuela, Colômbia, Índia"", ""B"": ""Canadá, Rússia, China, Arábia Saudita, Austrália"", ""C"": ""Brasil, México, EUA"", ""D"": ""Turquia"", ""E"": ""Europa""},
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Argentina, Venezuela, Colômbia, Índia""
+            }
+        },
+        {
+            ""question"": ""Quais são os principais motivos para o crescimento das violências contra homossexuais e bissexuais no Brasil, segundo dados do Sistema de Informação de Agravos de Notificação (Sinan)?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Crescimento populacional"", ""B"": ""Aumento da conscientização sobre a importância do respeito à diversidade sexual"", ""C"": ""Crescimento das violências contra homossexuais e bissexuais"", ""D"": ""Aumento da criminalidade"", ""E"": ""Piora da economia""},
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""Crescimento das violências contra homossexuais e bissexuais""
+            }
+        },
+        {
+            ""question"": ""Quais são as faixas etárias que apresentaram os maiores percentuais de vítimas homossexuais, bissexuais e heterossexuais em 2019, segundo o gráfico?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""10 a 14 anos e 15 a 19 anos"", ""B"": ""35 a 39 anos e 40 a 44 anos"", ""C"": ""15 a 19 anos e 60 a 64 anos"", ""D"": ""10 a 14 anos e 60 a 64 anos"", ""E"": ""15 a 19 anos e 40 a 44 anos""},
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""10 a 14 anos e 15 a 19 anos""
+            }
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 40 (char 449)"
+26,7,Direito,2022,"TEXTO 1
+Descrição do Gráfico:
+Título: América Latina, Caribe (21 países): Feminicídio ou femicídio (2021) (em números absolutos e taxas por 100 mil mulheres)
+São apresentados os seguintes dados: Países - Número Absoluto de Mortes - Mortes a cada 100 mil mulheres (aproximadamente)
+Honduras - 227 - 4,8
+SantaLúcia-4-4,5
+ Trinidad e Tobago - 22 - 3,1
+República Dominicana - 132 - 2,4
+ElSalvador-73-2,3
+Bolívia-113-2
+Brasil - 1738 - 1,8
+Panamá-31-1,5
+México-948-1,6
+Guatemala - 119 - 1,2
+Uruguai-19-1,1
+Argentina - 251 - 1,1
+Paraguai-36-1
+Equador-79-0,9
+Peru-148-0,9
+
+TEXTO 2
+Resultados de pesquisa da Comissão Econômica para a América Latina e o Caribe (CEPAL), vinculada à Organização das Nações Unidas (ONU), apontam que, além do feminicídio íntimo, aquele perpetrado por parceiros ou ex-parceiros da vítima, e do feminicídio sexual sistêmico, em que a vítima é sequestrada e estuprada, há o feminicídio lesbofóbico ou bifóbico, configurado quando a vítima é bissexual ou lésbica e é assassinada porque o agressor entende que deve puni-la por sua orientação sexual.
+Disponível no site da ebc. Acesso em: 22 ago. 2022.","{
+    ""questions"": [
+        {
+            ""question"": ""Qual país apresenta a maior taxa de feminicídio em números absolutos em 2021?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Brasil"", ""B"": ""México"", ""C"": ""República Dominicana"", ""D"": ""Honduras"", ""E"": ""Argentina""},
+                ""correct_answer"": [""A""]
+        },
+        {
+            ""question"": ""A taxa de feminicídio em Honduras é maior do que a taxa em Trinidad e Tobago"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Verdadeiro"", ""B"": ""Falso"", ""C"": ""Nenhuma das alternativas"", ""D"": ""A taxa é igual"", ""E"": ""A taxa não é comparável""},
+                ""correct_answer"": [""A""]
+        },
+        {
+            ""question"": ""O feminicídio lesbofóbico ou bifóbico é configurado quando a vítima é assassinada porque o agressor entende que deve puni-la por sua orientação sexual"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Sim"", ""B"": ""Não"", ""C"": ""Só é configurado quando a vítima é homem"", ""D"": ""Só é configurado quando a vítima é mulher"", ""E"": ""Nenhuma das alternativas""},
+                ""correct_answer"": [""A""]
+        },
+        {
+            ""question"": ""Qual é a taxa de feminicídio em Peru em 2021 aproximadamente?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""0,9"", ""B"": ""1,1"", ""C"": ""1,5"", ""D"": ""2,3"", ""E"": ""4,8""},
+                ""correct_answer"": [""A""]
+        },
+        {
+            ""question"": ""A Comissão Econômica para a América Latina e o Caribe (CEPAL) é uma organizaçao vinculada à Organização das Nações Unidas (ONU)"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Sim"", ""B"": ""Não"", ""C"": ""Uma instituição independente"", ""D"": ""Uma instituição internacional"", ""E"": ""Uma instituição nacional""},
+                ""correct_answer"": [""A""]
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 33 (char 387)"
+27,8,Direito,2022,"Descrição da imagem:
+Foto de Charles Humpres mostrando grafite de Eduardo Kobra. A arte ocupa o espaço lateral de dois andares de um prédio, sendo caracterizada pelo uso intenso de contrastes e cores que retrata um homem sentado ao chão, cabeça baixa, descalço, com dois pratos vazios ao seu lado e segurando um cartaz escrito “Welcome to real Brazil”.
+nicialmente, a natureza transgressora do grafite foi encarada pelo Estado como vandalismo no espaço público e como um perigo para a conservação da propriedade privada, devendo-se, portanto, combatê-lo. Com o tempo, contudo, essa concepção marginal transformou-se, incidindo em uma valorização aceitável pelo Estado e positiva para a sociedade. Essa transição do grafite, de arte marginal para manifestação artística reconhecida e aceita, tem revelado aspectos importantes não somente para os profissionais do grafite, mas para a sociedade como um todo, pois incorpora a possibilidade de ele ser um produto artístico de valor cultural, econômico e ideológico.
+Fonte do Texto: PIRES, E. M.; SANTOS, F. A. A cidade de São Paulo e suas dinâmicas: graffiti, Lei Cidade Limpa e publicidade urbana. Anais do Museu Paulista: História e Cultura Material. v. 26, São Paulo, 2018 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""Como o Estado inicialmente encarou o grafite?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Como um produto artístico de valor cultural, econômico e ideológico"", ""B"": ""Como vandalismo no espaço público e perigo para a conservação da propriedade privada"", ""C"": ""Como expressão livre de arte"", ""D"": ""Como forma de protesto social"", ""E"": ""Como uma oportunidade de negócios""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Como vandalismo no espaço público e perigo para a conservação da propriedade privada""
+        },
+        {
+            ""question"": ""Qual é o resultado da transição do grafite de arte marginal para manifestação artística reconhecida e aceita?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Aumentou a criminalização do grafite"", ""B"": ""Revelou aspectos importantes para os profissionais do grafite e a sociedade"", ""C"": ""Reduziu a valorização do grafite como arte"", ""D"": ""Tornou-se mais difícil para os artistas a realizarem seu trabalho"", ""E"": ""Perdeu seu significado cultural""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Revelou aspectos importantes para os profissionais do grafite e a sociedade""
+        },
+        {
+            ""question"": ""O que o grafite incorpora ao ser um produto artístico de valor cultural, econômico e ideológico?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Uma oportunidade de ganhar dinheiro"", ""B"": ""Uma forma de expressão livre de arte"", ""C"": ""Uma possibilidade de ser reconhecido como arte"", ""D"": ""Uma maneira de criticar a sociedade"", ""E"": ""Uma forma de comunicar ideias e valores""
+            ],
+            ""correct_answer"": [""E""],
+            ""correct_answer_letter"": ""E"",
+            ""correct_answer_text"": ""Uma forma de comunicar ideias e valores""
+        },
+        {
+            ""question"": ""O que mudou em relação ao grafite com o tempo?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Sua natureza transgressora"", ""B"": ""Sua percepção pela sociedade"", ""C"": ""Sua valorização pelo Estado"", ""D"": ""Sua expressão artística"", ""E"": ""Sua criminalização""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Sua valorização pelo Estado""
+        },
+        {
+            ""question"": ""Qual é o resultado da transição do grafite de arte marginal para manifestação artística reconhecida e aceita para a sociedade?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Um aumento na criminalização do grafite"", ""B"": ""Uma valorização positiva do grafite"", ""C"": ""Uma perda de sua significação cultural"", ""D"": ""Uma redução na sua expressão artística"", ""E"": ""Uma perda de sua identidade""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Uma valorização positiva do grafite""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 525)"
+28,21,Direito,2022,"O empreendedorismo é exemplar: trata-se, frequentemente de forma oculta, de trabalho assalariado apresentado como “trabalho autônomo”. E essa mistificação encontra base social, uma vez que o “empreendedor” se imagina proprietário de si mesmo, mas, em sua concretude e efetividade, converte-se em “proletário de si-próprio”. A uberização do trabalho, realizada por meio de plataformas digitais, impõe aos trabalhadores, quase sempre, o rótulo de autônomos, porém, na verdade, é uma forma diferenciada de assalariamento, cujo objetivo da empresa é a obtenção de lucro e a espoliação do trabalho ao transferir os custos do trabalho aos próprios trabalhadores.
+Fonte do Texto: ANTUNES; FILGUEIRAS. Plataformas digitais, uberização do trabalho e regulação no capitalismo contemporâneo. 2020 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""O que é caracterizado como 'trabalho autônomo' frequentemente é, na verdade, um tipo de trabalho assalariado."",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Sim, é um tipo de trabalho autônomo."", ""B"": ""Não, é um tipo de trabalho assalariado."", ""C"": ""É um tipo de trabalho intermediário."", ""D"": ""Nenhuma das opções anteriores."", ""E"": ""Essa é uma questão política.""},
+            ],
+            ""correct_answer"": [""B"", ""correct_answer_letter"": ""B"", ""correct_answer_text"": ""Não, é um tipo de trabalho assalariado.""]
+        },
+        {
+            ""question"": ""A uberização do trabalho impõe ao trabalhador o rótulo de autônomo, mas isso é apenas uma forma de ocultar o real caráter do trabalho."",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Sim, é apenas uma forma de ocultar o real caráter do trabalho."", ""B"": ""Não, o rótulo de autônomo é verdadeiro."", ""C"": ""A uberização do trabalho não é um fato comum."", ""D"": ""O rótulo de autônomo é apenas uma forma de melhorar a qualidade do trabalho."", ""E"": ""A uberização do trabalho é uma inovação positiva.""},
+            ],
+            ""correct_answer"": [""A"", ""correct_answer_letter"": ""A"", ""correct_answer_text"": ""Sim, é apenas uma forma de ocultar o real caráter do trabalho.""]
+        },
+        {
+            ""question"": ""A empresa que utiliza plataformas digitais para uberizar o trabalho tem como objetivo final a obtenção de lucro e a espoliação do trabalho."",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Sim, é o objetivo final da empresa."", ""B"": ""Não, o objetivo final é melhorar a qualidade do trabalho."", ""C"": ""O objetivo final é apenas aumentar a produtividade."", ""D"": ""O objetivo final é reduzir os custos."", ""E"": ""O objetivo final é aumentar a satisfação dos funcionários.""},
+            ],
+            ""correct_answer"": [""A"", ""correct_answer_letter"": ""A"", ""correct_answer_text"": ""Sim, é o objetivo final da empresa.""]
+        },
+        {
+            ""question"": ""A mistificação do trabalho autônomo tem base social, pois o 'empreendedor' se imagina proprietário de si mesmo."",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Sim, é baseada na ideologia neoliberal."", ""B"": ""Não, é baseada na ideologia socialista."", ""C"": ""A mistificação é baseada na falta de conhecimento do trabalhador."", ""D"": ""A mistificação é baseada na necessidade de obter lucro."", ""E"": ""A mistificação é baseada na necessidade de melhorar a qualidade do trabalho.""},
+            ],
+            ""correct_answer"": [""A"", ""correct_answer_letter"": ""A"", ""correct_answer_text"": ""Sim, é baseada na ideologia neoliberal.""]
+        },
+        {
+            ""question"": ""A regulamentação do trabalho autônomo é uma forma de proteger os direitos dos trabalhadores em plataformas digitais."",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Sim, é uma forma de proteger os direitos dos trabalhadores."", ""B"": ""Não, é uma forma de controle governamental."", ""C"": ""A regulamentação é uma forma de impedir a inovação."", ""D"": ""A regulamentação é uma forma de aumentar a burocracia."", ""E"": ""A regulamentação é uma forma de reduzir a responsabilidade das empresas.""},
+            ],
+            ""correct_answer"": [""A"", ""correct_answer_letter"": ""A"", ""correct_answer_text"": ""Sim, é uma forma de proteger os direitos dos trabalhadores.""]
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 519)
+29,22,Direito,2022,"Entre 2011 e 2021, de acordo com o Ministério da Justiça, 297 712 imigrantes solicitaram refúgio no Brasil. Somente no ano de 2021, 29 107 imigrantes provenientes de 117 países solicitaram refúgio no Brasil, um acréscimo de 208 solicitações, se comparadas às de 2020, quando foram recebidas 28 899 solicitações. Ao final de 2021, 60 011 pessoas refugiadas eram reconhecidas pelo país.","{
+    ""questions"": [
+        {
+            ""question"": ""Qual foi o número total de imigrantes que solicitaram refúgio no Brasil entre 2011 e 2021?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""20 000"", ""B"": ""297 712"", ""C"": ""50 000"", ""D"": ""100 000"", ""E"": ""200 000""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""297 712""
+            }
+        },
+        {
+            ""question"": ""Em que ano houve um aumento de 208 solicitações de refúgio no Brasil em relação ao ano anterior?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""2019"", ""B"": ""2020"", ""C"": ""2021"", ""D"": ""2018"", ""E"": ""2017""},
+                ""correct_answer"": [""C""],
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""2021""
+            }
+        },
+        {
+            ""question"": ""Qual foi o número de países de origem dos imigrantes que solicitaram refúgio no Brasil em 2021?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""50"", ""B"": ""100"", ""C"": ""117"", ""D"": ""150"", ""E"": ""200""},
+                ""correct_answer"": [""C""],
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""117""
+            }
+        },
+        {
+            ""question"": ""A partir de 2021, quantas pessoas refugiadas eram reconhecidas pelo país?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""30 000"", ""B"": ""50 000"", ""C"": ""60 011"", ""D"": ""70 000"", ""E"": ""80 000""},
+                ""correct_answer"": [""C""],
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""60 011""
+            }
+        },
+        {
+            ""question"": ""Qual foi o aumento percentual das solicitações de refúgio no Brasil entre 2020 e 2021?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""5%"", ""B"": ""10%"", ""C"": ""20%"", ""D"": ""30%"", ""E"": ""40%""},
+                ""correct_answer"": [""C""],
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""20%""
+            }
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 33 (char 384)"
+30,25,Direito,2022,"O Pacto de São José da Costa Rica foi incorporado ao direito brasileiro em 1992. Posteriormente, em 1998, o Brasil reconheceu como obrigatória a jurisdição da Corte Interamericana de Direitos Humanos. Um dos grandes marcos no julgamento da Corte Interamericana de Direitos Humanos contra o Brasil foi o Caso Gomes Lund, no qual o Estado brasileiro foi condenado por não adotar a devida justiça de transição do período ditatorial para o democrático. Um dos desdobramentos da sentença foi a criação da Comissão da Verdade e a reparação às vítimas da ditadura militar no Brasil.","{
+    ""questions"": [
+        {
+            ""question"": ""Em qual ano o Pacto de São José da Costa Rica foi incorporado ao direito brasileiro?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""1980"", ""B"": ""1992"", ""C"": ""1998"", ""D"": ""2002"", ""E"": ""2010""},
+                ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""1992""
+        },
+        {
+            ""question"": ""Qual foi o ano em que o Brasil reconheceu como obrigatória a jurisdição da Corte Interamericana de Direitos Humanos?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""1990"", ""B"": ""1992"", ""C"": ""1998"", ""D"": ""2002"", ""E"": ""2008""},
+                ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""1998""
+        },
+        {
+            ""question"": ""Qual foi o resultado do julgamento da Corte Interamericana de Direitos Humanos contra o Brasil no Caso Gomes Lund?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""O Brasil foi absolvido de todas as acusações"", ""B"": ""O Estado brasileiro foi condenado por não adotar a devida justiça de transição"", ""C"": ""A Corte Interamericana de Direitos Humanos não emitiu qualquer sentença"", ""D"": ""O Brasil foi condenado por violação de direitos humanos"", ""E"": ""O Caso Gomes Lund não foi julgado pela Corte Interamericana de Direitos Humanos""},
+                ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""O Estado brasileiro foi condenado por não adotar a devida justiça de transição""
+        },
+        {
+            ""question"": ""Qual foi um dos desdobramentos da sentença do Caso Gomes Lund?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""A criação de uma nova comissão para investigar violações de direitos humanos"", ""B"": ""A reparação às vítimas da ditadura militar no Brasil"", ""C"": ""A anulação da Constituição Brasileira"", ""D"": ""A mudança da Lei de Segurança Nacional"", ""E"": ""A criação de uma comissão para julgar militares envolvidos em violações de direitos humanos""},
+                ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""A reparação às vítimas da ditadura militar no Brasil""
+        },
+        {
+            ""question"": ""O que foi criado como resultado da sentença do Caso Gomes Lund?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Uma comissão para investigar violações de direitos humanos"", ""B"": ""Uma comissão para julgar militares envolvidos em violações de direitos humanos"", ""C"": ""A Comissão da Verdade"", ""D"": ""Uma comissão para reparar as vítimas da ditadura militar"", ""E"": ""Uma comissão para mudar a Lei de Segurança Nacional""},
+                ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""A Comissão da Verdade""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 33 (char 367)"
+31,28,Direito,2022,"Em decisão monocrática, o Relator do Tribunal de Justiça de São Paulo (TJSP) considerou que em um determinado caso havia falta de fundamentação adequada, o que implicou a decretação de nulidade da sentença proferida pelo magistrado de primeiro grau, e apresentou a seguinte justificativa: “A omissão, pelo magistrado, da fundamentação de sua decisão com base nos elementos técnicos constantes dos autos, além de afrontar o inciso IX do artigo 93 da Constituição Federal de 1988 e o artigo 489, parágrafo primeiro, inciso IV, do Código de Processo Civil, que determinam que não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão que não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador, impossibilita a aferição, no grau superior, da pertinência e correção do ato judicial recorrido.”.
+Disponível no site do TJSP. Acesso em: 11 jul. 2022 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""Qual é o principal motivo alegado pelo Relator do Tribunal de Justiça de São Paulo para a decretação de nulidade da sentença?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": {
+                ""A"": ""A falta de fundamentação adequada da sentença"",
+                ""B"": ""A omissão do magistrado em justificar a sua decisão"",
+                ""C"": ""A falta de competência do magistrado para julgar o processo"",
+                ""D"": ""A demora excessiva na entrega da sentença"",
+                ""E"": ""A falta de interesse do autor para com o processo""
+            },
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""A falta de fundamentação adequada da sentença""
+        },
+        {
+            ""question"": ""Qual é o dispositivo constitucional citado pelo Relator para fundamentar a sua decisão?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": {
+                ""A"": ""Artigo 93, inciso IX, da Constituição Federal de 1988"",
+                ""B"": ""Artigo 489, parágrafo segundo, inciso IV, do Código de Processo Civil"",
+                ""C"": ""Artigo 5, inciso LXVIII, da Constituição Federal de 1988"",
+                ""D"": ""Artigo 1, inciso III, da Constituição Federal de 1988"",
+                ""E"": ""Artigo 125, inciso II, da Constituição Federal de 1988""
+            },
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Artigo 93, inciso IX, da Constituição Federal de 1988""
+        },
+        {
+            ""question"": ""O que significa a expressão ""fundamentação adequada"" no contexto da sentença judicial?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": {
+                ""A"": ""A justificativa da sentença com base nos fatos do processo"",
+                ""B"": ""A demonstração da competência do magistrado para julgar o processo"",
+                ""C"": ""A exposição dos motivos que levaram o magistrado a tomar a decisão"",
+                ""D"": ""A apresentação dos argumentos apresentados pelas partes no processo"",
+                ""E"": ""A exposição dos motivos que levaram o autor a iniciar o processo""
+            },
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""A exposição dos motivos que levaram o magistrado a tomar a decisão""
+        },
+        {
+            ""question"": ""Qual é o efeito da falta de fundamentação adequada da sentença ao julgador?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": {
+                ""A"": ""A sentença é considerada válida e não pode ser reformada"",
+                ""B"": ""A sentença é considerada nula e não pode ser executada"",
+                ""C"": ""A sentença é considerada válida, mas pode ser reformada em grau superior"",
+                ""D"": ""A sentença é considerada nula e pode ser executada"",
+                ""E"": ""A sentença é considerada válida e deve ser executada""
+            },
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""A sentença é considerada nula e não pode ser executada""
+        },
+        {
+            ""question"": ""O que ocorre quando a sentença não enfrenta todos os argumentos deduzidos no processo?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": {
+                ""A"": ""A sentença é considerada válida e não pode ser reformada"",
+                ""B"": ""A sentença é considerada nula e não pode ser executada"",
+                ""C"": ""A sentença é considerada válida, mas pode ser reformada em grau superior"",
+                ""D"": ""A sentença é considerada nula e pode ser executada"",
+                ""E"": ""A sentença é considerada válida e deve ser executada""
+            },
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""A sentença é considerada nula e não pode ser executada""
+        }
+    ]
+}","Expecting ',' delimiter: line 34 column 55 (char 1753)"
+32,32,Direito,2022,"Se Beauvoir considera sexo e gênero categorias distintas, então, poderíamos considerar que determinado gênero não decorre de determinado sexo, isto é, ser de um dado sexo não é necessariamente tornar-se de um gênero, ou, ainda, ""mulher"" não é precisamente uma categoria que expressa a construção cultural do corpo feminino, bem como a categoria ""homem"" não expressa a construção cultural do corpo masculino.
+Fonte do Texto: BUTLER. Problemas de gênero: feminismo e subversão da identidade. 2008 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""De acordo com Simone de Beauvoir, sexo e gênero são categorias"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""iguais e interdependentes"", ""B"": ""distintas e independentes"", ""C"": ""relacionadas, mas não necessariamente interdependentes"", ""D"": ""sem relação entre si"", ""E"": ""não é relevante para o contexto""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""distintas e independentes""
+        },
+        {
+            ""question"": ""Segundo Butler, o gênero não é diretamente relacionado ao sexo"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""sim, é uma consequência natural do sexo"", ""B"": ""não, é uma construção social"", ""C"": ""pode ser, dependendo do contexto"", ""D"": ""não, é uma característica biológica"", ""E"": ""é uma questão controversa""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""não, é uma construção social""
+        },
+        {
+            ""question"": ""A categoria 'mulher' não expressa única e exclusivamente a construção cultural do corpo feminino"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""sim, é a representação mais precisa da feminilidade"", ""B"": ""não, é uma construção social e cultural"", ""C"": ""talvez, dependendo da perspectiva"", ""D"": ""não, é uma característica biológica"", ""E"": ""é uma questão irrelevante""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""não, é uma construção social e cultural""
+        },
+        {
+            ""question"": ""De acordo com Butler, a noção de gênero é uma construção social e cultural"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""sim, mas não é a única construção social"", ""B"": ""não, é uma característica biológica"", ""C"": ""talvez, dependendo do contexto"", ""D"": ""sim, é a construção social mais importante"", ""E"": ""é uma questão irrelevante""
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""sim, mas não é a única construção social""
+        },
+        {
+            ""question"": ""A construção cultural do corpo humano é uma característica única e exclusiva da humanidade"",
+            ""bloom_level"": ""Create"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""sim, é uma característica única da humanidade"", ""B"": ""não, é uma característica compartilhada com outros seres vivos"", ""C"": ""talvez, dependendo da perspectiva"", ""D"": ""não, é uma característica biológica"", ""E"": ""é uma questão irrelevante""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""não, é uma característica compartilhada com outros seres vivos""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 456)"
+33,34,Direito,2022,"O direito à liberdade de expressão foi objeto de censura e punição durante o período de ditadura civil-militar no Brasil (1964 a 1985). Pessoas foram presas simplesmente por emitirem opinião considerada crítica. Professores, estudantes, intelectuais e artistas foram perseguidos, suas atividades e/ou manifestações, consideradas subversivas. Muitos foram exilados. Como resultado da transição democrática, foi promulgada a Constituição Federal de 1988, com rol extenso de direitos e garantias fundamentais, incluído o direito de livre manifestação do pensamento, que refletia o anseio de liberdade e de se evitar a repetição de experiências como aquelas.","{
+    ""questions"": [
+        {
+            ""question"": ""Qual foi o período de tempo em que o direito à liberdade de expressão foi objeto de censura e perseguição no Brasil?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""1945-1964"", ""B"": ""1964-1985"", ""C"": ""1985-1992"", ""D"": ""1992-2000"", ""E"": ""2000-2010""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""1964-1985""
+        },
+        {
+            ""question"": ""Quais foram as pessoas que foram perseguidas durante o período de ditadura civil-militar no Brasil?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Somente políticos"", ""B"": ""Somente intelectuais"", ""C"": ""Professores, estudantes, intelectuais e artistas"", ""D"": ""Somente trabalhadores"", ""E"": ""Somente empresários""},
+                ""correct_answer"": [""C""],
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""Professores, estudantes, intelectuais e artistas""
+        },
+        {
+            ""question"": ""Como resultado da transição democrática, qual foi promulgada em 1988?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Constituição Estadual"", ""B"": ""Constituição Federal"", ""C"": ""Lei da Liberdade de Expressão"", ""D"": ""Decreto Presidencial"", ""E"": ""Orçamento Nacional""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""Constituição Federal""
+        },
+        {
+            ""question"": ""Qual é o nome da Constituição promulgada em 1988 que reflete o anseio de liberdade e de se evitar a repetição de experiências como aquelas?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Constituição de 1934"", ""B"": ""Constituição de 1967"", ""C"": ""Constituição Federal de 1988"", ""D"": ""Constituição Estadual de 1982"", ""E"": ""Constituição de 1946""},
+                ""correct_answer"": [""C""],
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""Constituição Federal de 1988""
+        },
+        {
+            ""question"": ""Qual é o direito fundamental incluído na Constituição Federal de 1988 que reflete o anseio de liberdade e de se evitar a repetição de experiências como aquelas?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Direito à vida"", ""B"": ""Direito à liberdade de expressão"", ""C"": ""Direito à privacidade"", ""D"": ""Direito à propriedade"", ""E"": ""Direito à nacionalidade""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""Direito à liberdade de expressão""
+        },
+        {
+            ""question"": ""Como o direito à liberdade de expressão foi exercido durante o período de ditadura civil-militar no Brasil?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""De forma livre e sem restrições"", ""B"": ""De forma limitada e subordinada"", ""C"": ""De forma pública e demonstrativa"", ""D"": ""De forma privada e silenciosa"", ""E"": ""De forma violenta e agressiva""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""De forma limitada e subordinada""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 33 (char 422)"
+34,2,Psicologia,2022,"TEXTO 1
+Dados do levantamento feito pelo TransgenderEurope (TGEU) mostram que o Brasil permaneceu pelo 13o ano consecutivo como o país que mais mata pessoas transgêneros.
+Descrição do Mapa: Título: Mortes de Transgêneros – por países de 2008 a 2021 – Números absolutos:
+• Maior que 1000: Brasil. • 501 a 1000: México. • 251 a 500: EUA. • 101 a 250: Argentina, Venezuela, Colômbia, Índia. • 51 a 100: Turquia.
+• 2 a 50: Canadá, Rússia, China, Arábia Saudita, Austrália e parte da Europa.
+TEXTO 2
+De acordo com dados do Sistema de Informação de Agravos de Notificação (Sinan), do Ministério da Saúde, houve um crescimento bruto de 5% nas violências contra homossexuais e 37,1% nas violências contra bissexuais, passando de 4 855 registros em 2018 para 5 330 em 2019. No gráfico a seguir são apresentados os dados percentuais de casos notificados em 2019, de acordo com a orientação sexual das vítimas de violência.
+Descrição do Gráfico: TÍtulo: Brasil: Perfil de Pessoas Homossexuais e Bissexuais Vítimas de Violência, por orientação Sexual, por Faixa etária (2019):
+• 10 a 14 anos: Heterossexuais (9%), Homossexuais (6%), Bissexuais (8%). • 15 a 19 anos: Heterossexuais (14%), Homossexuais (16%), Bissexuais (27%). • 35 a 39 anos: Heterossexuais (11%), Homossexuais (9%), Bissexuais (7%). • 40 a 44 anos: Heterossexuais (9%), Homossexuais (7%), Bissexuais (4%). • 60 a 64 anos: Heterossexuais (3%), Homossexuais (2%), Bissexuais (1%).","{
+    ""questions"": [
+        {
+            ""question"": ""De acordo com o levantamento do TransgenderEurope (TGEU), qual país permaneceu como o país que mais mata pessoas transgêneros em 13 anos consecutivos?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Brasil"", ""B"": ""México"", ""C"": ""EUA"", ""D"": ""Argentina"", ""E"": ""Turquia""},
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Brasil""
+            }
+        },
+        {
+            ""question"": ""Quais países apresentaram um número de mortes de pessoas transgêneros entre 101 a 250 em 2008 a 2021, de acordo com o mapa?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Argentina, Venezuela, Colômbia, Índia"", ""B"": ""Canadá, Rússia, China, Arábia Saudita, Austrália"", ""C"": ""Brasil, México, EUA"", ""D"": ""Turquia"", ""E"": ""Europa""},
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Argentina, Venezuela, Colômbia, Índia""
+            }
+        },
+        {
+            ""question"": ""Quais são os principais motivos para o crescimento das violências contra homossexuais e bissexuais no Brasil, segundo dados do Sistema de Informação de Agravos de Notificação (Sinan)?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Crescimento populacional"", ""B"": ""Aumento da conscientização sobre a importância do respeito à diversidade sexual"", ""C"": ""Crescimento das violências contra homossexuais e bissexuais"", ""D"": ""Aumento da criminalidade"", ""E"": ""Piora da economia""},
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""Crescimento das violências contra homossexuais e bissexuais""
+            }
+        },
+        {
+            ""question"": ""Quais são as faixas etárias que apresentaram os maiores percentuais de vítimas homossexuais, bissexuais e heterossexuais em 2019, segundo o gráfico?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""10 a 14 anos e 15 a 19 anos"", ""B"": ""35 a 39 anos e 40 a 44 anos"", ""C"": ""15 a 19 anos e 35 a 39 anos"", ""D"": ""10 a 14 anos e 60 a 64 anos"", ""E"": ""15 a 19 anos e 60 a 64 anos""},
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""10 a 14 anos e 15 a 19 anos""
+            }
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 40 (char 449)"
+35,5,Psicologia,2022,"Pesquisa realizada pelo Observatório Brasileiro de Políticas Públicas da Universidade Federal de Minas Gerais (UFMG) aponta que a população em situação de rua aumentou no Brasil em 2022. De janeiro a maio deste ano, mais de 26 mil novas pessoas nessa situação foram registradas no Cadastro Único (CadÚnico) do Governo Federal. No país, mais de 180 mil pessoas estão registradas no CadÚnico.
+Disponível no site do g1.globo. Acesso em: 6 jul. 2022 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""Qual é o resultado da pesquisa realizada pelo Observatório Brasileiro de Políticas Públicas da Universidade Federal de Minas Gerais (UFMG) sobre a população em situação de rua no Brasil?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""A população em situação de rua diminuiu no Brasil em 2022."", ""B"": ""A população em situação de rua aumentou no Brasil em 2022."", ""C"": ""A população em situação de rua não mudou no Brasil em 2022."", ""D"": ""A população em situação de rua é desconhecida no Brasil em 2022."", ""E"": ""A população em situação de rua é zero no Brasil em 2022.""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""A população em situação de rua aumentou no Brasil em 2022.""
+        },
+        {
+            ""question"": ""Quanto foi o aumento de pessoas em situação de rua no Brasil, de janeiro a maio de 2022, segundo a pesquisa?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": "" Mais de 100 mil pessoas."", ""B"": "" Mais de 26 mil pessoas."", ""C"": "" Mais de 50 mil pessoas."", ""D"": "" Mais de 100 mil pessoas."", ""E"": "" Mais de 200 mil pessoas.""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Mais de 26 mil pessoas.""
+        },
+        {
+            ""question"": ""Que instituição é responsável pelo Cadastro Único (CadÚnico) do Governo Federal, onde estão registradas mais de 180 mil pessoas em situação de rua no Brasil?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Observatório Brasileiro de Políticas Públicas da Universidade Federal de Minas Gerais (UFMG)"", ""B"": ""Governo Federal"", ""C"": ""Instituto Brasileiro de Geografia e Estatística (IBGE)"", ""D"": ""Ministério da Saúde"", ""E"": ""Ministério da Justiça""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Governo Federal""
+        },
+        {
+            ""question"": ""Em que site é disponível a pesquisa sobre a população em situação de rua no Brasil?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Site do Ministério da Saúde"", ""B"": ""Site do g1.globo"", ""C"": ""Site do Instituto Brasileiro de Geografia e Estatística (IBGE)"", ""D"": ""Site do Observatório Brasileiro de Políticas Públicas da Universidade Federal de Minas Gerais (UFMG)"", ""E"": ""Site do Governo Federal""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Site do g1.globo""
+        },
+        {
+            ""question"": ""Em que data foi acessado o site para obter a informação sobre a pesquisa?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""1 de janeiro de 2022"", ""B"": ""6 de julho de 2022"", ""C"": ""31 de dezembro de 2022"", ""D"": ""10 de junho de 2022"", ""E"": ""20 de maio de 2022""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""6 de julho de 2022""
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 722)
+36,7,Psicologia,2022,"TEXTO 1
+Descrição do Gráfico:
+Título: América Latina, Caribe (21 países): Feminicídio ou femicídio (2021) (em números absolutos e taxas por 100 mil mulheres)
+São apresentados os seguintes dados: Países - Número Absoluto de Mortes - Mortes a cada 100 mil mulheres (aproximadamente)
+Honduras - 227 - 4,8
+SantaLúcia-4-4,5
+ Trinidad e Tobago - 22 - 3,1
+República Dominicana - 132 - 2,4
+ElSalvador-73-2,3
+Bolívia-113-2
+Brasil - 1738 - 1,8
+Panamá-31-1,5
+México-948-1,6
+Guatemala - 119 - 1,2
+Uruguai-19-1,1
+Argentina - 251 - 1,1
+Paraguai-36-1
+Equador-79-0,9
+Peru-148-0,9
+
+TEXTO 2
+Resultados de pesquisa da Comissão Econômica para a América Latina e o Caribe (CEPAL), vinculada à Organização das Nações Unidas (ONU), apontam que, além do feminicídio íntimo, aquele perpetrado por parceiros ou ex-parceiros da vítima, e do feminicídio sexual sistêmico, em que a vítima é sequestrada e estuprada, há o feminicídio lesbofóbico ou bifóbico, configurado quando a vítima é bissexual ou lésbica e é assassinada porque o agressor entende que deve puni-la por sua orientação sexual.
+Disponível no site da ebc. Acesso em: 22 ago. 2022.","{
+    ""questions"": [
+        {
+            ""question"": ""Qual país apresenta a maior taxa de feminicídio em números absolutos em 2021?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Brasil"", ""B"": ""México"", ""C"": ""República Dominicana"", ""D"": ""Honduras"", ""E"": ""Argentina""},
+                ""correct_answer"": [""A""]
+        },
+        {
+            ""question"": ""A taxa de feminicídio em Honduras é maior do que a taxa em Trinidad e Tobago"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Verdadeiro"", ""B"": ""Falso"", ""C"": ""Nenhuma das opções"", ""D"": ""Depende do contexto"", ""E"": ""Ignoro""},
+                ""correct_answer"": [""A""]
+        },
+        {
+            ""question"": ""Segundo a CEPAL, há quatro tipos de feminicídio"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Feminicídio intimo, feminicídio sexual sistemico, feminicídio lesbofóbico e feminicídio que não tem relação com a orientação sexual"", ""B"": ""Feminicídio intimo, feminicídio lesbofóbico e feminicídio que não tem relação com a orientação sexual"", ""C"": ""Feminicídio sexual sistemico, feminicídio lesbofóbico e feminicídio que não tem relação com a orientação sexual"", ""D"": ""Feminicídio intimo, feminicídio sexual sistemico e feminicídio que não tem relação com a orientação sexual"", ""E"": ""Ignoro""},
+                ""correct_answer"": [""A""]
+        },
+        {
+            ""question"": ""Qual país apresenta a menor taxa de feminicídio em números absolutos em 2021?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Uruguai"", ""B"": ""Paraguai"", ""C"": ""Santa Lúcia"", ""D"": ""Panamá"", ""E"": ""Guatemala""},
+                ""correct_answer"": [""A""]
+        },
+        {
+            ""question"": ""A taxa de feminicídio em Trinidad e Tobago é maior do que a taxa em El Salvador"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Verdadeiro"", ""B"": ""Falso"", ""C"": ""Nenhuma das opções"", ""D"": ""Depende do contexto"", ""E"": ""Ignoro""},
+                ""correct_answer"": [""B""]
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 33 (char 387)"
+37,8,Psicologia,2022,"Descrição da imagem:
+Foto de Charles Humpres mostrando grafite de Eduardo Kobra. A arte ocupa o espaço lateral de dois andares de um prédio, sendo caracterizada pelo uso intenso de contrastes e cores que retrata um homem sentado ao chão, cabeça baixa, descalço, com dois pratos vazios ao seu lado e segurando um cartaz escrito “Welcome to real Brazil”.
+nicialmente, a natureza transgressora do grafite foi encarada pelo Estado como vandalismo no espaço público e como um perigo para a conservação da propriedade privada, devendo-se, portanto, combatê-lo. Com o tempo, contudo, essa concepção marginal transformou-se, incidindo em uma valorização aceitável pelo Estado e positiva para a sociedade. Essa transição do grafite, de arte marginal para manifestação artística reconhecida e aceita, tem revelado aspectos importantes não somente para os profissionais do grafite, mas para a sociedade como um todo, pois incorpora a possibilidade de ele ser um produto artístico de valor cultural, econômico e ideológico.
+Fonte do Texto: PIRES, E. M.; SANTOS, F. A. A cidade de São Paulo e suas dinâmicas: graffiti, Lei Cidade Limpa e publicidade urbana. Anais do Museu Paulista: História e Cultura Material. v. 26, São Paulo, 2018 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""Como o Estado inicialmente encarou o grafite?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Como um produto artístico de valor cultural, econômico e ideológico"", ""B"": ""Como vandalismo no espaço público e perigo para a conservação da propriedade privada"", ""C"": ""Como expressão livre de arte"", ""D"": ""Como forma de protesto social"", ""E"": ""Como uma oportunidade de negócios""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Como vandalismo no espaço público e perigo para a conservação da propriedade privada""
+        },
+        {
+            ""question"": ""Qual é o resultado da transição do grafite de arte marginal para manifestação artística reconhecida e aceita?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Aumentou a criminalidade nas ruas"", ""B"": ""Revelou aspectos importantes para os profissionais do grafite e a sociedade"", ""C"": ""Reduziu a valorização da arte"", ""D"": ""Criou mais conflitos entre a sociedade e o Estado"", ""E"": ""Foi ignorado pelo público""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Revelou aspectos importantes para os profissionais do grafite e a sociedade""
+        },
+        {
+            ""question"": ""Qual é o valor do grafite para a sociedade, segundo o texto?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""É apenas uma forma de expressão livre de arte"", ""B"": ""É um produto artístico de valor cultural, econômico e ideológico"", ""C"": ""É uma forma de protesto social"", ""D"": ""É uma oportunidade de negócios"", ""E"": ""É apenas uma manifestação de vanguarda""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""É um produto artístico de valor cultural, econômico e ideológico""
+        },
+        {
+            ""question"": ""Como o Estado atualmente encara o grafite?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Como um perigo para a conservação da propriedade privada"", ""B"": ""Como uma forma de expressão livre de arte"", ""C"": ""Como um produto artístico de valor cultural, econômico e ideológico"", ""D"": ""Como uma oportunidade de negócios"", ""E"": ""Como uma forma de protesto social""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Como um produto artístico de valor cultural, econômico e ideológico""
+        },
+        {
+            ""question"": ""O que é possível que o grafite seja, segundo o texto?"",
+            ""bloom_level"": ""Create"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Uma forma de protesto social"", ""B"": ""Uma oportunidade de negócios"", ""C"": ""Um produto artístico de valor cultural, econômico e ideológico"", ""D"": ""Uma manifestação de vanguarda"", ""E"": ""Uma forma de expressão livre de arte""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Um produto artístico de valor cultural, econômico e ideológico""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 525)"
+38,17,Psicologia,2022,"O aumento da população e sua concentração em áreas urbanas, a expansão dos mercados internacionais e as mudanças culturais colocam novos desafios aos profissionais das organizações e do trabalho e aos trabalhadores que precisam lutar constantemente em defesa de seus direitos. Nesse contexto, as pessoas trazem para o ambiente de trabalho uma pluralidade de características que desafia normas, estilos, padronizações, processos e políticas que antes eram impostos e obedecidos sem tantos questionamentos.
+Fonte do Texto: ORGANIZAÇÃO INTERNACIONAL DO TRABALHO. PNUD. Promoção dos Direitos Humanos de Pessoas LGBT no Mundo do Trabalho, 2015 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""Qual é o principal desafio enfrentado pelos trabalhadores em um ambiente de trabalho multicultural?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Falta de comunicação eficaz"", ""B"": ""Diferenças culturais não respeitadas"", ""C"": ""Desenvolvimento de habilidades linguísticas"", ""D"": ""Aumento da produtividade"", ""E"": ""Melhoria da gestão""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Diferenças culturais não respeitadas""
+        },
+        {
+            ""question"": ""Qual é o efeito do aumento da diversidade no ambiente de trabalho?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Aumento da produtividade"", ""B"": ""Falta de comunicação eficaz"", ""C"": ""Desenvolvimento de habilidades linguísticas"", ""D"": ""Melhoria da gestão"", ""E"": ""Aumento da confusão""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Desenvolvimento de habilidades linguísticas""
+        },
+        {
+            ""question"": ""Quais são os principais benefícios da promoção dos direitos humanos no mundo do trabalho?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Aumento da produtividade"", ""B"": ""Melhoria da gestão"", ""C"": ""Desenvolvimento de habilidades linguísticas"", ""D"": ""Aumento da confiança"", ""E"": ""Respeito às diferenças culturais e individuais""
+            ],
+            ""correct_answer"": [""E""],
+            ""correct_answer_letter"": ""E"",
+            ""correct_answer_text"": ""Respeito às diferenças culturais e individuais""
+        },
+        {
+            ""question"": ""Como as organizações podem promover a inclusão de trabalhadores LGBTQ+ no ambiente de trabalho?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Fornecendo apenas atenção médica"", ""B"": ""Criando políticas de diversidade"", ""C"": ""Aumentando a participação dos trabalhadores"", ""D"": ""Fornecendo apenas uniformes"", ""E"": ""Criando um ambiente de trabalho homogêneo""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Criando políticas de diversidade""
+        },
+        {
+            ""question"": ""Qual é o principal desafio enfrentado pelas organizações em um ambiente de trabalho multicultural?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Falta de recursos"", ""B"": ""Desenvolvimento de habilidades linguísticas"", ""C"": ""Aumento da produtividade"", ""D"": ""Melhoria da gestão"", ""E"": ""Dificuldade em lidar com as diferenças culturais""
+            ],
+            ""correct_answer"": [""E""],
+            ""correct_answer_letter"": ""E"",
+            ""correct_answer_text"": ""Dificuldade em lidar com as diferenças culturais""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 487)"
+39,23,Psicologia,2022,"A automutilação refere-se a comportamentos cuja intenção é causar a si mesmo algum dano físico ou psicológico e que são praticados de forma intencional e consciente. O tema da automutilação ainda é considerado tabu em nossa sociedade, o que torna sua abordagem adequada uma importante estratégia de prevenção. Por concentrarem crianças, adolescentes e adultos jovens, os ambientes educacionais, como escolas e faculdades, devem ser alvos de esforços de prevenção à prática de automutilação.
+Disponível no site biblioteca.cofen. Acesso em: 03 jul. 2022 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""Qual é a definição da automutilação?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""A prática de exercícios físicos."", ""B"": ""A prática de comportamentos que causam dano físico ou psicológico."", ""C"": ""A prática de exercícios mentais."", ""D"": ""A prática de comportamentos sociais."", ""E"": ""A prática de exercícios emocionais.""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""A prática de comportamentos que causam dano físico ou psicológico.""
+        },
+        {
+            ""question"": ""Quais são os principais grupos de idade afetados pela automutilação?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Somente adultos jovens."", ""B"": ""Somente crianças."", ""C"": ""Crianças, adolescentes e adultos jovens."", ""D"": ""Somente idosos."", ""E"": ""Somente mulheres.""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Crianças, adolescentes e adultos jovens.""
+        },
+        {
+            ""question"": ""Por que a abordagem da automutilação é considerada importante em ambientes educacionais?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Porque as escolas não possuem recursos para tratar do assunto."", ""B"": ""Porque a automutilação é um problema apenas para adultos."", ""C"": ""Porque os ambientes educacionais devem ser alvos de esforços de prevenção."", ""D"": ""Porque a automutilação é um problema apenas para meninas."", ""E"": ""Porque a automutilação não é um problema real.""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Porque os ambientes educacionais devem ser alvos de esforços de prevenção.""
+        },
+        {
+            ""question"": ""Qual é o principal desafio para abordar o tema da automutilação em sociedade?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""A falta de recursos financeiros."", ""B"": ""A falta de conhecimento sobre o assunto."", ""C"": ""O estigma e a consideração tabu do tema."", ""D"": ""A falta de apoio da família."", ""E"": ""A falta de apoio da comunidade.""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""O estigma e a consideração tabu do tema.""
+        },
+        {
+            ""question"": ""Qual é o objetivo principal da prevenção da automutilação em ambientes educacionais?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Prevenir a automutilação em geral."", ""B"": ""Prevenir a automutilação apenas em jovens."", ""C"": ""Prevenir a automutilação apenas em meninas."", ""D"": ""Prevenir a automutilação apenas em meninos."", ""E"": ""Prevenir a automutilação apenas em adultos.""},
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Prevenir a automutilação em geral.""
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 478)
+40,25,Psicologia,2022,"Quando Ametista levava situações de racismo sofrido por ela para a terapia, sua terapeuta branca tentava convencê-la de que “somos todos um, que somos todos iguais..."". Ao ser entrevistada, Ametista verbalizou: “todas as experiências (com psicoterapeutas) que eu tive sempre confirmaram as críticas de que a Psicologia não daria conta das especificidades das vivências raciais” e completou: ""Parece que as pessoas não ouviam o que eu estava falando e afirmavam uma universalidade da experiência”.
+Fonte do Texto: DAMASCENO; ZANELLO. Psicoterapia, raça e racismo no contexto brasileiro: experiências e percepções de mulheres negras. Psicologia em estudo, 2019 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""A afirmação 'somos todos um, que somos todos iguais...' é um exemplo de"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Psicoterapia humanista"", ""B"": ""Psicologia cultural"", ""C"": ""Terapia cognitivo-comportamental"", ""D"": ""Terapia psicodinâmica"", ""E"": ""Psicologia social""}
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Psicologia cultural""
+        },
+        {
+            ""question"": ""Quando Ametista levava situações de racismo para a terapia, sua terapeuta branca"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Tentou entender as experiências de Ametista"", ""B"": ""Tentou convencer Ametista de que 'somos todos um, que somos todos iguais...' "", ""C"": ""Ignorou as experiências de Ametista"", ""D"": ""Admitiu a impossibilidade de compreender as experiências de Ametista"", ""E"": ""Desenvolveu um plano para trabalhar com Ametista a superar o racismo""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Tentou convencer Ametista de que 'somos todos um, que somos todos iguais...' ""
+        },
+        {
+            ""question"": ""A afirmação 'Parece que as pessoas não ouviam o que eu estava falando e afirmavam uma universalidade da experiência' indica que"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""A terapeuta estava ouvindo Ametista"", ""B"": ""A terapeuta não estava ouvindo Ametista"", ""C"": ""A terapeuta estava ouvindo Ametista, mas não entendia"", ""D"": ""A terapeuta não estava ouvindo Ametista, mas tentava entender"", ""E"": ""A terapeuta não estava ouvindo Ametista, e não tentava entender""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""A terapeuta não estava ouvindo Ametista""
+        },
+        {
+            ""question"": ""A experiência de Ametista com a terapia pode ser vista como um exemplo de"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Psicoterapia culturalmente sensível"", ""B"": ""Psicoterapia blindnessante ao racismo"", ""C"": ""Psicoterapia humanista"", ""D"": ""Psicoterapia psicodinâmica"", ""E"": ""Psicoterapia cognitivo-comportamental""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Psicoterapia blindnessante ao racismo""
+        },
+        {
+            ""question"": ""A afirmação 'todas as experiências (com psicoterapeutas) que eu tive sempre confirmaram as críticas de que a Psicologia não daria conta das especificidades das vivências raciais' indica que"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""A Psicologia é capaz de lidar com as especificidades das vivências raciais"", ""B"": ""A Psicologia não é capaz de lidar com as especificidades das vivências raciais"", ""C"": ""A Psicologia é capaz de lidar com as especificidades das vivências raciais, mas não é necessário"", ""D"": ""A Psicologia não é capaz de lidar com as especificidades das vivências raciais, mas é necessário"", ""E"": ""A Psicologia é capaz de lidar com as especificidades das vivências raciais, mas é importante também lidar com as especificidades das vivências não raciais""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""A Psicologia não é capaz de lidar com as especificidades das vivências raciais""
+        }
+    ]
+}","Expecting ',' delimiter: line 20 column 13 (char 1167)"
+41,26,Psicologia,2022,"Em 2020, com a pandemia de Covid-19, o mundo entrou em contato com novas apresentações da morte, suscitando na sociedade reformulações em seus rituais mortuários, trazendo também o pesar do luto e o persistente temor da finitude. Isso impactou também a forma como as crianças passaram a lidar com esse fenômeno, bem como a forma como os adultos passaram a abordar a temática com elas. A infância se caracteriza por ser um período em que a criança está em pleno desenvolvimento físico e cognitivo e uma perda faz com que seja necessário repensar esse fenômeno, bem como enfrentá-lo junto à criança.
+Fonte do Texto: NASCIMENTO, et al. Psicologia da morte e fenomenologia: notas para a pesquisa empírica em tempos de COVID-19. revista AMAzônica, 2022 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""Qual é o principal impacto da pandemia de Covid-19 sobre a forma como as crianças lidam com a morte?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""O aumento da frequência de mortes em geral"", ""B"": ""A necessidade de repensar o fenômeno da morte"", ""C"": ""Aumento da ansiedade e do medo da morte"", ""D"": ""Aumento da capacidade de lidar com a perda"", ""E"": ""Aumento da sensibilidade para com a dor dos outros""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""A necessidade de repensar o fenômeno da morte""
+        },
+        {
+            ""question"": ""Qual é o resultado da pandemia de Covid-19 sobre a forma como os adultos abordam a temática da morte com as crianças?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Aumento da violência e da agressividade"", ""B"": ""Aumento da sensibilidade e do respeito"", ""C"": ""Aumento da evasão e do esquecimento"", ""D"": ""Aumento da ansiedade e do medo"", ""E"": ""Aumento da capacidade de lidar com a perda""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Aumento da sensibilidade e do respeito""
+        },
+        {
+            ""question"": ""Qual é o período em que a criança se encontra em pleno desenvolvimento físico e cognitivo?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Infância"", ""B"": "" Adolescência"", ""C"": ""Infância e Adolescência"", ""D"": ""Criança e Adolescência"", ""E"": ""Infância e Juventude""
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Infância""
+        },
+        {
+            ""question"": ""Qual é o resultado da perda sobre a forma como a criança lida com o fenômeno da morte?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Aumento da capacidade de lidar com a perda"", ""B"": ""Aumento da ansiedade e do medo"", ""C"": ""Aumento da sensibilidade para com a dor dos outros"", ""D"": ""Aumento da evasão e do esquecimento"", ""E"": ""Aumento da violência e da agressividade""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Aumento da ansiedade e do medo""
+        },
+        {
+            ""question"": ""Qual é o resultado da pandemia de Covid-19 sobre a forma como a sociedade reformula seus rituais mortuários?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Aumento da freqüência de funeral"", ""B"": ""Aumento da sensibilidade e do respeito"", ""C"": ""Aumento da evasão e do esquecimento"", ""D"": ""Aumento da ansiedade e do medo"", ""E"": ""Aumento da capacidade de lidar com a perda""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Aumento da sensibilidade e do respeito""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 559)"
+42,29,Psicologia,2022,"TEXTO 1
+Em maio de 2022, Genivaldo de Jesus Santos foi asfixiado e morto por gás lacrimogênio, segundo laudo do Instituto Médico Legal, dentro de uma viatura da Polícia Rodoviária Federal no Estado de Sergipe, após ser abordado por andar de motocicleta sem capacete. Durante a abordagem policial, um sobrinho da vítima informou que o mesmo sofria de esquizofrenia, encontrava-se em tratamento há cerca de 20 anos e fazia uso de medicação, a qual, inclusive, estava em sua posse. Ainda que os policiais tenham sido informados, a abordagem prosseguiu com o uso de força e violência, desproporcional ao risco oferecido por Genivaldo.
+Disponível no site g1.globo. Acesso em: 10 ago. de 2022 (adaptado).
+TEXTO 2
+No início do século XX, surgem as primeiras iniciativas eugênicas no país, cujos problemas coletivos eram compreendidos a partir da proliferação indesejada de pessoas que se reproduziram, durante consecutivas gerações, propagando características comportamentais e mentais viciosas, criminosas e degeneradas. Sob o discurso altruísta de garantia de tratamento, o louco-criminoso passou a ser contido e isolado em manicômios judiciários, instituições vinculadas ao sistema penitenciário e administradas, à época, por importantes médicos psiquiatras.
+Fonte do Texto: BAGATIN, T. A eugenia e o tratamento do louco-criminoso no início do século XX. VIII CONGRESSO INTERNACIONAL DE HISTÓRIA, 2017 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""Qual foi o método utilizado pela polícia para abordar Genivaldo de Jesus Santos?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Fisicalmente"", ""B"": ""Com comunicação"", ""C"": ""Usando gás lacrimogêneo"", ""D"": ""Com tratamento médico"", ""E"": ""Usando medicamentos""}
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Usando gás lacrimogêneo""
+        },
+        {
+            ""question"": ""Qual foi o problema de saúde mental de Genivaldo de Jesus Santos?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Esquizofrenia"", ""B"": ""Depressão"", ""C"": ""Psicose"", ""D"": ""Anorexia"", ""E"": ""Bulimia""}
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Esquizofrenia""
+        },
+        {
+            ""question"": ""Qual foi a consequência da abordagem policial em relação a Genivaldo de Jesus Santos?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Ele foi libertado"", ""B"": ""Ele foi preso"", ""C"": ""Ele foi morto"", ""D"": ""Ele foi hospitalizado"", ""E"": ""Ele foi multado""}
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Ele foi morto""
+        },
+        {
+            ""question"": ""Qual foi o objetivo das primeiras iniciativas eugênicas no início do século XX?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Prevenir doenças"", ""B"": ""Controle social"", ""C"": ""Melhorar qualidade de vida"", ""D"": ""Eugenia"", ""E"": ""Terapia""]
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Eugenia""
+        },
+        {
+            ""question"": ""Quais instituições eram responsáveis pela gestão dos manicômios judiciários?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Hospital psiquiátricos"", ""B"": ""Instituições penitenciárias"", ""C"": ""Instituições vinculadas ao sistema penitenciário"", ""D"": ""Clínicas de psicologia"", ""E"": ""Faculdades de medicina""]
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Instituições vinculadas ao sistema penitenciário""
+        }
+    ]
+}","Expecting ',' delimiter: line 41 column 132 (char 1925)"
+43,34,Psicologia,2022,"A aprovação da Lei da Reforma Psiquiátrica, Lei n. 10.216/2001, promoveu um redirecionamento do modelo assistencial em saúde mental no país, com o fechamento gradual de leitos em hospitais psiquiátricos. Entretanto, decorridos 21 anos desde então, esse modelo vem sofrendo com a escassez de investimentos, mesmo ante um contexto em que se avolumam problemas econômicos e sociais, que tendem a agravar o quadro de saúde mental das pessoas. Levantamento da ONG Conectas e do Centro Brasileiro de Análise e Planejamento (Cebrap) aponta que entre 2017 e 2020 houve significativo investimento público em comunidades terapêuticas, todavia, desde 2011, o valor necessário à abertura de um Centro de Atenção Psicossocial (CAPS) permanece inalterado.
+Disponível no site da Fiocruz. Acesso em: 26 jun. 2022 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""Qual foi o principal impacto da Lei da Reforma Psiquiátrica, Lei n. 10.216/2001, no modelo assistencial em saúde mental no país?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""O aumento do número de leitos em hospitais psiquiátricos"", ""B"": ""O fechamento gradual de leitos em hospitais psiquiátricos"", ""C"": ""A criação de novos hospitais psiquiátricos"", ""D"": ""A automatização do atendimento psiquiátrico"", ""E"": ""A descentralização da assistência psiquiátrica""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""O fechamento gradual de leitos em hospitais psiquiátricos""
+        },
+        {
+            ""question"": ""Qual é a situação atual do modelo assistencial em saúde mental no país, segundo o levantamento da ONG Conectas e do Centro Brasileiro de Análise e Planejamento (Cebrap)?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Houve um aumento significativo de investimentos públicos em comunidades terapêuticas"", ""B"": ""O modelo assistencial em saúde mental está funcionando de forma eficaz"", ""C"": ""O valor necessário para a abertura de um Centro de Atendimento Psicossocial (CAPS) permanece inalterado desde 2011"", ""D"": ""O modelo assistencial em saúde mental foi completamente reformulado"", ""E"": ""A Lei da Reforma Psiquiátrica foi revogada""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""O valor necessário para a abertura de um Centro de Atendimento Psicossocial (CAPS) permanece inalterado desde 2011""
+        },
+        {
+            ""question"": ""Qual é a razão pela qual o modelo assistencial em saúde mental no país está enfrentando problemas, segundo o contexto?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Devido à falta de recursos financeiros"", ""B"": ""Devido à falta de profissionais qualificados"", ""C"": ""Devido à falta de investimentos públicos em comunidades terapêuticas"", ""D"": ""Devido à falta de investimentos públicos em Centros de Atendimento Psicossocial (CAPS)"", ""E"": ""Devido à falta de coordenação entre os serviços de saúde""
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Devido à falta de investimentos públicos em Centros de Atendimento Psicossocial (CAPS)""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 611)"
+44,35,Psicologia,2022,"Ser homem ou mulher é uma construção que ocorre em níveis muito além do biológico, significando que não é algo instalado em um genital. A identidade de gênero pautada em uma concepção binária é um reducionismo humano e deve ser reconhecida como uma construção cultural que insiste em determinismo biológico, assumindo posturas que padronizam um alinhamento entre sexo, gênero e desejo. Diante dessas posturas normativas é que podemos compreender a legitimidade de uma classificação psicopatológica referente à pluralidade das identidades de gênero como também estigmatizações, ações discriminatórias e excludentes que fortalecem a marginalização.
+Fonte do Texto: BENEDET, et al. Psicologia e transtorno de identidade de gênero. II Simpósio de Integração Científica e Tecnológica do Sul Catarinense, 2013 (adaptado).","{
+    ""questions"": [
+        {
+            ""question"": ""Qual é a visão apresentada no texto sobre a identidade de género?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""A identidade de género é algo instalado em um genital."", ""B"": ""A identidade de género é uma construção cultural."", ""C"": ""A identidade de género é uma característica biológica."", ""D"": ""A identidade de género é uma questão de escolha."", ""E"": ""A identidade de género é uma questão de saúde mental.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""A identidade de género é uma construção cultural.""
+        },
+        {
+            ""question"": ""Quais são as consequências da classificação psicopatológica da pluralidade das identidades de género?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""A marginalização e estigmatização das pessoas com identidades de género não tradicionais."", ""B"": ""A aceitação e respeito às pessoas com identidades de género não tradicionais."", ""C"": ""A ignorância e desconsideração das pessoas com identidades de género não tradicionais."", ""D"": ""A negação da existência de identidades de género não tradicionais."", ""E"": ""A promoção da diversidade e inclusão.""
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""A marginalização e estigmatização das pessoas com identidades de género não tradicionais.""
+        },
+        {
+            ""question"": ""Quais são as posturas normativas apresentadas no texto sobre a identidade de género?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""A insistência em determinismo biológico e reducionismo humano."", ""B"": ""A promoção da diversidade e inclusão."", ""C"": ""A ignorância e desconsideração das pessoas com identidades de género não tradicionais."", ""D"": ""A aceitação e respeito às pessoas com identidades de género não tradicionais."", ""E"": ""A negação da existência de identidades de género não tradicionais.""
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""A insistência em determinismo biológico e reducionismo humano.""
+        },
+        {
+            ""question"": ""Qual é o objetivo da classificação psicopatológica da pluralidade das identidades de género?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""A estigmatização e marginalização das pessoas com identidades de género não tradicionais."", ""B"": ""A promoção da diversidade e inclusão."", ""C"": ""A compreensão da construção cultural da identidade de género."", ""D"": ""A negação da existência de identidades de género não tradicionais."", ""E"": ""A ignorância e desconsideração das pessoas com identidades de género não tradicionais.""
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""A estigmatização e marginalização das pessoas com identidades de género não tradicionais.""
+        },
+        {
+            ""question"": ""Quais são as consequências da redução da identidade de género a uma concepção binária?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""A perda de significado cultural e histórico da identidade de género."", ""B"": ""A promoção da diversidade e inclusão."", ""C"": ""A ignorância e desconsideração das pessoas com identidades de género não tradicionais."", ""D"": ""A negação da existência de identidades de género não tradicionais."", ""E"": ""A compreensão da construção cultural da identidade de género.""
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""A perda de significado cultural e histórico da identidade de género.""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 564)"

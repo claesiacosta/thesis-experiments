@@ -14,6 +14,7 @@ def prompt_builder_PT(topics):
     3. Forneça contexto suficiente para cada pergunta, garantindo que todos os termos e ações estejam dentro do escopo do tópico.
     4. Garanta que os distratores apresentem concepções equivocadas distintas relacionadas ao tópico.
     5. Evite fornecer muitas dicas nas opções de resposta, incentivando os alunos a confiar em seus conhecimentos e habilidades de raciocínio para selecionar a resposta correta.
+    6. Garanta que não aja mais de uma resposta correta, apenas uma das alternativas é a correta.
     
     Níveis de Dificuldade:
     Questões de múltipla escolha devem obedecer a diretrizes específicas para garantir níveis adequados de dificuldade:
@@ -32,16 +33,16 @@ def prompt_builder_PT(topics):
     6. Create: Combinar elementos para formar um todo coerente ou gerar novas estruturas.
 
     Formato de Saída:
-    A geração de QCM deve cobrir: Para cada contexto e área deve abranger perguntas em cada nível de dificuldade e da taxonomia de Bloom - gerando 5 perguntas, cobrindo todos os aspectos relevantes para os alunos, cada pergunta deve ter 5 alternativas. 
+    A geração de QCM deve cobrir: Para cada contexto e área deve abranger perguntas em cada nível de dificuldade e da taxonomia de Bloom - para cada nivel de dificuldade gere pelo menos uma pergunta, cobrindo todos os aspectos relevantes para os alunos, cada pergunta deve ter 5 alternativas. 
     
     Sua resposta deve seguir este modelo no formato JSON e as QCMs geradas devem estar em PORTUGUÊS, o mesmo idioma do tópico e descrição do tópico. Forneça o JSON completo, fechando todas as chaves.
-    {{"perguntas":[{{"pergunta": str,"bloom_level": str,"difficult_level": str,"options": [{{"A": str,"B": str,"C": str,"D": str,"E": str}}],"correct_answer":[{{letra_da_opcao_correta: texto_da_opcao_correta}}]}},{{"pergunta": str,"bloom_level": str,"difficult_level": str,"options": [{{"A": str,"B": str,"C": str,"D": str,"E": str}}],"correct_answer":[{{letra_da_opcao_correta: texto_da_opcao_correta}}]}}]}}  
+    {{"questions":[{{"question": str,"bloom_level": str,"difficult_level": str,"options": [{{"A": str,"B": str,"C": str,"D": str,"E": str}}],"correct_answer":[correct_answer_letter], "correct_answer_letter": str, "correct_answer_text": str}},{{"question": str,"bloom_level": str,"difficult_level": str,"options": [{{"A": str,"B": str,"C": str,"D": str,"E": str}}],"correct_answer":[correct_answer_letter], "correct_answer_letter": str, "correct_answer_text": str}}]}}  
     """
 
     user_prompt = f"""Gere questões de múltipla escolha de alta qualidade que sigam isso:
-    {'. '.join([str('Para o contexto '+q[1]+' da área '+q[0]+' - deve abranger perguntas em cada nível de dificuldade e da taxonomia de Bloom, cobrindo todos os aspectos relevantes para os alunos, cada pergunta deve ter 5 alternativas.') for q in topics])}.
+    {'. '.join([str('Para o contexto '+q[1]+' da área '+q[0]+' - deve abranger perguntas em cada nível de dificuldade e da taxonomia de Bloom, cobrindo todos os aspectos relevantes para os alunos, cada pergunta deve ter 5 alternativas, e apenas uma das alternativas é a correta.') for q in topics])}.
     As questões de múltipla escolha geradas devem estar em PORTUGUÊS, o mesmo idioma do area e do contexto.
-    Forneça apenas o JSON completo, fechando todas as chaves, nao forneça nenhuma informação ou nenhum texto introdutorio adicional.
+    Forneça apenas o JSON completo, garantindo que todas as chaves e colchetes estão sendo fechados, nao forneça nenhuma informação ou nenhum texto introdutorio adicional.
     """
 
     return system_context, user_prompt
@@ -58,6 +59,7 @@ def prompt_builder(topics):
     3. Provide sufficient context for each question, ensuring that all terms and actions are within the scope of the topic.
     4. Ensure that distractors present distinct misconceptions related to the topic.
     5. Avoid providing too many clues in the answer options, prompting students to rely on their knowledge and reasoning skills to select the correct answer.
+    6. Ensure that no more than one correct answer is given, only one of the alternatives is correct one.
     
     Difficulty Levels:
     Multiple-choice questions must adhere to specific guidelines to ensure appropriate difficulty levels:
@@ -76,17 +78,17 @@ def prompt_builder(topics):
     6. Create: Combine elements to form a coherent whole or generate new structures.
 
     Output Format:
-    MCQ generate should cover: For each context and area, it must cover questions at each difficulty level and Bloom's taxonomy - in this case, for each context, 18 questions will be generated in a combination of the 3 difficulty levels and 6 bloom taxonomy (3x6 = 18), covering all aspects relevant to students, each question must have 5 alternatives.
+    MCQ generate should cover: For each context and area, it must cover questions at each difficulty level and Bloom's taxonomy - - for each difficulty level generate at least one question, covering all aspects relevant to students, each question must have 5 alternatives.
     
     Your response must follow this template in JSON format and MCQs generated should be in ENGLISH LANGUAGE, the same language as the topic and topic description. Provide the full JSON, closing all curly braces:
-    {{"questions":[{{"question": str,"bloom_level": str,"difficult_level": str,"options": [{{"A": str,"B": str,"C": str,"D": str,"E": str}}],"correct_answer":[{{correct_answer_letter: correct_answer_text}}]}},{{"question": str,"bloom_level": str,"difficult_level": str,"options": [{{"A": str,"B": str,"C": str,"D": str,"E": str}}],"correct_answer":[{{correct_answer_letter: correct_answer_text}}]}}]}}
+    {{"questions":[{{"question": str,"bloom_level": str,"difficult_level": str,"options": [{{"A": str,"B": str,"C": str,"D": str,"E": str}}],"correct_answer":[correct_answer_letter], "correct_answer_letter": str, "correct_answer_text": str}},{{"question": str,"bloom_level": str,"difficult_level": str,"options": [{{"A": str,"B": str,"C": str,"D": str,"E": str}}],"correct_answer":[correct_answer_letter], "correct_answer_letter": str, "correct_answer_text": str}}]}}
     """
 
     user_prompt = f"""Generate a top quality multiple-choice questions that follow this:
 
-    {'. '.join([str('For each context '+q[1]+' of the area '+q[0]+' - it must cover questions at each difficulty level and Bloom''s taxonomy, covering all aspects relevant to students, each question must have 5 alternatives.') for q in topics])}.
+    {'. '.join([str('For each context '+q[1]+' of the area '+q[0]+' - it must cover questions at each difficulty level and Bloom''s taxonomy, covering all aspects relevant to students, each question must have 5 alternatives, and only one of the alternatives is correct one.') for q in topics])}.
     MCQs generated should be in ENGLISH LANGUAGE, the same language as the area and context.
-	Provide the full JSON, closing all curly braces, do not provide any additional information or introductory text.
+	Provide the full JSON, ensuring all curly braces and brackets are being closed, do not provide any additional information or introductory text.
     """
 
     return system_context, user_prompt
@@ -109,7 +111,7 @@ def evaluator_builder_PT(questions):
     2. Adherence(1-5): Nível de taxonomia de Bloom e dificuldade são atribuídos adequadamente considerando a informação da QCM.
     3. Answerability(1-5): A QCM fornece informações suficientes para chegar a uma resposta.
     4. Correctness(yes-no): A opção marcada como correta é realmente correta.
-    Para cada métrica, atribua uma pontuação apropriada. Além disso, feedback relacionado é bem-vindo, explique cada pontuação.
+    Para cada métrica, atribua uma pontuação apropriada. Além disso, feedback relacionado é bem-vindo, explicando cada pontuação.
 
     Formato de Saída:
     Sua resposta deve seguir este modelo no formato JSON. Forneça o JSON completo, fechando todas as chaves:
@@ -139,8 +141,8 @@ def evaluator_builder_EN(questions):
     1. Relevance(1-5): MCQ is related to context-topic description 
     2. Adherence(1-5): bloom taxonomy level and difficult are assigned appropriated considering the MCQ information.
     3. Answerability(1-5): MCQ provides enough information to arrive at an answer
-    4. Correctness(0-1): Option marked as correct is actually correct, 0 is true, 1 is false.
-    For each metric assign an appropriated score. Also feedback related is welcome.
+    4. Correctness(yes-no): Option marked as correct is actually correct.
+    For each metric assign an appropriated score. Also feedback related is welcome, explaining each score.
 
     Output Format:
     Your response should follow this template in json format. Provide the full JSON, closing all curly braces:
@@ -148,7 +150,7 @@ def evaluator_builder_EN(questions):
         "relevance": float,
         "adherence": float,
         "answerability": float,
-        "correctness": float,
+        "correctness": str,
         "feedback": str
     }}  
     """
@@ -160,7 +162,7 @@ def evaluator_builder_EN(questions):
 
     return system_context, user_prompt
 
-def solve_builder_PT(questions):
+def solver_builder_PT(questions):
     system_context = f"""
     Você é um estudante e seu professor pediu para você completar todas as questões de múltipla escolha (QCM - multiple-choice question (MCQ)). 
     Seu objetivo é responder a essas perguntas da melhor maneira possível, demonstrando seu entendimento sobre o contexto e pergunta, também forneça o passo a passo para chegar na solução, não adicione citação direta.
@@ -177,7 +179,7 @@ def solve_builder_PT(questions):
 
     return system_context, user_prompt
 
-def solve_builder_EN(questions):
+def solver_builder_EN(questions):
     system_context = f"""
     You are a student and your teacher has asked you to complete all MCQs test. 
     Your goal is to answer these questions to the best of your ability, demonstrating your understanding of the context and question, also provide a step-by-step guide to reach the solution, do not add direct quote.

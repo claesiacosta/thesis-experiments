@@ -1,0 +1,2349 @@
+index,id,area,year,context,response_llama,error
+0,1,Administration,2022,"TEXT 1
+Representative democracy requires, for its functioning, a set of characteristics, which can be understood as institutions. They are: Elected officials; Free, fair and frequent elections; Inclusive suffrage; Right to run for elective office; Freedom of expression; Diversified sources of information; Autonomy for associations. Among the mentioned categories, two stand out as pillars of the democratic regime.
+Freedom of expression: citizens have the right to express themselves, without the danger of severe punishments, regarding political matters in general, which includes the freedom to criticize government officials, the government itself, the regime, the socioeconomic order, and the dominant ideology.
+Diversified sources of information: citizens have the right to seek alternative, diversified, and independent sources of information. Furthermore, the existence of alternative sources of information must be protected by law.
+Source of the Text: DAHL, R. A. On Democracy, EDU: UnB, 2001 (adapted).
+TEXT 2
+Source of the Text: DAHL, R. A. On Democracy, EDU: UnB, 2001 (adapted).
+Although political regimes can be overthrown and ideologies criticized and stripped of their legitimacy, behind a regime and its ideology there is always a way of thinking and feeling, a series of cultural habits, a nebula of obscure instincts and unfathomable impulses.
+Source of the Text: ECO, U. The Eternal Fascism. In: Five Moral Writings. Editora Record: Rio de Janeiro, 2002 (adapted).
+TEXT 3
+The figure below exemplifies some behaviors that, according to Umberto Eco, can be considered contradictory to democratic principles.
+Description of the Figure:
+7 frames are presented with different phrases and illustrations.
+Phrase: 'Cult of traditions and roots'.
+Illustration: drawing of a bald eagle wearing a baseball cap.
+Phrase: 'Constant state of threat'.
+Illustration: tank.
+Phrase: 'Exaltation of popular will'.
+Illustration: hand prop with raised index finger and the writing '#1 - the best'.
+Phrase: 'Opposition to critical analysis'.
+Illustration: microphones emitting the phrase 'Fake News!'.
+Phrase: 'Obsession with conspiracies and external culprits'.
+Illustration: drawing of immigrants as targets.
+Phrase: 'Proclamation of a leader (the voice of the people)'.
+Illustration: a person on a hill speaking to the crowds.
+Phrase: 'Limited and repetitive language'.
+Illustration: a mouth saying 'I have the best words'.","{
+    ""questions"": [
+        {
+            ""question"": ""What are the two pillars of the democratic regime according to Dahl?"",
+            ""bloom_level"": ""Understand"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Elected officials and free and fair elections."", ""B"": ""Freedom of expression and diversified sources of information."", ""C"": ""Inclusive suffrage and autonomy for associations."", ""D"": ""Right to run for elective office and limited and repetitive language."", ""E"": ""Proclamation of a leader and opposition to critical analysis.""],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Freedom of expression and diversified sources of information.""
+        },
+        {
+            ""question"": ""What is the right of citizens regarding political matters according to Dahl?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""To express themselves without punishment."", ""B"": ""To seek alternative and independent sources of information."", ""C"": ""To run for elective office."", ""D"": ""To participate in limited and repetitive language."", ""E"": ""To criticize government officials.""],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""To express themselves without punishment.""
+        },
+        {
+            ""question"": ""What is the importance of diversified sources of information according to Dahl?"",
+            ""bloom_level"": ""Apply"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""It allows citizens to seek alternative and independent information."", ""B"": ""It enables citizens to criticize government officials."", ""C"": ""It promotes limited and repetitive language."", ""D"": ""It encourages opposition to critical analysis."", ""E"": ""It fosters a cult of traditions and roots.""],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""It allows citizens to seek alternative and independent information.""
+        },
+        {
+            ""question"": ""What is the consequence of overthrown regimes and ideologies according to Eco?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""There is always a way of thinking and feeling behind the regime."", ""B"": ""There is no cultural habits or instincts behind the regime."", ""C"": ""Regimes and ideologies are always legitimate."", ""D"": ""Criticism of regimes and ideologies is always justified."", ""E"": ""Regimes and ideologies can never be overthrown.""],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""There is always a way of thinking and feeling behind the regime.""
+        }
+    ]
+}","Expecting ',' delimiter: line 8 column 347 (char 587)"
+1,3,Administration,2022,"In 2019, armed violence was three times higher for the black population compared to the non-black population, both for the general population and for the youth group (between 15 and 29 years old). Regarding the mortality rate per 100,000 inhabitants in the group of people up to 14 years old, the inequality in the victimization of black children and adolescents by firearm assault also stands out, with a rate 3.6 times higher than that of non-blacks in 2019. Source of the Text: INSTITUTO SOU DA PAZ. Armed violence and racism: the role of firearms in racial inequality. 2021.","{
+    ""questions"": [
+        {
+            ""question"": ""What is the comparison of armed violence rates between the black and non-black populations in 2019?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Armed violence rates were equal between the two populations."", ""B"": ""Armed violence rates were twice as high for the black population."", ""C"": ""Armed violence rates were three times higher for the black population."", ""D"": ""Armed violence rates were four times higher for the black population."", ""E"": ""Armed violence rates were five times higher for the black population.""],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Armed violence was three times higher for the black population compared to the non-black population, both for the general population and for the youth group (between 15 and 29 years old).""
+        },
+        {
+            ""question"": ""Which group of people had a higher mortality rate per 100,000 inhabitants due to firearm assault in 2019?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Non-black children and adolescents."", ""B"": ""Black children and adolescents."", ""C"": ""General population."", ""D"": ""Youth group (between 15 and 29 years old)"", ""E"": ""Older adults (above 65 years old)""],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Regarding the mortality rate per 100,000 inhabitants in the group of people up to 14 years old, the inequality in the victimization of black children and adolescents by firearm assault also stands out, with a rate 3.6 times higher than that of non-blacks in 2019.""
+        },
+        {
+            ""question"": ""What was the rate of mortality per 100,000 inhabitants in the group of people up to 14 years old for black children and adolescents in 2019?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""1.2 times higher than non-blacks."", ""B"": ""2.2 times higher than non-blacks."", ""C"": ""3.6 times higher than non-blacks."", ""D"": ""4.5 times higher than non-blacks."", ""E"": ""5.1 times higher than non-blacks.""],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""The inequality in the victimization of black children and adolescents by firearm assault also stands out, with a rate 3.6 times higher than that of non-blacks in 2019.""
+        }
+    ]
+}","Expecting ',' delimiter: line 8 column 394 (char 658)"
+2,3,Administration,2022,"In 2019, armed violence was three times higher for the black population compared to the non-black population, both for the general population and for the youth group (between 15 and 29 years old). Regarding the mortality rate per 100,000 inhabitants in the group of people up to 14 years old, the inequality in the victimization of black children and adolescents by firearm assault also stands out, with a rate 3.6 times higher than that of non-blacks in 2019. Source of the Text: INSTITUTO SOU DA PAZ. Armed violence and racism: the role of firearms in racial inequality. 2021.","{
+    ""questions"": [
+        {
+            ""question"": ""What is the comparison of armed violence rates between the black and non-black populations in 2019?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Armed violence rates were equal between the two populations."", ""B"": ""Armed violence rates were twice as high for the black population."", ""C"": ""Armed violence rates were three times higher for the black population."", ""D"": ""Armed violence rates were four times higher for the black population."", ""E"": ""Armed violence rates were five times higher for the black population.""],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Armed violence was three times higher for the black population compared to the non-black population, both for the general population and for the youth group (between 15 and 29 years old).""
+        },
+        {
+            ""question"": ""Which group of people had a higher mortality rate per 100,000 inhabitants due to firearm assault in 2019?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Non-black children and adolescents."", ""B"": ""Black children and adolescents."", ""C"": ""General population."", ""D"": ""Youth group (between 15 and 29 years old)"", ""E"": ""Older adults (above 65 years old)""],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Regarding the mortality rate per 100,000 inhabitants in the group of people up to 14 years old, the inequality in the victimization of black children and adolescents by firearm assault also stands out, with a rate 3.6 times higher than that of non-blacks in 2019.""
+        },
+        {
+            ""question"": ""What was the rate of mortality per 100,000 inhabitants in the group of people up to 14 years old for black children and adolescents in 2019?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""1.2 times higher than non-blacks."", ""B"": ""2.2 times higher than non-blacks."", ""C"": ""3.6 times higher than non-blacks."", ""D"": ""4.5 times higher than non-blacks."", ""E"": ""5.1 times higher than non-blacks.""],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""The inequality in the victimization of black children and adolescents by firearm assault also stands out, with a rate 3.6 times higher than that of non-blacks in 2019.""
+        }
+    ]
+}","Expecting ',' delimiter: line 8 column 394 (char 658)"
+3,7,Administration,2022,"TEXT 1
+Description of the Graph:
+Title: Latin America, Caribbean (21 countries): Femicide or feminicide (2021) (in absolute numbers and rates per 100,000 women)
+The following data are presented:
+Countries - Absolute Number of Deaths - Deaths per 100,000 women (approximately)
+Honduras - 227 - 4.8
+Santa Lucia - 4 - 4.5
+Trinidad and Tobago - 22 - 3.1
+Dominican Republic - 132 - 2.4
+El Salvador - 73 - 2.3
+Bolivia - 113 - 2
+Brazil - 1738 - 1.8
+Panama - 31 - 1.5
+Mexico - 948 - 1.6
+Guatemala - 119 - 1.2
+Uruguay - 19 - 1.1
+Argentina - 251 - 1.1
+Paraguay - 36 - 1
+Ecuador - 79 - 0.9
+Peru - 148 - 0.9
+TEXT 2
+Research results from the Economic Commission for Latin America and the Caribbean (ECLAC), linked to the United Nations (UN), indicate that, in addition to intimate femicide, perpetrated by partners or ex-partners of the victim, and systemic sexual femicide, where the victim is kidnapped and raped, there is lesbophobic or biphobic femicide, configured when the victim is bisexual or lesbian and is murdered because the aggressor believes she should be punished for her sexual orientation.
+Available on the ebc website. Accessed on: Aug 22, 2022.","{
+    ""questions"": [
+        {
+            ""question"": ""Which of the following countries has the highest rate of femicide per 100,000 women?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Brazil"", ""B"": ""Honduras"", ""C"": ""Mexico"", ""D"": ""Argentina"", ""E"": ""Peru""},
+                ""correct_answer"": [""A""],
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Brazil""
+            }
+        },
+        {
+            ""question"": ""What is the purpose of the Economic Commission for Latin America and the Caribbean (ECLAC) research on femicide?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""To study the causes of femicide"", ""B"": ""To provide solutions to intimate femicide"", ""C"": ""To identify lesbophobic or biphobic femicide"", ""D"": ""To analyze systemic sexual femicide"", ""E"": ""To track the number of femicides per country""},
+                ""correct_answer"": [""C""],
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""To identify lesbophobic or biphobic femicide""
+            }
+        },
+        {
+            ""question"": ""Which of the following countries has the lowest rate of femicide per 100,000 women?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Paraguay"", ""B"": ""Uruguay"", ""C"": ""Ecuador"", ""D"": ""Santa Lucia"", ""E"": ""Panama""},
+                ""correct_answer"": [""A""],
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Paraguay""
+            }
+        },
+        {
+            ""question"": ""What is lesbophobic or biphobic femicide, according to the Economic Commission for Latin America and the Caribbean (ECLAC) research?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Femicide committed by a stranger"", ""B"": ""Femicide perpetrated by a partner or ex-partner"", ""C"": ""Femicide committed against a woman because of her sexual orientation"", ""D"": ""Femicide committed in a public place"", ""E"": ""Femicide committed in a private home""},
+                ""correct_answer"": [""C""],
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""Femicide committed against a woman because of her sexual orientation""
+            }
+        },
+        {
+            ""question"": ""Which of the following countries has the second-highest rate of femicide per 100,000 women?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Mexico"", ""B"": ""Honduras"", ""C"": ""Brazil"", ""D"": ""Argentina"", ""E"": ""Peru""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""Honduras""
+            }
+        },
+        {
+            ""question"": ""What is the purpose of tracking the number of femicides per country, according to the data presented in the graph?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""To identify the most dangerous countries for women"", ""B"": ""To compare the effectiveness of different prevention strategies"", ""C"": ""To understand the causes of femicide"", ""D"": ""To evaluate the impact of femicide on the economy"", ""E"": ""To track the number of femicides per country for future research""},
+                ""correct_answer"": [""A""],
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""To identify the most dangerous countries for women""
+            }
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 33 (char 378)"
+4,7,Administration,2022,"TEXT 1
+Description of the Graph:
+Title: Latin America, Caribbean (21 countries): Femicide or feminicide (2021) (in absolute numbers and rates per 100,000 women)
+The following data are presented:
+Countries - Absolute Number of Deaths - Deaths per 100,000 women (approximately)
+Honduras - 227 - 4.8
+Santa Lucia - 4 - 4.5
+Trinidad and Tobago - 22 - 3.1
+Dominican Republic - 132 - 2.4
+El Salvador - 73 - 2.3
+Bolivia - 113 - 2
+Brazil - 1738 - 1.8
+Panama - 31 - 1.5
+Mexico - 948 - 1.6
+Guatemala - 119 - 1.2
+Uruguay - 19 - 1.1
+Argentina - 251 - 1.1
+Paraguay - 36 - 1
+Ecuador - 79 - 0.9
+Peru - 148 - 0.9
+TEXT 2
+Research results from the Economic Commission for Latin America and the Caribbean (ECLAC), linked to the United Nations (UN), indicate that, in addition to intimate femicide, perpetrated by partners or ex-partners of the victim, and systemic sexual femicide, where the victim is kidnapped and raped, there is lesbophobic or biphobic femicide, configured when the victim is bisexual or lesbian and is murdered because the aggressor believes she should be punished for her sexual orientation.
+Available on the ebc website. Accessed on: Aug 22, 2022.","{
+    ""questions"": [
+        {
+            ""question"": ""Which of the following countries has the highest rate of femicide per 100,000 women?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Brazil"", ""B"": ""Honduras"", ""C"": ""Mexico"", ""D"": ""Argentina"", ""E"": ""Peru""},
+                ""correct_answer"": [""A""],
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Brazil""
+            }
+        },
+        {
+            ""question"": ""What is the purpose of the Economic Commission for Latin America and the Caribbean (ECLAC) research on femicide?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""To study the causes of femicide"", ""B"": ""To provide solutions to intimate femicide"", ""C"": ""To identify lesbophobic or biphobic femicide"", ""D"": ""To analyze systemic sexual femicide"", ""E"": ""To track the number of femicides per country""},
+                ""correct_answer"": [""C""],
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""To identify lesbophobic or biphobic femicide""
+            }
+        },
+        {
+            ""question"": ""Which of the following countries has the lowest rate of femicide per 100,000 women?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Paraguay"", ""B"": ""Uruguay"", ""C"": ""Ecuador"", ""D"": ""Santa Lucia"", ""E"": ""Panama""},
+                ""correct_answer"": [""A""],
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Paraguay""
+            }
+        },
+        {
+            ""question"": ""What is lesbophobic or biphobic femicide, according to the Economic Commission for Latin America and the Caribbean (ECLAC) research?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Femicide committed by a stranger"", ""B"": ""Femicide perpetrated by a partner or ex-partner"", ""C"": ""Femicide committed against a woman because of her sexual orientation"", ""D"": ""Femicide committed in a public place"", ""E"": ""Femicide committed in a private home""},
+                ""correct_answer"": [""C""],
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""Femicide committed against a woman because of her sexual orientation""
+            }
+        },
+        {
+            ""question"": ""Which of the following countries has the second-highest rate of femicide per 100,000 women?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Mexico"", ""B"": ""Honduras"", ""C"": ""Brazil"", ""D"": ""Argentina"", ""E"": ""Peru""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""Honduras""
+            }
+        },
+        {
+            ""question"": ""What is the purpose of tracking the number of femicides per country, according to the data presented in the graph?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""To identify the most dangerous countries for women"", ""B"": ""To compare the effectiveness of different prevention strategies"", ""C"": ""To understand the causes of femicide"", ""D"": ""To evaluate the impact of femicide on the economy"", ""E"": ""To track the number of femicides per country for future research""},
+                ""correct_answer"": [""A""],
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""To identify the most dangerous countries for women""
+            }
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 33 (char 378)"
+5,7,Administration,2022,"TEXT 1
+Description of the Graph:
+Title: Latin America, Caribbean (21 countries): Femicide or femicide (2021) (in absolute numbers and rates per 100,000 women)
+The following data are presented:
+Countries - Absolute Number of Deaths - Deaths per 100,000 women (approximately)
+Honduras - 227 - 4.8
+Santa Lucia - 4 - 4.5
+Trinidad and Tobago - 22 - 3.1
+Dominican Republic - 132 - 2.4
+El Salvador - 73 - 2.3
+Bolivia - 113 - 2
+Brazil - 1738 - 1.8
+Panama - 31 - 1.5
+Mexico - 948 - 1.6
+Guatemala - 119 - 1.2
+Uruguay - 19 - 1.1
+Argentina - 251 - 1.1
+Paraguay - 36 - 1
+Ecuador - 79 - 0.9
+Peru - 148 - 0.9
+
+TEXT 2
+Research results from the Economic Commission for Latin America and the Caribbean (ECLAC), linked to the United Nations (UN), indicate that, in addition to intimate femicide, perpetrated by partners or ex-partners of the victim, and systemic sexual femicide, where the victim is kidnapped and raped, there is lesbophobic or biphobic femicide, configured when the victim is bisexual or lesbian and is murdered because the aggressor believes she should be punished for her sexual orientation.
+Available on the ebc website. Accessed on: Aug 22, 2022.","{
+    ""questions"": [
+        {
+            ""question"": ""Which of the following countries has the highest rate of femicide per 100,000 women?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Brazil"", ""B"": ""Honduras"", ""C"": ""Mexico"", ""D"": ""Argentina"", ""E"": ""Peru""},
+                ""correct_answer"": [""A""],
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Brazil""
+            }
+        },
+        {
+            ""question"": ""What is the purpose of the Economic Commission for Latin America and the Caribbean (ECLAC) research on femicide?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""To study the causes of femicide"", ""B"": ""To provide solutions to intimate femicide"", ""C"": ""To identify lesbophobic or biphobic femicide"", ""D"": ""To analyze systemic sexual femicide"", ""E"": ""To track the number of femicides per country""},
+                ""correct_answer"": [""C""],
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""To identify lesbophobic or biphobic femicide""
+            }
+        },
+        {
+            ""question"": ""Which of the following countries has the lowest rate of femicide per 100,000 women?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Santa Lucia"", ""B"": ""Uruguay"", ""C"": ""Paraguay"", ""D"": ""Ecuador"", ""E"": ""Peru""},
+                ""correct_answer"": [""A""],
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Santa Lucia""
+            }
+        },
+        {
+            ""question"": ""What is lesbophobic or biphobic femicide, according to the Economic Commission for Latin America and the Caribbean (ECLAC) research?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Femicide committed by a partner or ex-partner"", ""B"": ""Femicide committed by a stranger"", ""C"": ""Femicide committed against a woman because of her sexual orientation"", ""D"": ""Femicide committed in a public place"", ""E"": ""Femicide committed in a private place""},
+                ""correct_answer"": [""C""],
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""Femicide committed against a woman because of her sexual orientation""
+            }
+        },
+        {
+            ""question"": ""Which of the following countries has the second-highest rate of femicide per 100,000 women?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Honduras"", ""B"": ""Brazil"", ""C"": ""Mexico"", ""D"": ""Argentina"", ""E"": ""Peru""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""Brazil""
+            }
+        },
+        {
+            ""question"": ""What is the source of the data on femicide rates per 100,000 women?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Economic Commission for Latin America and the Caribbean (ECLAC)"", ""B"": ""United Nations (UN)"", ""C"": ""World Health Organization (WHO)"", ""D"": ""Latin American and Caribbean countries' governments"", ""E"": ""International Criminal Police Organization (INTERPOL)""},
+                ""correct_answer"": [""A"", ""B""],
+                ""correct_answer_letter"": ""A, B"",
+                ""correct_answer_text"": ""Economic Commission for Latin America and the Caribbean (ECLAC) and United Nations (UN)""
+            }
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 33 (char 378)"
+6,7,Administration,2022,"TEXT 1
+Description of the Graph:
+Title: Latin America, Caribbean (21 countries): Femicide or femicide (2021) (in absolute numbers and rates per 100,000 women)
+The following data are presented:
+Countries - Absolute Number of Deaths - Deaths per 100,000 women (approximately)
+Honduras - 227 - 4.8
+Santa Lucia - 4 - 4.5
+Trinidad and Tobago - 22 - 3.1
+Dominican Republic - 132 - 2.4
+El Salvador - 73 - 2.3
+Bolivia - 113 - 2
+Brazil - 1738 - 1.8
+Panama - 31 - 1.5
+Mexico - 948 - 1.6
+Guatemala - 119 - 1.2
+Uruguay - 19 - 1.1
+Argentina - 251 - 1.1
+Paraguay - 36 - 1
+Ecuador - 79 - 0.9
+Peru - 148 - 0.9
+
+TEXT 2
+Research results from the Economic Commission for Latin America and the Caribbean (ECLAC), linked to the United Nations (UN), indicate that, in addition to intimate femicide, perpetrated by partners or ex-partners of the victim, and systemic sexual femicide, where the victim is kidnapped and raped, there is lesbophobic or biphobic femicide, configured when the victim is bisexual or lesbian and is murdered because the aggressor believes she should be punished for her sexual orientation.
+Available on the ebc website. Accessed on: Aug 22, 2022.","{
+    ""questions"": [
+        {
+            ""question"": ""Which of the following countries has the highest rate of femicide per 100,000 women?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Brazil"", ""B"": ""Honduras"", ""C"": ""Mexico"", ""D"": ""Argentina"", ""E"": ""Peru""},
+                ""correct_answer"": [""A""],
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Brazil""
+            }
+        },
+        {
+            ""question"": ""What is the purpose of the Economic Commission for Latin America and the Caribbean (ECLAC) research on femicide?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""To study the causes of femicide"", ""B"": ""To provide solutions to intimate femicide"", ""C"": ""To identify lesbophobic or biphobic femicide"", ""D"": ""To analyze systemic sexual femicide"", ""E"": ""To track the number of femicides per country""},
+                ""correct_answer"": [""C""],
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""To identify lesbophobic or biphobic femicide""
+            }
+        },
+        {
+            ""question"": ""Which of the following countries has the lowest rate of femicide per 100,000 women?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Santa Lucia"", ""B"": ""Uruguay"", ""C"": ""Paraguay"", ""D"": ""Ecuador"", ""E"": ""Peru""},
+                ""correct_answer"": [""A""],
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Santa Lucia""
+            }
+        },
+        {
+            ""question"": ""What is lesbophobic or biphobic femicide, according to the Economic Commission for Latin America and the Caribbean (ECLAC) research?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Femicide committed by a partner or ex-partner"", ""B"": ""Femicide committed by a stranger"", ""C"": ""Femicide committed against a woman because of her sexual orientation"", ""D"": ""Femicide committed in a public place"", ""E"": ""Femicide committed in a private place""},
+                ""correct_answer"": [""C""],
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""Femicide committed against a woman because of her sexual orientation""
+            }
+        },
+        {
+            ""question"": ""Which of the following countries has the second-highest rate of femicide per 100,000 women?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Honduras"", ""B"": ""Brazil"", ""C"": ""Mexico"", ""D"": ""Argentina"", ""E"": ""Peru""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""Brazil""
+            }
+        },
+        {
+            ""question"": ""What is the source of the data on femicide rates per 100,000 women?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Economic Commission for Latin America and the Caribbean (ECLAC)"", ""B"": ""United Nations (UN)"", ""C"": ""World Health Organization (WHO)"", ""D"": ""Latin American and Caribbean countries' governments"", ""E"": ""International Criminal Police Organization (INTERPOL)""},
+                ""correct_answer"": [""A"", ""B""],
+                ""correct_answer_letter"": ""A, B"",
+                ""correct_answer_text"": ""Economic Commission for Latin America and the Caribbean (ECLAC) and United Nations (UN)""
+            }
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 33 (char 378)"
+7,8,Administration,2022,"Description of the image:
+Photo of Charles Humpres showing graffiti by Eduardo Kobra. The art occupies the side space of two floors of a building, characterized by the intense use of contrasts and colors that portrays a man sitting on the ground, head down, barefoot, with two empty plates by his side and holding a sign that reads 'Welcome to real Brazil'.
+Initially, the transgressive nature of graffiti was seen by the State as vandalism in public space and as a danger to the conservation of private property, therefore, it should be combated. Over time, however, this marginal conception has transformed, leading to an acceptable valorization by the State and positive for society. This transition of graffiti, from marginal art to recognized and accepted artistic expression, has revealed important aspects not only for graffiti professionals, but for society as a whole, as it incorporates the possibility of being an artistic product of cultural, economic, and ideological value.
+Source of the Text: PIRES, E. M.; SANTOS, F. A. The city of São Paulo and its dynamics: graffiti, Clean City Law, and urban advertising. Annals of the Museu Paulista: History and Material Culture. v. 26, São Paulo, 2018 (adapted).","{
+    ""questions"": [
+        {
+            ""question"": ""What was the initial perception of graffiti by the State?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Graffiti was seen as a valuable artistic expression."", ""B"": ""Graffiti was seen as vandalism in public space and a danger to private property."", ""C"": ""Graffiti was seen as a cultural phenomenon."", ""D"": ""Graffiti was seen as a form of urban advertising."", ""E"": ""Graffiti was seen as a form of public art.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Graffiti was seen as vandalism in public space and a danger to private property.""
+        },
+        {
+            ""question"": ""What was the transformation of graffiti's perception by the State?"",
+            ""bloom_level"": ""Understand"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""From being accepted to being rejected."", ""B"": ""From being rejected to being accepted."", ""C"": ""From being seen as vandalism to being seen as art."", ""D"": ""From being seen as art to being seen as vandalism."", ""E"": ""From being seen as a form of urban advertising to being seen as a form of public art.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""From being rejected to being accepted.""
+        },
+        {
+            ""question"": ""What is the significance of graffiti's transformation?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""It allows for more artistic freedom."", ""B"": ""It reveals the importance of cultural, economic, and ideological value."", ""C"": ""It is a form of urban advertising."", ""D"": ""It is a form of public art."", ""E"": ""It is a form of vandalism.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""It reveals the importance of cultural, economic, and ideological value.""
+        },
+        {
+            ""question"": ""What does the transition of graffiti from marginal art to recognized artistic expression reveal?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""The importance of artistic freedom."", ""B"": ""The significance of cultural, economic, and ideological value."", ""C"": ""The transformation of graffiti's perception by the State."", ""D"": ""The impact of graffiti on society."", ""E"": ""The role of graffiti in urban advertising.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""The significance of cultural, economic, and ideological value.""
+        },
+        {
+            ""question"": ""What is the impact of graffiti on society?"",
+            ""bloom_level"": ""Create"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""It increases artistic freedom."", ""B"": ""It reveals the importance of cultural, economic, and ideological value."", ""C"": ""It is a form of urban advertising."", ""D"": ""It is a form of public art."", ""E"": ""It is a form of vandalism.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""It reveals the importance of cultural, economic, and ideological value.""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 563)"
+8,8,Administration,2022,"Description of the image:
+Photo of Charles Humpres showing graffiti by Eduardo Kobra. The art occupies the side space of two floors of a building, characterized by the intense use of contrasts and colors that portrays a man sitting on the ground, head down, barefoot, with two empty plates by his side and holding a sign that reads 'Welcome to real Brazil'.
+Initially, the transgressive nature of graffiti was seen by the State as vandalism in public space and as a danger to the conservation of private property, therefore, it should be combated. Over time, however, this marginal conception has transformed, leading to an acceptable valorization by the State and positive for society. This transition of graffiti, from marginal art to recognized and accepted artistic expression, has revealed important aspects not only for graffiti professionals, but for society as a whole, as it incorporates the possibility of being an artistic product of cultural, economic, and ideological value.
+Source of the Text: PIRES, E. M.; SANTOS, F. A. The city of São Paulo and its dynamics: graffiti, Clean City Law, and urban advertising. Annals of the Museu Paulista: History and Material Culture. v. 26, São Paulo, 2018 (adapted).","{
+    ""questions"": [
+        {
+            ""question"": ""What was the initial perception of graffiti by the State?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Graffiti was seen as a valuable artistic expression."", ""B"": ""Graffiti was seen as vandalism in public space and a danger to private property."", ""C"": ""Graffiti was seen as a cultural phenomenon."", ""D"": ""Graffiti was seen as a form of urban advertising."", ""E"": ""Graffiti was seen as a form of public art.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Graffiti was seen as vandalism in public space and a danger to private property.""
+        },
+        {
+            ""question"": ""What was the transformation of graffiti's perception by the State?"",
+            ""bloom_level"": ""Understand"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""From being accepted to being rejected."", ""B"": ""From being rejected to being accepted."", ""C"": ""From being seen as vandalism to being seen as art."", ""D"": ""From being seen as art to being seen as vandalism."", ""E"": ""From being seen as a form of urban advertising to being seen as a form of public art.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""From being rejected to being accepted.""
+        },
+        {
+            ""question"": ""What is the significance of graffiti's transformation?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""It allows for more artistic freedom."", ""B"": ""It reveals the importance of cultural, economic, and ideological value."", ""C"": ""It is a form of urban advertising."", ""D"": ""It is a form of public art."", ""E"": ""It is a form of vandalism.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""It reveals the importance of cultural, economic, and ideological value.""
+        },
+        {
+            ""question"": ""What does the transition of graffiti from marginal art to recognized artistic expression reveal?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""The importance of artistic freedom."", ""B"": ""The significance of cultural, economic, and ideological value."", ""C"": ""The transformation of graffiti's perception by the State."", ""D"": ""The impact of graffiti on society."", ""E"": ""The role of graffiti in urban advertising.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""The significance of cultural, economic, and ideological value.""
+        },
+        {
+            ""question"": ""What is the impact of graffiti on society?"",
+            ""bloom_level"": ""Create"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""It increases artistic freedom."", ""B"": ""It reveals the importance of cultural, economic, and ideological value."", ""C"": ""It is a form of urban advertising."", ""D"": ""It is a form of public art."", ""E"": ""It is a form of vandalism.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""It reveals the importance of cultural, economic, and ideological value.""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 563)"
+9,8,Administration,2022,"Description of the image:
+Photo of Charles Humpres showing graffiti by Eduardo Kobra. The art occupies the side space of two floors of a building, characterized by the intense use of contrasts and colors that portrays a man sitting on the ground, head down, barefoot, with two empty plates by his side and holding a sign that reads 'Welcome to real Brazil'.
+Initially, the transgressive nature of graffiti was seen by the State as vandalism in public space and as a danger to the conservation of private property, therefore, it should be combated. Over time, however, this marginal conception has transformed, leading to an acceptable valorization by the State and positive for society. This transition of graffiti, from marginal art to recognized and accepted artistic expression, has revealed important aspects not only for graffiti professionals, but for society as a whole, as it incorporates the possibility of being an artistic product of cultural, economic, and ideological value.
+Source of the Text: PIRES, E. M.; SANTOS, F. A. The city of São Paulo and its dynamics: graffiti, Clean City Law, and urban advertising. Annals of the Museu Paulista: History and Material Culture. v. 26, São Paulo, 2018 (adapted).","{
+    ""questions"": [
+        {
+            ""question"": ""What was the initial perception of graffiti by the State?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Graffiti was seen as a valuable artistic expression."", ""B"": ""Graffiti was seen as vandalism in public space and a danger to private property."", ""C"": ""Graffiti was seen as a cultural phenomenon."", ""D"": ""Graffiti was seen as a form of urban advertising."", ""E"": ""Graffiti was seen as a form of public art.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Graffiti was seen as vandalism in public space and a danger to private property.""
+        },
+        {
+            ""question"": ""What was the transformation of graffiti's perception by the State?"",
+            ""bloom_level"": ""Understand"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""From being accepted to being rejected."", ""B"": ""From being rejected to being accepted."", ""C"": ""From being seen as vandalism to being seen as art."", ""D"": ""From being seen as art to being seen as vandalism."", ""E"": ""From being seen as a form of urban advertising to being seen as a form of public art.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""From being rejected to being accepted.""
+        },
+        {
+            ""question"": ""What is the significance of graffiti's transformation?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""It allows for more artistic freedom."", ""B"": ""It reveals the importance of cultural, economic, and ideological value."", ""C"": ""It is a form of urban advertising."", ""D"": ""It is a form of public art."", ""E"": ""It is a form of vandalism.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""It reveals the importance of cultural, economic, and ideological value.""
+        },
+        {
+            ""question"": ""What does the transition of graffiti from marginal art to recognized artistic expression reveal?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""The importance of artistic freedom."", ""B"": ""The significance of cultural, economic, and ideological value."", ""C"": ""The transformation of graffiti's perception by the State."", ""D"": ""The impact of graffiti on society."", ""E"": ""The role of graffiti in urban advertising.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""The significance of cultural, economic, and ideological value.""
+        },
+        {
+            ""question"": ""What is the impact of graffiti on society?"",
+            ""bloom_level"": ""Create"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""It increases artistic freedom."", ""B"": ""It reveals the importance of cultural, economic, and ideological value."", ""C"": ""It is a form of urban advertising."", ""D"": ""It is a form of public art."", ""E"": ""It is a form of vandalism.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""It reveals the importance of cultural, economic, and ideological value.""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 563)"
+10,8,Administration,2022,"Description of the image:
+Photo of Charles Humpres showing graffiti by Eduardo Kobra. The art occupies the side space of two floors of a building, characterized by the intense use of contrasts and colors that portrays a man sitting on the ground, head down, barefoot, with two empty plates by his side and holding a sign that reads 'Welcome to real Brazil'.
+Initially, the transgressive nature of graffiti was seen by the State as vandalism in public space and as a danger to the conservation of private property, therefore, it should be combated. Over time, however, this marginal conception has transformed, leading to an acceptable valorization by the State and positive for society. This transition of graffiti, from marginal art to recognized and accepted artistic expression, has revealed important aspects not only for graffiti professionals, but for society as a whole, as it incorporates the possibility of being an artistic product of cultural, economic, and ideological value.
+Source of the Text: PIRES, E. M.; SANTOS, F. A. The city of São Paulo and its dynamics: graffiti, Clean City Law, and urban advertising. Annals of the Museu Paulista: History and Material Culture. v. 26, São Paulo, 2018 (adapted).","{
+    ""questions"": [
+        {
+            ""question"": ""What was the initial perception of graffiti by the State?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Graffiti was seen as a valuable artistic expression."", ""B"": ""Graffiti was seen as vandalism in public space and a danger to private property."", ""C"": ""Graffiti was seen as a cultural phenomenon."", ""D"": ""Graffiti was seen as a form of urban advertising."", ""E"": ""Graffiti was seen as a form of public art.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Graffiti was seen as vandalism in public space and a danger to private property.""
+        },
+        {
+            ""question"": ""What was the transformation of graffiti's perception by the State?"",
+            ""bloom_level"": ""Understand"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""From being accepted to being rejected."", ""B"": ""From being rejected to being accepted."", ""C"": ""From being seen as vandalism to being seen as art."", ""D"": ""From being seen as art to being seen as vandalism."", ""E"": ""From being seen as a form of urban advertising to being seen as a form of public art.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""From being rejected to being accepted.""
+        },
+        {
+            ""question"": ""What is the significance of graffiti's transformation?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""It allows for more artistic freedom."", ""B"": ""It reveals the importance of cultural, economic, and ideological value."", ""C"": ""It is a form of urban advertising."", ""D"": ""It is a form of public art."", ""E"": ""It is a form of vandalism.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""It reveals the importance of cultural, economic, and ideological value.""
+        },
+        {
+            ""question"": ""What does the transition of graffiti from marginal art to recognized artistic expression reveal?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""The importance of artistic freedom."", ""B"": ""The significance of cultural, economic, and ideological value."", ""C"": ""The transformation of graffiti's perception by the State."", ""D"": ""The impact of graffiti on society."", ""E"": ""The role of graffiti in urban advertising.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""The significance of cultural, economic, and ideological value.""
+        },
+        {
+            ""question"": ""What is the impact of graffiti on society?"",
+            ""bloom_level"": ""Create"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""It increases artistic freedom."", ""B"": ""It reveals the importance of cultural, economic, and ideological value."", ""C"": ""It is a form of urban advertising."", ""D"": ""It is a form of public art."", ""E"": ""It is a form of vandalism.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""It reveals the importance of cultural, economic, and ideological value.""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 563)"
+11,28,Administration,2022,"Figure 1. Representative symbols of a flowchart
+Adaptation of the Table: Representative symbols of the Flowchart
+1. Ellipse - Indicates the beginning or end of the process.
+2. Rectangle - Indicates each activity that needs to be executed.
+3. Diamond - Indicates a decision point.
+4. Arrow - Indicates the flow direction.
+5. Wavy base rectangle - Indicates the document used in the process.
+6. Half ellipse - Indicates a wait or delay.
+7. Cycle - Represents the connection between very long stages or different flows. It is used to replace arrows with the purpose of ensuring greater understanding of the flow.
+8. Inverted trapezoid - Indicates manual operation.
+
+Description of the Flowchart: the flowchart follows the following steps:
+A - Start (written inside an ellipse) B - Receive the order (written inside a rectangle) C - Product available? (written inside a diamond)
+• If the answer is NO, the process ends at item H - inform the customer of the product shortage and delivery time (written inside a rectangle)
+• If the answer is YES, the process moves on to item D - Select the product (written inside a rectangle)
+E - Receive payment for the product (written inside a rectangle) F - Issue the Fiscal Coupon (written inside a rectangle) G - Deliver the product (written inside a rectangle) J - End (written inside an ellipse)
+I - Will the customer wait? (written inside a diamond) • If the answer is NO, move on to step J - End • If the answer is YES, move on to step B - Receive the order","{
+    ""questions"": [
+        {
+            ""question"": ""What symbol indicates the beginning or end of the process?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Ellipse"", ""B"": ""Rectangle"", ""C"": ""Diamond"", ""D"": ""Arrow"", ""E"": ""Half ellipse""},
+                ""correct_answer"": [""A""],
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Ellipse""
+            }
+        },
+        {
+            ""question"": ""What type of symbol indicates a decision point in the flowchart?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Ellipse"", ""B"": ""Rectangle"", ""C"": ""Diamond"", ""D"": ""Arrow"", ""E"": ""Wavy base rectangle""},
+                ""correct_answer"": [""C""],
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""Diamond""
+            }
+        },
+        {
+            ""question"": ""What activity is written inside a rectangle in the flowchart?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Start"", ""B"": ""Receive order"", ""C"": ""Select product"", ""D"": ""Receive payment"", ""E"": ""Issue Fiscal Coupon""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""Receive order""
+            }
+        },
+        {
+            ""question"": ""What happens if the customer answers 'NO' to the question 'Product available? '"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""The process moves to step D"", ""B"": ""The process ends at item H"", ""C"": ""The process moves to step E"", ""D"": ""The process moves to step F"", ""E"": ""The process moves to step G""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""The process ends at item H""
+            }
+        },
+        {
+            ""question"": ""What is the next step if the customer answers 'YES' to the question 'Will the customer wait?'"",
+            ""bloom_level"": ""Create"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Move to step J"", ""B"": ""Move to step B"", ""C"": ""Move to step D"", ""D"": ""Move to step E"", ""E"": ""Move to step F""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""Move to step B""
+            }
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 33 (char 359)"
+12,30,Administration,2022,"The marketing research includes identification, collection, analysis, dissemination, and use of information, and each phase of this process is important. We identify or define the marketing research problem or opportunity and then determine the information needed to investigate it. As every marketing opportunity translates into a research problem to be investigated, the terms 'problem' and 'opportunity' are used interchangeably. Next, relevant sources of information are identified and data collection methods are evaluated with varying sophistication and complexity depending on their utility. Data is collected by the most appropriate method and then analyzed and interpreted to provide the necessary inferences. Finally, the findings, implications, and recommendations allow the use of information for marketing decision-making and direct actions. Source of the Text: MALHOTRA, N. K. Marketing research: an applied orientation (adapted).","{
+    ""questions"": [
+        {
+            ""question"": ""What is the primary purpose of defining the marketing research problem or opportunity?"",
+            ""bloom_level"": ""Understand"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""To identify relevant sources of information."", ""B"": ""To determine the information needed to investigate the problem."", ""C"": ""To provide a framework for data collection methods."", ""D"": ""To analyze and interpret the data collected."", ""E"": ""To use the information for marketing decision-making and direct actions.""},
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""To determine the information needed to investigate the problem.""
+        },
+        {
+            ""question"": ""What happens after relevant sources of information are identified in the marketing research process?"",
+            ""bloom_level"": ""Apply"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Data is analyzed and interpreted."", ""B"": ""The findings, implications, and recommendations are presented."", ""C"": ""Data collection methods are evaluated and selected."", ""D"": ""The data is collected using the most appropriate method."", ""E"": ""The research problem or opportunity is defined.""},
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""The data is collected using the most appropriate method.""
+        },
+        {
+            ""question"": ""What is the ultimate goal of the marketing research process?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""To provide a framework for data collection methods."", ""B"": ""To identify relevant sources of information."", ""C"": ""To use the information for marketing decision-making and direct actions."", ""D"": ""To analyze and interpret the data collected."", ""E"": ""To define the marketing research problem or opportunity.""},
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""To use the information for marketing decision-making and direct actions.""
+        },
+        {
+            ""question"": ""What happens to the findings, implications, and recommendations in the marketing research process?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""They are analyzed and interpreted again."", ""B"": ""They are presented to the marketing team."", ""C"": ""They are used to make marketing decisions and take direct actions."", ""D"": ""They are stored in a database for future reference."", ""E"": ""They are discarded.""},
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""They are used to make marketing decisions and take direct actions.""
+        },
+        {
+            ""question"": ""Why are the terms 'problem' and 'opportunity' used interchangeably in the marketing research process?"",
+            ""bloom_level"": ""Understand"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Because they are synonyms with different meanings."", ""B"": ""Because they are used to describe different aspects of the research process."", ""C"": ""Because every marketing opportunity translates into a research problem to be investigated."", ""D"": ""Because they are used to describe different types of research methods."", ""E"": ""Because they are used to describe different levels of research complexity.""},
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Because every marketing opportunity translates into a research problem to be investigated.""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 29 (char 620)"
+13,12,Journalism,2022,"Description of the image: Image of a TV news scene, where the black presenter dialogues with five other communication professionals, also black. Below appear the texts: 'PROTESTS IN THE UNITED STATES' 'GUYS... THE AGENDA IS RACISM...' '3 MORE POLICEMEN WILL BE CHARGED FOR THE MURDER OF GEORGE FLOYD'. After the Em Pauta program, from GloboNews, was criticized on social media for only having white journalists and commentators talking about racism, the next day's show featured a team of black professionals to discuss the subject. Presenter Marcelo Cosme started the program by saying that they understood the message from internet users and, therefore, invited a team of black professionals to 'discuss a topic they know very well, because they face it in their lives'. On both days, the program addressed the wave of protests against racism that occurred in the United States after the death of George Floyd, suffocated by a white policeman in Minneapolis. Available on the uol website. Accessed on: June 27, 2022 (adapted).","{
+    ""questions"": [
+        {
+            ""question"": ""Why did Em Pauta program, from GloboNews, change its approach to discuss racism?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""To feature only white journalists"", ""B"": ""To discuss the topic from multiple perspectives"", ""C"": ""To address internet users' criticism"", ""D"": ""To focus on a different topic"", ""E"": ""To have a team of experts discuss the subject""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""To address internet users' criticism""
+        },
+        {
+            ""question"": ""What was the topic of discussion on both days of the Em Pauta program?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""The death of George Floyd"", ""B"": ""The protests in the United States"", ""C"": ""The COVID-19 pandemic"", ""D"": ""The economy in the United States"", ""E"": ""The role of social media in journalism""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""The protests in the United States""
+        },
+        {
+            ""question"": ""Who was the presenter of the Em Pauta program on the day it featured a team of black professionals?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Marcelo Cosme"", ""B"": ""John Smith"", ""C"": ""Jane Doe"", ""D"": ""Maria Johnson"", ""E"": ""George Washington""
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Marcelo Cosme""
+        },
+        {
+            ""question"": ""Why did the presenter Marcelo Cosme choose a team of black professionals to discuss the topic?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Because they were the only ones available"", ""B"": ""Because they were experts in the topic"", ""C"": ""Because they faced racism in their lives"", ""D"": ""Because it was a marketing strategy"", ""E"": ""Because they were friends with the presenter""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Because they faced racism in their lives""
+        },
+        {
+            ""question"": ""What was the outcome of the Em Pauta program's change in approach?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""The program received more criticism"", ""B"": ""The program became more popular"", ""C"": ""The program was praised for its inclusivity"", ""D"": ""The program was cancelled"", ""E"": ""The program remained unchanged""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""The program was praised for its inclusivity""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 509)"
+14,13,Journalism,2022,"Currently, in the routine of producing a printed vehicle, the planning of a journalistic coverage needs to take into account new demands and new productive arrangements that characterize the most recent phase of journalism, in which there is an increasing tendency towards synergy between the print and website newsrooms of a vehicle. This is a process in full development, with models being tested in all areas. In the search for paths for the profession facing numerous ongoing technological, professional, and economic transformations, adaptations have been constant.","{
+    ""questions"": [
+        {
+            ""question"": ""What is a common trend in the current phase of journalism?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""The separation of print and online newsrooms.""},
+                {""B"": ""The increasing tendency towards synergy between print and website newsrooms.""},
+                {""C"": ""The decline of investigative journalism.""},
+                {""D"": ""The rise of citizen journalism.""},
+                {""E"": ""The abandonment of fact-checking.""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""The increasing tendency towards synergy between print and website newsrooms.""
+        },
+        {
+            ""question"": ""What is the primary goal of adapting to technological, professional, and economic transformations in journalism?"",
+            ""bloom_level"": ""Understand"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""To maintain the status quo of traditional journalism.""},
+                {""B"": ""To ensure the survival of the profession in the face of changing media landscape.""},
+                {""C"": ""To increase the number of journalistic awards.""},
+                {""D"": ""To reduce the workload of journalists.""},
+                {""E"": ""To eliminate the need for fact-checking.""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""To ensure the survival of the profession in the face of changing media landscape.""
+        },
+        {
+            ""question"": ""What is the outcome of the synergy between print and website newsrooms in journalism?"",
+            ""bloom_level"": ""Apply"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""The decline of online news consumption.""},
+                {""B"": ""The increase in journalistic awards.""},
+                {""C"": ""The development of new storytelling formats.""},
+                {""D"": ""The loss of investigative reporting.""},
+                {""E"": ""The removal of opinion columns.""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""The development of new storytelling formats.""
+        },
+        {
+            ""question"": ""What is a characteristic of the current phase of journalism?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""The absence of synergy between print and website newsrooms.""},
+                {""B"": ""The emphasis on investigative reporting.""},
+                {""C"": ""The development of new productive arrangements.""},
+                {""D"": ""The decline of online news consumption.""},
+                {""E"": ""The restriction of journalistic freedom.""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""The development of new productive arrangements.""
+        },
+        {
+            ""question"": ""What is a benefit of adapting to technological, professional, and economic transformations in journalism?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""The increase in journalistic awards.""},
+                {""B"": ""The preservation of traditional journalism practices.""},
+                {""C"": ""The development of new revenue streams.""},
+                {""D"": ""The increase in workload of journalists.""},
+                {""E"": ""The decrease in journalistic quality.""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""The development of new revenue streams.""
+        }
+    ]
+}",Expecting value: line 13 column 13 (char 597)
+15,14,Journalism,2022,"Journalistic activities are an exception to the applicability of the General Data Protection Law (LGPD) (article 4, item II, item 'a'), that is, the regulation of personal data protection cannot be used as a form of censorship or limitation of the exercise of freedom of the press.
+Source of the Text: CHAVES. et al. Journalism and personal data protection: freedom of expression, information, and communication as foundations of the LGPD. 2022 (adapted).
+'Art. 5 For the purposes of this Law [LGPD], it is considered: II - sensitive personal data: personal data on racial or ethnic origin, religious belief, political opinion, membership of a union or organization of religious, philosophical, or political character, data related to health or sexual life, genetic or biometric data, when linked to a natural person.'
+Source of the Text: BRAZIL. Law No. 13,709, of August 14, 2018. General Data Protection Law (LGPD). Official Gazette of the Union.","{
+    ""questions"": [
+        {
+            ""question"": ""What is the exception to the applicability of the General Data Protection Law (LGPD) for journalistic activities?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Article 4, item II, item 'b'"", ""B"": ""Article 5, item II"", ""C"": ""Journalistic activities are not subject to LGPD"", ""D"": ""Article 4, item II, item 'a'"", ""E"": ""LGPD does not apply to personal data""
+                ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Article 4, item II, item 'a'""
+        },
+        {
+            ""question"": ""What type of data is considered sensitive personal data according to Article 5 of the LGPD?"",
+            ""bloom_level"": ""Understand"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Data related to financial transactions"", ""B"": ""Data related to educational background"", ""C"": ""Data related to racial or ethnic origin"", ""D"": ""Data related to employment history"", ""E"": ""Data related to personal interests""
+                ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Data related to racial or ethnic origin""
+        },
+        {
+            ""question"": ""Why cannot the regulation of personal data protection be used as a form of censorship or limitation of the exercise of freedom of the press?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Because it is a violation of human rights"", ""B"": ""Because it limits the ability to access information"", ""C"": ""Because it is a form of censorship"", ""D"": ""Because it is not a requirement of the LGPD"", ""E"": ""Because it is a form of limitation of the exercise of freedom of the press""
+                ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Because it is a form of censorship""
+        },
+        {
+            ""question"": ""What is the specific aspect of journalistic activities that makes them an exception to the applicability of the LGPD?"",
+            ""bloom_level"": ""Apply"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""The right to access information"", ""B"": ""The right to freedom of expression"", ""C"": ""The exception for journalism and freedom of the press"", ""D"": ""The protection of personal data"", ""E"": ""The obligation to disclose sources""
+                ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""The exception for journalism and freedom of the press""
+        },
+        {
+            ""question"": ""According to the LGPD, what type of data is considered sensitive when linked to a natural person?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Data related to financial transactions"", ""B"": ""Data related to educational background"", ""C"": ""Data related to racial or ethnic origin, religious belief, political opinion, membership of a union or organization, data related to health or sexual life, genetic or biometric data"", ""D"": ""Data related to employment history"", ""E"": ""Data related to personal interests""
+                ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Data related to racial or ethnic origin, religious belief, political opinion, membership of a union or organization, data related to health or sexual life, genetic or biometric data""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 17 (char 514)"
+16,17,Journalism,2022,"The set of activities that make up the coverage of football matches goes far beyond the broadcast of the matches themselves. It is a continuous or permanent action, since matches, championships, and a large set of actions directly or indirectly linked to them - training sessions, player sales and loans, internal club politics, tactics and coaches, game schedules, etc. - are recurring themes in sports programs or in the television news of TV stations.
+Source of the Text: TEMER; TONDATO. Television in search of interactivity: an analysis of non-fiction genres. 2009 (adapted).","{
+    ""questions"": [
+        {
+            ""question"": ""What is the scope of the coverage of football matches?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Only the matches themselves"", ""B"": ""The broadcast of the matches and internal club politics"", ""C"": ""A continuous or permanent action"", ""D"": ""The training sessions and player sales"", ""E"": ""Only the championships""
+                ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""A continuous or permanent action""
+        },
+        {
+            ""question"": ""What are some of the recurring themes in sports programs or in the television news of TV stations?"",
+            ""bloom_level"": ""Understand"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Only player transfers"", ""B"": ""Tactics and coaches, game schedules, and internal club politics"", ""C"": ""Only player injuries and suspensions"", ""D"": ""Only match highlights and commentary"", ""E"": ""Only sports news and analysis""
+                ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Tactics and coaches, game schedules, and internal club politics""
+        },
+        {
+            ""question"": ""What is the role of internal club politics in the coverage of football matches?"",
+            ""bloom_level"": ""Apply"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""It is a minor aspect of the coverage"", ""B"": ""It is a crucial aspect in shaping the narrative of the match"", ""C"": ""It only affects the team's performance"", ""D"": ""It is only relevant during the transfer window"", ""E"": ""It is irrelevant to the coverage of the match""
+                ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""It is a crucial aspect in shaping the narrative of the match""
+        },
+        {
+            ""question"": ""What is the nature of the coverage of football matches?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""It is a one-time event"", ""B"": ""It is a continuous or permanent action"", ""C"": ""It is only relevant to the broadcast of the matches"", ""D"": ""It is only relevant to the sports news"", ""E"": ""It is only relevant to the internal club politics""
+                ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""It is a continuous or permanent action""
+        },
+        {
+            ""question"": ""What is the focus of sports programs or in the television news of TV stations?"",
+            ""bloom_level"": ""Create"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Only the technical aspects of the game"", ""B"": ""Only the human interest stories"", ""C"": ""The entire scope of the coverage, including matches, championships, and internal club politics"", ""D"": ""Only the sports news and analysis"", ""E"": ""Only the entertainment aspects of the game""
+                ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""The entire scope of the coverage, including matches, championships, and internal club politics""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 17 (char 472)"
+17,25,Journalism,2022,"The journalist knows that his work will go through stages in which his editors have certain powers and means of control. The journalist has to anticipate the editors' expectations, to avoid retouching in their texts and reprimands - two means that are part of the control system and can have effects or not on the maintenance of their position, the choice of their tasks, and their promotion - in other words, nothing less than their professional career. Source of the Text: TRAQUINA. The Theories of Journalism: why the news is as it is. 2005 (adapted).","{
+    ""questions"": [
+        {
+            ""question"": ""What is the primary concern for a journalist in the face of editorial control?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""To avoid criticism from readers."", ""B"": ""To anticipate editors' expectations."", ""C"": ""To maintain a neutral tone."", ""D"": ""To increase their workload."", ""E"": ""To decrease their pay.""
+                ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""To anticipate editors' expectations.""
+        },
+        {
+            ""question"": ""What are the two means of control that editors have over journalists' work?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Retouching and reprimands."", ""B"": ""Editing and rewriting."", ""C"": ""Fact-checking and verification."", ""D"": ""Interviewing and reporting."", ""E"": ""Researching and investigating.""
+                ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Retouching and reprimands.""
+        },
+        {
+            ""question"": ""What are the potential effects of editors' control on a journalist's career?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Limited job opportunities."", ""B"": ""Increased job security."", ""C"": ""Negative impact on professional reputation."", ""D"": ""Positive impact on professional growth."", ""E"": ""No effect on professional career.""
+                ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Negative impact on professional reputation.""
+        },
+        {
+            ""question"": ""Why is it important for journalists to anticipate editors' expectations?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""To avoid criticism from readers."", ""B"": ""To maintain a good relationship with editors."", ""C"": ""To ensure the accuracy of their work."", ""D"": ""To anticipate the needs of their audience."", ""E"": ""To increase their workload.""
+                ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""To maintain a good relationship with editors.""
+        },
+        {
+            ""question"": ""What is the ultimate goal for a journalist in avoiding editors' control?"",
+            ""bloom_level"": ""Create"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""To increase their professional reputation."", ""B"": ""To maintain their job security."", ""C"": ""To ensure the accuracy of their work."", ""D"": ""To avoid criticism from readers."", ""E"": ""To promote their own career advancement.""
+                ],
+            ""correct_answer"": [""E""],
+            ""correct_answer_letter"": ""E"",
+            ""correct_answer_text"": ""To promote their own career advancement.""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 17 (char 462)"
+18,30,Journalism,2022,"When preparing investigative reports, the professional often finds himself dealing with controversial investigative resources, such as information revealed off the record by sources. This means that, for some reason, the source cannot or does not want to identify themselves. It is something that is not uncommon in reports that are defined by precisely wanting to reveal what someone intends to hide, even if it is of public interest.","{
+    ""questions"": [
+        {
+            ""question"": ""What is meant by 'off the record' in investigative reporting?"",
+            ""bloom_level"": ""Understand"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""When a source agrees to speak on camera."", ""B"": ""When a source is quoted but not identified."", ""C"": ""When a source does not want to be identified."", ""D"": ""When a source is only spoken to over the phone."", ""E"": ""When a source is only interviewed in person.""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""When a source does not want to be identified.""
+        },
+        {
+            ""question"": ""Why do sources sometimes provide information 'off the record'?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""To protect their identity from the public."", ""B"": ""To protect their identity from other journalists."", ""C"": ""To provide information without being accountable for their statements."", ""D"": ""To provide information without being quoted."", ""E"": ""To provide information without being attributed.""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""To provide information without being accountable for their statements.""
+        },
+        {
+            ""question"": ""What is the purpose of using 'off the record' information in an investigative report?"",
+            ""bloom_level"": ""Apply"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""To provide accurate information to the public."", ""B"": ""To provide a balanced view of the story."", ""C"": ""To reveal what someone intends to hide."", ""D"": ""To build trust with the audience."", ""E"": ""To create controversy around the story.""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""To reveal what someone intends to hide.""
+        },
+        {
+            ""question"": ""What is a potential drawback of using 'off the record' information in an investigative report?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""It may compromise the credibility of the report."", ""B"": ""It may lead to more in-depth reporting."", ""C"": ""It may make the report more engaging."", ""D"": ""It may provide a unique perspective."", ""E"": ""It may ensure the report is fact-checked.""
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""It may compromise the credibility of the report.""
+        },
+        {
+            ""question"": ""How should journalists handle 'off the record' information?"",
+            ""bloom_level"": ""Create"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Use it as primary sources in the report."", ""B"": ""Verify it with multiple sources before publication."", ""C"": ""Use it to create a balanced view of the story."", ""D"": ""Use it to support a narrative."", ""E"": ""Use it to provide context to the story.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Verify it with multiple sources before publication.""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 526)"
+19,34,Journalism,2022,"Crisis management is a crucial action for the communication of any company. In a preventive or corrective manner, it is necessary to anticipate scenarios and create measures that should be adopted in case of a crisis or to minimize its impact. When a negative fact or news reaches the media, threatening the reputation or even the operation of an institution, the journalism professional working in the company's press office must act on several fronts and do everything possible to preserve and enhance the image of their client.","{
+    ""questions"": [
+        {
+            ""question"": ""What is the primary goal of crisis management in the context of company communication?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""To increase sales and revenue"", ""B"": ""To anticipate and create measures to minimize the impact of a crisis"", ""C"": ""To maintain a positive public image"", ""D"": ""To gather information about the crisis"", ""E"": ""To create a communication strategy""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""To anticipate and create measures to minimize the impact of a crisis""
+        },
+        {
+            ""question"": ""What is the role of a journalism professional in a company's press office during a crisis?"",
+            ""bloom_level"": ""Apply"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""To gather information and report on the crisis"", ""B"": ""To create a communication strategy to mitigate the crisis"", ""C"": ""To advise the company on how to respond to the media"", ""D"": ""To act as a mediator between the company and the media"", ""E"": ""To provide technical support to the company's communication team""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""To advise the company on how to respond to the media""
+        },
+        {
+            ""question"": ""What is the importance of anticipating scenarios in crisis management?"",
+            ""bloom_level"": ""Understand"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""It allows companies to respond quickly to a crisis"", ""B"": ""It enables companies to create a crisis communication plan"", ""C"": ""It helps companies to identify potential risks and threats"", ""D"": ""It allows companies to focus on damage control"", ""E"": ""It is not an essential step in crisis management""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""It helps companies to identify potential risks and threats""
+        },
+        {
+            ""question"": ""What is the goal of a crisis communication plan?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""To increase the company's reputation"", ""B"": ""To minimize the impact of a crisis"", ""C"": ""To gather information about the crisis"", ""D"": ""To create a communication strategy"", ""E"": ""To respond to the media""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""To minimize the impact of a crisis""
+        },
+        {
+            ""question"": ""What is the role of a journalism professional in a company's press office during a crisis?"",
+            ""bloom_level"": ""Create"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""To create a crisis communication plan"", ""B"": ""To advise the company on how to respond to the media"", ""C"": ""To gather information and report on the crisis"", ""D"": ""To act as a mediator between the company and the media"", ""E"": ""To provide technical support to the company's communication team""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""To advise the company on how to respond to the media""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 530)"
+20,35,Journalism,2022,"In journalism, the interview is a type of relationship. It depends on the journalist's ability to converse and show interest in what the other person has to say. It is not enough to have a list of questions and wait for answers. The interview is used as one of the techniques to obtain information. The reporter listens to various sources and combines the information obtained with others collected through research, observation, and documentation.
+Source of the Text: PINTO. Daily journalism: reflections, recommendations, tips, and exercises. 2009 (adapted).","{
+    ""questions"": [
+        {
+            ""question"": ""What is the primary focus of a journalist during an interview?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Asking questions"", ""B"": ""Showing interest in the other person's perspective"", ""C"": ""Being prepared with a list of questions"", ""D"": ""Listening to the other person"", ""E"": ""Taking notes""
+                ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Showing interest in the other person's perspective""
+        },
+        {
+            ""question"": ""Why is it not enough for a journalist to simply have a list of questions during an interview?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Because the interviewee might not answer all the questions"", ""B"": ""Because it shows a lack of preparation"", ""C"": ""Because the journalist needs to show interest in what the other person has to say"", ""D"": ""Because it's too time-consuming"", ""E"": ""Because it's not a effective way to obtain information""
+                ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Because the journalist needs to show interest in what the other person has to say""
+        },
+        {
+            ""question"": ""What technique does the journalist use to obtain information during an interview?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Research"", ""B"": ""Observation"", ""C"": ""Documentation"", ""D"": ""Combining information from various sources"", ""E"": ""Conducting a survey""
+                ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Combining information from various sources""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 17 (char 451)"
+21,3,Law,2022,"In 2019, armed violence was three times higher for the black population, compared to the non-black population, both for the general population and for the youth group (between 15 and 29 years old). Regarding the mortality rate per 100,000 inhabitants in the group of people up to 14 years old, the inequality in the victimization of black children and adolescents by firearm assault also stands out, with a rate 3.6 times higher than that of non-blacks in 2019. Source of the Text: INSTITUTO SOU DA PAZ. Armed violence and racism: the role of firearms in racial inequality. 2021.","{
+    ""questions"": [
+        {
+            ""question"": ""What is the comparison of armed violence rates in 2019 between the black and non-black populations?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Armed violence rates were equal between the two populations."", ""B"": ""Armed violence rates were three times higher for the black population."", ""C"": ""Armed violence rates were two times higher for the non-black population."", ""D"": ""Armed violence rates were one time higher for the black population."", ""E"": ""Armed violence rates were five times higher for the non-black population.""],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Armed violence rates were three times higher for the black population.""
+        },
+        {
+            ""question"": ""What is the rate of mortality per 100,000 inhabitants in the group of people up to 14 years old for black children and adolescents in 2019?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""1.2 times higher"", ""B"": ""3.6 times higher"", ""C"": ""2.5 times higher"", ""D"": ""1.5 times higher"", ""E"": ""4 times higher""],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""3.6 times higher""
+        },
+        {
+            ""question"": ""Which age group experienced armed violence at a rate three times higher in 2019?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""People aged 30-59"", ""B"": ""Youth group (between 15 and 29 years old)"", ""C"": ""People aged 60 and above"", ""D"": ""General population"", ""E"": ""Children and adolescents up to 14 years old""],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Youth group (between 15 and 29 years old)""
+        },
+        {
+            ""question"": ""What is the primary cause of the inequality in victimization of black children and adolescents by firearm assault?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Racial bias in law enforcement"", ""B"": ""Socioeconomic factors"", ""C"": ""Cultural differences"", ""D"": ""Biological differences"", ""E"": ""Firearm ownership rates""],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Socioeconomic factors""
+        },
+        {
+            ""question"": ""What is the source of the text that presents the data on armed violence and racism?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""INSTITUTO SOU DA PAZ"", ""B"": ""UNICEF"", ""C"": ""WHO"", ""D"": ""ICRC"", ""E"": ""Amnesty International""],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""INSTITUTO SOU DA PAZ""
+        }
+    ]
+}","Expecting ',' delimiter: line 8 column 403 (char 667)"
+22,7,Law,2022,"TEXT 1
+Description of the Graph:
+Title: Latin America, Caribbean (21 countries): Femicide or feminicide (2021) (in absolute numbers and rates per 100,000 women)
+The following data are presented:
+Countries - Absolute Number of Deaths - Deaths per 100,000 women (approximately)
+Honduras - 227 - 4.8
+Santa Lucia - 4 - 4.5
+Trinidad and Tobago - 22 - 3.1
+Dominican Republic - 132 - 2.4
+El Salvador - 73 - 2.3
+Bolivia - 113 - 2
+Brazil - 1738 - 1.8
+Panama - 31 - 1.5
+Mexico - 948 - 1.6
+Guatemala - 119 - 1.2
+Uruguay - 19 - 1.1
+Argentina - 251 - 1.1
+Paraguay - 36 - 1
+Ecuador - 79 - 0.9
+Peru - 148 - 0.9
+
+TEXT 2
+Research results from the Economic Commission for Latin America and the Caribbean (ECLAC), linked to the United Nations (UN), indicate that, in addition to intimate femicide, perpetrated by partners or ex-partners of the victim, and systemic sexual femicide, where the victim is kidnapped and raped, there is lesbophobic or biphobic femicide, configured when the victim is bisexual or lesbian and is murdered because the aggressor believes she should be punished for her sexual orientation.
+Available on the ebc website. Accessed on: Aug 22, 2022.","{
+    ""questions"": [
+        {
+            ""question"": ""Which of the following countries has the highest rate of femicide per 100,000 women?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Brazil"", ""B"": ""Honduras"", ""C"": ""Mexico"", ""D"": ""Argentina"", ""E"": ""Peru""},
+                ""correct_answer"": [""A""],
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Brazil""
+            }
+        },
+        {
+            ""question"": ""What is the purpose of the Economic Commission for Latin America and the Caribbean (ECLAC) research on femicide?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""To study the causes of femicide"", ""B"": ""To provide solutions to intimate femicide"", ""C"": ""To identify lesbophobic or biphobic femicide"", ""D"": ""To analyze systemic sexual femicide"", ""E"": ""To track the number of femicides per country""},
+                ""correct_answer"": [""C""],
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""To identify lesbophobic or biphobic femicide""
+            }
+        },
+        {
+            ""question"": ""Which of the following countries has the lowest rate of femicide per 100,000 women?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Santa Lucia"", ""B"": ""Uruguay"", ""C"": ""Paraguay"", ""D"": ""Ecuador"", ""E"": ""Peru""},
+                ""correct_answer"": [""A""],
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Santa Lucia""
+            }
+        },
+        {
+            ""question"": ""What is lesbophobic or biphobic femicide, according to the Economic Commission for Latin America and the Caribbean (ECLAC) research?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Femicide committed by a partner or ex-partner"", ""B"": ""Femicide committed by a stranger"", ""C"": ""Femicide committed against a woman because of her sexual orientation"", ""D"": ""Femicide committed in a public place"", ""E"": ""Femicide committed in a private place""},
+                ""correct_answer"": [""C""],
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""Femicide committed against a woman because of her sexual orientation""
+            }
+        },
+        {
+            ""question"": ""Which of the following countries has the second-highest rate of femicide per 100,000 women?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Honduras"", ""B"": ""Brazil"", ""C"": ""Mexico"", ""D"": ""Argentina"", ""E"": ""Peru""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""Brazil""
+            }
+        },
+        {
+            ""question"": ""What is the source of the data on femicide rates per 100,000 women?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Economic Commission for Latin America and the Caribbean (ECLAC)"", ""B"": ""United Nations (UN)"", ""C"": ""World Health Organization (WHO)"", ""D"": ""Latin American and Caribbean countries' governments"", ""E"": ""International Criminal Police Organization (INTERPOL)""},
+                ""correct_answer"": [""A""],
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Economic Commission for Latin America and the Caribbean (ECLAC)""
+            }
+        },
+        {
+            ""question"": ""Which of the following countries has the highest number of femicides in absolute numbers?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Brazil"", ""B"": ""Mexico"", ""C"": ""Honduras"", ""D"": ""Argentina"", ""E"": ""Peru""},
+                ""correct_answer"": [""A""],
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Brazil""
+            }
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 33 (char 378)"
+23,12,Law,2022,"The new Public Procurement Law (Law No. 14,133/2021) establishes several changes in the bidding process, making the purchase or contracting of goods and services faster and more efficient. Among the main changes, the law defines that bidding processes should be carried out electronically, in an online process. Furthermore, it promoted changes in the types of bidding. Through such measures, the aim is to streamline the entire process of purchasing or contracting goods and services and provide more transparency to society. New Public Procurement Law: advantages and main changes. Available at the Public Procurement Portal. Accessed on: July 15, 2022 (adapted).","{
+    ""questions"": [
+        {
+            ""question"": ""What is the main change introduced by the new Public Procurement Law regarding the bidding process?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""The bidding process will be manual and paper-based."", ""B"": ""The bidding process will be carried out electronically, in an online process."", ""C"": ""The bidding process will be done only through telephone."", ""D"": ""The bidding process will be done only through email."", ""E"": ""The bidding process will be done only through fax.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""The bidding process will be carried out electronically, in an online process.""
+        },
+        {
+            ""question"": ""What is the goal of the new Public Procurement Law with regards to the bidding process?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""To make the bidding process more complex and time-consuming."", ""B"": ""To streamline the entire process of purchasing or contracting goods and services and provide more transparency to society."", ""C"": ""To reduce the number of bidders participating in the process."", ""D"": ""To increase the cost of goods and services purchased."", ""E"": ""To delay the delivery of goods and services.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""To streamline the entire process of purchasing or contracting goods and services and provide more transparency to society.""
+        },
+        {
+            ""question"": ""What type of bidding process is promoted by the new Public Procurement Law?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Only open bidding."", ""B"": ""Only closed bidding."", ""C"": ""Both open and closed bidding."", ""D"": ""Only reverse auction bidding."", ""E"": ""Only negotiated bidding.""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Both open and closed bidding.""
+        },
+        {
+            ""question"": ""What is the expected outcome of the new Public Procurement Law regarding the bidding process?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""A decrease in the number of bidders participating in the process."", ""B"": ""A reduction in the cost of goods and services purchased."", ""C"": ""A faster and more efficient process of purchasing or contracting goods and services."", ""D"": ""A decrease in transparency in the bidding process."", ""E"": ""A decrease in the quality of goods and services purchased.""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""A faster and more efficient process of purchasing or contracting goods and services.""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 624)"
+24,15,Law,2022,"The basic principles of Criminal Law express the minimum platform on which a penal system committed to the Democratic Rule of Law can be erected.
+Among these structuring norms, the principle of minimum intervention stands out, born from the Enlightenment ideals, which recognizes that punishment is an 'imperfect solution' for the protection of relevant legal goods, because it itself violates a category of this good - freedom - preventing the primary action of punitive power in defense of these interests. Therefore, the manifestation of punitive power is only legitimate when other forms of social control prove incapable of safeguarding serious disturbances to the legal order.
+Source of the Text: QUINTERO OLIVARES. Introduction to criminal law. 1981 (adapted).","{
+    ""questions"": [
+        {
+            ""question"": ""What is the primary concern of the principle of minimum intervention in criminal law?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""To maximize punishment for criminal offenders."", ""B"": ""To protect relevant legal goods from violations."", ""C"": ""To minimize intervention in criminal matters."", ""D"": ""To ensure equal punishment for all criminal offenders."", ""E"": ""To prioritize freedom over other legal goods.""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""To protect relevant legal goods from violations.""
+        },
+        {
+            ""question"": ""According to the principle of minimum intervention, what is the primary action of punitive power?"",
+            ""bloom_level"": ""Understand"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""To punish criminal offenders as severely as possible."", ""B"": ""To protect relevant legal goods from violations."", ""C"": ""To prevent the primary action of punitive power in defense of these interests."", ""D"": ""To impose alternative forms of social control."", ""E"": ""To respect the freedom of criminal offenders.""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""To protect relevant legal goods from violations.""
+        },
+        {
+            ""question"": ""Under what circumstances is the manifestation of punitive power legitimate according to the principle of minimum intervention?"",
+            ""bloom_level"": ""Apply"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""When other forms of social control are not available."", ""B"": ""When punishment is deemed necessary to protect relevant legal goods."", ""C"": ""When the primary action of punitive power is not capable of safeguarding serious disturbances to the legal order."", ""D"": ""When the punishment is proportional to the crime committed."", ""E"": ""When the offender is willing to accept the punishment.""},
+                ""correct_answer"": [""C""],
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""When the primary action of punitive power is not capable of safeguarding serious disturbances to the legal order.""
+        },
+        {
+            ""question"": ""What is the relationship between punishment and freedom according to the principle of minimum intervention?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Punishment is a means to protect freedom."", ""B"": ""Punishment violates freedom."", ""C"": ""Punishment is a form of freedom."", ""D"": ""Punishment is necessary to ensure freedom."", ""E"": ""Punishment is a means to restrict freedom.""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""Punishment violates freedom.""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 33 (char 585)"
+25,22,Law,2022,"Between 2011 and 2021, according to the Ministry of Justice, 297,712 immigrants applied for asylum in Brazil. Only in 2021, 29,107 immigrants from 117 countries applied for asylum in Brazil, an increase of 208 applications compared to 2020, when 28,899 applications were received. At the end of 2021, 60,011 refugees were recognized by the country.","{
+    ""questions"": [
+        {
+            ""question"": ""What is the total number of immigrants who applied for asylum in Brazil between 2011 and 2021?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""250,000"", ""B"": ""297,712"", ""C"": ""300,000"", ""D"": ""200,000"", ""E"": ""350,000""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""297,712""
+            }
+        },
+        {
+            ""question"": ""What was the number of countries from which asylum seekers applied in Brazil in 2021?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""100"", ""B"": ""117"", ""C"": ""150"", ""D"": ""50"", ""E"": ""200""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""117""
+            }
+        },
+        {
+            ""question"": ""What was the increase in asylum applications in Brazil in 2021 compared to 2020?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""100"", ""B"": ""208"", ""C"": ""500"", ""D"": ""0"", ""E"": ""1000""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""208""
+            }
+        },
+        {
+            ""question"": ""What was the number of refugees recognized by Brazil at the end of 2021?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""50,000"", ""B"": ""60,011"", ""C"": ""70,000"", ""D"": ""80,000"", ""E"": ""90,000""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""60,011""
+            }
+        },
+        {
+            ""question"": ""What was the number of asylum applications received in Brazil in 2020?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""25,000"", ""B"": ""28,899"", ""C"": ""30,000"", ""D"": ""20,000"", ""E"": ""40,000""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""28,899""
+            }
+        },
+        {
+            ""question"": ""What does the data suggest about the trend of asylum applications in Brazil between 2020 and 2021?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""There was a significant decrease in asylum applications"", ""B"": ""There was a small increase in asylum applications"", ""C"": ""There was a significant increase in asylum applications"", ""D"": ""The data does not provide enough information to determine the trend"", ""E"": ""There was no change in asylum applications""},
+                ""correct_answer"": [""C""],
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""There was a significant increase in asylum applications""
+            }
+        },
+        {
+            ""question"": ""What can be inferred about the asylum application process in Brazil based on the data?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""The process is highly efficient and effective"", ""B"": ""The process is slow and bureaucratic"", ""C"": ""The process is only for immigrants from certain countries"", ""D"": ""The process is only for immigrants with certain skills"", ""E"": ""The process is only for immigrants with certain languages""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""The process is slow and bureaucratic""
+            }
+        },
+        {
+            ""question"": ""What could be the reason for the increase in asylum applications in Brazil in 2021?"",
+            ""bloom_level"": ""Create"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Due to the COVID-19 pandemic"", ""B"": ""Due to climate change"", ""C"": ""Due to economic instability"", ""D"": ""Due to political unrest"", ""E"": ""Due to natural disasters""},
+                ""correct_answer"": [""D""],
+                ""correct_answer_letter"": ""D"",
+                ""correct_answer_text"": ""Due to political unrest""
+            }
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 33 (char 391)"
+26,24,Law,2022,"As a result of the humanitarian crisis experienced in Venezuela, many unaccompanied children migrated to Brazil in search of better living conditions. In most cases, Venezuelan children were protected by the Refugee Statute, an international document from 1951 that regulates the rights of refugees and was ratified by Brazil. Despite Brazil's initiative, triggered by 'Operation Welcome', it was found that many unaccompanied Venezuelan children were living in vulnerable situations on the streets of Pacaraima.","{
+    ""questions"": [
+        {
+            ""question"": ""What was the main reason for the migration of unaccompanied children from Venezuela to Brazil?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""To escape war"", ""B"": ""To find better living conditions"", ""C"": ""To reunite with family"", ""D"": ""To seek education"", ""E"": ""To visit friends""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""To find better living conditions""
+        },
+        {
+            ""question"": ""What international document regulates the rights of refugees and was ratified by Brazil?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Refugee Treaty"", ""B"": ""Refugee Statute"", ""C"": ""Humanitarian Charter"", ""D"": ""International Convention"", ""E"": ""Treaty of Asylum""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Refugee Statute""
+        },
+        {
+            ""question"": ""What was the name of the Brazilian initiative triggered by 'Operation Welcome'?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Operation Welcome"", ""B"": ""Brazilian Refugee Initiative"", ""C"": ""Pacaraima Project"", ""D"": ""Humanitarian Response"", ""E"": ""Refugee Support Program""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Brazilian Refugee Initiative""
+        },
+        {
+            ""question"": ""Why did many unaccompanied Venezuelan children end up living in vulnerable situations on the streets of Pacaraima?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Because they were not protected by the Refugee Statute"", ""B"": ""Because Brazil's initiative failed to provide sufficient support"", ""C"": ""Because many children were living on the streets before the humanitarian crisis"", ""D"": ""Because the children were not properly registered"", ""E"": ""Because the children were not familiar with the Brazilian culture""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Because Brazil's initiative failed to provide sufficient support""
+        },
+        {
+            ""question"": ""What was the outcome of the Brazilian initiative 'Operation Welcome'?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""The initiative successfully protected all unaccompanied Venezuelan children"", ""B"": ""The initiative failed to provide sufficient support, leaving many children in vulnerable situations"", ""C"": ""The initiative was successful in reuniting children with their families"", ""D"": ""The initiative led to an increase in the number of refugees"", ""E"": ""The initiative was cancelled due to lack of funds""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""The initiative failed to provide sufficient support, leaving many children in vulnerable situations""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 433)"
+27,25,Law,2022,"The Pact of San José, Costa Rica, was incorporated into Brazilian law in 1992. Subsequently, in 1998, Brazil recognized the jurisdiction of the Inter-American Court of Human Rights as mandatory. One of the major milestones in the Inter-American Court of Human Rights' judgment against Brazil was the Gomes Lund Case, in which the Brazilian state was condemned for not adopting the proper transitional justice from the dictatorial period to the democratic one. One of the consequences of the sentence was the creation of the Truth Commission and the reparation to the victims of the military dictatorship in Brazil.","{
+    ""questions"": [
+        {
+            ""question"": ""When was the Pact of San José, Costa Rica incorporated into Brazilian law?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""1990"", ""B"": ""1992"", ""C"": ""1995"", ""D"": ""1998"", ""E"": ""2000""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""The Pact of San José, Costa Rica was incorporated into Brazilian law in 1992.""
+        },
+        {
+            ""question"": ""What was the result of the Gomes Lund Case against Brazil?"",
+            ""bloom_level"": ""Understand"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""The Brazilian state was acquitted of all charges"", ""B"": ""The Brazilian state was condemned for not adopting proper transitional justice"", ""C"": ""The Inter-American Court of Human Rights lost jurisdiction"", ""D"": ""The case was dismissed due to lack of evidence"", ""E"": ""The victims of the military dictatorship were compensated"",
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""The Brazilian state was condemned for not adopting proper transitional justice.""
+        },
+        {
+            ""question"": ""What was one of the consequences of the sentence in the Gomes Lund Case?"",
+            ""bloom_level"": ""Apply"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""The creation of a new court"", ""B"": ""The establishment of a Truth Commission"", ""C"": ""The implementation of a new constitution"", ""D"": ""The destruction of all archives"", ""E"": ""The punishment of all perpetrators"",
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""One of the consequences of the sentence was the creation of the Truth Commission.""
+        },
+        {
+            ""question"": ""Why was the Gomes Lund Case significant in the context of the Inter-American Court of Human Rights?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""It was the first case heard by the court"", ""B"": ""It marked a shift in the court's jurisdiction"", ""C"": ""It highlighted the importance of transitional justice"", ""D"": ""It was a minor case with no significant impact"", ""E"": ""It was a case against a country other than Brazil"",
+                ""correct_answer"": [""C""],
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""The Gomes Lund Case was significant because it highlighted the importance of transitional justice.""
+        },
+        {
+            ""question"": ""What is the primary goal of the Truth Commission created as a consequence of the Gomes Lund Case?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""To punish the perpetrators of human rights violations"", ""B"": ""To provide reparation to the victims of human rights violations"", ""C"": ""To investigate and document human rights violations"", ""D"": ""To promote reconciliation between the government and the opposition"", ""E"": ""To create a new constitution"",
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""The primary goal of the Truth Commission is to provide reparation to the victims of human rights violations.""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 33 (char 356)"
+28,26,Law,2022,"Most scholars of Criminal Law and Criminal Procedure agree that it is not possible to waive the use of imprisonment, especially in the most serious cases and those involving more dangerous criminals. However, there is largely a consensus on the need for prison reform and the penitentiary system, due to its ineffectiveness. In this sense, Brazilian criminal procedural legislation establishes several personal precautionary measures, among which electronic monitoring as an autonomous precautionary measure (article 319, item IX, of the Code of Criminal Procedure), applicable in the presence of general requirements of precautionary protection, in isolation or cumulatively, with the exception of offenses not punished with deprivation of liberty (articles 282, caput and paragraph one, and 283, paragraph one, of the Code of Criminal Procedure).","{
+    ""questions"": [
+        {
+            ""question"": ""What is the common consensus among scholars regarding the use of imprisonment?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Imprisonment should be used more frequently"", ""B"": ""Imprisonment is optional in serious cases"", ""C"": ""Imprisonment is not applicable in most cases"", ""D"": ""Imprisonment should be waived in all cases"", ""E"": ""Imprisonment is effective in rehabilitation""
+                ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Imprisonment is not applicable in most cases""
+        },
+        {
+            ""question"": ""What is the main issue with the current penitentiary system, according to scholars?"",
+            ""bloom_level"": ""Understand"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""It is too lenient"", ""B"": ""It is too harsh"", ""C"": ""It is ineffective"", ""D"": ""It is too small"", ""E"": ""It is too big""
+                ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""It is ineffective""
+        },
+        {
+            ""question"": ""What is electronic monitoring as an autonomous precautionary measure according to Brazilian criminal procedural legislation?"",
+            ""bloom_level"": ""Apply"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""A mandatory sentence for serious crimes"", ""B"": ""An alternative to imprisonment"", ""C"": ""An autonomous precautionary measure for electronic monitoring"", ""D"": ""A restriction on freedom of movement"", ""E"": ""A punishment for repeat offenders""
+                ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""An autonomous precautionary measure for electronic monitoring""
+        },
+        {
+            ""question"": ""Under what conditions can electronic monitoring be applied as an autonomous precautionary measure?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Only in cases of minor offenses"", ""B"": ""Only in cases of serious crimes"", ""C"": ""In the presence of general requirements of precautionary protection, in isolation or cumulatively"", ""D"": ""Only in cases of repeat offenders"", ""E"": ""Only in cases of first-time offenders""
+                ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""In the presence of general requirements of precautionary protection, in isolation or cumulatively""
+        },
+        {
+            ""question"": ""What is not punished with deprivation of liberty according to Brazilian criminal procedural legislation?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""All crimes"", ""B"": ""Serious crimes"", ""C"": ""Minor crimes"", ""D"": ""Crimes involving repeat offenders"", ""E"": ""Crimes not punished with imprisonment""
+                ],
+            ""correct_answer"": [""E""],
+            ""correct_answer_letter"": ""E"",
+            ""correct_answer_text"": ""Crimes not punished with imprisonment""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 17 (char 535)"
+29,27,Law,2022,"Caio, Eduardo and Paulo were charged with the crime of qualified homicide, for base motives, committed against a 60-year-old man. In the first phase of the Jury Trial procedure, Caio was acquitted, because the judge understood that there was not enough evidence of his participation in the crime, while Eduardo and Paulo were indicted. Both the Public Prosecutor's Office and Eduardo and Paulo challenged these decisions, which were upheld on appeal. At the end of the second phase of the Jury Trial procedure, in the plenary session, Eduardo and Paulo were convicted by the Jury. Immediately after, the presiding judge of the Jury Trial imposed a sentence of 14 years of imprisonment on Eduardo, and 15 years of imprisonment on Paulo, ordering both to be taken into custody. Dissatisfied with the sentence imposed, Eduardo and Paulo intend to appeal.","{
+    ""questions"": [
+        {
+            ""question"": ""What happened to Caio in the first phase of the Jury Trial procedure?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""He was convicted by the Jury."", ""B"": ""He was acquitted by the judge."", ""C"": ""He was indicted by the Public Prosecutor's Office."", ""D"": ""He was taken into custody."", ""E"": ""He was not involved in the crime.""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""He was acquitted by the judge.""
+        },
+        {
+            ""question"": ""Why was Caio acquitted in the first phase of the Jury Trial procedure?"",
+            ""bloom_level"": ""Understand"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Because the judge believed he was guilty."", ""B"": ""Because there was not enough evidence of his participation in the crime."", ""C"": ""Because he was the victim of the crime."", ""D"": ""Because he was the presiding judge of the Jury Trial."", ""E"": ""Because he was a witness in the trial.""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Because there was not enough evidence of his participation in the crime.""
+        },
+        {
+            ""question"": ""What happened to Eduardo and Paulo at the end of the second phase of the Jury Trial procedure?"",
+            ""bloom_level"": ""Apply"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""They were acquitted by the Jury."", ""B"": ""They were convicted by the Jury."", ""C"": ""They were taken into custody."", ""D"": ""They were released from custody."", ""E"": ""They were granted bail.""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""They were convicted by the Jury.""
+        },
+        {
+            ""question"": ""What did the presiding judge of the Jury Trial impose on Eduardo and Paulo?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""A sentence of 10 years of imprisonment."", ""B"": ""A sentence of 14 years of imprisonment on Eduardo and 15 years of imprisonment on Paulo."", ""C"": ""A sentence of 20 years of imprisonment."", ""D"": ""A sentence of life imprisonment."", ""E"": ""No sentence was imposed.""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""A sentence of 14 years of imprisonment on Eduardo and 15 years of imprisonment on Paulo.""
+        },
+        {
+            ""question"": ""Why did Eduardo and Paulo intend to appeal?"",
+            ""bloom_level"": ""Create"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Because they were happy with the sentence imposed."", ""B"": ""Because they were dissatisfied with the sentence imposed."", ""C"": ""Because they were acquitted by the Jury."", ""D"": ""Because they were convicted by the Jury."", ""E"": ""Because they were taken into custody.""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Because they were dissatisfied with the sentence imposed.""
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 479)
+30,34,Law,2022,"The right to freedom of expression was subject to censorship and punishment during the civil-military dictatorship period in Brazil (1964 to 1985). People were arrested simply for expressing opinions considered critical. Teachers, students, intellectuals, and artists were persecuted, their activities and/or manifestations considered subversive. Many were exiled. As a result of the democratic transition, the Federal Constitution of 1988 was promulgated, with an extensive list of fundamental rights and guarantees, including the right to free expression of thought, reflecting the desire for freedom and to avoid the repetition of experiences like those.","{
+    ""questions"": [
+        {
+            ""question"": ""What was the main restriction on the right to freedom of expression during the civil-military dictatorship period in Brazil?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""The right to freedom of expression was fully respected"", ""B"": ""People were arrested simply for expressing opinions considered critical"", ""C"": ""The right to freedom of expression was only limited for national security reasons"", ""D"": ""The right to freedom of expression was only available to specific groups"", ""E"": ""The right to freedom of expression was not restricted at all""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""People were arrested simply for expressing opinions considered critical""
+        },
+        {
+            ""question"": ""Which group was most affected by the restrictions on the right to freedom of expression during the civil-military dictatorship period in Brazil?"",
+            ""bloom_level"": ""Understand"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Only artists"", ""B"": ""Only intellectuals"", ""C"": ""Only students"", ""D"": ""Teachers, students, intellectuals, and artists"", ""E"": ""Only government officials""
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""Teachers, students, intellectuals, and artists""
+        },
+        {
+            ""question"": ""What was the outcome of the democratic transition in Brazil, regarding the right to freedom of expression?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""The right to freedom of expression was further restricted"", ""B"": ""The right to freedom of expression was not affected"", ""C"": ""The right to freedom of expression was extensively protected through the Federal Constitution of 1988"", ""D"": ""The right to freedom of expression was only protected for certain groups"", ""E"": ""The right to freedom of expression was abolished""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""The right to freedom of expression was extensively protected through the Federal Constitution of 1988""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 702)"
+31,2,Psychology,2022,"TEXT 1
+Data from the survey conducted by TransgenderEurope (TGEU) shows that Brazil has remained for the 13th consecutive year as the country that most kills transgender people.
+Map Description:
+Title: Transgender Deaths - by countries from 2008 to 2021 - Absolute numbers:
+• More than 1000: Brazil.
+• 501 to 1000: Mexico.
+• 251 to 500: USA.
+• 101 to 250: Argentina, Venezuela, Colombia, India.
+• 51 to 100: Turkey.
+• 2 to 50: Canada, Russia, China, Saudi Arabia, Australia and part of Europe.","{
+    ""questions"": [
+        {
+            ""question"": ""Which country has remained for the 13th consecutive year as the country that most kills transgender people?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""United States"", ""B"": ""Brazil"", ""C"": ""Mexico"", ""D"": ""China"", ""E"": ""Russia""},
+                ""correct_answer"": [""B""]
+        },
+        {
+            ""question"": ""According to the map, which country has a transgender death toll between 251 and 500?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Canada"", ""B"": ""USA"", ""C"": ""Mexico"", ""D"": ""India"", ""E"": ""Turkey""},
+                ""correct_answer"": [""B""]
+        },
+        {
+            ""question"": ""What is the primary reason for the high number of transgender deaths in Brazil, according to the data from TransgenderEurope (TGEU)?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Lack of education"", ""B"": ""Homophobia"", ""C"": ""Discrimination"", ""D"": ""Violence"", ""E"": ""Lack of government support""},
+                ""correct_answer"": [""B""]
+        },
+        {
+            ""question"": ""Which countries have a transgender death toll of less than 50, according to the map?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Canada"", ""B"": ""Russia"", ""C"": ""China"", ""D"": ""Saudi Arabia"", ""E"": ""Australia and part of Europe""},
+                ""correct_answer"": [""E""]
+        },
+        {
+            ""question"": ""What does the map show, in terms of transgender deaths from 2008 to 2021?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Transgender population growth"", ""B"": ""Transgender death rates"", ""C"": ""Transgender deaths by country"", ""D"": ""Transgender rights progress"", ""E"": ""Transgender mental health""},
+                ""correct_answer"": [""C""]
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 33 (char 404)"
+32,7,Psychology,2022,"TEXT 1
+Description of the Graph:
+Title: Latin America, Caribbean (21 countries): Femicide or femicide (2021) (in absolute numbers and rates per 100,000 women)
+The following data are presented:
+Countries - Absolute Number of Deaths - Deaths per 100,000 women (approximately)
+Honduras - 227 - 4.8
+Santa Lucia - 4 - 4.5
+Trinidad and Tobago - 22 - 3.1
+Dominican Republic - 132 - 2.4
+El Salvador - 73 - 2.3
+Bolivia - 113 - 2
+Brazil - 1738 - 1.8
+Panama - 31 - 1.5
+Mexico - 948 - 1.6
+Guatemala - 119 - 1.2
+Uruguay - 19 - 1.1
+Argentina - 251 - 1.1
+Paraguay - 36 - 1
+Ecuador - 79 - 0.9
+Peru - 148 - 0.9
+
+TEXT 2
+Research results from the Economic Commission for Latin America and the Caribbean (ECLAC), linked to the United Nations (UN), indicate that, in addition to intimate femicide, perpetrated by partners or ex-partners of the victim, and systemic sexual femicide, where the victim is kidnapped and raped, there is lesbophobic or biphobic femicide, configured when the victim is bisexual or lesbian and is murdered because the aggressor believes she should be punished for her sexual orientation.
+Available on the ebc website. Accessed on: Aug 22, 2022.","{
+    ""questions"": [
+        {
+            ""question"": ""Which of the following countries has the highest rate of femicide per 100,000 women?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Brazil"", ""B"": ""Honduras"", ""C"": ""Mexico"", ""D"": ""Argentina"", ""E"": ""Peru""},
+                ""correct_answer"": [""A""],
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Brazil""
+            }
+        },
+        {
+            ""question"": ""What is the purpose of the Economic Commission for Latin America and the Caribbean (ECLAC) research on femicide?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""To study the causes of femicide"", ""B"": ""To provide solutions to intimate femicide"", ""C"": ""To identify lesbophobic or biphobic femicide"", ""D"": ""To analyze systemic sexual femicide"", ""E"": ""To track the number of femicides per country""},
+                ""correct_answer"": [""C""],
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""To identify lesbophobic or biphobic femicide""
+            }
+        },
+        {
+            ""question"": ""Which of the following countries has the lowest rate of femicide per 100,000 women?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Paraguay"", ""B"": ""Uruguay"", ""C"": ""Ecuador"", ""D"": ""Santa Lucia"", ""E"": ""Panama""},
+                ""correct_answer"": [""A""],
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Paraguay""
+            }
+        },
+        {
+            ""question"": ""What is lesbophobic or biphobic femicide, according to the Economic Commission for Latin America and the Caribbean (ECLAC) research?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Femicide committed by a stranger"", ""B"": ""Femicide perpetrated by a partner or ex-partner"", ""C"": ""Femicide committed against a woman because of her sexual orientation"", ""D"": ""Femicide committed in a public place"", ""E"": ""Femicide committed in a private home""},
+                ""correct_answer"": [""C""],
+                ""correct_answer_letter"": ""C"",
+                ""correct_answer_text"": ""Femicide committed against a woman because of her sexual orientation""
+            }
+        },
+        {
+            ""question"": ""Which of the following countries has the second-highest rate of femicide per 100,000 women?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Mexico"", ""B"": ""Honduras"", ""C"": ""Brazil"", ""D"": ""Argentina"", ""E"": ""Peru""},
+                ""correct_answer"": [""B""],
+                ""correct_answer_letter"": ""B"",
+                ""correct_answer_text"": ""Honduras""
+            }
+        },
+        {
+            ""question"": ""According to the data presented, which of the following countries has the highest number of femicide cases?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Brazil"", ""B"": ""Mexico"", ""C"": ""Honduras"", ""D"": ""Argentina"", ""E"": ""Peru""},
+                ""correct_answer"": [""A""],
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Brazil""
+            }
+        },
+        {
+            ""question"": ""What is the definition of femicide, according to the data presented?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""The killing of a woman by her partner or ex-partner"", ""B"": ""The killing of a woman because of her sexual orientation"", ""C"": ""The killing of a woman in a public place"", ""D"": ""The killing of a woman in a private home"", ""E"": ""The killing of a woman by any means""},
+                ""correct_answer"": [""E""],
+                ""correct_answer_letter"": ""E"",
+                ""correct_answer_text"": ""The killing of a woman by any means""
+            }
+        },
+        {
+            ""question"": ""Which of the following countries has a rate of femicide per 100,000 women less than 1?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Guatemala"", ""B"": ""Uruguay"", ""C"": ""Ecuador"", ""D"": ""Paraguay"", ""E"": ""Panama""},
+                ""correct_answer"": [""B"", ""C"", ""D""],
+                ""correct_answer_letter"": [""B"", ""C"", ""D""],
+                ""correct_answer_text"": ""Uruguay, Ecuador, and Paraguay""
+            }
+        },
+        {
+            ""question"": ""According to the data presented, which of the following countries has the lowest number of femicide cases?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Santa Lucia"", ""B"": ""Trinidad and Tobago"", ""C"": ""Uruguay"", ""D"": ""Paraguay"", ""E"": ""Panama""},
+                ""correct_answer"": [""A""],
+                ""correct_answer_letter"": ""A"",
+                ""correct_answer_text"": ""Santa Lucia""
+            }
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 33 (char 378)"
+33,16,Psychology,2022,"The network of services of the Unified Health System (SUS) constitutes a privileged space for the identification, reception, care, notification, and protection of children and adolescents in situations of violence, as well as for guiding families. It is important to understand the specificities of the most vulnerable groups, seeking to alert professionals to risks and possibilities of prevention, care, and protection. Source of the Text: BRAZIL. MINISTRY OF HEALTH. Department of Programmatic and Strategic Actions. Care line for comprehensive health care for children, adolescents, and their families in situations of violence, 2010 (adapted).","{
+    ""questions"": [
+        {
+            ""question"": ""What is the primary role of the Unified Health System (SUS) in addressing child and adolescent violence?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""To provide medical treatment only"", ""B"": ""To identify, receive, care, notify, and protect children and adolescents in situations of violence"", ""C"": ""To guide families only"", ""D"": ""To focus on adult violence"", ""E"": ""To ignore child and adolescent violence""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""To identify, receive, care, notify, and protect children and adolescents in situations of violence""
+        },
+        {
+            ""question"": ""What is the main goal of understanding the specificities of vulnerable groups in the context of child and adolescent violence?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""To develop a one-size-fits-all approach"", ""B"": ""To identify and address specific needs and risks"", ""C"": ""To ignore the concept of vulnerability"", ""D"": ""To solely focus on adult violence"", ""E"": ""To prioritize medical treatment""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""To identify and address specific needs and risks""
+        },
+        {
+            ""question"": ""What is the primary objective of guiding families in the context of child and adolescent violence?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""To provide legal assistance"", ""B"": ""To offer emotional support"", ""C"": ""To educate on violence prevention strategies"", ""D"": ""To connect families with social services"", ""E"": ""To ignore family involvement""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""To educate on violence prevention strategies""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 561)"
+34,29,Psychology,2022,"TEXT 1
+In May 2022, Genivaldo de Jesus Santos was suffocated and killed by tear gas, according to the Forensic Medical Institute report, inside a Federal Highway Police vehicle in the state of Sergipe, after being approached for riding a motorcycle without a helmet. During the police approach, a nephew of the victim informed that he suffered from schizophrenia, had been in treatment for about 20 years, and was taking medication, which, in fact, was in his possession. Even though the police were informed, the approach continued with the use of force and violence, disproportionate to the risk posed by Genivaldo.
+Available at: g1.globo website. Accessed on: Aug 10, 2022 (adapted).
+TEXT 2
+At the beginning of the 20th century, the first eugenic initiatives emerged in the country, whose collective problems were understood from the unwanted proliferation of people who reproduced, over consecutive generations, spreading vicious, criminal, and degenerate behavioral and mental characteristics. Under the altruistic discourse of guaranteeing treatment, the insane-criminal came to be contained and isolated in judicial asylums, institutions linked to the prison system and administered, at the time, by important psychiatrists.
+Source of the Text: BAGATIN, T. Eugenics and the treatment of the insane-criminal in the early 20th century. VIII INTERNATIONAL HISTORY CONGRESS, 2017 (adapted).","{
+    ""questions"": [
+        {
+            ""question"": ""What happened to Genivaldo de Jesus Santos in May 2022?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""He was arrested for riding a motorcycle without a helmet"", ""B"": ""He was killed by tear gas inside a police vehicle"", ""C"": ""He was treated for schizophrenia"", ""D"": ""He was contained and isolated in a judicial asylum"", ""E"": ""He was given a fine for not wearing a helmet""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""He was killed by tear gas inside a police vehicle""
+        },
+        {
+            ""question"": ""Why did the police continue to use force and violence against Genivaldo de Jesus Santos despite being informed about his schizophrenia?"",
+            ""bloom_level"": ""Analyze"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Because they were unaware of the risks associated with mental health conditions"", ""B"": ""Because they were following standard protocol for dealing with individuals without helmets"", ""C"": ""Because they were trying to contain and isolate him"", ""D"": ""Because they were under pressure to maintain order"", ""E"": ""Because they were trying to protect themselves""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Because they were trying to contain and isolate him""
+        },
+        {
+            ""question"": ""What was the context in which eugenic initiatives emerged in the country?"",
+            ""bloom_level"": ""Understand"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""During the 20th century, as a response to the rise of mental health issues"", ""B"": ""At the beginning of the 20th century, as a solution to social problems"", ""C"": ""In the early 20th century, as a means to guarantee treatment"", ""D"": ""In the late 20th century, as a response to the growing concern about crime rates"", ""E"": ""In the early 20th century, as a way to address issues related to reproduction and genetics""
+            ],
+            ""correct_answer"": [""E""],
+            ""correct_answer_letter"": ""E"",
+            ""correct_answer_text"": ""In the early 20th century, as a way to address issues related to reproduction and genetics""
+        },
+        {
+            ""question"": ""What was the primary goal of the judicial asylums established during the early 20th century?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""To provide treatment and rehabilitation for individuals with mental health conditions"", ""B"": ""To contain and isolate individuals with mental health conditions"", ""C"": ""To punish individuals with mental health conditions"", ""D"": ""To provide shelter for individuals with mental health conditions"", ""E"": ""To segregate individuals with mental health conditions""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""To contain and isolate individuals with mental health conditions""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 526)"
+35,30,Psychology,2022,"Psychology has historically been constructed as a science and profession according to a model of Western society. Its practices, through different circumstances, have reached indigenous communities of various peoples in Brazil. Psychology arrived as a white, colonizing, ethnocentric, and racist science, bringing a discourse to explain to indigenous peoples what mental health is and thinking about public policies, sometimes without considering indigenous cultural codes. Available on the Indigenous Visibility website. Accessed on: July 10, 2022 (adapted).","{
+    ""questions"": [
+        {
+            ""question"": ""What is the historical construction of psychology in Western society?"",
+            ""bloom_level"": ""Remember"",
+            ""difficulty_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Psychology was constructed as a science and profession according to a model of Eastern society."", ""B"": ""Psychology was constructed as a science and profession according to a model of Western society."", ""C"": ""Psychology was constructed as a science and profession according to a model of Indigenous society."", ""D"": ""Psychology was constructed as a science and profession according to a model of African society."", ""E"": ""Psychology was constructed as a science and profession according to a model of Asian society.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Psychology was constructed as a science and profession according to a model of Western society.""
+        },
+        {
+            ""question"": ""How did psychology arrive in indigenous communities in Brazil?"",
+            ""bloom_level"": ""Understand"",
+            ""difficulty_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Psychology arrived in indigenous communities in Brazil through a collaboration with indigenous leaders."", ""B"": ""Psychology arrived in indigenous communities in Brazil as a white, colonizing, ethnocentric, and racist science."", ""C"": ""Psychology arrived in indigenous communities in Brazil through a training program for indigenous professionals."", ""D"": ""Psychology arrived in indigenous communities in Brazil through a research project funded by the government."", ""E"": ""Psychology arrived in indigenous communities in Brazil through a community-based initiative.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Psychology arrived in indigenous communities in Brazil as a white, colonizing, ethnocentric, and racist science.""
+        },
+        {
+            ""question"": ""What was the impact of psychology on indigenous cultural codes in Brazil?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Psychology had a positive impact on indigenous cultural codes in Brazil by promoting cultural exchange and understanding."", ""B"": ""Psychology had a neutral impact on indigenous cultural codes in Brazil by providing information on mental health."", ""C"": ""Psychology had a negative impact on indigenous cultural codes in Brazil by disregarding indigenous cultural norms and values."", ""D"": ""Psychology had a mixed impact on indigenous cultural codes in Brazil by promoting some cultural practices while disregarding others."", ""E"": ""Psychology had no impact on indigenous cultural codes in Brazil.""
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""Psychology had a negative impact on indigenous cultural codes in Brazil by disregarding indigenous cultural norms and values.""
+        },
+        {
+            ""question"": ""What is the significance of considering indigenous cultural codes in psychology?"",
+            ""bloom_level"": ""Create"",
+            ""difficulty_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Considering indigenous cultural codes in psychology is not necessary for effective mental health services."", ""B"": ""Considering indigenous cultural codes in psychology is important for cultural sensitivity and competence."", ""C"": ""Considering indigenous cultural codes in psychology is only relevant for indigenous communities."", ""D"": ""Considering indigenous cultural codes in psychology is not relevant for mental health services."", ""E"": ""Considering indigenous cultural codes in psychology is only relevant for research purposes.""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Considering indigenous cultural codes in psychology is important for cultural sensitivity and competence.""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 785)"
+36,33,Psychology,2022,"The psychologist, based on their knowledge, can act and collaborate for the inclusion of autistic students. Thus, in the school context, they can prepare resources that make the teaching and learning of these students more practical. The goal is to address the difficulties commonly found in children with Autism Spectrum Disorder (ASD), according to their degree and peculiarities, providing assistance to teachers and caregivers. When formulating school activities, they should also take care and pay attention to thinking about students with ASD, prioritizing, especially, issues related to language development and social behavior, favoring the production of promising responses in the school environment. Due to the structural prejudice, it is also necessary for professionals in the field of Psychology to help in the anti-ableist struggle.","{
+    ""questions"": [
+        {
+            ""question"": ""What is the primary goal of a psychologist in the inclusion of autistic students in the school context?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""To provide additional resources for teachers"", ""B"": ""To address the difficulties commonly found in children with ASD"", ""C"": ""To improve the school environment"", ""D"": ""To only focus on language development"", ""E"": ""To ignore the students' peculiarities""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""To address the difficulties commonly found in children with ASD""
+        },
+        {
+            ""question"": ""What is a key consideration when formulating school activities for students with Autism Spectrum Disorder (ASD)?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""To prioritize only academic goals"", ""B"": ""To focus on social behavior and language development"", ""C"": ""To ignore the students' needs"", ""D"": ""To only consider their strengths"", ""E"": ""To prioritize only extracurricular activities""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""To focus on social behavior and language development""
+        },
+        {
+            ""question"": ""Why is it necessary for professionals in the field of Psychology to help in the anti-ableist struggle?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""To create more inclusive school environments"", ""B"": ""To only focus on language development"", ""C"": ""To ignore the students' needs"", ""D"": ""To promote structural prejudice"", ""E"": ""To only consider the students' strengths""
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""To create more inclusive school environments""
+        },
+        {
+            ""question"": ""What is the role of a psychologist in preparing resources for the teaching and learning of autistic students?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""To provide additional resources for teachers"", ""B"": ""To prepare resources that make the teaching and learning more practical"", ""C"": ""To only focus on language development"", ""D"": ""To ignore the students' needs"", ""E"": ""To only consider their strengths""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""To prepare resources that make the teaching and learning more practical""
+        },
+        {
+            ""question"": ""What should a psychologist prioritize when formulating school activities for students with Autism Spectrum Disorder (ASD)?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""To prioritize only extracurricular activities"", ""B"": ""To focus on social behavior and language development"", ""C"": ""To ignore the students' needs"", ""D"": ""To only consider their strengths"", ""E"": ""To prioritize only academic goals""
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""To focus on social behavior and language development""
+        }
+    ]
+}","Expecting ',' delimiter: line 9 column 13 (char 562)"

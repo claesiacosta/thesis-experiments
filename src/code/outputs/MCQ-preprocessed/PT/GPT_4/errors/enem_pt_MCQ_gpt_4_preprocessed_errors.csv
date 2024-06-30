@@ -1,0 +1,559 @@
+index,id,area,year,context,response_gpt_4,error
+0,116,CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS,2017,"
+O ferro é encontrado na natureza na forma de seus minérios, tais como a hematita (a-Fe2O3), a magnetita (Fe3O4)
+e a wustita (FeO). Na siderurgia, o ferro-gusa é obtido pela fusão de minérios de ferro em altos fornos em condições 
+adequadas. Uma das etapas nesse processo é a formação de monóxido de carbono. O CO (gasoso) é utilizado para 
+reduzir o FeO (sólido), conforme a equação química:
+
+<math xmlns=""http://www.w3.org/1998/Math/MathML""><mtext>FeO</mtext><mfenced><mtext>s</mtext></mfenced><mo>+</mo><mtext>CO</mtext><mfenced><mtext>g</mtext></mfenced><mo>&#x2192;</mo><mtext>Fe</mtext><mfenced><mi>s</mi></mfenced><mo>+</mo><msub><mtext>CO</mtext><mn>2</mn></msub><mfenced><mtext>g</mtext></mfenced></math>
+
+Considere as seguintes equações termoquímicas:
+
+<math xmlns=""http://www.w3.org/1998/Math/MathML""><msub><mtext>Fe</mtext><mn>2</mn></msub><msub><mtext>O</mtext><mn>3</mn></msub><mfenced><mtext>s</mtext></mfenced><mo>+</mo><mn>3</mn><mtext>CO</mtext><mfenced><mtext>g</mtext></mfenced><mo>&#x2192;</mo><mn>2</mn><mtext>Fe</mtext><mfenced><mtext>s</mtext></mfenced><mo>+</mo><mn>3</mn><msub><mtext>CO</mtext><mn>2</mn></msub><mfenced><mtext>g</mtext></mfenced></math>
+
+<math xmlns=""http://www.w3.org/1998/Math/MathML""><msub><mi>&#x394;</mi><mi>r</mi></msub><msup><mi>H</mi><mi>&#x3B8;</mi></msup><mo>=</mo><mo>-</mo><mn>25</mn><mtext>kJ/mol</mtext></math> de <math xmlns=""http://www.w3.org/1998/Math/MathML""><msub><mtext>Fe</mtext><mn>2</mn></msub><msub><mtext>O</mtext><mn>3</mn></msub></math> 
+ 
+<math xmlns=""http://www.w3.org/1998/Math/MathML""><mn>3</mn><mtext>FeO</mtext><mfenced><mtext>s</mtext></mfenced><mo>+</mo><msub><mtext>CO</mtext><mi>2</mi></msub><mfenced><mtext>g</mtext></mfenced><mo>&#x2192;</mo><msub><mtext>Fe</mtext><mn>3</mn></msub><msub><mtext>O</mtext><mi>4</mi></msub><mfenced><mtext>s</mtext></mfenced><mo>+</mo><mtext>CO</mtext><mfenced><mtext>g</mtext></mfenced></math>
+
+<math xmlns=""http://www.w3.org/1998/Math/MathML""><msub><mi>&#x394;</mi><mi>r</mi></msub><msup><mi>H</mi><mi>&#x3B8;</mi></msup><mo>=</mo><mo>-</mo><mn>36</mn><mtext>kJ/mol</mtext></math> de <math xmlns=""http://www.w3.org/1998/Math/MathML""><msub><mtext>CO</mtext><mi>2</mi></msub></math>
+ 
+<math xmlns=""http://www.w3.org/1998/Math/MathML""><mn>2</mn><msub><mtext>Fe</mtext><mi>3</mi></msub><msub><mtext>O</mtext><mn>4</mn></msub><mfenced><mtext>s</mtext></mfenced><mo>+</mo><msub><mtext>CO</mtext><mn>2</mn></msub><mfenced><mtext>g</mtext></mfenced><mo>&#x2192;</mo><mn>3</mn><msub><mtext>Fe</mtext><mn>2</mn></msub><msub><mtext>O</mtext><mn>3</mn></msub><mfenced><mtext>s</mtext></mfenced><mo>+</mo><mtext>CO</mtext><mfenced><mtext>g</mtext></mfenced></math>  
+
+<math xmlns=""http://www.w3.org/1998/Math/MathML""><msub><mi>&#x394;</mi><mi>r</mi></msub><msup><mi>H</mi><mi>&#x3B8;</mi></msup><mo>=</mo><mn>47</mn><mtext>kJ/mol</mtext></math> de <math xmlns=""http://www.w3.org/1998/Math/MathML""><msub><mtext>CO</mtext><mn>2</mn></msub></math>
+","{""questions"":[
+    {""question"": ""Qual dos seguintes minérios de ferro é reduzido no processo de siderurgia para produzir ferro-gusa?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Hematita"", ""B"": ""Magnetita"", ""C"": ""Wustita"", ""D"": ""Todos os anteriores"", ""E"": ""Nenhum dos anteriores""}, ""correct_answer"": ""D"", ""correct_answer_text"": ""Todos os anteriores""},
+    {""question"": ""Qual é o papel do monóxido de carbono (CO) no processo de siderurgia?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""O CO é utilizado para oxidar o FeO"", ""B"": ""O CO é utilizado para reduzir o FeO"", ""C"": ""O CO é um subproduto do processo"", ""D"": ""O CO é um catalisador no processo"", ""E"": ""O CO não tem papel no processo""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""O CO é utilizado para reduzir o FeO""},
+    {""question"": ""Com base nas equações termoquímicas fornecidas, qual é a variação de entalpia (ΔH) para a reação de redução de FeO por CO?"", ""bloom_level"": ""Apply"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""-25 kJ/mol"", ""B"": ""-36 kJ/mol"", ""C"": ""47 kJ/mol"", ""D"": ""Não pode ser determinado a partir das informações fornecidas"", ""E"": ""0 kJ/mol""}, ""correct_answer"": ""D"", ""correct_answer_text"": ""Não pode ser determinado a partir das informações fornecidas""},
+    {""question"": ""Qual dos seguintes é um produto da reação de redução de FeO por CO?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Fe"", ""B"": ""CO2"", ""C"": ""Fe2O3"", ""D"": ""Fe3O4"", ""E"": ""Fe e CO2""}, ""correct_answer"": ""E"", ""correct_answer_text"": ""Fe e CO2""},
+    {""question"": ""Qual das seguintes afirmações é verdadeira sobre a reação de redução de FeO por CO?"", ""bloom_level"": ""Evaluate"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""A reação é endotérmica"", ""B"": ""A reação é exotérmica"", ""C"": ""A reação é isotérmica"", ""D"": ""A reação não envolve troca de calor"", ""E"": ""Não pode ser determinado a partir das informações fornecidas""}, ""correct_answer"": ""E"", ""correct_answer_text"": ""Não pode ser determinado a partir das informações fornecidas""}
+]}",'correct_answer_letter'
+1,126,CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS,2017,"
+Uma das estratégias para conservação de alimentos 
+é  o  salgamento,  adição  de  cloreto  de  sódio  (NaCl), 
+historicamente  utilizado  por tropeiros,  vaqueiros  e 
+sertanejos para conservar carnes de boi, porco e peixe.
+","{""questions"":[
+    {""question"": ""Qual é a substância utilizada no processo de salgamento para a conservação de alimentos?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Cloreto de potássio"", ""B"": ""Cloreto de sódio"", ""C"": ""Sulfato de sódio"", ""D"": ""Bicarbonato de sódio"", ""E"": ""Carbonato de sódio""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Cloreto de sódio""},
+    {""question"": ""Por que o cloreto de sódio é eficaz na conservação de alimentos?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Porque altera o sabor do alimento"", ""B"": ""Porque altera a cor do alimento"", ""C"": ""Porque retira a umidade do alimento, inibindo o crescimento de microorganismos"", ""D"": ""Porque aumenta a temperatura do alimento"", ""E"": ""Porque altera a textura do alimento""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Porque retira a umidade do alimento, inibindo o crescimento de microorganismos""},
+    {""question"": ""Qual seria uma alternativa ao uso do cloreto de sódio para a conservação de alimentos, considerando os impactos na saúde humana?"", ""bloom_level"": ""Apply"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Aumentar a quantidade de cloreto de sódio"", ""B"": ""Substituir o cloreto de sódio por açúcar"", ""C"": ""Substituir o cloreto de sódio por cloreto de potássio"", ""D"": ""Substituir o cloreto de sódio por bicarbonato de sódio"", ""E"": ""Substituir o cloreto de sódio por sulfato de sódio""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Substituir o cloreto de sódio por cloreto de potássio""},
+    {""question"": ""Como o processo de salgamento altera a estrutura do alimento?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""O salgamento altera a estrutura química do alimento"", ""B"": ""O salgamento altera a estrutura física do alimento"", ""C"": ""O salgamento altera a estrutura molecular do alimento"", ""D"": ""O salgamento não altera a estrutura do alimento, apenas o sabor"", ""E"": ""O salgamento altera a estrutura celular do alimento, retirando a água e inibindo o crescimento de microorganismos""}, ""correct_answer"": ""E"", ""correct_answer_text"": ""O salgamento altera a estrutura celular do alimento, retirando a água e inibindo o crescimento de microorganismos""},
+    {""question"": ""Considerando os impactos do consumo excessivo de sódio na saúde humana, o uso do salgamento como método de conservação de alimentos é a melhor opção?"", ""bloom_level"": ""Evaluate"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""Sim, porque o salgamento é um método eficaz e barato de conservação de alimentos"", ""B"": ""Não, porque o consumo excessivo de sódio pode levar a problemas de saúde"", ""C"": ""Depende, porque o salgamento pode ser uma boa opção em situações onde não há acesso a outros métodos de conservação"", ""D"": ""Sim, porque o salgamento não altera o valor nutricional do alimento"", ""E"": ""Não, porque existem outros métodos de conservação de alimentos que não envolvem o uso de sódio""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Depende, porque o salgamento pode ser uma boa opção em situações onde não há acesso a outros métodos de conservação""},
+    {""question"": ""Como você criaria um novo método de conservação de alimentos que seja eficaz e tenha menos impactos na saúde humana?"", ""bloom_level"": ""Create"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""Usando cloreto de potássio em vez de cloreto de sódio"", ""B"": ""Usando conservantes naturais como o vinagre"", ""C"": ""Usando técnicas de refrigeração e congelamento"", ""D"": ""Usando técnicas de desidratação"", ""E"": ""Todas as alternativas acima""}, ""correct_answer"": ""E"", ""correct_answer_text"": ""Todas as alternativas acima""}
+]}",'correct_answer_letter'
+2,127,CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS,2017,"
+Para  demonstrar  o  processo  de  transformação  de 
+energia mecânica em elétrica, um estudante constrói um 
+pequeno gerador utilizando:
+
+•  um  fio  de  cobre  de  diâmetro  D  enrolado  em  N espiras circulares de área A;
+
+•  dois ímãs que criam no espaço entre eles um campo magnético uniforme de intensidade B; e 
+
+•  um sistema de engrenagens que lhe permite girar as espiras em torno de um eixo com uma frequência f.
+
+Ao fazer o gerador funcionar, o estudante obteve uma tensão máxima V e uma corrente de curto-circuito i.
+","{""questions"":[
+    {""question"": ""Qual é a função do fio de cobre no gerador construído pelo estudante?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Conduzir a corrente elétrica."", ""B"": ""Criar o campo magnético."", ""C"": ""Girar as espiras."", ""D"": ""Aumentar a tensão máxima."", ""E"": ""Reduzir a corrente de curto-circuito.""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""Conduzir a corrente elétrica.""},
+    {""question"": ""O que acontece quando as espiras do fio de cobre giram no campo magnético?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""A tensão máxima diminui."", ""B"": ""A corrente de curto-circuito aumenta."", ""C"": ""A energia mecânica é transformada em energia elétrica."", ""D"": ""O campo magnético se torna não uniforme."", ""E"": ""O diâmetro do fio de cobre muda.""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""A energia mecânica é transformada em energia elétrica.""},
+    {""question"": ""Como a frequência de rotação das espiras afeta a tensão máxima e a corrente de curto-circuito?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""A frequência não afeta a tensão nem a corrente."", ""B"": ""Aumentar a frequência aumenta a tensão e a corrente."", ""C"": ""Aumentar a frequência diminui a tensão e aumenta a corrente."", ""D"": ""Aumentar a frequência aumenta a tensão e diminui a corrente."", ""E"": ""Aumentar a frequência diminui a tensão e a corrente.""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Aumentar a frequência aumenta a tensão e a corrente.""},
+    {""question"": ""Qual é a relação entre o número de espiras e a tensão máxima?"", ""bloom_level"": ""Apply"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Não há relação."", ""B"": ""Quanto maior o número de espiras, menor a tensão máxima."", ""C"": ""Quanto maior o número de espiras, maior a tensão máxima."", ""D"": ""A tensão máxima é inversamente proporcional ao quadrado do número de espiras."", ""E"": ""A tensão máxima é diretamente proporcional ao quadrado do número de espiras.""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Quanto maior o número de espiras, maior a tensão máxima.""},
+    {""question"": ""O que aconteceria se o campo magnético não fosse uniforme?"", ""bloom_level"": ""Evaluate"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""A tensão máxima seria maior."", ""B"": ""A corrente de curto-circuito seria menor."", ""C"": ""A transformação de energia mecânica em elétrica seria mais eficiente."", ""D"": ""A transformação de energia mecânica em elétrica seria menos eficiente."", ""E"": ""O número de espiras necessárias seria menor.""}, ""correct_answer"": ""D"", ""correct_answer_text"": ""A transformação de energia mecânica em elétrica seria menos eficiente.""}
+]}",'correct_answer_letter'
+3,8,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2017,"
+Sítio Gerimum
+Este é o meu lugar [...]
+Meu Gerimum é com g
+Você pode ter estranhado
+Gerimum em abundância
+Aqui era plantado
+E com a letra g
+Meu lugar foi registrado.
+
+OLIVEIRA, H. D. Língua Portuguesa, n. 88, fev. 2013 (fragmento).
+","{""questions"":[
+    {""question"": ""Qual é a principal característica do lugar descrito no poema?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""É um lugar com muitos animais."", ""B"": ""É um lugar onde se planta gerimum."", ""C"": ""É um lugar com muitas árvores."", ""D"": ""É um lugar perto do mar."", ""E"": ""É um lugar na cidade.""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""É um lugar onde se planta gerimum.""},
+    {""question"": ""Por que o autor enfatiza que 'Meu Gerimum é com g'?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Para destacar a importância do gerimum."", ""B"": ""Para corrigir um erro comum de ortografia."", ""C"": ""Para enfatizar a originalidade do lugar."", ""D"": ""Para indicar que o lugar é único."", ""E"": ""Para mostrar que o lugar é registrado oficialmente.""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Para enfatizar a originalidade do lugar.""},
+    {""question"": ""Qual é o significado implícito da frase 'E com a letra g / Meu lugar foi registrado.'?"", ""bloom_level"": ""Evaluate"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""O lugar é oficialmente reconhecido."", ""B"": ""O lugar é conhecido por sua produção de gerimum."", ""C"": ""O lugar tem um nome único."", ""D"": ""O lugar é importante para o autor."", ""E"": ""O lugar é famoso.""}, ""correct_answer"": ""D"", ""correct_answer_text"": ""O lugar é importante para o autor.""}
+]}",'correct_answer_letter'
+4,16,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2017,"
+Essas moças tinham o vezo de afirmar o contrário 
+do  que  desejavam.  Notei  a singularidade  quando 
+principiaram  a  elogiar  o  meu  paletó  cor  de  macaco. 
+Examinavam-no  sérias,  achavam  o  pano  e  os 
+aviamentos de qualidade superior, o feitio admirável. 
+Envaideci-me:  nunca  havia reparado  em tais 
+vantagens.  Mas  os gabos  se  prolongaram,  trouxeram-me
+desconfiança.  Percebi  afinal  que  elas  zombavam  e 
+não  me  susceptibilizei.  Longe  disso:  achei  curiosa 
+aquela  maneira  de  falar  pelo  avesso,  diferente  das 
+grosserias  a  que  me  habituara.  Em  geral  me  diziam 
+com  franqueza  que  a  roupa  não  me  assentava  no 
+corpo, sobrava nos sovacos.
+
+RAMOS, G. Infância. Rio de Janeiro: Record, 1994.
+","{""questions"":[
+    {""question"": ""No texto, o que as moças faziam que era considerado uma singularidade pelo narrador?"", 
+    ""bloom_level"": ""Understand"", 
+    ""difficult_level"": ""Beginner"", 
+    ""options"": {
+        ""A"": ""Elogiavam o paletó do narrador."",
+        ""B"": ""Zombavam do narrador."",
+        ""C"": ""Falavam pelo avesso, afirmando o contrário do que desejavam."",
+        ""D"": ""Diziam que a roupa não assentava no corpo do narrador."",
+        ""E"": ""Examinavam o paletó do narrador.""
+    }, 
+    ""correct_answer"": ""C"", 
+    ""correct_answer_text"": ""Falavam pelo avesso, afirmando o contrário do que desejavam.""
+    },
+    {""question"": ""Qual foi a reação do narrador ao perceber que as moças zombavam dele?"", 
+    ""bloom_level"": ""Understand"", 
+    ""difficult_level"": ""Intermediate"", 
+    ""options"": {
+        ""A"": ""Ele se sentiu ofendido e se susceptibilizou."",
+        ""B"": ""Ele se envaideceu com os elogios."",
+        ""C"": ""Ele achou curiosa a maneira de falar das moças."",
+        ""D"": ""Ele se sentiu desconfiado com os elogios prolongados."",
+        ""E"": ""Ele não percebeu que estava sendo zombado.""
+    }, 
+    ""correct_answer"": ""C"", 
+    ""correct_answer_text"": ""Ele achou curiosa a maneira de falar das moças.""
+    },
+    {""question"": ""O que o narrador descobriu sobre seu paletó através das moças?"", 
+    ""bloom_level"": ""Analyze"", 
+    ""difficult_level"": ""Advanced"", 
+    ""options"": {
+        ""A"": ""Que o paletó era de qualidade superior."",
+        ""B"": ""Que o paletó não lhe assentava bem no corpo."",
+        ""C"": ""Que o paletó era motivo de zombaria."",
+        ""D"": ""Que o paletó tinha um feitio admirável."",
+        ""E"": ""Que o paletó sobrava nos sovacos.""
+    }, 
+    ""correct_answer"": ""C"", 
+    ""correct_answer_text"": ""Que o paletó era motivo de zombaria.""
+    }
+]}",'correct_answer_letter'
+5,23,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2017,"
+Declaração de amor
+
+Esta é uma confissão de amor: amo a língua portuguesa. 
+Ela não é fácil. Não é maleável. […] A língua portuguesa é 
+um verdadeiro desafio para quem escreve. Sobretudo para 
+quem escreve tirando das coisas e das pessoas a primeira 
+capa de superficialismo. 
+
+Às  vezes  ela  reage  diante  de  um  pensamento  mais 
+complicado.  Às  vezes  se  assusta  com  o  imprevisível 
+de uma frase. Eu gosto de manejá-la — como gostava de 
+estar montada num cavalo e guiá-lo pelas rédeas, às vezes 
+a  galope.  Eu  queria  que  a  língua  portuguesa  chegasse 
+ao máximo em minhas mãos. E este desejo todos os que 
+escrevem têm. Um Camões e outros iguais não bastaram 
+para nos dar para sempre uma herança de língua já feita. 
+Todos nós que escrevemos estamos fazendo do túmulo do 
+pensamento alguma coisa que lhe dê vida.
+
+Essas  dificuldades,  nós  as  temos.  Mas  não  falei 
+do  encantamento  de  lidar  com  uma  língua  que  não  foi 
+aprofundada. O que recebi de herança não me chega. 
+
+Se eu fosse muda e também não pudesse escrever, e 
+me perguntassem a que língua eu queria pertencer, eu diria: 
+inglês, que é preciso e belo. Mas, como não nasci muda e 
+pude  escrever,  tornou-se  absolutamente  claro  para  mim 
+que eu queria mesmo era escrever em português. Eu até 
+queria não ter aprendido outras línguas: só para que a minha 
+abordagem do português fosse virgem e límpida.
+
+LISPECTOR, C. A descoberta do mundo. Rio de Janeiro: Rocco, 1999 (adaptado).
+","{""questions"":[
+    {""question"": ""Qual é a principal ideia expressa no texto?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""A língua portuguesa é fácil de aprender."", ""B"": ""A autora não gosta de escrever em português."", ""C"": ""A autora tem um profundo amor e respeito pela língua portuguesa."", ""D"": ""A autora prefere escrever em inglês."", ""E"": ""A língua portuguesa é superficial.""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""A autora tem um profundo amor e respeito pela língua portuguesa.""},
+    {""question"": ""Por que a autora compara o manejo da língua portuguesa com o ato de montar um cavalo?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Porque ambos requerem habilidade e controle."", ""B"": ""Porque ambos são atividades de lazer."", ""C"": ""Porque a autora tem medo de cavalos e da língua portuguesa."", ""D"": ""Porque a autora acredita que a língua portuguesa é um animal selvagem."", ""E"": ""Porque a autora acredita que a língua portuguesa é um meio de transporte.""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""Porque ambos requerem habilidade e controle.""},
+    {""question"": ""Qual é a opinião da autora sobre a herança da língua portuguesa?"", ""bloom_level"": ""Evaluate"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""Ela acredita que a herança é suficiente e não precisa ser aprofundada."", ""B"": ""Ela acredita que a herança é insuficiente e precisa ser aprofundada."", ""C"": ""Ela acredita que a herança é irrelevante para o uso da língua."", ""D"": ""Ela acredita que a herança é prejudicial para o uso da língua."", ""E"": ""Ela acredita que a herança é uma desvantagem para quem escreve.""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Ela acredita que a herança é insuficiente e precisa ser aprofundada.""}
+]}",'correct_answer_letter'
+6,37,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2017,"
+Contranarciso
+
+em mim 
+eu vejo o outro
+e outro
+e outro
+enfim dezenas
+trens passando
+vagões cheios de gente
+centenas
+o outro
+que há em mim
+é você
+você
+e você
+assim como
+eu estou em você
+eu estou nele
+em nós
+e só quando
+estamos em nós
+estamos em paz
+mesmo que estejamos a sós
+
+LEMINSKI, P. Toda poesia. São Paulo: Cia. das Letras, 2013.
+","{""questions"":[
+    {""question"": ""Qual é o tema principal do poema 'Contranarciso' de Paulo Leminski?"", 
+    ""bloom_level"": ""Understand"", 
+    ""difficult_level"": ""Beginner"", 
+    ""options"": {
+        ""A"": ""Solidão"", 
+        ""B"": ""Amor romântico"", 
+        ""C"": ""Interconexão e identidade"", 
+        ""D"": ""Natureza"", 
+        ""E"": ""Guerra""
+    }, 
+    ""correct_answer"": ""C"", 
+    ""correct_answer_text"": ""Interconexão e identidade""
+    },
+    {""question"": ""No poema 'Contranarciso', o que o autor quer dizer com 'o outro que há em mim é você'?"", 
+    ""bloom_level"": ""Analyze"", 
+    ""difficult_level"": ""Intermediate"", 
+    ""options"": {
+        ""A"": ""O autor tem múltiplas personalidades"", 
+        ""B"": ""O autor vê a si mesmo nos outros"", 
+        ""C"": ""O autor está se referindo a um amor romântico"", 
+        ""D"": ""O autor está falando sobre um amigo"", 
+        ""E"": ""O autor está se referindo a um inimigo""
+    }, 
+    ""correct_answer"": ""B"", 
+    ""correct_answer_text"": ""O autor vê a si mesmo nos outros""
+    },
+    {""question"": ""Como o poema 'Contranarciso' de Paulo Leminski se relaciona com a ideia de empatia?"", 
+    ""bloom_level"": ""Evaluate"", 
+    ""difficult_level"": ""Advanced"", 
+    ""options"": {
+        ""A"": ""O poema sugere que a empatia é uma fraqueza"", 
+        ""B"": ""O poema não tem relação com a empatia"", 
+        ""C"": ""O poema sugere que a empatia é a chave para a paz"", 
+        ""D"": ""O poema sugere que a empatia é uma ilusão"", 
+        ""E"": ""O poema sugere que a empatia é um sentimento negativo""
+    }, 
+    ""correct_answer"": ""C"", 
+    ""correct_answer_text"": ""O poema sugere que a empatia é a chave para a paz""
+    }
+]}",'correct_answer_letter'
+7,38,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2017,"
+O homem disse, Está a chover, e depois, Quem é você, Não sou daqui, Anda à procura de comida, Sim, há quatro dias que não comemos, E como sabe que são quatro dias, É um cálculo, Está sozinha, Estou com o meu marido e uns 
+companheiros, Quantos são, Ao todo, sete, Se estão a pensar em ficar conosco, tirem daí o sentido, já somos muitos, 
+Só estamos de passagem, Donde vêm, Estivemos internados desde que a cegueira começou, Ah, sim, a quarentena, 
+não serviu de nada, Por que diz isso, Deixaram-nos sair, Houve um incêndio e nesse momento percebemos que os 
+soldados que nos vigiavam tinham desaparecido, E saíram, Sim, Os vossos soldados devem ter sido dos últimos a 
+cegar, toda a gente está cega, Toda a gente, a cidade toda, o país,
+
+SARAMAGO, J. Ensaio sobre a cegueira. São Paulo: Cia. das Letras, 1995.
+","{""questions"":[
+    {""question"": ""Qual é o contexto geral do trecho do livro 'Ensaio sobre a cegueira' de José Saramago?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Uma conversa entre amigos em um dia ensolarado."", ""B"": ""Um diálogo entre estranhos em meio a uma pandemia de cegueira."", ""C"": ""Uma discussão entre familiares sobre a falta de comida."", ""D"": ""Uma conversa entre colegas de trabalho sobre um incêndio."", ""E"": ""Um debate entre políticos sobre a eficácia da quarentena.""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Um diálogo entre estranhos em meio a uma pandemia de cegueira.""},
+    {""question"": ""Por que os personagens foram liberados da quarentena?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Porque a quarentena acabou."", ""B"": ""Porque eles não estavam mais cegos."", ""C"": ""Porque houve um incêndio e os soldados desapareceram."", ""D"": ""Porque eles conseguiram fugir."", ""E"": ""Porque a comida acabou.""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Porque houve um incêndio e os soldados desapareceram.""},
+    {""question"": ""Qual é a crítica implícita na fala do personagem sobre a quarentena?"", ""bloom_level"": ""Evaluate"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""A quarentena foi ineficaz porque todos acabaram cegando."", ""B"": ""A quarentena foi eficaz porque impediu a propagação da cegueira."", ""C"": ""A quarentena foi ineficaz porque a comida acabou."", ""D"": ""A quarentena foi eficaz porque os soldados mantiveram a ordem."", ""E"": ""A quarentena foi ineficaz porque houve um incêndio.""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""A quarentena foi ineficaz porque todos acabaram cegando.""}
+]}",'correct_answer_letter'
+8,40,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2017,"
+No  esporte-participação  ou  esporte  popular,  a 
+manifestação ocorre no princípio do prazer lúdico, que tem 
+como finalidade o bem-estar social dos seus praticantes. 
+Está associado intimamente com o lazer e o tempo livre 
+e ocorre em espaços não comprometidos com o tempo e 
+fora das obrigações da vida diária. Tem como propósitos 
+a descontração, a diversão, o desenvolvimento pessoal 
+e  o  relacionamento  com  as  pessoas.  Pode-se  afirmar 
+que  o  esporte-participação,  por  ser  a  dimensão  social 
+do  esporte  mais  inter-relacionada  com  os  caminhos 
+democráticos,  equilibra  o  quadro  de  desigualdades 
+de  oportunidades  esportivas  encontrado  na  dimensão 
+esporte-performance.  Enquanto  o  esporte-performance
+só permite sucesso aos talentos ou àqueles que tiveram 
+condições,  o  esporte-participação  favorece  o  prazer  a 
+todos que dele desejarem tomar parte.
+
+GODTSFRIEDT, J. Esporte e sua relação com a sociedade: uma síntese bibliográfica. 
+EFDeportes, n. 142, mar. 2010.
+","{""questions"":[
+    {""question"": ""Qual é a principal finalidade do esporte-participação?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Desenvolvimento de habilidades competitivas"", ""B"": ""Bem-estar social dos praticantes"", ""C"": ""Ganhar competições"", ""D"": ""Desenvolvimento de talentos"", ""E"": ""Ganhar dinheiro""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Bem-estar social dos praticantes""},
+    {""question"": ""O que o esporte-participação favorece?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Apenas os talentosos"", ""B"": ""Apenas aqueles que tiveram condições"", ""C"": ""Todos que desejarem tomar parte"", ""D"": ""Apenas os profissionais"", ""E"": ""Apenas os jovens""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Todos que desejarem tomar parte""},
+    {""question"": ""Como o esporte-participação se relaciona com a dimensão esporte-performance?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""O esporte-participação é uma forma de esporte-performance"", ""B"": ""O esporte-participação equilibra o quadro de desigualdades de oportunidades esportivas encontrado na dimensão esporte-performance"", ""C"": ""O esporte-participação é uma forma menos importante de esporte-performance"", ""D"": ""O esporte-participação e o esporte-performance são completamente separados"", ""E"": ""O esporte-participação é uma forma mais competitiva de esporte-performance""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""O esporte-participação equilibra o quadro de desigualdades de oportunidades esportivas encontrado na dimensão esporte-performance""}
+]}",'correct_answer_letter'
+9,73,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2017,"A  instalação  de  uma  refinaria  obedece  a  diversos 
+fatores técnicos.  Um  dos  mais importantes  é  a 
+localização,  que  deve  ser  próxima  tanto  dos  centros 
+de consumo como das áreas de produção. A Petrobras 
+possui refinarias estrategicamente distribuídas pelo país. 
+Elas são responsáveis pelo processamento de milhões 
+de barris de petróleo por dia, suprindo o mercado com 
+derivados  que  podem  ser  obtidos  a  partir  de  petróleo 
+nacional ou importado.
+
+MURTA, A. L. S. Energia: o vício da civilização; crise energética e alternativas sustentáveis. Rio de Janeiro: Garamond, 2011.
+","{""questions"":[
+    {""question"": ""Qual é um dos fatores técnicos mais importantes para a instalação de uma refinaria?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Proximidade de rios"", ""B"": ""Proximidade de centros de consumo e áreas de produção"", ""C"": ""Proximidade de florestas"", ""D"": ""Proximidade de montanhas"", ""E"": ""Proximidade de desertos""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Proximidade de centros de consumo e áreas de produção""},
+    {""question"": ""Por que a Petrobras possui refinarias estrategicamente distribuídas pelo país?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Para facilitar o turismo"", ""B"": ""Para aumentar o valor das ações da empresa"", ""C"": ""Para processar milhões de barris de petróleo por dia e suprir o mercado com derivados"", ""D"": ""Para criar empregos em áreas rurais"", ""E"": ""Para evitar a poluição em áreas urbanas""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Para processar milhões de barris de petróleo por dia e suprir o mercado com derivados""},
+    {""question"": ""Como a localização estratégica das refinarias da Petrobras contribui para a eficiência energética?"", ""bloom_level"": ""Apply"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Reduzindo a necessidade de transporte de petróleo"", ""B"": ""Aumentando a produção de petróleo"", ""C"": ""Reduzindo a poluição do ar"", ""D"": ""Aumentando a demanda por petróleo"", ""E"": ""Reduzindo a dependência de energia solar""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""Reduzindo a necessidade de transporte de petróleo""},
+    {""question"": ""Qual é a relação entre a localização das refinarias e a sustentabilidade energética?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""Localizações mais próximas aos centros de consumo reduzem o transporte e, portanto, a emissão de gases de efeito estufa"", ""B"": ""Localizações mais próximas aos centros de consumo aumentam a poluição do ar"", ""C"": ""Localizações mais próximas aos centros de consumo aumentam a dependência de energia nuclear"", ""D"": ""Localizações mais próximas aos centros de consumo reduzem a demanda por petróleo"", ""E"": ""Localizações mais próximas aos centros de consumo aumentam a demanda por energia solar""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""Localizações mais próximas aos centros de consumo reduzem o transporte e, portanto, a emissão de gases de efeito estufa""},
+    {""question"": ""Se você fosse um consultor de energia, como avaliaria a estratégia da Petrobras de localização de suas refinarias?"", ""bloom_level"": ""Evaluate"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""Ineficiente, pois aumenta a poluição do ar"", ""B"": ""Eficiente, pois reduz a necessidade de transporte de petróleo"", ""C"": ""Ineficiente, pois aumenta a dependência de energia nuclear"", ""D"": ""Eficiente, pois aumenta a demanda por petróleo"", ""E"": ""Ineficiente, pois reduz a demanda por energia solar""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Eficiente, pois reduz a necessidade de transporte de petróleo""},
+    {""question"": ""Como você poderia melhorar a estratégia de localização das refinarias da Petrobras para torná-la mais sustentável?"", ""bloom_level"": ""Create"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""Instalando mais refinarias em áreas urbanas"", ""B"": ""Instalando mais refinarias em áreas rurais"", ""C"": ""Instalando mais refinarias perto de fontes de energia renovável"", ""D"": ""Instalando mais refinarias perto de florestas"", ""E"": ""Instalando mais refinarias perto de desertos""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Instalando mais refinarias perto de fontes de energia renovável""}
+]}",'correct_answer_letter'
+10,9,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2023,"A petição on-line criada por um cidadão paulista surtiu efeito: casado há três anos com seu companheiro, ele pedia a alteração da definição de “casamento” no tradicional dicionário Michaelis em português. Na definição anterior, casamento aparecia como “união legítima entre homem e mulher” e “união legal entre homem e mulher, para constituir família”.
+O novo verbete não traz em nenhum momento as palavras homem ou mulher — agora a definição de casamento se refere a “pessoas”.
+Para o diretor de comunicação do site onde a petição foi publicada, a iniciativa mostra a “eficiência da mobilização”. “Em dois dias, mudou-se uma definição que permanecia a mesma há décadas”, afirma. E conclui: “A plataforma serve para todos os tipos de causas, para as mudanças que importam para as pessoas.”. []","{""questions"":[
+    {""question"": ""Qual foi o resultado da petição online criada por um cidadão paulista?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""A petição foi ignorada."", ""B"": ""A definição de casamento no dicionário Michaelis foi alterada."", ""C"": ""O cidadão foi multado por criar a petição."", ""D"": ""O dicionário Michaelis foi retirado de circulação."", ""E"": ""Nenhuma alteração foi feita.""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""A definição de casamento no dicionário Michaelis foi alterada.""},
+    {""question"": ""Como a definição de casamento foi alterada no dicionário Michaelis?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Agora se refere a 'pessoas', não especificando gênero."", ""B"": ""Agora inclui a possibilidade de casamento entre pessoas do mesmo sexo."", ""C"": ""Agora exclui a possibilidade de casamento entre pessoas do mesmo sexo."", ""D"": ""Agora se refere apenas a 'homem e mulher'."", ""E"": ""Agora se refere a 'união legal entre homem e mulher, para constituir família'.""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""Agora se refere a 'pessoas', não especificando gênero.""},
+    {""question"": ""Qual é a importância da alteração da definição de casamento no dicionário Michaelis, segundo o diretor de comunicação do site onde a petição foi publicada?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""Mostra a eficiência da mobilização."", ""B"": ""Mostra a ineficiência da mobilização."", ""C"": ""Mostra a resistência da sociedade às mudanças."", ""D"": ""Mostra a falta de interesse da sociedade em questões de gênero."", ""E"": ""Mostra a falta de relevância dos dicionários na sociedade atual.""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""Mostra a eficiência da mobilização.""}
+]}",'correct_answer_letter'
+11,11,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2023,"“Ganhei 25 medalhas em mundiais, sete em Jogos Olímpicos, e sou uma sobrevivente de abuso sexual.” Foi assim que Simone Biles se apresentou ao comitê do Senado norte-americano que investiga as supostas falhas do FBI no caso Larry Nassar. Biles e outras três atletas, vítimas dos abusos do ex-médico da equipe de ginástica feminina dos EUA, exigiram que os agentes da investigação sejam processados por falta de ação prévia contra Nassar, agora preso. Biles esclareceu que culpa Larry Nassar e “todo o sistema que o permitiu e o perpetrou”, acusando a Federação de Ginástica e o Comitê Olímpico dos Estados Unidos de saberem “muito antes” que ela havia sofrido abusos. A melhor ginasta do mundo é um ícone. Nos Jogos Olímpicos de Tóquio, uma lesão psicológica a impediu de competir como previa. No entanto, ela chegou ao topo como uma líder no trabalho de acabar com o preconceito com os problemas de saúde mental. “Não quero que nenhum outro atleta olímpico sofra o horror que eu e outras centenas suportamos e continuamos suportando até hoje”, afirmou. []","{""questions"":[
+    {""question"": ""Quem é Simone Biles?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Uma ginasta olímpica"", ""B"": ""Uma atriz famosa"", ""C"": ""Uma cantora pop"", ""D"": ""Uma política influente"", ""E"": ""Uma escritora renomada""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""Uma ginasta olímpica""},
+    {""question"": ""Por que Simone Biles se apresentou ao comitê do Senado norte-americano?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Para receber uma medalha"", ""B"": ""Para discutir sobre sua carreira"", ""C"": ""Para denunciar abusos sexuais que sofreu"", ""D"": ""Para promover a ginástica"", ""E"": ""Para anunciar sua aposentadoria""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Para denunciar abusos sexuais que sofreu""},
+    {""question"": ""Quem Simone Biles acusa de ser responsável pelos abusos que sofreu?"", ""bloom_level"": ""Apply"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""O FBI"", ""B"": ""O Comitê Olímpico dos Estados Unidos"", ""C"": ""Larry Nassar"", ""D"": ""A Federação de Ginástica"", ""E"": ""Todos os acima""}, ""correct_answer"": ""E"", ""correct_answer_text"": ""Todos os acima""},
+    {""question"": ""Qual foi o impacto dos abusos sofridos por Simone Biles em sua participação nos Jogos Olímpicos de Tóquio?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""Ela ganhou mais medalhas"", ""B"": ""Ela não conseguiu competir como previa devido a uma lesão psicológica"", ""C"": ""Ela se retirou dos jogos"", ""D"": ""Ela foi desqualificada"", ""E"": ""Ela se tornou a capitã da equipe""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Ela não conseguiu competir como previa devido a uma lesão psicológica""},
+    {""question"": ""Qual é a posição de Simone Biles em relação aos problemas de saúde mental?"", ""bloom_level"": ""Evaluate"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""Ela acredita que são irrelevantes"", ""B"": ""Ela acredita que são um sinal de fraqueza"", ""C"": ""Ela acredita que devem ser ignorados"", ""D"": ""Ela acredita que devem ser tratados com seriedade e sem preconceito"", ""E"": ""Ela não expressou uma opinião""}, ""correct_answer"": ""D"", ""correct_answer_text"": ""Ela acredita que devem ser tratados com seriedade e sem preconceito""}
+]}",'correct_answer_letter'
+12,14,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2023,"O Marabaixo é uma expressão artístico-cultural formada nas tradições e na identificação cultural entre as comunidades negras do Amapá. O nome remonta às mortes de escravizados em navios negreiros que eram jogados na água. Em sua homenagem, hinos de lamento eram cantados mar abaixo, mar acima. Posteriormente, o Marabaixo se integrou à vivência das comunidades negras em um ciclo de danças, cantorias com tambores e festas religiosas, recebendo, em 2018, o título de Patrimônio Cultural do Brasil. []","{""questions"":[
+    {""question"": ""O que é Marabaixo?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Uma dança típica do Rio de Janeiro"", ""B"": ""Uma expressão artístico-cultural das comunidades negras do Amapá"", ""C"": ""Um instrumento musical"", ""D"": ""Um tipo de comida típica do Nordeste"", ""E"": ""Um estilo de música popular no Sul do Brasil""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Uma expressão artístico-cultural das comunidades negras do Amapá""},
+    {""question"": ""Qual é a origem do nome Marabaixo?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Vem de uma palavra indígena que significa 'dança'"", ""B"": ""É uma homenagem a um líder comunitário chamado Marabaixo"", ""C"": ""Remonta às mortes de escravizados em navios negreiros"", ""D"": ""É uma palavra de origem africana que significa 'alegria'"", ""E"": ""É uma referência ao rio Amazonas""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Remonta às mortes de escravizados em navios negreiros""},
+    {""question"": ""Como o Marabaixo se integrou à vivência das comunidades negras?"", ""bloom_level"": ""Apply"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Através de aulas de dança nas escolas"", ""B"": ""Por meio de programas de televisão"", ""C"": ""Em um ciclo de danças, cantorias com tambores e festas religiosas"", ""D"": ""Através de competições de dança"", ""E"": ""Por meio de festivais de música""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Em um ciclo de danças, cantorias com tambores e festas religiosas""},
+    {""question"": ""Qual a importância do Marabaixo para a cultura brasileira?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""É uma expressão artístico-cultural que contribui para a diversidade cultural do Brasil"", ""B"": ""É uma dança que é praticada em todo o Brasil"", ""C"": ""É um estilo de música que influenciou a Bossa Nova"", ""D"": ""É uma tradição que é celebrada em todas as regiões do Brasil"", ""E"": ""É um instrumento musical que é usado em muitas músicas populares brasileiras""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""É uma expressão artístico-cultural que contribui para a diversidade cultural do Brasil""},
+    {""question"": ""Em que ano o Marabaixo recebeu o título de Patrimônio Cultural do Brasil?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""2010"", ""B"": ""2012"", ""C"": ""2015"", ""D"": ""2018"", ""E"": ""2020""}, ""correct_answer"": ""D"", ""correct_answer_text"": ""2018""},
+    {""question"": ""Por que o Marabaixo é considerado uma expressão de lamento?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Porque é uma dança que expressa a tristeza dos escravizados"", ""B"": ""Porque é uma música que fala sobre a dor e o sofrimento"", ""C"": ""Porque remonta às mortes de escravizados em navios negreiros"", ""D"": ""Porque é uma tradição que lembra a luta dos negros pela liberdade"", ""E"": ""Porque é uma expressão artística que critica a sociedade""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Porque remonta às mortes de escravizados em navios negreiros""}
+]}",'correct_answer_letter'
+13,16,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2023,"O mais antigo grupo de rap indígena do país, Brô MCs, surgiu em 2009, na aldeia Jaguapiru, em Dourados, Mato Grosso do Sul. Os integrantes conheceram o rap pelo rádio, ouvindo um programa que apresentava cantores e grupos brasileiros desse gênero musical. O Brô MCs conseguiu influenciar outros a fazerem rap e a lutarem pelas causas indígenas. Um dos nomes do movimento, Kunumí MC, é um jovem de 16 anos, da aldeia Krukutu, em São Paulo. O adolescente enxerga o rap como uma cultura da defesa e começou a fazer rimas quando percebeu que a poesia, pela qual sempre se interessou, podia virar música. Nas letras que cria, inspiradas tanto pelo rap quanto pelos ritmos indígenas, tenta incluir sempre assuntos aos quais acha importante dar voz, principalmente, a questão da demarcação de terras. []","{""questions"":[
+    {""question"": ""Em que ano surgiu o grupo Brô MCs?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""2005"", ""B"": ""2009"", ""C"": ""2012"", ""D"": ""2015"", ""E"": ""2018""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""2009""},
+    {""question"": ""Como os integrantes do Brô MCs conheceram o rap?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Por meio de amigos"", ""B"": ""Em shows ao vivo"", ""C"": ""Pelo rádio"", ""D"": ""Na internet"", ""E"": ""Em discos de vinil""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Pelo rádio""},
+    {""question"": ""Qual é a principal causa defendida nas letras de Kunumí MC?"", ""bloom_level"": ""Apply"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""A preservação da cultura indígena"", ""B"": ""A demarcação de terras"", ""C"": ""A educação para todos"", ""D"": ""A igualdade de gênero"", ""E"": ""O combate à pobreza""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""A demarcação de terras""},
+    {""question"": ""Como o rap é visto por Kunumí MC?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Como uma forma de entretenimento"", ""B"": ""Como uma cultura da defesa"", ""C"": ""Como uma maneira de ganhar dinheiro"", ""D"": ""Como uma forma de protesto"", ""E"": ""Como uma maneira de se tornar famoso""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Como uma cultura da defesa""},
+    {""question"": ""Qual é a influência do Brô MCs no movimento de rap indígena?"", ""bloom_level"": ""Evaluate"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""Eles foram os primeiros a misturar rap e ritmos indígenas"", ""B"": ""Eles influenciaram outros a fazerem rap e lutarem pelas causas indígenas"", ""C"": ""Eles foram os primeiros a cantar em línguas indígenas"", ""D"": ""Eles foram os primeiros a alcançar sucesso comercial"", ""E"": ""Eles foram os primeiros a serem reconhecidos internacionalmente""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Eles influenciaram outros a fazerem rap e lutarem pelas causas indígenas""},
+    {""question"": ""Como Kunumí MC começou a fazer rimas?"", ""bloom_level"": ""Create"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""Ele começou a fazer rimas quando percebeu que a poesia, pela qual sempre se interessou, podia virar música"", ""B"": ""Ele começou a fazer rimas depois de assistir a uma batalha de rap"", ""C"": ""Ele começou a fazer rimas depois de participar de um workshop de rap"", ""D"": ""Ele começou a fazer rimas depois de ler um livro sobre rap"", ""E"": ""Ele começou a fazer rimas depois de ouvir um álbum de rap""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""Ele começou a fazer rimas quando percebeu que a poesia, pela qual sempre se interessou, podia virar música""}
+]}",'correct_answer_letter'
+14,22,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2023,"## Migalhas
+Ana Martins Marques
+Entre a toalha branca e um bule de café
+seria inapropriado dizer
+eu não te amo mais.
+Era necessário algo mais solene,
+um jardim japonês
+para as perdas pensadas,
+um noturno de tempestade
+para arrebentar de dor,
+uma praia de pedras para chorar
+em silêncio, uma cama alta
+para o incenso da despedida,
+uma janela
+dando para o abismo.
+No entanto você abaixa os olhos
+e recolhe lentamente as migalhas de pão sobre a mesa posta para dois. []","{""questions"":[
+    {""question"": ""Qual é o tema principal do poema 'Migalhas' de Ana Martins Marques?"", 
+    ""bloom_level"": ""Understand"", 
+    ""difficult_level"": ""Beginner"", 
+    ""options"": {
+        ""A"": ""Amor e paixão"", 
+        ""B"": ""Despedida e perda"", 
+        ""C"": ""Natureza e meio ambiente"", 
+        ""D"": ""Felicidade e alegria"", 
+        ""E"": ""Guerra e conflito""
+        }, 
+    ""correct_answer"": ""B"", 
+    ""correct_answer_text"": ""Despedida e perda""
+    },
+    {""question"": ""No poema 'Migalhas', o que as migalhas de pão sobre a mesa podem simbolizar?"", 
+    ""bloom_level"": ""Analyze"", 
+    ""difficult_level"": ""Intermediate"", 
+    ""options"": {
+        ""A"": ""A fome do narrador"", 
+        ""B"": ""A desordem na casa"", 
+        ""C"": ""O amor que ainda resta"", 
+        ""D"": ""A negligência do parceiro"", 
+        ""E"": ""O fim de um relacionamento""
+        }, 
+    ""correct_answer"": ""E"", 
+    ""correct_answer_text"": ""O fim de um relacionamento""
+    },
+    {""question"": ""No poema 'Migalhas', por que o narrador acha inapropriado dizer 'eu não te amo mais' entre a toalha branca e um bule de café?"", 
+    ""bloom_level"": ""Evaluate"", 
+    ""difficult_level"": ""Advanced"", 
+    ""options"": {
+        ""A"": ""Porque o narrador ainda ama o parceiro"", 
+        ""B"": ""Porque o narrador acha que o ambiente não é solene o suficiente"", 
+        ""C"": ""Porque o narrador não quer magoar o parceiro"", 
+        ""D"": ""Porque o narrador tem medo da reação do parceiro"", 
+        ""E"": ""Porque o narrador acha que o parceiro não merece ouvir isso""
+        }, 
+    ""correct_answer"": ""B"", 
+    ""correct_answer_text"": ""Porque o narrador acha que o ambiente não é solene o suficiente""
+    }
+]}",'correct_answer_letter'
+15,24,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2023,"## A escravidão
+Olavo Bilac
+Esses meninos que aí andam jogando peteca não viram nunca um escravo... Quando crescerem, saberão que já houve no Brasil uma raça triste, votada à escravidão e ao desespero; e verão nos museus a coleção hedionda dos troncos, dos vira-mundos e dos bacalhaus; e terão notícias dos trágicos horrores de uma época maldita: filhos arrancados ao seio das mães, virgens violadas em pranto, homens assados lentamente em fornos de cal, mulheres nuas recebendo na sua mísera nudez desvalida o duplo ultraje das chicotadas e dos olhares do feitor bestial. [...]
+Mas a sua indignação nunca poderá ser tão grande como a daqueles que nasceram e cresceram em pleno horror, no meio desse horrível drama de sangue e lodo, sentindo dentro do ouvido e da alma, numa arrastada e contínua melopeia, o longo gemer da raça mártir — orquestração satânica de todos os soluços, de todas as impressões, de todos os lamentos que a tortura e a injustiça podem arrancar a gargantas humanas. []","{""questions"":[
+    {""question"": ""Qual é o tema principal do texto?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""A infância dos meninos jogando peteca"", ""B"": ""A escravidão no Brasil"", ""C"": ""A vida nos museus"", ""D"": ""A violência contra as mulheres"", ""E"": ""A vida dos feitores de escravos""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""A escravidão no Brasil""},
+    {""question"": ""O que o autor quer dizer com 'orquestração satânica de todos os soluços, de todas as impressões, de todos os lamentos que a tortura e a injustiça podem arrancar a gargantas humanas.'?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Que a escravidão era uma forma de arte"", ""B"": ""Que a escravidão era uma forma de tortura"", ""C"": ""Que a escravidão era uma forma de trabalho"", ""D"": ""Que a escravidão era uma forma de punição"", ""E"": ""Que a escravidão era uma forma de entretenimento""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Que a escravidão era uma forma de tortura""},
+    {""question"": ""Como o autor descreve a experiência dos escravos?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Como uma experiência de aprendizado"", ""B"": ""Como uma experiência de trabalho"", ""C"": ""Como uma experiência de tortura e desespero"", ""D"": ""Como uma experiência de entretenimento"", ""E"": ""Como uma experiência de viagem""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Como uma experiência de tortura e desespero""},
+    {""question"": ""Qual é a intenção do autor ao descrever os horrores da escravidão?"", ""bloom_level"": ""Evaluate"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""Para entreter o leitor"", ""B"": ""Para educar o leitor sobre a história da escravidão"", ""C"": ""Para persuadir o leitor a se tornar um ativista contra a escravidão"", ""D"": ""Para criticar o governo"", ""E"": ""Para vender mais livros""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Para educar o leitor sobre a história da escravidão""},
+    {""question"": ""Como você poderia reescrever a frase 'Esses meninos que aí andam jogando peteca não viram nunca um escravo...' para enfatizar a inocência dos meninos?"", ""bloom_level"": ""Create"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""Esses meninos, imersos em sua inocente brincadeira de peteca, nunca testemunharam a brutalidade da escravidão..."", ""B"": ""Esses meninos, jogando peteca, nunca foram escravos..."", ""C"": ""Esses meninos, jogando peteca, nunca viram um museu..."", ""D"": ""Esses meninos, jogando peteca, nunca foram a um museu..."", ""E"": ""Esses meninos, jogando peteca, nunca viram um feitor...""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""Esses meninos, imersos em sua inocente brincadeira de peteca, nunca testemunharam a brutalidade da escravidão...""}
+]}",'correct_answer_letter'
+16,27,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2023,"## Ponciá Vicêncio
+Conceição Evaristo
+Alguém muito recentemente cortara o mato, que na época das chuvas crescia e rodeava a casa da mãe de Ponciá Vicêncio e de Luandi. Havia também vestígios de que a terra fora revolvida, como se ali fosse plantar uma pequena roça. Luandi sorriu. A mãe devia estar bastante forte, pois ainda labutava a terra. Cantou alto uma cantiga que aprendera com o pai, quando eles trabalhavam na terra dos brancos. Era uma canção que os negros mais velhos ensinavam aos mais novos. Eles diziam ser uma cantiga de voltar, que os homens, lá na África, entoavam sempre, quando estavam regressando da pesca, da caça ou de algum lugar. O pai de Luandi, no dia em que queria agradar à mulher, costumava entoar aquela cantiga ao se aproximar de casa. Luandi não entendia as palavras do canto; sabia, porém, que era uma língua que alguns negros falavam ainda, principalmente os velhos. Era uma cantiga alegre. Luandi, além de cantar, acompanhava o ritmo batendo com as palmas das mãos em um atabaque imaginário. Estava de regresso à terra. Voltava em casa. Chegava cantando, dançando a doce e vitoriosa cantiga de regressar. []","{""questions"":[
+    {""question"": ""Qual é o significado da cantiga que Luandi canta?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""É uma canção de trabalho"", ""B"": ""É uma canção de amor"", ""C"": ""É uma canção de regresso"", ""D"": ""É uma canção de luto"", ""E"": ""É uma canção de guerra""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""É uma canção de regresso""},
+    {""question"": ""Por que Luandi sorri ao ver a terra revolvida?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Porque ele gosta de ver a terra revolvida"", ""B"": ""Porque isso indica que sua mãe ainda está forte"", ""C"": ""Porque isso significa que ele pode plantar uma roça"", ""D"": ""Porque isso lembra sua infância"", ""E"": ""Porque isso indica que a chuva está chegando""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Porque isso indica que sua mãe ainda está forte""},
+    {""question"": ""Qual é o significado simbólico da cantiga de regresso na história?"", ""bloom_level"": ""Evaluate"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""Representa a alegria de Luandi em retornar para casa"", ""B"": ""Simboliza a resistência e a força da cultura africana"", ""C"": ""Indica a saudade de Luandi pela África"", ""D"": ""Representa a tristeza de Luandi em deixar a casa dos brancos"", ""E"": ""Simboliza a esperança de Luandi em um futuro melhor""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Simboliza a resistência e a força da cultura africana""}
+]}",'correct_answer_letter'
+17,34,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2023,"Como é bom reencontrar os leitores da Revista da Cultura por meio de uma publicação com outro visual, conteúdo de qualidade e interesses ampliados! ]cultura[, este nome simples, e eu diria mesmo familiar, nasce entre dois colchetes voltados para fora. E não é por acaso: são sinais abertos, receptivos, propícios à circulação de ideias. O DNA da publicação se mantém o mesmo, afinal, por longos anos montamos nossas edições com assuntos saídos das estantes de uma grande livraria — e assim continuará sendo. Literatura, sociologia, filosofia, artes... nunca será difícil montar a pauta da revista porque os livros nos ensinam que monotonia é só para quem não lê. []","{""questions"":[
+    {""question"": ""O que os colchetes voltados para fora representam na Revista da Cultura?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""A abertura para novas ideias"", ""B"": ""A limitação do conteúdo"", ""C"": ""A exclusividade da revista"", ""D"": ""A restrição de público"", ""E"": ""A falta de interesse em novos temas""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""A abertura para novas ideias""},
+    {""question"": ""Qual é o principal conteúdo da Revista da Cultura?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Esportes"", ""B"": ""Política"", ""C"": ""Culinária"", ""D"": ""Literatura, sociologia, filosofia, artes"", ""E"": ""Ciência""}, ""correct_answer"": ""D"", ""correct_answer_text"": ""Literatura, sociologia, filosofia, artes""},
+    {""question"": ""Por que a monotonia é considerada apenas para quem não lê, segundo o texto?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Porque a leitura é monótona"", ""B"": ""Porque quem lê tem acesso a uma variedade de assuntos"", ""C"": ""Porque quem não lê é monótono"", ""D"": ""Porque a leitura é sempre a mesma"", ""E"": ""Porque quem lê não tem vida social""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Porque quem lê tem acesso a uma variedade de assuntos""},
+    {""question"": ""Qual é a importância da manutenção do DNA da publicação, mesmo com a mudança visual?"", ""bloom_level"": ""Evaluate"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""Para manter a monotonia"", ""B"": ""Para garantir a qualidade do conteúdo"", ""C"": ""Para mudar o público-alvo"", ""D"": ""Para aumentar o preço da revista"", ""E"": ""Para diminuir a circulação da revista""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Para garantir a qualidade do conteúdo""},
+    {""question"": ""Como você criaria uma nova edição da Revista da Cultura, mantendo seu DNA, mas trazendo novidades?"", ""bloom_level"": ""Create"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""Incluiria mais esportes"", ""B"": ""Mudaria o nome da revista"", ""C"": ""Incluiria novos autores e temas, mantendo a qualidade e diversidade"", ""D"": ""Tornaria a revista digital"", ""E"": ""Reduziria o número de páginas""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Incluiria novos autores e temas, mantendo a qualidade e diversidade""}
+]}",'correct_answer_letter'
+18,45,"LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",2023,"## Girassol da madrugada (fragmento)
+Mário de Andrade
+Teu dedo curioso me segue lento no rosto
+Os sulcos, as sombras machucadas por onde a vida passou.
+Que silêncio, prenda minha... Que desvio triunfal da verdade,
+Que círculos vagarosos na lagoa em que uma asa gratuita roçou...
+Tive quatro amores eternos...
+O primeiro era moça donzela,
+O segundo... eclipse, boi que fala, cataclisma,
+O terceiro era a rica senhora,
+O quarto és tu... E eu afinal me repousei dos [meus cuidados []","{""questions"":[
+    {""question"": ""Quem é o autor do poema 'Girassol da madrugada'?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Carlos Drummond de Andrade"", ""B"": ""Mário de Andrade"", ""C"": ""Manuel Bandeira"", ""D"": ""Vinicius de Moraes"", ""E"": ""Cecília Meireles""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Mário de Andrade""},
+    {""question"": ""No poema 'Girassol da madrugada', o que o autor quer dizer com 'Os sulcos, as sombras machucadas por onde a vida passou'?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""O autor está descrevendo um campo de batalha"", ""B"": ""O autor está descrevendo um rosto envelhecido"", ""C"": ""O autor está descrevendo um caminho na floresta"", ""D"": ""O autor está descrevendo um mapa"", ""E"": ""O autor está descrevendo um livro antigo""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""O autor está descrevendo um rosto envelhecido""},
+    {""question"": ""No poema 'Girassol da madrugada', o que o autor quer expressar com 'Tive quatro amores eternos'?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""O autor teve quatro relacionamentos amorosos"", ""B"": ""O autor teve quatro paixões intensas"", ""C"": ""O autor está se referindo a quatro fases importantes de sua vida"", ""D"": ""O autor está se referindo a quatro pessoas que marcaram sua vida"", ""E"": ""O autor está se referindo a quatro sonhos que ele teve""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""O autor está se referindo a quatro fases importantes de sua vida""}
+]}",'correct_answer_letter'
+19,55,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2023,"## Novo Correio de Modas, 1853
+Felizes tempos eram esses! As moças iam à missa de madrugada. De dia ninguém as via e se alguma, em dia de festa, queria passear com a avó ou a tia, havia de ir de cadeirinhas. Bem razão têm os nossos velhos de chorar por esses tempos, em que as filhas não sabiam escrever, e por isso não mandavam nem recebiam bilhetinhos. []","{""questions"":[
+    {""question"": ""Qual era a atividade comum das moças no período descrito no texto?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Escrever bilhetes"", ""B"": ""Ir à missa de madrugada"", ""C"": ""Passear durante o dia"", ""D"": ""Estudar"", ""E"": ""Trabalhar fora de casa""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Ir à missa de madrugada""},
+    {""question"": ""Por que as moças não mandavam nem recebiam bilhetinhos, de acordo com o texto?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Porque não sabiam escrever"", ""B"": ""Porque não tinham permissão dos pais"", ""C"": ""Porque não tinham acesso a papel e caneta"", ""D"": ""Porque era considerado impróprio"", ""E"": ""Porque não tinham a quem enviar""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""Porque não sabiam escrever""},
+    {""question"": ""Qual a implicação social da limitação das atividades das moças descritas no texto?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""A sociedade era mais segura"", ""B"": ""As moças tinham mais tempo livre"", ""C"": ""A educação feminina era desvalorizada"", ""D"": ""As moças eram mais religiosas"", ""E"": ""A comunicação era mais eficiente""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""A educação feminina era desvalorizada""}
+]}",'correct_answer_letter'
+20,64,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2023,"A Cordilheira do Himalaia tem mais de 50 milhões de anos, sendo classificada como a maior cordilheira do planeta. Originário da língua sânscrito, comum na região, seu nome quer dizer “morada da neve”. É possível encontrar nessa cordilheira as quinze maiores montanhas do mundo. Ao todo, existem mais de cem picos, que contam com altitudes bem maiores que 7 000 metros. O Everest, considerado o ponto mais alto da Terra, tem nada menos que 8 848 metros de altitude, e continua crescendo, aproximadamente, 0,8 milímetro a cada ano. []","{""questions"":[
+    {""question"": ""Qual é o significado do nome 'Himalaia' na língua sânscrito?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Montanha Alta"", ""B"": ""Morada da Neve"", ""C"": ""Pico do Mundo"", ""D"": ""Terra dos Deuses"", ""E"": ""Caminho para o céu""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Morada da Neve""},
+    {""question"": ""Quantos picos na Cordilheira do Himalaia têm altitudes maiores que 7 000 metros?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""50"", ""B"": ""75"", ""C"": ""100"", ""D"": ""125"", ""E"": ""150""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""100""},
+    {""question"": ""Qual é a altitude do Everest, o ponto mais alto da Terra?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""8 648 metros"", ""B"": ""8 748 metros"", ""C"": ""8 848 metros"", ""D"": ""8 948 metros"", ""E"": ""8 048 metros""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""8 848 metros""},
+    {""question"": ""Por que a Cordilheira do Himalaia é considerada a maior cordilheira do planeta?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Porque tem o maior número de picos"", ""B"": ""Porque tem a maior extensão territorial"", ""C"": ""Porque tem as montanhas mais altas"", ""D"": ""Porque tem a maior diversidade de fauna e flora"", ""E"": ""Porque tem o maior número de habitantes""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Porque tem as montanhas mais altas""},
+    {""question"": ""Como a altitude do Everest muda ao longo do tempo?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Diminui cerca de 0,8 milímetro a cada ano"", ""B"": ""Aumenta cerca de 0,8 milímetro a cada ano"", ""C"": ""Permanece constante"", ""D"": ""Diminui cerca de 0,8 centímetro a cada ano"", ""E"": ""Aumenta cerca de 0,8 centímetro a cada ano""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Aumenta cerca de 0,8 milímetro a cada ano""},
+    {""question"": ""Qual é a relação entre a idade da Cordilheira do Himalaia e sua altura?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""Quanto mais antiga a cordilheira, maior sua altura"", ""B"": ""Quanto mais nova a cordilheira, maior sua altura"", ""C"": ""Não há relação direta entre a idade e a altura da cordilheira"", ""D"": ""A altura da cordilheira diminui com o tempo"", ""E"": ""A altura da cordilheira aumenta com o tempo""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Não há relação direta entre a idade e a altura da cordilheira""}
+]}",'correct_answer_letter'
+21,85,CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS,2023,"A torcida do Fluminense inicia um movimento para mudar a letra de uma das músicas mais populares das arquibancadas tricolores. Grupos pedem a remoção do termo “mulambo imundo”, em uma provocação direta ao Flamengo. Mulambo é um termo que surgiu em Angola, na época da escravatura, e eles eram chamados de mulambos pelos senhores de engenho, os patrões das fazendas. []","{""questions"":[
+    {""question"": ""Qual é a origem do termo 'mulambo'?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Brasil"", ""B"": ""Angola"", ""C"": ""Portugal"", ""D"": ""Espanha"", ""E"": ""Moçambique""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Angola""},
+    {""question"": ""Por que a torcida do Fluminense quer mudar a letra de uma de suas músicas mais populares?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Para provocar o Flamengo"", ""B"": ""Porque a música é antiga"", ""C"": ""Para remover o termo 'mulambo imundo'"", ""D"": ""Porque a música é longa demais"", ""E"": ""Para adicionar novos termos""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Para remover o termo 'mulambo imundo'""},
+    {""question"": ""Como você avaliaria a importância da conscientização sobre o uso de termos pejorativos com origens históricas em contextos sociais, como o futebol?"", ""bloom_level"": ""Evaluate"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""Não é importante"", ""B"": ""É importante apenas para os historiadores"", ""C"": ""É importante para evitar ofensas"", ""D"": ""É importante para a educação cultural"", ""E"": ""Não tenho opinião formada""}, ""correct_answer"": ""D"", ""correct_answer_text"": ""É importante para a educação cultural""},
+    {""question"": ""Qual era o contexto histórico em que o termo 'mulambo' era usado?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Durante a colonização portuguesa"", ""B"": ""Durante a escravatura"", ""C"": ""Durante a independência de Angola"", ""D"": ""Durante a guerra civil em Angola"", ""E"": ""Durante a ditadura militar no Brasil""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Durante a escravatura""},
+    {""question"": ""Se você fosse criar uma nova música para a torcida do Fluminense, que aspectos você consideraria?"", ""bloom_level"": ""Create"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""A história do clube"", ""B"": ""A rivalidade com outros clubes"", ""C"": ""O respeito e a inclusão"", ""D"": ""A emoção do futebol"", ""E"": ""Todos os anteriores""}, ""correct_answer"": ""E"", ""correct_answer_text"": ""Todos os anteriores""}
+]}",'correct_answer_letter'
+22,122,CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS,2023,"As cetonas fazem parte de famílias olfativas encontradas em muitos alimentos. A molécula de hexan-3-ona é um exemplo desses compostos voláteis responsáveis pelo aroma, podendo ser obtida por processos energéticos realizados em meio ácido, na presença de oxidantes como o permanganato de potássio. []","{""questions"":[
+    {""question"": ""O que são cetonas?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""São compostos orgânicos aromáticos."", ""B"": ""São compostos inorgânicos."", ""C"": ""São compostos orgânicos voláteis."", ""D"": ""São compostos orgânicos não voláteis."", ""E"": ""São compostos inorgânicos voláteis.""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""São compostos orgânicos voláteis.""},
+    {""question"": ""Qual é a função das cetonas nos alimentos?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Elas atuam como conservantes."", ""B"": ""Elas atuam como corantes."", ""C"": ""Elas atuam como emulsificantes."", ""D"": ""Elas atuam como aromatizantes."", ""E"": ""Elas atuam como acidulantes.""}, ""correct_answer"": ""D"", ""correct_answer_text"": ""Elas atuam como aromatizantes.""},
+    {""question"": ""Como a hexan-3-ona pode ser obtida?"", ""bloom_level"": ""Apply"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Por processos energéticos em meio alcalino."", ""B"": ""Por processos energéticos em meio ácido."", ""C"": ""Por processos energéticos em meio neutro."", ""D"": ""Por processos energéticos em meio básico."", ""E"": ""Por processos energéticos em meio ácido e na presença de redutores.""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Por processos energéticos em meio ácido.""},
+    {""question"": ""Qual é a relação entre a hexan-3-ona e o aroma dos alimentos?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""A hexan-3-ona é responsável pelo aroma de todos os alimentos."", ""B"": ""A hexan-3-ona é responsável pelo aroma de alguns alimentos."", ""C"": ""A hexan-3-ona é responsável pelo aroma de nenhum alimento."", ""D"": ""A hexan-3-ona é responsável pelo aroma de alimentos ácidos."", ""E"": ""A hexan-3-ona é responsável pelo aroma de alimentos básicos.""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""A hexan-3-ona é responsável pelo aroma de alguns alimentos.""},
+    {""question"": ""Qual é o papel do permanganato de potássio na obtenção da hexan-3-ona?"", ""bloom_level"": ""Evaluate"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""O permanganato de potássio atua como catalisador."", ""B"": ""O permanganato de potássio atua como redutor."", ""C"": ""O permanganato de potássio atua como oxidante."", ""D"": ""O permanganato de potássio atua como estabilizante."", ""E"": ""O permanganato de potássio atua como emulsificante.""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""O permanganato de potássio atua como oxidante.""}
+]}",'correct_answer_letter'
+23,127,CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS,2023,"Há muito tempo são conhecidas espécies de lesmas-do-mar com uma capacidade ímpar: guardar parte da maquinaria das células das algas que consomem — os cloroplastos — e mantê-los funcionais dentro das suas próprias células, obtendo assim parte do seu alimento. Investigadores portugueses descobriram que essas lesmas-do-mar podem ser mais eficientes nesse processo do que as próprias algas que consomem. []","{""questions"":[
+    {""question"": ""O que as lesmas-do-mar fazem com os cloroplastos das algas que consomem?"", 
+    ""bloom_level"": ""Remember"", 
+    ""difficult_level"": ""Beginner"", 
+    ""options"": {
+        ""A"": ""Destroem os cloroplastos para obter energia."", 
+        ""B"": ""Guardam os cloroplastos e mantêm-nos funcionais dentro das suas próprias células."", 
+        ""C"": ""Transformam os cloroplastos em outros organelos celulares."", 
+        ""D"": ""Expulsam os cloroplastos como resíduos."", 
+        ""E"": ""Utilizam os cloroplastos para se camuflar no ambiente marinho.""
+        }, 
+    ""correct_answer"": ""B"", 
+    ""correct_answer_text"": ""Guardam os cloroplastos e mantêm-nos funcionais dentro das suas próprias células.""
+    },
+    {""question"": ""Por que as lesmas-do-mar guardam os cloroplastos das algas que consomem?"", 
+    ""bloom_level"": ""Understand"", 
+    ""difficult_level"": ""Intermediate"", 
+    ""options"": {
+        ""A"": ""Para se protegerem de predadores."", 
+        ""B"": ""Para se camuflarem no ambiente marinho."", 
+        ""C"": ""Para obterem parte do seu alimento."", 
+        ""D"": ""Para aumentarem o seu tamanho."", 
+        ""E"": ""Para se reproduzirem mais rapidamente.""
+        }, 
+    ""correct_answer"": ""C"", 
+    ""correct_answer_text"": ""Para obterem parte do seu alimento.""
+    },
+    {""question"": ""Como as lesmas-do-mar podem ser mais eficientes no processo de utilização dos cloroplastos do que as próprias algas que consomem?"", 
+    ""bloom_level"": ""Analyze"", 
+    ""difficult_level"": ""Advanced"", 
+    ""options"": {
+        ""A"": ""As lesmas-do-mar têm mais cloroplastos do que as algas."", 
+        ""B"": ""As lesmas-do-mar conseguem manter os cloroplastos funcionais por mais tempo."", 
+        ""C"": ""As lesmas-do-mar conseguem consumir mais algas."", 
+        ""D"": ""As lesmas-do-mar conseguem produzir mais energia a partir dos cloroplastos."", 
+        ""E"": ""As lesmas-do-mar conseguem se reproduzir mais rapidamente.""
+        }, 
+    ""correct_answer"": ""B"", 
+    ""correct_answer_text"": ""As lesmas-do-mar conseguem manter os cloroplastos funcionais por mais tempo.""
+    }
+]}",'correct_answer_letter'
+24,134,CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS,2023,"As aves apresentam dois tipos de músculos em seus corpos: vermelhos e brancos. Aves migratórias como garças, gansos e patos selvagens têm os músculos vermelhos bem desenvolvidos, com ampla rede de vasos sanguíneos. []","{""questions"":[
+    {""question"": ""Qual tipo de músculo é mais desenvolvido em aves migratórias como garças, gansos e patos selvagens?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Músculo branco"", ""B"": ""Músculo vermelho"", ""C"": ""Músculo cardíaco"", ""D"": ""Músculo esquelético"", ""E"": ""Músculo liso""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Músculo vermelho""},
+    {""question"": ""Por que as aves migratórias têm músculos vermelhos bem desenvolvidos?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Para voar mais rápido"", ""B"": ""Para ter uma cor mais atraente"", ""C"": ""Para ter uma ampla rede de vasos sanguíneos"", ""D"": ""Para ter mais força"", ""E"": ""Para ter mais resistência""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Para ter uma ampla rede de vasos sanguíneos""},
+    {""question"": ""Se uma ave tem músculos vermelhos bem desenvolvidos, o que isso pode indicar sobre seu comportamento?"", ""bloom_level"": ""Apply"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""A ave é noturna"", ""B"": ""A ave é diurna"", ""C"": ""A ave é migratória"", ""D"": ""A ave é predadora"", ""E"": ""A ave é terrestre""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""A ave é migratória""},
+    {""question"": ""Como a presença de uma ampla rede de vasos sanguíneos nos músculos vermelhos beneficia as aves migratórias?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""Permite voos mais longos"", ""B"": ""Permite voos mais altos"", ""C"": ""Permite voos mais rápidos"", ""D"": ""Permite uma melhor camuflagem"", ""E"": ""Permite uma melhor digestão""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""Permite voos mais longos""},
+    {""question"": ""Se uma ave tem músculos brancos bem desenvolvidos, isso significa que ela não é migratória?"", ""bloom_level"": ""Evaluate"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""Sim, todas as aves migratórias têm músculos vermelhos bem desenvolvidos"", ""B"": ""Não, algumas aves migratórias podem ter músculos brancos bem desenvolvidos"", ""C"": ""Sim, todas as aves não migratórias têm músculos brancos bem desenvolvidos"", ""D"": ""Não, a cor dos músculos não está relacionada à migração"", ""E"": ""Não, a cor dos músculos está relacionada à alimentação da ave""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Não, algumas aves migratórias podem ter músculos brancos bem desenvolvidos""}
+]}",'correct_answer_letter'
+25,135,CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS,2023,"Existe no comércio um produto antimofo constituído por uma embalagem com tampa perfurada contendo cloreto de cálcio anidro, CaCl2. Uma vez aberto o lacre, essa substância absorve a umidade ambiente, transformando-se em cloreto de cálcio di-hidratado, fórmula CaCl2⋅2H2O.
+Considere a massa molar da água igual a 18 gramas por mol, e a massa molar do cloreto de cálcio anidro igual a 111 gramas por mol. []","{""questions"":[
+    {""question"": ""Qual é a fórmula química do cloreto de cálcio anidro?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""CaCl2"", ""B"": ""CaCl2⋅2H2O"", ""C"": ""CaCl"", ""D"": ""CaCl3"", ""E"": ""CaCl2⋅H2O""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""CaCl2""},
+    {""question"": ""O que acontece com o cloreto de cálcio anidro quando exposto à umidade do ambiente?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Ele se dissolve"", ""B"": ""Ele se evapora"", ""C"": ""Ele se transforma em cloreto de cálcio di-hidratado"", ""D"": ""Ele se transforma em cloreto de cálcio mono-hidratado"", ""E"": ""Ele se transforma em cloreto de cálcio tri-hidratado""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Ele se transforma em cloreto de cálcio di-hidratado""},
+    {""question"": ""Qual é a massa molar da água?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""16 gramas por mol"", ""B"": ""18 gramas por mol"", ""C"": ""20 gramas por mol"", ""D"": ""22 gramas por mol"", ""E"": ""24 gramas por mol""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""18 gramas por mol""},
+    {""question"": ""Qual é a massa molar do cloreto de cálcio anidro?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""101 gramas por mol"", ""B"": ""111 gramas por mol"", ""C"": ""121 gramas por mol"", ""D"": ""131 gramas por mol"", ""E"": ""141 gramas por mol""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""111 gramas por mol""},
+    {""question"": ""Qual é a diferença entre o cloreto de cálcio anidro e o cloreto de cálcio di-hidratado?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""O cloreto de cálcio anidro tem uma molécula de água a menos"", ""B"": ""O cloreto de cálcio anidro tem duas moléculas de água a menos"", ""C"": ""O cloreto de cálcio anidro tem três moléculas de água a menos"", ""D"": ""O cloreto de cálcio anidro tem quatro moléculas de água a menos"", ""E"": ""O cloreto de cálcio anidro tem cinco moléculas de água a menos""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""O cloreto de cálcio anidro tem duas moléculas de água a menos""}
+]}",'correct_answer_letter'
+26,140,MATEMÁTICA E SUAS TECNOLOGIAS,2023,"Um supermercado conta com cinco caixas disponíveis para pagamento. Foram instaladas telas que apresentam o tempo médio gasto por cada caixa para iniciar e finalizar o atendimento de cada cliente, e o número de pessoas presentes na fila de cada caixa em tempo real. Um cliente, na hora de passar sua compra, sabendo que cada um dos cinco caixas iniciará um novo atendimento naquele momento, pretende gastar o menor tempo possível de espera na fila. Ele observa que as telas apresentavam as informações a seguir.
+• Caixa 1: atendimento 12 minutos, 5 pessoas na fila.
+• Caixa 2: atendimento 6 minutos, 9 pessoas na fila.
+• Caixa 3: atendimento 5 minutos, 6 pessoas na fila.
+• Caixa 4: atendimento 15 minutos, 2 pessoas na fila.
+• Caixa 5: atendimento 9 minutos, 3 pessoas na fila. []","{""questions"":[
+    {""question"": ""Qual caixa tem o menor tempo de atendimento por pessoa?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Caixa 1"", ""B"": ""Caixa 2"", ""C"": ""Caixa 3"", ""D"": ""Caixa 4"", ""E"": ""Caixa 5""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Caixa 3""},
+    {""question"": ""Se o cliente escolher o caixa 2, quanto tempo ele gastará na fila?"", ""bloom_level"": ""Apply"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""54 minutos"", ""B"": ""60 minutos"", ""C"": ""45 minutos"", ""D"": ""36 minutos"", ""E"": ""30 minutos""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""54 minutos""},
+    {""question"": ""Qual caixa proporcionará o menor tempo total de espera considerando o tempo de atendimento e o número de pessoas na fila?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""Caixa 1"", ""B"": ""Caixa 2"", ""C"": ""Caixa 3"", ""D"": ""Caixa 4"", ""E"": ""Caixa 5""}, ""correct_answer"": ""E"", ""correct_answer_text"": ""Caixa 5""},
+    {""question"": ""Se o cliente escolher o caixa 1, quanto tempo ele gastará na fila?"", ""bloom_level"": ""Apply"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""60 minutos"", ""B"": ""72 minutos"", ""C"": ""48 minutos"", ""D"": ""36 minutos"", ""E"": ""30 minutos""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""72 minutos""},
+    {""question"": ""Qual caixa tem o maior tempo de atendimento por pessoa?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Caixa 1"", ""B"": ""Caixa 2"", ""C"": ""Caixa 3"", ""D"": ""Caixa 4"", ""E"": ""Caixa 5""}, ""correct_answer"": ""D"", ""correct_answer_text"": ""Caixa 4""}
+]}",'correct_answer_letter'
+27,155,MATEMÁTICA E SUAS TECNOLOGIAS,2023,"A exposição a alguns níveis sonoros pode causar lesões auditivas. Por isso, em uma indústria, são adotadas medidas preventivas de acordo com a máquina que o funcionário opera e o nível N de intensidade do som, medido em decibel (dB), a que o operário é exposto, sendo N igual a log na base 10 de I elevado a 10 menos log na base 10 de I0 elevado a 10, I a intensidade do som e I0 igual a 10 elevado a menos 12, watts por metro quadrado.
+Quando o som é considerado baixo, ou seja, N é igual a 48 decibéis ou menos, deve ser utilizada a medida preventiva 1. No caso de o som ser moderado, quando N está no intervalo (48 decibéis, 55 decibéis), deve ser utilizada a medida preventiva 2. Quando o som é moderado alto, que equivale a N no intervalo (55 decibéis, 80 decibéis), a medida preventiva a ser usada é a 3. Se N estiver no intervalo (80 decibéis, 115 decibéis), quando o som é considerado alto, deve ser utilizada a medida preventiva 4. E se o som é considerado muito alto, com N maior que 115 decibéis, deve-se utilizar a medida preventiva 5.
+Uma nova máquina, com I igual a 8 vezes 10 elevado a menos 8, watts por metro quadrado, foi adquirida e será classificada de acordo com o nível de ruído que produz.
+Considere 0,3 como aproximação para log na base 10 de 2. []","{""questions"":[
+    {""question"": ""Qual é a fórmula para calcular o nível N de intensidade do som em decibéis?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""N = log10(I^10) - log10(I0^10)"", ""B"": ""N = log10(I^10) + log10(I0^10)"", ""C"": ""N = log10(I^10) / log10(I0^10)"", ""D"": ""N = log10(I^10) * log10(I0^10)"", ""E"": ""N = log10(I^10) ^ log10(I0^10)""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""N = log10(I^10) - log10(I0^10)""},
+    {""question"": ""Qual medida preventiva deve ser adotada quando o nível de som é considerado moderado alto?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Medida preventiva 1"", ""B"": ""Medida preventiva 2"", ""C"": ""Medida preventiva 3"", ""D"": ""Medida preventiva 4"", ""E"": ""Medida preventiva 5""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""Medida preventiva 3""},
+    {""question"": ""Se a intensidade do som de uma máquina é 8 vezes 10 elevado a menos 8 watts por metro quadrado, qual será o nível de som em decibéis?"", ""bloom_level"": ""Apply"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""48 decibéis"", ""B"": ""55 decibéis"", ""C"": ""80 decibéis"", ""D"": ""115 decibéis"", ""E"": ""Mais de 115 decibéis""}, ""correct_answer"": ""E"", ""correct_answer_text"": ""Mais de 115 decibéis""},
+    {""question"": ""Qual medida preventiva deve ser adotada para uma máquina que produz um nível de som de 90 decibéis?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""Medida preventiva 1"", ""B"": ""Medida preventiva 2"", ""C"": ""Medida preventiva 3"", ""D"": ""Medida preventiva 4"", ""E"": ""Medida preventiva 5""}, ""correct_answer"": ""D"", ""correct_answer_text"": ""Medida preventiva 4""},
+    {""question"": ""Se uma máquina produz um nível de som de 120 decibéis, qual é a intensidade do som em watts por metro quadrado?"", ""bloom_level"": ""Evaluate"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""10 elevado a menos 12"", ""B"": ""8 vezes 10 elevado a menos 8"", ""C"": ""10 elevado a menos 8"", ""D"": ""8 vezes 10 elevado a menos 12"", ""E"": ""Não é possível determinar com as informações fornecidas""}, ""correct_answer"": ""E"", ""correct_answer_text"": ""Não é possível determinar com as informações fornecidas""}
+]}",'correct_answer_letter'
+28,161,MATEMÁTICA E SUAS TECNOLOGIAS,2023,"Um agricultor é informado sobre um método de proteção para sua lavoura que consiste em inserir larvas específicas, de rápida reprodução. A reprodução dessas larvas faz com que sua população multiplique-se por 10 a cada 3 dias e, para evitar eventuais desequilíbrios, é possível cessar essa reprodução aplicando-se um produto X. O agricultor decide iniciar esse método com 100 larvas e dispõe de 5 litros do produto X, cuja aplicação recomendada é de exatamente 1 litro para cada população de 200 000 larvas. A quantidade total do produto X de que ele dispõe deverá ser aplicada de uma única vez. []","{""questions"":[
+    {""question"": ""Quantas larvas o agricultor terá em sua lavoura após 6 dias, se ele começou com 100 larvas?"", ""bloom_level"": ""Apply"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""1000"", ""B"": ""2000"", ""C"": ""10000"", ""D"": ""20000"", ""E"": ""60000""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""10000""},
+    {""question"": ""Quantos dias o agricultor deve esperar antes de aplicar o produto X, se ele começou com 100 larvas?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""9 dias"", ""B"": ""12 dias"", ""C"": ""15 dias"", ""D"": ""18 dias"", ""E"": ""21 dias""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""12 dias""},
+    {""question"": ""Se o agricultor começar com 200 larvas, quantos litros do produto X ele precisará para cessar a reprodução?"", ""bloom_level"": ""Apply"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""1 litro"", ""B"": ""2 litros"", ""C"": ""5 litros"", ""D"": ""10 litros"", ""E"": ""20 litros""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""5 litros""},
+    {""question"": ""Se o agricultor quiser manter a população de larvas abaixo de 200 000, quantos dias ele tem antes de precisar aplicar o produto X, começando com 100 larvas?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""9 dias"", ""B"": ""12 dias"", ""C"": ""15 dias"", ""D"": ""18 dias"", ""E"": ""21 dias""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""9 dias""},
+    {""question"": ""Se o agricultor começar com 500 larvas, quantos litros do produto X ele precisará para cessar a reprodução?"", ""bloom_level"": ""Evaluate"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""1 litro"", ""B"": ""2,5 litros"", ""C"": ""5 litros"", ""D"": ""10 litros"", ""E"": ""25 litros""}, ""correct_answer"": ""E"", ""correct_answer_text"": ""25 litros""}
+]}",'correct_answer_letter'
+29,165,MATEMÁTICA E SUAS TECNOLOGIAS,2023,"No alojamento de uma universidade, há alguns quartos com o padrão superior ao dos demais. Um desses quartos ficou disponível, e muitos estudantes se candidataram para morar no local. Para escolher quem ficará com o quarto, um sorteio será realizado. Para esse sorteio, cartões individuais com os nomes de todos os estudantes inscritos serão depositados em uma urna, sendo que, para cada estudante de primeiro ano, será depositado um único cartão com seu nome; para cada estudante de segundo ano, dois cartões com seu nome; e, para cada estudante de terceiro ano, três cartões com seu nome. Foram inscritos 200 estudantes de primeiro ano, 150 de segundo ano e 100 de terceiro ano. Todos os cartões têm a mesma probabilidade de serem sorteados. []","{""questions"":[
+    {""question"": ""Quantos cartões no total foram depositados na urna para o sorteio do quarto?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""450"", ""B"": ""500"", ""C"": ""550"", ""D"": ""600"", ""E"": ""650""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""550""},
+    {""question"": ""Qual a probabilidade de um estudante de primeiro ano ser sorteado?"", ""bloom_level"": ""Apply"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""1/3"", ""B"": ""1/2"", ""C"": ""2/3"", ""D"": ""1/4"", ""E"": ""3/4""}, ""correct_answer"": ""D"", ""correct_answer_text"": ""1/4""},
+    {""question"": ""Se um estudante de terceiro ano for sorteado, qual a probabilidade de que seja um estudante específico?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""1/100"", ""B"": ""1/150"", ""C"": ""1/200"", ""D"": ""1/300"", ""E"": ""1/400""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""1/100""},
+    {""question"": ""Se um estudante de segundo ano for sorteado, qual a probabilidade de que seja um estudante específico?"", ""bloom_level"": ""Evaluate"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""1/100"", ""B"": ""1/150"", ""C"": ""1/200"", ""D"": ""1/300"", ""E"": ""1/400""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""1/150""},
+    {""question"": ""Se um estudante de primeiro ano for sorteado, qual a probabilidade de que seja um estudante específico?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""1/100"", ""B"": ""1/150"", ""C"": ""1/200"", ""D"": ""1/300"", ""E"": ""1/400""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""1/200""}
+]}",'correct_answer_letter'
+30,166,MATEMÁTICA E SUAS TECNOLOGIAS,2023,"A água utilizada pelos 75 moradores de um vilarejo provém de um reservatório de formato cilíndrico circular reto cujo raio da base mede 5 metros, sempre abastecido no primeiro dia de cada mês por caminhões-pipa. Cada morador desse vilarejo consome, em média, 200 litros de água por dia.
+No mês de junho de um determinado ano, o vilarejo festejou o dia do seu padroeiro e houve um gasto extra de água nos primeiros 20 dias. Passado esse período, as pessoas verificaram a quantidade de água presente no reservatório e constataram que o nível da coluna de água estava em 1,5 metro. Decidiram, então, fazer um racionamento de água durante os 10 dias seguintes. Considere 3 como aproximação para pi. []","{""questions"":[
+    {""question"": ""Qual é o volume total do reservatório em metros cúbicos?"", ""bloom_level"": ""Apply"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""75 m³"", ""B"": ""150 m³"", ""C"": ""225 m³"", ""D"": ""300 m³"", ""E"": ""375 m³""}, ""correct_answer"": ""D"", ""correct_answer_text"": ""300 m³""},
+    {""question"": ""Quantos litros de água cada morador poderá consumir por dia durante o período de racionamento para que a água do reservatório não acabe?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""100 litros"", ""B"": ""150 litros"", ""C"": ""200 litros"", ""D"": ""250 litros"", ""E"": ""300 litros""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""100 litros""},
+    {""question"": ""Se o consumo de água continuar na média de 200 litros por dia por morador após o período de racionamento, em quantos dias a água do reservatório acabará?"", ""bloom_level"": ""Evaluate"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""5 dias"", ""B"": ""10 dias"", ""C"": ""15 dias"", ""D"": ""20 dias"", ""E"": ""25 dias""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""10 dias""},
+    {""question"": ""Se o reservatório fosse esvaziado e preenchido novamente com a mesma quantidade de água que restou após o período de festas, qual seria a altura da coluna de água?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""0,5 metro"", ""B"": ""1 metro"", ""C"": ""1,5 metros"", ""D"": ""2 metros"", ""E"": ""2,5 metros""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""1,5 metros""},
+    {""question"": ""Se o consumo de água aumentasse para 250 litros por dia por morador durante o período de racionamento, em quantos dias a água do reservatório acabaria?"", ""bloom_level"": ""Create"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""5 dias"", ""B"": ""7 dias"", ""C"": ""9 dias"", ""D"": ""11 dias"", ""E"": ""13 dias""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""9 dias""}
+]}",'correct_answer_letter'
+31,178,MATEMÁTICA E SUAS TECNOLOGIAS,2023,"O calendário maia apresenta duas contagens simultâneas de anos, o chamado ano Tzolkim, composto por 260 dias e que determinava o calendário religioso, e o ano Haab, composto por 365 dias e que determinava o calendário agrícola. Um historiador encontrou evidências de que gerações de uma mesma família governaram certa comunidade maia pelo período de 20 ciclos, sendo cada ciclo formado por 52 anos Haab. []","{""questions"":[
+    {""question"": ""Quantos dias compõem o ano Tzolkim no calendário maia?"", ""bloom_level"": ""Remember"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""260 dias"", ""B"": ""365 dias"", ""C"": ""52 dias"", ""D"": ""20 dias"", ""E"": ""180 dias""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""260 dias""},
+    {""question"": ""Qual era a finalidade do ano Haab no calendário maia?"", ""bloom_level"": ""Understand"", ""difficult_level"": ""Beginner"", ""options"": {""A"": ""Determinava o calendário religioso"", ""B"": ""Determinava o calendário agrícola"", ""C"": ""Determinava o calendário lunar"", ""D"": ""Determinava o calendário solar"", ""E"": ""Determinava o calendário de festividades""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""Determinava o calendário agrícola""},
+    {""question"": ""Se uma geração governou por 20 ciclos de 52 anos Haab, por quantos anos essa geração governou?"", ""bloom_level"": ""Apply"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""520 anos"", ""B"": ""1040 anos"", ""C"": ""720 anos"", ""D"": ""1020 anos"", ""E"": ""2020 anos""}, ""correct_answer"": ""B"", ""correct_answer_text"": ""1040 anos""},
+    {""question"": ""Considerando que um ciclo é formado por 52 anos Haab e que cada ano Haab tem 365 dias, quantos dias tem um ciclo?"", ""bloom_level"": ""Apply"", ""difficult_level"": ""Intermediate"", ""options"": {""A"": ""18980 dias"", ""B"": ""20020 dias"", ""C"": ""19080 dias"", ""D"": ""18000 dias"", ""E"": ""19200 dias""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""18980 dias""},
+    {""question"": ""Se um ano Tzolkim tem 260 dias e um ano Haab tem 365 dias, qual é a diferença de dias entre esses dois anos?"", ""bloom_level"": ""Analyze"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""105 dias"", ""B"": ""100 dias"", ""C"": ""110 dias"", ""D"": ""115 dias"", ""E"": ""120 dias""}, ""correct_answer"": ""A"", ""correct_answer_text"": ""105 dias""},
+    {""question"": ""Se uma geração governou por 20 ciclos e cada ciclo é formado por 52 anos Haab, quantos anos Tzolkim essa geração governou, considerando que um ano Tzolkim tem 260 dias e um ano Haab tem 365 dias?"", ""bloom_level"": ""Evaluate"", ""difficult_level"": ""Advanced"", ""options"": {""A"": ""1400 anos Tzolkim"", ""B"": ""1500 anos Tzolkim"", ""C"": ""1600 anos Tzolkim"", ""D"": ""1700 anos Tzolkim"", ""E"": ""1800 anos Tzolkim""}, ""correct_answer"": ""C"", ""correct_answer_text"": ""1600 anos Tzolkim""}
+]}",'correct_answer_letter'

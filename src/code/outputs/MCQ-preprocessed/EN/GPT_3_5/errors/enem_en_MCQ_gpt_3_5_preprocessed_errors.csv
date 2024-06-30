@@ -1,0 +1,267 @@
+index,id,area,year,context,response_gpt,error
+0,172,MATHEMATICS AND ITS TECHNOLOGIES,2017,"
+The solar energy will supply part of the energy demand 
+of the campus of a Brazilian university. The installation of 
+solar panels in the parking areas and on the roof 
+of the pediatric hospital will be used in the university facilities 
+and also connected to the grid of the electricity distribution company.
+
+The project includes 100 m² of solar panels that will be 
+installed in the parking areas, producing electrical energy 
+and providing shade for the cars. About the pediatric hospital 
+approximately 300 m² of panels will be installed, with 100 m² for generating electrical energy used on the 
+campus, and 200 m² for thermal energy generation, producing 
+water heating used in the hospital boilers.
+
+Suppose that each square meter of solar panel 
+for electrical energy generates a saving of 1 kWh per day 
+and each square meter producing thermal energy allows 
+saving 0.7 kWh per day for the university. In 
+a second phase of the project, the area 
+covered by the solar panels generating 
+electrical energy will be increased by 75%. In this phase, the area 
+of coverage with panels for thermal energy generation should also be expanded.
+Available at: http://agenciabrasil.ebc.com.br. Accessed on: Oct 30, 2013 (adapted).
+","{
+    ""questions"": [
+        {
+            ""question"": ""What is the purpose of installing solar panels in the parking areas and on the roof of the pediatric hospital in the Brazilian university campus project?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""To provide shade for the cars and generate electrical energy"", ""B"": ""To increase the aesthetic appeal of the campus"", ""C"": ""To reduce the number of parking spaces"", ""D"": ""To create a playground for children"", ""E"": ""To grow plants on the roof""},
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""To provide shade for the cars and generate electrical energy""
+        },
+        {
+            ""question"": ""How much electrical energy saving is generated per day by each square meter of solar panel for electrical energy in the university project?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""0.5 kWh"", ""B"": ""1.5 kWh"", ""C"": ""2 kWh"", ""D"": ""0.7 kWh"", ""E"": ""1 kWh""},
+            ],
+            ""correct_answer"": [""E""],
+            ""correct_answer_letter"": ""E"",
+            ""correct_answer_text"": ""1 kWh""
+        },
+        {
+            ""question"": ""If the area covered by the solar panels generating electrical energy is increased by 75%, how should the area of coverage with panels for thermal energy generation be expanded?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Expanded by 50%"", ""B"": ""Expanded by 75%"", ""C"": ""Expanded by 100%"", ""D"": ""Expanded by 25%"", ""E"": ""Expanded by 80%""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Expanded by 75%""
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 599)
+1,68,HUMANITIES AND THEIR TECHNOLOGIES,2017,"
+A person finds himself forced by necessity to borrow money. He knows very well that he will not be able to pay, but also sees that they will not lend him anything if he does not promise firmly to pay within a specified period. Feels tempted to make the promise; but still has enough conscience to ask himself: is it not forbidden and contrary to duty to get out of trouble in this way? Assuming that he decides to do so, his maxim of action would be: when I think I am in financial trouble, I will borrow it and promise to pay it back, although I know that this will never happen.
+
+KANT, I. Groundwork of the Metaphysics of Morals. São Paulo: Abril Cultural, 1980.
+","{
+    ""questions"": [
+        {
+            ""question"": ""According to the context provided, what is the individual tempted to do when faced with financial trouble?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Borrow money and promise to pay back"", ""B"": ""Save money for emergencies"", ""C"": ""Seek financial advice"", ""D"": ""Ignore the financial trouble"", ""E"": ""Invest in risky ventures""},
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Borrow money and promise to pay back""
+        },
+        {
+            ""question"": ""In the context, what does the individual know about his ability to repay the borrowed money?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""He is certain he can repay it"", ""B"": ""He is unsure about repayment"", ""C"": ""He knows he will never be able to repay"", ""D"": ""He has a plan to repay gradually"", ""E"": ""He believes someone else will repay for him""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""He knows he will never be able to repay""
+        },
+        {
+            ""question"": ""What ethical dilemma does the individual face in the context of borrowing money?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""Whether to borrow from friends or banks"", ""B"": ""How to invest the borrowed money wisely"", ""C"": ""Whether to disclose the inability to repay"", ""D"": ""How to negotiate better borrowing terms"", ""E"": ""Whether to deceive the lender about repayment intentions""},
+            ],
+            ""correct_answer"": [""E""],
+            ""correct_answer_letter"": ""E"",
+            ""correct_answer_text"": ""Whether to deceive the lender about repayment intentions""
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 482)
+2,41,"LANGUAGES, CODES AND THEIR TECHNOLOGIES",2023,"The session of the International Olympic Committee (IOC) approved a historic and unprecedented change in the Olympic motto, created in 1894 by Baron Pierre de Coubertin to express the values and excellence of sports. More than 120 years later, the motto has its first alteration to emphasize solidarity and include the word 'together': faster, higher, stronger — together. The change was unanimously approved by the members of the IOC and celebrated by the president of the entity.","{
+    ""questions"": [
+        {
+            ""question"": ""What was the historic change made to the Olympic motto by the International Olympic Committee (IOC)?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""Adding the word 'faster'"", ""B"": ""Including the word 'together'"", ""C"": ""Removing the word 'stronger'"", ""D"": ""Changing the word 'higher'"", ""E"": ""Introducing the word 'alone'""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""Including the word 'together'""
+        },
+        {
+            ""question"": ""Who created the original Olympic motto in 1894 to express the values and excellence of sports?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Baron Pierre de Coubertin"", ""B"": ""The president of the IOC"", ""C"": ""An anonymous committee"", ""D"": ""A group of athletes"", ""E"": ""A famous poet""},
+            ],
+            ""correct_answer"": [""A""],
+            ""correct_answer_letter"": ""A"",
+            ""correct_answer_text"": ""Baron Pierre de Coubertin""
+        },
+        {
+            ""question"": ""Why was the change to the Olympic motto considered historic and unprecedented?"",
+            ""bloom_level"": ""Evaluate"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""It was the first change in over 100 years"", ""B"": ""It emphasized solidarity and togetherness"", ""C"": ""It was proposed by a famous athlete"", ""D"": ""It was rejected by the IOC members"", ""E"": ""It included a new language""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""It emphasized solidarity and togetherness""
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 476)
+3,42,"LANGUAGES, CODES AND THEIR TECHNOLOGIES",2023,"## Brighter than others
+Jarid Arraes
+I have two breasts, these two thighs, two hands that are very useful to me, dark eyes, these two eyebrows that I fill in with makeup bought for nineteen and ninety and ears that do not accept jewelry. This body is a hungry, toothed, cruel, capable and violent body. I move my arms and crowds run desperate. I walk in the dark with my face down, because each isolated part of me has its own life and I do not want to tame them. Animal of the caatinga. Too strong. Swallower of swords and thorns.
+They say and I heard, but then I also read, that the state of Ceará abolished slavery four years before the rest of the country. All those bodies that were brought with their fingers counted, their heels ready and their navels on fire, all of them were interrupted at the port. A man — they say and I heard and then I also read — led the uprising. And all these bodies went to seek other discomforts. They went to be bothered. []","{
+    ""questions"": [
+        {
+            ""question"": ""What is the significance of the state of Ceará in relation to slavery abolition?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""It abolished slavery four years after the rest of the country."", ""B"": ""It never abolished slavery."", ""C"": ""It abolished slavery four years before the rest of the country."", ""D"": ""It abolished slavery at the same time as the rest of the country."", ""E"": ""It abolished slavery ten years before the rest of the country.""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""The state of Ceará abolished slavery four years before the rest of the country.""
+        },
+        {
+            ""question"": ""How does the author describe their body in the text?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""Weak and fragile"", ""B"": ""Peaceful and serene"", ""C"": ""Hungry, toothed, cruel, capable, and violent"", ""D"": ""Colorful and vibrant"", ""E"": ""Soft and delicate""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""The author describes their body as hungry, toothed, cruel, capable, and violent.""
+        },
+        {
+            ""question"": ""What action did the bodies take after the abolition of slavery in Ceará?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""They celebrated in the streets."", ""B"": ""They continued to work as slaves."", ""C"": ""They sought other discomforts and went to be bothered."", ""D"": ""They left the country."", ""E"": ""They protested against the abolition.""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""After the abolition of slavery in Ceará, the bodies sought other discomforts and went to be bothered.""
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 600)
+4,67,HUMANITIES AND THEIR TECHNOLOGIES,2023,"## The Posthumous Memoirs of Brás Cubas
+Machado de Assis
+I had no other philosophy. Nor did I. I do not say that the University had not taught me anything; but I only memorized its formulas, vocabulary, skeleton. I treated it as I treated Latin; I pocketed three verses of Virgil, two of Horace, a dozen moral and political locutions, for conversation expenses. I treated them as I treated history and jurisprudence. I gathered from all things the phraseology, the shell, the ornamentation. []","{
+    ""questions"": [
+        {
+            ""question"": ""What does the narrator imply about his education in the passage?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""He excelled in all subjects.""},
+                {""B"": ""He deeply understood the concepts taught.""},
+                {""C"": ""He only memorized formulas and vocabulary.""},
+                {""D"": ""He rejected the idea of education.""},
+                {""E"": ""He never attended university.""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""He only memorized formulas and vocabulary.""
+        },
+        {
+            ""question"": ""How does the narrator compare his approach to Latin and history?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""He found Latin more challenging than history.""},
+                {""B"": ""He memorized Latin but understood history.""},
+                {""C"": ""He treated both subjects with equal importance.""},
+                {""D"": ""He focused on conversation in Latin but not in history.""},
+                {""E"": ""He ignored Latin but excelled in history.""},
+            ],
+            ""correct_answer"": [""D""],
+            ""correct_answer_letter"": ""D"",
+            ""correct_answer_text"": ""He focused on conversation in Latin but not in history.""
+        },
+        {
+            ""question"": ""In what way did the narrator approach the teachings of the University?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""He critically analyzed every concept.""},
+                {""B"": ""He applied the teachings to real-life situations.""},
+                {""C"": ""He memorized without understanding the content.""},
+                {""D"": ""He rejected the teachings completely.""},
+                {""E"": ""He created new theories based on the teachings.""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""He memorized without understanding the content.""
+        }
+    ]
+}",Expecting value: line 13 column 13 (char 551)
+5,91,NATURAL SCIENCES AND THEIR TECHNOLOGIES,2023,"It is common on airplane trips to be asked to turn off devices whose operation involves the emission or reception of electromagnetic waves, such as cell phones. The justification given for this procedure is, among other things, the need to eliminate sources of electromagnetic signals that may interfere with the radio communications between pilots and the control tower.","{
+    ""questions"": [
+        {
+            ""question"": ""Why are passengers asked to turn off devices emitting or receiving electromagnetic waves, such as cell phones, during airplane trips?"",
+            ""bloom_level"": ""Remember"",
+            ""difficult_level"": ""Beginner"",
+            ""options"": [
+                {""A"": ""To save battery life"", ""B"": ""To prevent interference with radio communications"", ""C"": ""To take a break from technology"", ""D"": ""To avoid disturbing other passengers"", ""E"": ""To watch the in-flight entertainment""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""To prevent interference with radio communications""
+        },
+        {
+            ""question"": ""What is the main reason for the prohibition of using devices emitting electromagnetic waves on airplanes?"",
+            ""bloom_level"": ""Understand"",
+            ""difficult_level"": ""Intermediate"",
+            ""options"": [
+                {""A"": ""To avoid disturbing the pilots"", ""B"": ""To prevent interference with the control tower's radio communications"", ""C"": ""To reduce the risk of battery explosions"", ""D"": ""To encourage passengers to sleep"", ""E"": ""To improve the quality of in-flight meals""},
+            ],
+            ""correct_answer"": [""B""],
+            ""correct_answer_letter"": ""B"",
+            ""correct_answer_text"": ""To prevent interference with the control tower's radio communications""
+        },
+        {
+            ""question"": ""How do electromagnetic signals from devices like cell phones potentially affect radio communications between pilots and the control tower?"",
+            ""bloom_level"": ""Apply"",
+            ""difficult_level"": ""Advanced"",
+            ""options"": [
+                {""A"": ""By causing turbulence in the air"", ""B"": ""By disrupting the navigation systems"", ""C"": ""By interfering with the radar signals"", ""D"": ""By creating static noise in the cockpit"", ""E"": ""By altering the flight path""},
+            ],
+            ""correct_answer"": [""C""],
+            ""correct_answer_letter"": ""C"",
+            ""correct_answer_text"": ""By interfering with the radar signals""
+        }
+    ]
+}",Expecting value: line 9 column 13 (char 546)
